@@ -1,0 +1,1380 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Haidun", 
+            "surname": "Yan", 
+            "id": "author-17141", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Juan L", 
+            "surname": "Pablo", 
+            "id": "author-17142", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Chaojian", 
+            "surname": "Wang", 
+            "id": "author-17143", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Pitt", 
+            "corresp": "yes", 
+            "given-names": "Geoffrey S", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0003-2246-0289", 
+            "type": "author", 
+            "id": "author-11192"
+        }, 
+        {
+            "surname": "Westbrook", 
+            "given-names": "Gary L", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Vollum Institute"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-09-30", 
+    "title": "FGF14 modulates resurgent sodium current in mouse cerebellar Purkinje neurons", 
+    "citations": {
+        "bib9": {
+            "source": "The Journal of Neuroscience", 
+            "year": "1987", 
+            "title": "Morphological and physiological differentiation of Purkinje neurons in cultures of rat cerebellum", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Gruol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Franklin"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2004.12.035", 
+            "year": "2005", 
+            "title": "Open-channel block by the cytoplasmic tail of sodium channel beta4 as a mechanism for resurgent sodium current", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Grieco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Malhotra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Isom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Raman"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4531-08.2009", 
+            "year": "2009", 
+            "title": "Regulation of persistent Na current by interactions between beta subunits of voltage-gated Na channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TK", 
+                    "surname": "Aman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Grieco-Calub"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Rusconi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Slat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Isom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Raman"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Molecular and Cellular Neurosciences", 
+            "doi": "10.1016/j.mcn.2008.05.009", 
+            "year": "2008", 
+            "title": "Functional properties and differential neuromodulation of Na(v)1.6 channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FH", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Sharp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Beacham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Scheuer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Catterall"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "European Journal of Human Genetics", 
+            "doi": "10.1038/sj.ejhg.5201286", 
+            "year": "2005", 
+            "title": "Mutation analysis in the fibroblast growth factor 14 gene: frameshift mutation and polymorphisms in patients with inherited ataxias", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Dalski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Atici"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FR", 
+                    "surname": "Kreuz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hellenbroich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Schwinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Z\u00fchlke"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "European Journal of Paediatric Neurology", 
+            "doi": "10.1016/j.ejpn.2013.10.006", 
+            "year": "2013", 
+            "title": "A new variable phenotype in spinocerebellar ataxia 27 (SCA 27) caused by a deletion in the FGF14 gene", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Coebergh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Fransen van de Putte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IN", 
+                    "surname": "Snoeck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ruivenkamp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "van Haeringen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Smit"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2007.07.006", 
+            "year": "2007", 
+            "title": "Fibroblast growth factor homologous factors control neuronal excitability through modulation of voltage-gated sodium channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Goldfarb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schoorlemmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Diwakar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Giza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Tchetchik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kelley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vega"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Matthews"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Rossi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "D'Angelo"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.2010.192559", 
+            "year": "2010", 
+            "title": "Long-term inactivation particle for voltage-gated sodium channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dover"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Solinas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "D'Angelo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Goldfarb"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Mechanisms of Development", 
+            "doi": "10.1016/S0925-4773(99)00241-5", 
+            "year": "2000", 
+            "title": "Subcellular and developmental expression of alternatively spliced forms of fibroblast growth factor 14", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "McEwen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(02)00744-4", 
+            "year": "2002", 
+            "title": "Ataxia and paroxysmal dyskinesia in mice lacking axonally transported FGF14", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Bardgett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DF", 
+                    "surname": "Wozniak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "McNeil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nardi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Reid"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yamada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.275.4.2589", 
+            "year": "2000", 
+            "title": "Isoform diversity among fibroblast growth factor homologous factors is generated by alternative promoter usage and differential splicing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Munoz-Sanjuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Smallwood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nathans"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "The Journal of Neuroscience", 
+            "year": "1997", 
+            "title": "Resurgent sodium current and action potential formation in dissociated cerebellar Purkinje neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Raman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BP", 
+                    "surname": "Bean"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "The Journal of Neuroscience", 
+            "year": "1999", 
+            "title": "Ionic currents underlying spontaneous action potentials in isolated cerebellar Purkinje neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Raman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BP", 
+                    "surname": "Bean"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(00)80969-1", 
+            "year": "1997", 
+            "title": "Altered subthreshold sodium currents and disrupted firing patterns in Purkinje neurons of Scn8a mutant mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Raman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LK", 
+                    "surname": "Sprunger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Meisler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BP", 
+                    "surname": "Bean"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "The European Journal of Neuroscience", 
+            "doi": "10.1111/j.1460-9568.2006.04789.x", 
+            "year": "2006", 
+            "title": "Differential modulation of sodium channel Na(v)1.6 by two members of the fibroblast growth factor homologous factor 2 subfamily", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Rush"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EK", 
+                    "surname": "Wittmack"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Tyrrell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Black"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Dib-Hajj"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Waxman"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Neurobiology of Disease", 
+            "doi": "10.1016/j.nbd.2008.09.019", 
+            "year": "2009", 
+            "title": "FGF14 regulates the intrinsic excitability of cerebellar Purkinje neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VG", 
+                    "surname": "Shakkottai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Nerbonne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Yamada"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.93.18.9850", 
+            "year": "1996", 
+            "title": "Fibroblast growth factor (FGF) homologous factors: new members of the FGF family implicated in nervous system development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Smallwood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Munoz-Sanjuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Macke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Hendry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NG", 
+                    "surname": "Copeland"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Jenkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nathans"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "The American Journal of Human Genetics", 
+            "doi": "10.1086/345488", 
+            "year": "2003", 
+            "title": "A mutation in the fibroblast growth factor 14 gene is associated with Autosomal dominant Cerebral ataxia", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "van Swieten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Brusse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "de Graaf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Krieger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "van de Graaf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "de Koning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Maat-Kievit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Leegwater"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Dooijes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Oostra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Heutink"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Circulation Research", 
+            "doi": "10.1161/CIRCRESAHA.113.301215", 
+            "year": "2013", 
+            "title": "Fibroblast growth factor homologous factors modulate cardiac calcium channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Hennessey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EQ", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Pitt"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Heart Rhythm", 
+            "doi": "10.1016/j.hrthm.2013.09.064", 
+            "year": "2013", 
+            "title": "FGF12 is a candidate Brugada syndrome locus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Hennessey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Marcou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EQ", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Tester"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Torchio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Dagradi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Crotti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Schwartz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Ackerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Pitt"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "The Journal of Neuroscience", 
+            "year": "2003", 
+            "title": "The contribution of resurgent sodium current to high-frequency firing in Purkinje neurons: an experimental and modeling study", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ZM", 
+                    "surname": "Khaliq"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Gouwens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Raman"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2162-07.2007", 
+            "year": "2007", 
+            "title": "Reduced sodium current in Purkinje neurons from Nav1.1 mutant mice: implications for ataxia in severe myoclonic epilepsy in infancy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kalume"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FH", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Westenbroek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Scheuer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Catterall"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Molecular and Cellular Neurosciences", 
+            "doi": "10.1016/j.mcn.2009.05.007", 
+            "year": "2009", 
+            "title": "FGF14 N-terminal splice variants differentially modulate Nav1.2 and Nav1.6-encoded sodium channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Laezza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Lampert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Kozel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Gerber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Rush"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Nerbonne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Waxman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Dib-Hajj"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2282-07.2007", 
+            "year": "2007", 
+            "title": "The FGF14(F145S) mutation disrupts the interaction of FGF14 with voltage-gated Na+ channels and impairs neuronal excitability", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Laezza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Gerber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Lou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Kozel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hartman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Craig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Nerbonne"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M101606200", 
+            "year": "2001", 
+            "title": "Fibroblast growth factor homologous factor 1B binds to the C terminus of the tetrodotoxin-resistant sodium channel rNav1.9a (NaN)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Dib-Hajj"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Waxman"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.2005.097220", 
+            "year": "2005", 
+            "title": "Fibroblast growth factor 14 is an intracellular modulator of voltage-gated sodium channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Lou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Laezza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Gerber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Yamada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hartmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Craig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Nerbonne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2013.06.012", 
+            "year": "2013", 
+            "title": "FGF14 regulates presynaptic Ca2+ channels and synaptic transmission", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Pablo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Pitt"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Structure", 
+            "doi": "10.1016/j.str.2012.05.001", 
+            "year": "2012", 
+            "title": "Crystal structure of the ternary complex of a NaV C-terminal domain, a fibroblast growth factor homologous factor, and calmodulin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Chung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Pitt"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Circulation Research", 
+            "doi": "10.1161/CIRCRESAHA.111.247957", 
+            "year": "2011", 
+            "title": "Fibroblast growth factor homologous factor 13 regulates Na+ channels and conduction velocity in murine hearts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Hennessey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Kirkton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Graham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Puranam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Rosenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bursac"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Pitt"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The N-terminus of the FGF14b isoform promotes the inactivation of voltage-gated Na<sup>+</sup> channels to regulate the resurgent Na<sup>+</sup> channel current needed for high frequency action potentials.", 
+    "publish": "1", 
+    "article-version-id": "04193.1", 
+    "volume": "3", 
+    "keywords": {
+        "author-keywords": [
+            "resurgent sodium current", 
+            "cerebellum", 
+            "spinocerebellar ataxia", 
+            "cerebellar Purkinje neurons", 
+            "electrophysiology"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.04193", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000050", 
+                "award-id": "R01 HL112918", 
+                "institution": "National Heart, Lung, and Blood Institute", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000050", 
+                "award-id": "R01 HL071165", 
+                "institution": "National Heart, Lung, and Blood Institute", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}
+        }, 
+        "affiliation": {
+            "aff3": {
+                "dept": "Department of Neurobiology", 
+                "city": "Durham", 
+                "institution": "Duke University Medical Center", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Ion Channel Research Unit", 
+                "city": "Durham", 
+                "institution": "Duke University Medical Center", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Medicine", 
+                "city": "Durham", 
+                "institution": "Duke University Medical Center", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "HY, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "JLP, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "CW, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "GSP, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "geoffrey.pitt@duke.edu"
+        }
+    }, 
+    "path": "content/3/e04193", 
+    "fragments": [
+        {
+            "path": "content/3/e04193/abstract-1", 
+            "doi": "10.7554/eLife.04193.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e04193/abstract-2", 
+            "doi": "10.7554/eLife.04193.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e04193/F1", 
+            "doi": "10.7554/eLife.04193.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e04193/F2", 
+            "doi": "10.7554/eLife.04193.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e04193/T1", 
+            "doi": "10.7554/eLife.04193.005", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/3/e04193/F3", 
+            "doi": "10.7554/eLife.04193.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e04193/F4", 
+            "doi": "10.7554/eLife.04193.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e04193/F5", 
+            "doi": "10.7554/eLife.04193.008", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e04193/T2", 
+            "doi": "10.7554/eLife.04193.009", 
+            "type": "table-wrap", 
+            "title": "Table 2."
+        }, 
+        {
+            "path": "content/3/e04193/1", 
+            "doi": "10.7554/eLife.04193.010", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Westbrook", 
+                    "given-names": "Gary L", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Vollum Institute"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e04193/2", 
+            "doi": "10.7554/eLife.04193.011", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.04193", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

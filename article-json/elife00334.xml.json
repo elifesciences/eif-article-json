@@ -1,0 +1,2451 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Zhi", 
+            "surname": "Qi", 
+            "id": "author-1244", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Robert A", 
+            "surname": "Pugh", 
+            "id": "author-3034", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Maria", 
+            "surname": "Spies", 
+            "id": "author-2994", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "surname": "Chemla", 
+            "corresp": "yes", 
+            "given-names": "Yann R", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff5"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-4"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-2674"
+        }, 
+        {
+            "surname": "Joshua-Tor", 
+            "given-names": "Leemor", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Cold Spring Harbor Laboratory"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2013-05-28", 
+    "title": "Sequence-dependent base pair stepping dynamics in XPD helicase unwinding", 
+    "citations": {
+        "bib34": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04928", 
+            "year": "2006", 
+            "title": "Assembly dynamics of microtubules at molecular resolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JWJ", 
+                    "surname": "Kerssemakers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Munteanu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Laan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Noetzel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Janson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Dogterom"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04049", 
+            "year": "2005", 
+            "title": "Repetitive shuttling of a motor protein on DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Myong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Rasnik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Joo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Lohman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ha"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Curr Opin Struct Biol", 
+            "doi": "10.1016/j.sbi.2010.03.011", 
+            "year": "2010", 
+            "title": "SF1 and SF2 helicases: family matters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Fairman-Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "UP", 
+                    "surname": "Guenther"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Jankowsky"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2008.04.030", 
+            "year": "2008", 
+            "title": "XPD helicase structures and activities: insights into the cancer and aging phenotypes from XPD mutations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Fan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JO", 
+                    "surname": "Fuss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "QJ", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Arvai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hammel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VA", 
+                    "surname": "Roberts"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "J Mol Biol", 
+            "doi": "10.1016/0022-2836(74)90357-x", 
+            "year": "1974", 
+            "title": "Stability of ribonucleic-acid double-stranded helices", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PN", 
+                    "surname": "Borer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Dengler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Tinoco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OC", 
+                    "surname": "Uhlenbec"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/35012652", 
+            "year": "2000", 
+            "title": "Translocation step size and mechanism of the RecBC DNA helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Bianco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Kowalczykowski"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Q Rev Biophys", 
+            "doi": "10.1017/S0033583502003852", 
+            "year": "2002", 
+            "title": "Helicase mechanisms and the coupling of helicases within macromolecular machines. Part I: structures and properties of isolated helicases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Delagoutte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "Von Hippel"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04268", 
+            "year": "2005", 
+            "title": "Direct observation of base pair stepping by RNA polymerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Abbondanzieri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Greenleaf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Shaevitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Landick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "J Mol Biol", 
+            "doi": "10.1016/j.jmb.2010.11.034", 
+            "year": "2011", 
+            "title": "Visualizing ATP-dependent RNA translocation by the NS3 helicase from HCV", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Appleby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Anderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Fedorova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Pyle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XH", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Brendza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Somoza"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "J Mol Biol", 
+            "doi": "10.1006/jmbi.1999.3185", 
+            "year": "1999", 
+            "title": "An oligomeric form of E-coli UvrD is required for optimal helicase activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Ail"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NK", 
+                    "surname": "Maluf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Lohman"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Phys Rev E", 
+            "doi": "01190410.1103/PhysRevE.71.011904", 
+            "year": "2005", 
+            "title": "Opening of nucleic-acid double strands by helicases: active versus passive opening", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Betterton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "J\u00fclicher"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Rev Sci Instr", 
+            "doi": "10.1063/1.1645654", 
+            "year": "2004", 
+            "title": "Power spectrum analysis for optical tweezers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Berg-Sorensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Flyvbjerg"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Adv Exp Med Biol", 
+            "doi": "10.1007/978-1-4614-5037-5_3", 
+            "year": "2013", 
+            "title": "Structure and mechanisms of SF2 DNA helicases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Beyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Ghoneim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spies"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Data reduction and error analysis for the physical sciences", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Bevington"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DK", 
+                    "surname": "Robinson"
+                }
+            ], 
+            "year": "2002"
+        }, 
+        "bib28": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0913380107", 
+            "year": "2010", 
+            "title": "Three conformational snapshots of the hepatitis C virus NS3 helicase reveal a ratchet translocation mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Gu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Rice"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Blood", 
+            "doi": "10.1182/blood-2006-11-057273", 
+            "year": "2007", 
+            "title": "FANCJ (BACH1) helicase forms DNA damage inducible foci with replication protein A and interacts physically and functionally with the single-stranded DNA-binding protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Gupta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sharma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Sommers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Kenny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Cantor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Brosh"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "J Virol", 
+            "year": "1996", 
+            "title": "The helicase activity associated with hepatitis C virus nonstructural protein 3 (NS3)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Tai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WK", 
+                    "surname": "Chi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Hwang"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)80716-3", 
+            "year": "1999", 
+            "title": "Crystal structures of complexes of PcrA DNA helicase with a DNA substrate indicate an inchworm mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Velankar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soultanas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Dillingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Subramanya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Wigley"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Adv Exp Med Biol", 
+            "doi": "10.1007/978-1-4614-5037-5_14", 
+            "year": "2013", 
+            "title": "Structure and mechanisms of SF1 DNA helicases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Raney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Byrd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aarattuthodiyil"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.95.4.1460", 
+            "year": "1998", 
+            "title": "A unified view of polymer, dumbbell, and oligonucleotide DNA nearest-neighbor thermodynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Santalucia", 
+                    "suffix": "Jr"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Annu Rev Biochem", 
+            "doi": "10.1146/annurev.biochem.76.052305.115300", 
+            "year": "2007", 
+            "title": "Structure and mechanism of helicases and nucleic acid translocases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Singleton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Dillingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Wigley"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "J Mol Biol", 
+            "doi": "10.1006/jmbi.1999.2873S0022-2836(99)92873-5", 
+            "year": "1999", 
+            "title": "DNA binding mediates conformational changes and metal ion coordination in the active site of PcrA helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soultanas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Dillingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Velankar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Wigley"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/ bi011137k", 
+            "year": "2002", 
+            "title": "Direct measurement of single-stranded DNA translocation by PcrA helicase using the fluorescent base analogue 2-aminopurine", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Dillingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Wigley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Webb"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04331", 
+            "year": "2006", 
+            "title": "RNA translocation and unwinding mechanism of HCVNS3 helicase and its coordination by ATP", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Dumont"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Serebrov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Beran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Tinoco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Pyle"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "DNA Repair (Amst)", 
+            "doi": "10.1016/j.dnarep.2011.04.021", 
+            "year": "2011", 
+            "title": "A history of TFIIH: two decades of molecular biology on a pivotal transcription/repair factor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Egly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Coin"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi100061v", 
+            "year": "2010", 
+            "title": "Kinetic mechanism for DNA unwinding by multiple molecules of Dda helicase aligned on DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Eoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Raney"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "Biochem Soc Trans", 
+            "doi": "10.1042/bst0370547", 
+            "year": "2009", 
+            "title": "Structure, function and evolution of the XPD family of iron-sulfur-containing 5 \u2018-> 3 \u2018 DNA helicases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "White"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Curr Opin Struct Biol", 
+            "doi": "10.1016/j.sbi.2011.11.004", 
+            "year": "2012", 
+            "title": "Iron-sulphur clusters in nucleic acid processing enzymes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Dillingham"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "J Mol Biol", 
+            "doi": "10.1016/j.jmb.2004.10.005", 
+            "year": "2004", 
+            "title": "Mechanism of ATP-dependent translocation of E. coli UvrD monomers along single-stranded DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Fischer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NK", 
+                    "surname": "Maluf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Lohman"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Mol Gen Genet", 
+            "doi": "10.1007/s004380050930", 
+            "year": "1999", 
+            "title": "Directional cloning of native PCR products with preformed sticky ends (Autosticky PCR)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Schnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Szekeres"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kalman"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Curr Biol", 
+            "doi": "10.1016/j.cub.2012.12.032", 
+            "year": "2013", 
+            "title": "DNA quality control by a lesion sensor pocket of the xeroderma pigmentosum group d helicase subunit of TFIIH", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Mathieu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kaczmarek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ruthemann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Luch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Naegeli"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Nature", 
+            "doi": "10.1038/nature07637", 
+            "year": "2009", 
+            "title": "Intersubunit coordination in a homomeric ring ATPase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Moffitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YR", 
+                    "surname": "Chemla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Aathavan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Grimes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Jardine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Nucleic Acids Res", 
+            "doi": "10.1093/nar/gkq273", 
+            "year": "2010", 
+            "title": "Active and passive mechanisms of helicases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Manosas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XG", 
+                    "surname": "Xi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bensimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Croquette"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.1004339107", 
+            "year": "2010", 
+            "title": "Strand- and site-specific DNA lesion demarcation by the xeroderma pigmentosum group D helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Mathieu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kaczmarek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Naegeli"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "J Mol Biol", 
+            "doi": "10.1016/j.jmb.2004.04.009", 
+            "year": "2004", 
+            "title": "Fluorescence stopped-flow studies of single turnover kinetics of E.coli RecBCD helicase-catalyzed DNA unwinding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Lucius"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Lohman"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "J Biol Chem", 
+            "doi": "10.1074/jbc.M512100200", 
+            "year": "2006", 
+            "title": "Structural and biological identification of residues on the surface of NS3 helicase required for optimal replication of the hepatitis C virus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Mackintosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JZQ", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Jordan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Harrison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Sikora"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Sharma"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2008.04.029", 
+            "year": "2008", 
+            "title": "Structure of the DNA repair helicase XPD", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rudolf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Mcmahon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Oke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Carter"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Nat Rev Mol Cell Biol", 
+            "doi": "10.1038/nrm2394", 
+            "year": "2008", 
+            "title": "Non-hexameric DNA helicases and translocases: mechanisms and regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Lohman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Tomko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Wu"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "J Biol Chem", 
+            "doi": "10.1074/jbc.M403257200", 
+            "year": "2004", 
+            "title": "The functional interaction of the hepatitis C virus helicase molecules is responsible for unwinding processivity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Levin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YH", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Patel"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0709793104", 
+            "year": "2007", 
+            "title": "Real-time observation of bacteriophage T4 gp41 helicase reveals an unwinding mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lionnet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Spiering"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Benkovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bensimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Croquette"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Nature", 
+            "doi": "10.1038/384379a0", 
+            "year": "1996", 
+            "title": "Crystal structure of a DExx box DNA helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Subramanya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LE", 
+                    "surname": "Bird"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Brannigan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Wigley"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "J Biol Chem", 
+            "doi": "10.1074/jbc.M407971200", 
+            "year": "2005", 
+            "title": "Multiple full-length NS3 molecules are required for optimal unwinding of oligonucleotide DNA in Vitro", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Tackett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YF", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CE", 
+                    "surname": "Cameron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Raney"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Embo J", 
+            "doi": "10.1093/emboj/21.5.1168", 
+            "year": "2002", 
+            "title": "The hepatitis C viral NS3 protein is a processive DNA helicase with cofactor enhanced RNA unwinding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Pang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Jankowsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Planet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Pyle"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi702363u", 
+            "year": "2008", 
+            "title": "Predicting stability of DNA duplexes in solutions containing magnesium and monovalent cations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Owczarzy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Moreira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "You"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Behlke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Walder"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "J Biol Chem", 
+            "doi": "10.1074/jbc.M110.123851", 
+            "year": "2010", 
+            "title": "Unconventional processive mechanics of non-muscle Myosin IIB", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Norstrom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Smithback"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Rock"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "J Biol Chem", 
+            "doi": "10.1074/jbc.M707064200", 
+            "year": "2008a", 
+            "title": "The iron-containing domain is essential in Rad3 helicases for coupling of ATP hydrolysis to DNA translocation and for targeting the helicase to the single-stranded DNA-double-stranded DNA junction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Pugh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Honda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Leesley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Thomas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YY", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Nilges"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Single-molecule techniques: a laboratory manual", 
+            "year": "2008", 
+            "title": "High-resolution dual-trap optical tweezers with differential detection", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YR", 
+                    "surname": "Chemla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Moffitt"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "PR", 
+                    "surname": "Selvin"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "T", 
+                    "surname": "HA"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Nat Methods", 
+            "doi": "10.1038/121710.1038/nmeth.1217", 
+            "year": "2008", 
+            "title": "Laminar flow cells for single-molecule studies of DNA-protein interactions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LR", 
+                    "surname": "Brewer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Bianco"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Nat Struct Mol Biol", 
+            "doi": "10.1038/nsmb1246", 
+            "year": "2007", 
+            "title": "Structural basis for DNA duplex separation by a superfamily-2 helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Buttner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nehring"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "Hopfner"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Science", 
+            "doi": "10.1126/science.8079175", 
+            "year": "1994", 
+            "title": "Entropic elasticity of lambda-phage DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Marko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Siggia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Smith"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Science", 
+            "doi": "10.1126/science.1206023", 
+            "year": "2011", 
+            "title": "Single-base pair unwinding and asynchronous RNA release by the hepatitis C virus NS3 helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Arunajadai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Moffitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Tinoco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "J Phys Chem B", 
+            "doi": "10.1021/jp076153r", 
+            "year": "2008", 
+            "title": "Exact solutions for kinetic models of macromolecular dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YR", 
+                    "surname": "Chemla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Moffitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2006.10.049", 
+            "year": "2006", 
+            "title": "UvrD helicase unwinds DNA one base pair at a time by a two-part power stroke", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Yang"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Biophys J", 
+            "doi": "10.1016/j.bpj.2009.07.048", 
+            "year": "2009", 
+            "title": "Characterization of photoactivated singlet oxygen damage in single-molecule optical trap experiments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Landry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "McCall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Qi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YR", 
+                    "surname": "Chemla"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/ bi992105o", 
+            "year": "2000", 
+            "title": "Demonstration of unidirectional single-stranded DNA translocation by PcrA helicase: measurement of step size and translocation speed", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Dillingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Wigley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Webb"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0306713101", 
+            "year": "2004", 
+            "title": "Single-molecule assay reveals strand switching and enhanced processivity of UvrD", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Dessinges"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lionnet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XG", 
+                    "surname": "Xi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bensimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Croquette"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Structure", 
+            "doi": "10.1016/S0969-2126(98)00010-0", 
+            "year": "1998", 
+            "title": "Hepatitis C virus NS3 RNA helicase domain with a bound oligonucleotide: the crystal structure provides insights into the mode of unwinding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Morgenstern"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Griffith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Dwyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Thomson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Murcko"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0702315104", 
+            "year": "2007", 
+            "title": "NS3 helicase actively separates RNA strands and senses sequence barriers ahead of the opening fork", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Dumont"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Tinoco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2007.04.038", 
+            "year": "2007", 
+            "title": "Single-molecule studies reveal dynamics of DNA unwinding by the ring-shaped T7 helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Bai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BY", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Patel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Wang"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Mol Cell", 
+            "doi": "10.1016/j.molcel.2010.07.029", 
+            "year": "2010", 
+            "title": "MMXD, a TFIIH-independent XPD-MMS19 protein complex involved in chromosome segregation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Andoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Narita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Seki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hirano"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.1001454107", 
+            "year": "2010", 
+            "title": "Single-molecule derivation of salt dependent base pair free energies in DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Huguet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Bizarro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Forns"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Ritort"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Mol Cell", 
+            "doi": "10.1016/j.molcel.2009.07.003", 
+            "year": "2009", 
+            "title": "Single-molecule analysis reveals differential effect of ssDNA-binding proteins on DNA translocation by XPD helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Honda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Pugh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spies"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Embo J", 
+            "doi": "10.1038/emboj.2011.374", 
+            "year": "2012", 
+            "title": "Functional and structural studies of the nucleotide excision repair helicase XPD suggest a polarity for DNA translocation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kuper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Wolski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Michels"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kisker"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Embo J", 
+            "doi": "10.1038/emboj.2011.412", 
+            "year": "2012", 
+            "title": "Regulation of translocation polarity by helicase domain 1 in SF2B helicases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Pugh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spies"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "J Mol Biol", 
+            "doi": "10.1016/j.jmb.2008.09.001", 
+            "year": "2008b", 
+            "title": "Ferroplasma acidarmanus RPA2 facilitates efficient unwinding of forked DNA substrates by monomers of FacXPD helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Pugh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YY", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Eller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Leesley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IKO", 
+                    "surname": "Cann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spies"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Curr Opin Struct Biol", 
+            "doi": "10.1016/j.sbi.2011.12.002", 
+            "year": "2012", 
+            "title": "Damage recognition in nucleotide excision DNA repair", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kuper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kisker"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Cell Mol Life Sci", 
+            "doi": "10.1007/s00018-008-8580-6", 
+            "year": "2009", 
+            "title": "Welcome the family of FANCJ-like helicases to the block of genome stability maintenance proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Suhasini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Brosh"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0511048103", 
+            "year": "2006", 
+            "title": "Nanomechanical measurements of the sequence-dependent folding landscapes of single nucleic acid hairpins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Woodside"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WM", 
+                    "surname": "Behnke-Parks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Larizadeh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Travers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Herschlag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "Biol Chem", 
+            "doi": "10.1515/bc.2010.076", 
+            "year": "2010", 
+            "title": "The XPD helicase: XPanDing archaeal XPD structures to get a grip on human DNA repair", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Wolski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kuper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kisker"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "PLoS Biol", 
+            "doi": "e14910.1371/journal.pbio.0060149", 
+            "year": "2008", 
+            "title": "Crystal structure of the FeS cluster-containing nucleotide excision repair helicase XPD", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Wolski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kuper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hanzelmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Truglio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Croteau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Van Houten"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Science", 
+            "doi": "10.1126/science.1144130", 
+            "year": "2007", 
+            "title": "Spring-loaded mechanism of DNA unwinding by hepatitis C virus NS3 helicase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Myong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Bruno"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Pyle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ha"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Biophys J", 
+            "doi": "10.1016/S0006-3495(04)74308-8", 
+            "year": "2004", 
+            "title": "Probing single-stranded DNA conformational flexibility using fluorescence spectroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Murphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Rasnik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Lohman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Ha"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Rev Sci Instr", 
+            "doi": "10.1063/1.1785844", 
+            "year": "2004", 
+            "title": "Optical trapping", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Neuman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib74": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0509828103", 
+            "year": "2006", 
+            "title": "The DNA repair genes XPB and XPD defend cells from retroviral infection", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yoder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sarasin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kraemer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mcilhatton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bushman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Fishel"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The ability of an enzyme called XPD helicase to unwind the double helix is influenced by the DNA sequence and the availability of energy.", 
+    "publish": "1", 
+    "article-version-id": "00334.1", 
+    "volume": "2", 
+    "keywords": {
+        "author-keywords": [
+            "helicase", 
+            "Xeroderma pigmentosum group D helicase", 
+            "molecular motor", 
+            "DNA repair", 
+            "optical tweezers", 
+            "single molecule"
+        ], 
+        "research-organism": [
+            "None"
+        ]
+    }, 
+    "doi": "10.7554/eLife.00334", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-4": {
+                "institution": "Burroughs-Wellcome Fund"
+            }, 
+            "par-3": {
+                "institution": "Howard Hughes Medical Institute"
+            }, 
+            "par-2": {
+                "award-id": "R21 RR025341 A", 
+                "institution": "National Institutes of Health"
+            }, 
+            "par-1": {
+                "award-id": "MCB 09-52442", 
+                "institution": "National Science Foundation"
+            }
+        }, 
+        "related-object": {}, 
+        "affiliation": {
+            "aff5": {
+                "dept": "Department of Physics", 
+                "city": "Urbana", 
+                "institution": "Center for the Physics of Living Cells, University of Illinois at Urbana-Champaign", 
+                "country": "United States"
+            }, 
+            "aff4": {
+                "dept": "Department of Biochemistry, Carver College of Medicine", 
+                "city": "Iowa City", 
+                "institution": "University of Iowa", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Howard Hughes Medical Institute", 
+                "city": "Madison", 
+                "institution": "University of Winconsin-Madison", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Institute for Molecular Virology", 
+                "city": "Madison", 
+                "institution": "University of Wisconsin-Madison", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Center for Biophysics and Computational Biology", 
+                "city": "Urbana", 
+                "institution": "University of Illinois at Urbana-Champaign", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "ZQ, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "RAP, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con3": "MS, Conception and design, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con4": "YRC, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "ychemla@illinois.edu"
+        }
+    }, 
+    "path": "content/2/e00334", 
+    "fragments": [
+        {
+            "path": "content/2/e00334/abstract-1", 
+            "doi": "10.7554/eLife.00334.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/2/e00334/abstract-2", 
+            "doi": "10.7554/eLife.00334.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/2/e00334/F1", 
+            "fragments": [
+                {
+                    "path": "content/2/e00334/F1/F2", 
+                    "doi": "10.7554/eLife.00334.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/2/e00334/F1/F3", 
+                    "doi": "10.7554/eLife.00334.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/2/e00334/F1/F4", 
+                    "doi": "10.7554/eLife.00334.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.00334.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/2/e00334/T1", 
+            "doi": "10.7554/eLife.00334.007", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/2/e00334/F5", 
+            "fragments": [
+                {
+                    "path": "content/2/e00334/F5/F6", 
+                    "doi": "10.7554/eLife.00334.009", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.00334.008", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/2/e00334/F7", 
+            "fragments": [
+                {
+                    "path": "content/2/e00334/F7/F8", 
+                    "doi": "10.7554/eLife.00334.011", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.00334.010", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/2/e00334/F9", 
+            "fragments": [
+                {
+                    "path": "content/2/e00334/F9/F10", 
+                    "doi": "10.7554/eLife.00334.013", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/2/e00334/F9/F11", 
+                    "doi": "10.7554/eLife.00334.014", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.00334.012", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/2/e00334/F12", 
+            "fragments": [
+                {
+                    "path": "content/2/e00334/F12/F13", 
+                    "doi": "10.7554/eLife.00334.016", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/2/e00334/F12/F14", 
+                    "doi": "10.7554/eLife.00334.017", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/2/e00334/F12/F15", 
+                    "doi": "10.7554/eLife.00334.018", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/2/e00334/F12/F16", 
+                    "doi": "10.7554/eLife.00334.019", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 4."
+                }, 
+                {
+                    "path": "content/2/e00334/F12/F17", 
+                    "doi": "10.7554/eLife.00334.020", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 5."
+                }
+            ], 
+            "doi": "10.7554/eLife.00334.015", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/2/e00334/F18", 
+            "fragments": [
+                {
+                    "path": "content/2/e00334/F18/F19", 
+                    "doi": "10.7554/eLife.00334.022", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.00334.021", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/2/e00334/F20", 
+            "fragments": [
+                {
+                    "path": "content/2/e00334/F20/F21", 
+                    "doi": "10.7554/eLife.00334.024", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/2/e00334/F20/F22", 
+                    "doi": "10.7554/eLife.00334.025", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/2/e00334/F20/F23", 
+                    "doi": "10.7554/eLife.00334.026", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.00334.023", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/2/e00334/T2", 
+            "doi": "10.7554/eLife.00334.027", 
+            "type": "table-wrap", 
+            "title": "Table 2."
+        }, 
+        {
+            "path": "content/2/e00334/1", 
+            "doi": "10.7554/eLife.00334.028", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Joshua-Tor", 
+                    "given-names": "Leemor", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Cold Spring Harbor Laboratory"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/2/e00334/2", 
+            "doi": "10.7554/eLife.00334.029", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.00334", 
+    "categories": {
+        "heading": [
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

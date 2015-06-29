@@ -1,0 +1,2546 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Andreasson", 
+            "given-names": "Johan OL", 
+            "references": {
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "present-address": [
+                    "pa1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-30716"
+        }, 
+        {
+            "surname": "Milic", 
+            "given-names": "Bojan", 
+            "references": {
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "present-address": [
+                    "pa2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "affiliation": [
+                    "aff2"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-30717"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Geng-Yuan", 
+            "surname": "Chen", 
+            "id": "author-30718", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Nicholas R", 
+            "surname": "Guydosh", 
+            "id": "author-30719", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "present-address": [
+                    "pa3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "William O", 
+            "surname": "Hancock", 
+            "id": "author-4598", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "surname": "Block", 
+            "corresp": "yes", 
+            "given-names": "Steven M", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff5"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-14516"
+        }, 
+        {
+            "surname": "Akhmanova", 
+            "affiliations": [
+                {
+                    "country": "Netherlands", 
+                    "institution": "Utrecht University"
+                }
+            ], 
+            "given-names": "Anna", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-8518"
+        }
+    ], 
+    "pub-date": "2015-04-22", 
+    "title": "Examining kinesin processivity within a general gating framework", 
+    "citations": {
+        "bib53": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M300849200", 
+            "year": "2003", 
+            "title": "Stepping and stretching \u2013how kinesin uses internal strain to walk processively", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Rosenfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Fordyce"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Jefferson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "King"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Nature", 
+            "doi": "10.1038/41118", 
+            "year": "1997", 
+            "title": "Coupling of kinesin steps to ATP hydrolysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Hua"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EC", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Fleming"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gelles"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Nature", 
+            "doi": "10.1038/45483", 
+            "year": "1999", 
+            "title": "A structural change in the kinesin motor protein that drives motility", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Safer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Hart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Naber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BO", 
+                    "surname": "Carragher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Cain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Pechatnikova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Wilson-Kubalek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Whittaker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Pate"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cooke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Milligan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.85.17.6314", 
+            "year": "1988", 
+            "title": "Kinesin ATPase: rate-limiting ADP release", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Hackney"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.91.15.6865", 
+            "year": "1994", 
+            "title": "Evidence for alternating head catalysis by kinesin during microtubule-stimulated ATP hydrolysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Hackney"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Current Biology", 
+            "doi": "10.1016/S0960-9822(00)00316-X", 
+            "year": "2000", 
+            "title": "Role of the kinesin neck linker and catalytic core in microtubule-based motility", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Case"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Hart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Ly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/348348a0", 
+            "year": "1990", 
+            "title": "Bead movement by single kinesin molecules studied with optical tweezers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LS", 
+                    "surname": "Goldstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Schnapp"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M108793200", 
+            "year": "2002", 
+            "title": "The role of ATP hydrolysis for kinesin processivity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Farrell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Mackey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Klumpp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gilbert"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2015.03.013", 
+            "year": "2015", 
+            "title": "The mechanochemical cycle of Mammalian Kinesin-2 KIF3A/B under load", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JO", 
+                    "surname": "Andreasson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shastry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature Structural Biology", 
+            "doi": "10.1038/nsb984", 
+            "year": "2003", 
+            "title": "Configuration of the two kinesin motor domains during ATP hydrolysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Asenjo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Krohn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sosa"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Science", 
+            "doi": "10.1126/science.1092985", 
+            "year": "2003", 
+            "title": "Kinesin moves by an asymmetric hand-over-hand mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Asbury"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Fehr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb1109", 
+            "year": "2006", 
+            "title": "Nucleotide binding and hydrolysis induces a disorder-order transition in the kinesin neck-linker region", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Asenjo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Weinberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sosa"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0808355106", 
+            "year": "2009", 
+            "title": "A mobile kinesin-head intermediate during the ATP-waiting state", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Asenjo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sosa"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0436709100", 
+            "year": "2003", 
+            "title": "Probing the kinesin reaction cycle with a 2D optical force clamp", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Asbury"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Shaevitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Lang"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.106.100677", 
+            "year": "2007", 
+            "title": "Kinesin motor mechanics: binding, stepping, tracking, gating, and limping", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0505288102", 
+            "year": "2005", 
+            "title": "The tethered motor domain of a kinesin-microtubule complex catalyzes reversible synthesis of bound ATP", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Hackney"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi0349118", 
+            "year": "2003", 
+            "title": "Modulation of kinesin half-site ADP release and kinetic processivity by a spacer between the head groups", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Hackney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Stock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Moore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Patterson"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb1151", 
+            "year": "2006", 
+            "title": "Single-molecule observations of neck linker conformational changes in the kinesin motor protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomishige"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Stuurman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.151.5.1081", 
+            "year": "2000", 
+            "title": "Controlling kinesin by reversible disulfide cross-linking: Identifying the motility-producing conformational change", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomishige"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1102628108", 
+            "year": "2011", 
+            "title": "Interhead tension determines processivity across diverse N-terminal kinesins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shastry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Nature Structural Biology", 
+            "doi": "10.1038/nsb852", 
+            "year": "2002", 
+            "title": "Two conformations in the human kinesin power stroke defined by X-ray crystallography and EPR spectroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Sindelar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Budny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Naber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Fletterick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cooke"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200612090", 
+            "year": "2007", 
+            "title": "The beginning of kinesin's force-generating cycle visualized at 9-A resolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Sindelar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Downing"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0911208107", 
+            "year": "2010", 
+            "title": "An atomic-level mechanism for activation of the kinesin molecular motors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Sindelar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Downing"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi971117b", 
+            "year": "1998", 
+            "title": "Alternating site mechanism of the kinesin ATPase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Moyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature", 
+            "doi": "10.1038/373671a0", 
+            "year": "1995", 
+            "title": "Pathway of processive ATP hydrolysis by kinesin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Webb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Brune"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0600931103", 
+            "year": "2006", 
+            "title": "Backsteps induced by nucleotide analogs suggest the front head of kinesin is gated by strain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Guydosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08259", 
+            "year": "2009", 
+            "title": "Direct observation of the binding state of the kinesin head to the microtubule", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Guydosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0808396106", 
+            "year": "2009", 
+            "title": "Why kinesin is so processive", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Toprak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Hoffman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Rosenfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Selvin"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Methods in bioengineering: microfabrication and microfluidics", 
+            "year": "2009", 
+            "title": "Microtubule motors in microfluidics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Uppalapati"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-M", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shastry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Jackson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "JD", 
+                    "surname": "Zahn"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "LP", 
+                    "surname": "Lee"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Nature", 
+            "doi": "10.1038/377448a0", 
+            "year": "1995", 
+            "title": "Highly processive microtubule-stimulated ATP hydrolysis by dimeric kinesin head domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Hackney"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi0159229", 
+            "year": "2002", 
+            "title": "Pathway of ADP-stimulated ADP release and dissociation of tethered kinesin from microtubules. Implications for the extent of processivity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Hackney"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/S0006-3495(03)70043-5", 
+            "year": "2003b", 
+            "title": "EPR spectroscopy shows a microtubule-dependent conformational change in the kinesin switch 1 domain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Naber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Matuska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cooke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Pate"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.117.6.1263", 
+            "year": "1992", 
+            "title": "Cloning and expression of a human kinesin heavy chain gene: interaction of the COOH-terminal domain with cytoplasmic microtubules in transfected CV-1 cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Navone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Niclas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Hom-Booher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Sparks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HD", 
+                    "surname": "Bernstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "McCaffrey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2011.01.001", 
+            "year": "2011", 
+            "title": "Multiple conformations of the nucleotide site of Kinesin family motors in the triphosphate state", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Naber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Larson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cooke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Pate"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Science", 
+            "doi": "10.1126/science.1082374", 
+            "year": "2003a", 
+            "title": "Closing of the nucleotide pocket of kinesin-family motors upon binding to microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Naber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Minehardt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Grammer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Matuska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Kollman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Car"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "Yount"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cooke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Pate"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06346", 
+            "year": "2007", 
+            "title": "How kinesin waits between steps", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Mori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomishige"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0706825105", 
+            "year": "2008", 
+            "title": "Tug-of-war as a cooperative mechanism for bidirectional cargo transport by molecular motors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Muller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Klumpp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lipowsky"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.105.079517", 
+            "year": "2006", 
+            "title": "Extracting dwell time sequences from processive molecular motor data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LS", 
+                    "surname": "Milescu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Selvin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Sachs"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1410943111", 
+            "year": "2014", 
+            "title": "Kinesin processivity is gated by phosphate release", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Milic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JOL", 
+                    "surname": "Andreasson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.272.2.724", 
+            "year": "1997", 
+            "title": "Interacting head mechanism of microtubule-kinesin ATPase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YZ", 
+                    "surname": "Ma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Taylor"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1321419111", 
+            "year": "2014", 
+            "title": "CK2 activates kinesin via induction of a conformational change", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Mattson-Hoss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Niitani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Gordon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Bardwell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomishige"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gross"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Nature Structural Biology", 
+            "doi": "10.1038/88611", 
+            "year": "2001", 
+            "title": "ADP-induced rocking of the kinesin motor domain revealed by single-molecule fluorescence polarization microscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sosa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Peterman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Moerner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LS", 
+                    "surname": "Goldstein"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Nature", 
+            "doi": "10.1038/365721a0", 
+            "year": "1993", 
+            "title": "Direct observation of kinesin stepping by optical trapping interferometry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Svoboda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Schmidt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Schnapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/S0006-3495(01)75926-7", 
+            "year": "2001", 
+            "title": "Polarized fluorescence microscopy of individual and many kinesin motors bound to axonemal microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Peterman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sosa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LS", 
+                    "surname": "Goldstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Moerner"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/S0006-3495(03)74992-3", 
+            "year": "2003", 
+            "title": "Thermodynamic properties of the kinesin neck-region docking to the catalytic core", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Sindelar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Naber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Matuska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cooke"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0304369101", 
+            "year": "2004", 
+            "title": "Inhibition of kinesin motility by ADP and phosphate supports a hand-over-hand mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Schief"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Clark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Crevenna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Howard"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M205261200", 
+            "year": "2002", 
+            "title": "Measuring kinesin's first step", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Rosenfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Xing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Jefferson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Cheung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M103899200", 
+            "year": "2001", 
+            "title": "ATP reorients the neck linker of kinesin in two sequential steps", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Rosenfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Jefferson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Nature", 
+            "doi": "10.1038/41111", 
+            "year": "1997", 
+            "title": "Kinesin hydrolyses one ATP per 8-nm step", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Schnitzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M114.628032", 
+            "year": "2015", 
+            "title": "Processivity of the Kinesin-2 KIF3A results from rear-head gating and not front-head gating", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GY", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DF", 
+                    "surname": "Arginteanu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "The Journal of Physical Chemistry B", 
+            "doi": "10.1021/jp076153r", 
+            "year": "2008", 
+            "title": "Exact solutions for kinetic models of macromolecular dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YR", 
+                    "surname": "Chemla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Moffitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms5587", 
+            "year": "2014", 
+            "title": "Tension on the linker gates the ATP-dependent release of dynein from microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FB", 
+                    "surname": "Cleary"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Dewitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Bilyard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZM", 
+                    "surname": "Htet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Belyy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AY", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2104", 
+            "year": "2011", 
+            "title": "A universal pathway for kinesin stepping", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Clancy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WM", 
+                    "surname": "Behnke-Parks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JO", 
+                    "surname": "Andreasson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Rosenfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/sj.emboj.7600042", 
+            "year": "2004", 
+            "title": "What kinesin does at roadblocks: the coordination mechanism for molecular walking", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Crevel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nyitrai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Alonso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Weiss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Geeves"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Cross"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.274.6.3667", 
+            "year": "1999", 
+            "title": "Kinesin takes one 8-nm step for each ATP that it hydrolyzes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Coy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wagenbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Howard"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Journal of Cell Science", 
+            "doi": "10.1242/jcs.103911", 
+            "year": "2013", 
+            "title": "Force generation by kinesin and myosin cytoskeletal motor proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Kull"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Endow"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)80489-4", 
+            "year": "1997", 
+            "title": "The crystal structure of dimeric kinesin and implications for microtubule-dependent motility", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kozielski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sack"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Marx"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Thormahlen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Schonbrunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Biou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Thompson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Mandelkow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mandelkow"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Current Opinion in Cell Biology", 
+            "doi": "10.1016/j.ceb.2008.12.002", 
+            "year": "2009", 
+            "title": "Walking the walk: how kinesin and dynein coordinate their steps", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gennerich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/j.bpj.2009.07.004", 
+            "year": "2009", 
+            "title": "On the origin of kinesin limping", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Fehr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Guti\u00e9rrez-Medina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Asbury"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0805147105", 
+            "year": "2008", 
+            "title": "Kinesin's cover-neck bundle folds forward to generate force", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Khalil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Appleyard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Labno"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Georges"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Karplus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Belcher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Hwang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Lang"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0803575105", 
+            "year": "2008", 
+            "title": "The kinesin-1 motor protein is regulated by a direct interaction of its head and tail", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Dietrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Sindelar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Brewer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Downing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Cremo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Rice"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Nature", 
+            "doi": "10.1038/342154a0", 
+            "year": "1989", 
+            "title": "Movement of microtubules by single kinesin molecules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Howard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Hudspeth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Cellular and Molecular Bioengineering", 
+            "doi": "10.1007/s12195-009-0059-5", 
+            "year": "2009", 
+            "title": "Insights into the mechanical properties of the kinesin neck linker domain from sequence analysis and molecular dynamics simulations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Hariharan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.96.23.13147", 
+            "year": "1999", 
+            "title": "Kinesin's processivity results from mechanical and chemical coordination between the ATP hydrolysis cycles of the two motor domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Howard"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M508019200", 
+            "year": "2006", 
+            "title": "Feedback of the kinesin-1 neck-linker position on the catalytic site", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hahlen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Ebbing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Reinders"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mergler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sickmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Woehlke"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0507363102", 
+            "year": "2005", 
+            "title": "Cooperative cargo transport by several molecular motors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Klumpp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lipowsky"
+                }
+            ]
+        }, 
+        "bib79": {
+            "source": "Science", 
+            "doi": "10.1126/science.1093753", 
+            "year": "2004", 
+            "title": "Kinesin walks hand-over-hand", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomishige"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Selvin"
+                }
+            ]
+        }, 
+        "bib78": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2008.07.018", 
+            "year": "2008", 
+            "title": "Intramolecular strain coordinates kinesin stepping behavior along microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomishige"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gennerich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2010.03.065", 
+            "year": "2010", 
+            "title": "Neck linker length determines the degree of processivity in kinesin-1 and kinesin-2 motors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shastry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WO", 
+                    "surname": "Hancock"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/35036345", 
+            "year": "2000", 
+            "title": "Force production by single kinesin motors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Schnitzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Visscher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0307691101", 
+            "year": "2004", 
+            "title": "Kinesin's second step", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Klumpp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hoenger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gilbert"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.106.093575", 
+            "year": "2007", 
+            "title": "Kinesin moving through the spotlight: single-motor fluorescence microscopy with submillisecond time resolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Verbrugge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Kapitein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Peterman"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Optics Letters", 
+            "doi": "10.1364/OL.33.000599", 
+            "year": "2008", 
+            "title": "Precision steering of an optical trap by electro-optic deflection", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Valentine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Guydosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Gutierrez-Medina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Fehr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JO", 
+                    "surname": "Andreasson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(85)80099-4", 
+            "year": "1985", 
+            "title": "Identification of a novel force-generating protein, kinesin, involved in microtubule-based motility", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TS", 
+                    "surname": "Reese"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Sheetz"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Nature", 
+            "doi": "10.1038/380451a0", 
+            "year": "1996", 
+            "title": "Direct observation of single kinesin molecules moving along microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Funatsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Pierce"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Romberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Harada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yanagida"
+                }
+            ]
+        }, 
+        "bib77": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/j.bpj.2008.11.069", 
+            "year": "2009", 
+            "title": "The Kinesin-1 tail conformationally restricts the nucleotide pocket", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YL", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Dietrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Naber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cooke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Rice"
+                }
+            ]
+        }, 
+        "bib76": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/j.bpj.2009.08.001", 
+            "year": "2009c", 
+            "title": "Novel ways to determine kinesin-1's run length and randomness using fluorescence microscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Verbrugge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "van den Wildenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Peterman"
+                }
+            ]
+        }, 
+        "bib75": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/j.bpj.2009.02.073", 
+            "year": "2009b", 
+            "title": "Alternating-site mechanism of kinesin-1 characterized by single-molecule FRET using fluorescent ATP analogues", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Verbrugge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Lechner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Woehlke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Peterman"
+                }
+            ]
+        }, 
+        "bib74": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0905177106", 
+            "year": "2009a", 
+            "title": "Kinesin's step dissected with single-motor FRET", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Verbrugge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Lansky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Peterman"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "A general framework for gating reveals that inter-head tension is not essential for coordinating kinesin stepping, and that neck-linker length is tuned to enhance processivity and velocity.", 
+    "publish": "1", 
+    "article-version-id": "07403.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "optical trap", 
+            "molecular motor", 
+            "single molecule"
+        ], 
+        "research-organism": [
+            "<italic>E. coli</italic>", 
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.07403", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {
+            "pa1": "Department of Genetics, Stanford University School of Medicine, Stanford University, Stanford, United States", 
+            "pa2": "Biophysics Program, Stanford University, Stanford, United States", 
+            "pa3": "Department of Molecular Biology and Genetics, Johns Hopkins University School of Medicine, Howard Hughes Medical Institute, Johns Hopkins University, Baltimore, United States"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "5R01GM076476", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000057", 
+                "award-id": "5R37GM051453", 
+                "institution": "National Institute of General Medical Sciences (NIGMS)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "affiliation": {
+            "aff5": {
+                "dept": "Department of Applied Physics", 
+                "city": "Stanford", 
+                "institution": "Stanford University", 
+                "country": "United States"
+            }, 
+            "aff4": {
+                "dept": "Biophysics Program", 
+                "city": "Stanford", 
+                "institution": "Stanford University", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Department of Biomedical Engineering", 
+                "city": "University Park", 
+                "institution": "Pennsylvania State University", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Department of Biology", 
+                "city": "Stanford", 
+                "institution": "Stanford University", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Physics", 
+                "city": "Stanford", 
+                "institution": "Stanford University", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {
+            "equal-contrib": "These authors contributed equally to this work"
+        }, 
+        "contribution": {
+            "con1": "JOLA, Conception and design, Acquisition of data, Analysis and interpretation of data, Contributed unpublished essential data or reagents, Drafting or revising the article", 
+            "con2": "BM, Conception and design, Acquisition of data, Analysis and interpretation of data, Contributed unpublished essential data or reagents, Drafting or revising the article", 
+            "con3": "G-YC, Acquisition of data, Analysis and interpretation of data", 
+            "con4": "NRG, Conceived the general gating framework", 
+            "con5": "WOH, Conception and design, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con6": "SMB, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "sblock@stanford.edu"
+        }
+    }, 
+    "path": "content/4/e07403", 
+    "fragments": [
+        {
+            "path": "content/4/e07403/abstract-1", 
+            "doi": "10.7554/eLife.07403.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e07403/abstract-2", 
+            "doi": "10.7554/eLife.07403.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e07403/F1", 
+            "doi": "10.7554/eLife.07403.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e07403/F2", 
+            "doi": "10.7554/eLife.07403.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e07403/F3", 
+            "doi": "10.7554/eLife.07403.005", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e07403/T1", 
+            "doi": "10.7554/eLife.07403.006", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/4/e07403/F4", 
+            "doi": "10.7554/eLife.07403.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e07403/F5", 
+            "doi": "10.7554/eLife.07403.008", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e07403/T2", 
+            "doi": "10.7554/eLife.07403.009", 
+            "type": "table-wrap", 
+            "title": "Table 2."
+        }, 
+        {
+            "path": "content/4/e07403/F6", 
+            "doi": "10.7554/eLife.07403.010", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e07403/F7", 
+            "doi": "10.7554/eLife.07403.011", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e07403/1", 
+            "doi": "10.7554/eLife.07403.012", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Akhmanova", 
+                    "given-names": "Anna", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Netherlands", 
+                            "institution": "Utrecht University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e07403/2", 
+            "doi": "10.7554/eLife.07403.013", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.07403", 
+    "categories": {
+        "heading": [
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

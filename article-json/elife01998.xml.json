@@ -1,0 +1,2610 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Jennifer L", 
+            "surname": "Stamos", 
+            "id": "author-9437", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Matthew Ling-Hon", 
+            "surname": "Chu", 
+            "id": "author-9438", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-4"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Michael D", 
+            "surname": "Enos", 
+            "id": "author-9439", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Niket", 
+            "surname": "Shah", 
+            "id": "author-9440", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-5"
+                ]
+            }
+        }, 
+        {
+            "surname": "Weis", 
+            "corresp": "yes", 
+            "given-names": "William I", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-5578"
+        }, 
+        {
+            "surname": "Cole", 
+            "given-names": "Philip", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Johns Hopkins University School of Medicine"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-03-18", 
+    "title": "Structural basis of GSK-3 inhibition by N-terminal phosphorylation and by the Wnt receptor LRP6", 
+    "citations": {
+        "bib34": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2006.10.009", 
+            "year": "2006", 
+            "title": "A chaperone-dependent GSK3beta transitional intermediate mediates activation-loop autophosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Lochhead"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kinstrie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Sibbet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Rawjee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Morrice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Cleghon"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M109.047456", 
+            "year": "2009", 
+            "title": "G Protein-coupled receptor kinases phosphorylate LRP6 in the Wnt pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Philipp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RT", 
+                    "surname": "Premont"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Garrison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00550-10", 
+            "year": "2011", 
+            "title": "Mitogen-activated protein kinases promote WNT/\u03b2-catenin signaling via phosphorylation of LRP6", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Cervenka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wolf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Maske"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Krejci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Wilcox"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kozubik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Schulte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Gutkind"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Bryja"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M005342200", 
+            "year": "2000", 
+            "title": "Differential regulation of glycogen synthase kinase 3beta by insulin and Wnt signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VW", 
+                    "surname": "Ding"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "McCormick"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444909052925", 
+            "year": "2010", 
+            "title": "PHENIX: a comprehensive Python-based system for macromolecular structure solution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Adams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Afonine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bunkoczi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IW", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Echols"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Hung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kapral"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Grosse-Kunstleve"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "McCoy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Moriarty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Oeffner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Read"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Terwilliger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "Zwart"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Current Pharmaceutical Design", 
+            "doi": "10.2174/138161211797052484", 
+            "year": "2011", 
+            "title": "The possible involvement of glycogen synthase kinase-3 (GSK-3) in diabetes, cancer and central nervous system diseases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Amar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Belmaker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Agam"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Chemical Reviews", 
+            "doi": "10.1021/cr000110o", 
+            "year": "2001", 
+            "title": "Glycogen synthase kinase-3: properties, functions, and regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "Hoeflich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Woodgett"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2003.08.031", 
+            "year": "2003", 
+            "title": "Structural characterization of the GSK-3beta active site using selective and non-selective ATP-mimetic inhibitors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Bertrand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Thieffine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vulpetti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cristiani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Valsasina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Knapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Kalisz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Flocco"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Structure", 
+            "doi": "10.1016/S0969-2126(01)00679-7", 
+            "year": "2001", 
+            "title": "The structure of phosphorylated GSK-3beta complexed with a peptide, FRATtide, that inhibits beta-catenin phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Bax"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Carter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lewis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Guy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bridges"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tanner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Pettman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Mannix"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Culbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Reith"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/15674", 
+            "year": "1999", 
+            "title": "The structural basis for specificity of substrate and recruitment peptides for cyclin-dependent kinases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Noble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Endicott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LN", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Science", 
+            "doi": "10.1126/science.1137065", 
+            "year": "2007", 
+            "title": "Wnt induces LRP6 signalosomes and promotes dishevelled-dependent LRP6 phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bilic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YL", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Davidson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Zimmermann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Cruciat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bienz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Niehrs"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444909047337", 
+            "year": "2010", 
+            "title": "Xds", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Kabsch"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Molecular Brain", 
+            "doi": "10.1186/1756-6606-2-35", 
+            "year": "2009", 
+            "title": "Abnormalities in brain structure and behavior in GSK-3alpha mutant mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Kaidanovich-Beilin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TV", 
+                    "surname": "Lipina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Takao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "van Eede"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hattori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Laliberte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Khan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Okamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Chambers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Fletcher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "MacAulay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BW", 
+                    "surname": "Doble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Henkelman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Miyakawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Roder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Woodgett"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444913000061", 
+            "year": "2013", 
+            "title": "How good are my data and what is the resolution?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Evans"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GN", 
+                    "surname": "Murshudov"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1987", 
+            "title": "Formation of protein kinase recognition sites by covalent modification of the substrate. Molecular mechanism for the synergistic action of casein kinase II and glycogen synthase kinase 3", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Fiol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Mahrenholz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Roeske"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Roach"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Biochemical Journal", 
+            "doi": "10.1042/0264-6021:3590001", 
+            "year": "2001", 
+            "title": "GSK3 takes centre stage more than 20 years after its discovery", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Frame"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cohen"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.febslet.2006.06.035", 
+            "year": "2001", 
+            "title": "A common phosphate binding site explains the unique substrate specificity of GSK3 and its inactivation by phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Frame"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Biondi"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/16.18.5572", 
+            "year": "1997", 
+            "title": "Crystal structure of the activated insulin receptor tyrosine kinase in complex with peptide substrate and ATP analog", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Hubbard"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M604633200", 
+            "year": "2006", 
+            "title": "Identification of novel glycogen synthase kinase-3beta substrate-interacting residues suggests a common mechanism for substrate recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ilouz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kowalsman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Eisenstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Eldar-Finkelman"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Trends in Biochemical Sciences", 
+            "doi": "10.1016/j.tibs.2003.12.004", 
+            "year": "2004", 
+            "title": "The glamour and gloom of glycogen synthase kinase-3", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Jope"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GV", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2011.03.004", 
+            "year": "2011", 
+            "title": "Catalytic control in the EGF receptor and its connection to general kinase regulatory mechanisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Jura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Endres"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Seeliger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Schindler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kuriyan"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0004046", 
+            "year": "2008", 
+            "title": "Direct inhibition of GSK3beta by the phosphorylated cytoplasmic domain of LRP6 in Wnt/beta-catenin signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Piao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Yum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Stamos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Oh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Han"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WI", 
+                    "surname": "Weis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NC", 
+                    "surname": "Ha"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Structure", 
+            "doi": "10.1016/j.str.2013.03.012", 
+            "year": "2013", 
+            "title": "Structures of Down syndrome kinases, DYRKs, reveal mechanisms of kinase activation and substrate recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Soundararajan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Roos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Savitsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Filippakopoulos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Kettenbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JV", 
+                    "surname": "Olsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Gerber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Eswaran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Knapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Elkins"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Cellular and Molecular Life Sciences", 
+            "doi": "10.1007/s00018-010-0329-3", 
+            "year": "2010", 
+            "title": "Regulation of Lrp6 phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Niehrs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shen"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00763-08", 
+            "year": "2008", 
+            "title": "Tissue-specific role of glycogen synthase kinase 3beta in glucose homeostasis and insulin action", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Patel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BW", 
+                    "surname": "Doble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "MacAulay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Sinclair"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Drucker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Woodgett"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Current Opinion in Drug Discovery and Development", 
+            "year": "2008", 
+            "title": "Glycogen synthase kinase-3 (GSK-3) inhibitors reach the clinic", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Medina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Castro"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Structure", 
+            "doi": "10.1016/S0969-2126(97)00246-3", 
+            "year": "1997", 
+            "title": "A binary complex of the catalytic subunit of cAMP-dependent protein kinase and adenosine further defines conformational flexibility", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Narayana"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Cox"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Nguyen-huu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Ten Eyck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1102701108", 
+            "year": "2011", 
+            "title": "Dynamically committed, uncommitted, and quenched states encoded in protein kinase A revealed by NMR spectroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LR", 
+                    "surname": "Masterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Shi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Metcalfe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Veglia"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/sj.emboj.7600633", 
+            "year": "2005", 
+            "title": "Role that phosphorylation of GSK3 plays in insulin and Wnt signalling defined by knockin analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "McManus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sakamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Armit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ronaldson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Shpiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Marquez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Alessi"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Protein Science", 
+            "doi": "10.1002/pro.5560030203", 
+            "year": "1994", 
+            "title": "cAMP-dependent protein kinase: crystallographic insights into substrate recognition and phosphotransfer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "surname": "Madhusudan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Trafny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NH", 
+                    "surname": "Xuong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Adams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Ten Eyck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Sowadski"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nature Chemical Biology", 
+            "doi": "10.1038/nchembio.452", 
+            "year": "2010", 
+            "title": "Dynamics connect substrate recognition to catalysis in protein kinase A", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LR", 
+                    "surname": "Masterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tonelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kornev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Veglia"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.849004", 
+            "year": "2004", 
+            "title": "WebLogo: a sequence logo generator", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GE", 
+                    "surname": "Crooks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Chandonia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Brenner"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444909042073", 
+            "year": "2010", 
+            "title": "MolProbity: all-atom structure validation for macromolecular crystallography", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Arendall", 
+                    "suffix": "III"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Keedy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Immormino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kapral"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Murray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Richardson"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/cdg068", 
+            "year": "2003", 
+            "title": "Structural basis for recruitment of glycogen synthase kinase 3beta to the axin-APC scaffold complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Dajani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fraser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Roe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yeo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VM", 
+                    "surname": "Good"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Thompson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Dale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Pearl"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature", 
+            "doi": "10.1038/378785a0", 
+            "year": "1995", 
+            "title": "Inhibition of glycogen synthase kinase-3 by insulin mediated by protein kinase B", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Cross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Alessi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Andjelkovich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Hemmings"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04170", 
+            "year": "2005", 
+            "title": "Casein kinase 1 gamma couples Wnt receptor activation to cytoplasmic signal transduction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Davidson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bilic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Fenger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Stannek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Glinka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Niehrs"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(01)00374-9", 
+            "year": "2001", 
+            "title": "Crystal structure of glycogen synthase kinase 3 beta: structural basis for phosphate-primed substrate specificity and autoinhibition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Dajani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fraser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Roe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Good"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Dale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Pearl"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Nature Structural Biology", 
+            "doi": "10.1038/nsb780", 
+            "year": "2002", 
+            "title": "Crystal structure of a transition state mimic of the catalytic subunit of cAMP-dependent protein kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "surname": "Madhusudan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Akamine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NH", 
+                    "surname": "Xuong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M800327200", 
+            "year": "2008", 
+            "title": "Wnt signal amplification via activity, cooperativity, and regulation of multiple intracellular PPPSP motifs in the Wnt co-receptor LRP6", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BT", 
+                    "surname": "MacDonald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Yokota"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Tamai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "He"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444904019158", 
+            "year": "2004", 
+            "title": "Coot: model-building tools for molecular graphics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Emsley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cowtan"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2007.04.001", 
+            "year": "2007", 
+            "title": "Functional redundancy of GSK-3alpha and GSK-3beta in Wnt/beta-catenin signaling shown by using an allelic series of embryonic stem cell lines", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BW", 
+                    "surname": "Doble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Patel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "Wood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LK", 
+                    "surname": "Kockeritz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Woodgett"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "The FASEB Journal", 
+            "doi": "10.1096/fj.09-143743", 
+            "year": "2010", 
+            "title": "New potent dual inhibitors of CK2 and Pim kinases: discovery and structural insights", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lopez-Ramos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Prudent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Moucadel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Sautel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Barette"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lafanechere"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Mouawad"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Grierson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Schmidt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Florent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Filippakopoulos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Bullock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Knapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Reiser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cochet"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "The FEBS Journal", 
+            "doi": "10.1111/j.1742-4658.2009.07147.x", 
+            "year": "2009", 
+            "title": "Structural recognition of an optimized substrate for the ephrin family of receptor tyrosine kinaes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TL.", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Walker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Allai-Hassani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Parker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Turk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Dhe-Paganon"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Bioorganic & Medicinal Chemistry Letters", 
+            "doi": "10.1016/j.bmcl.2008.04.034", 
+            "year": "2008", 
+            "title": "Synthesis and structure based optimization of novel Akt inhibitors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Lippa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Pan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Corbett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Kauffman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Pandit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Robinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kozina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Marr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Borzillo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Knauth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EG", 
+                    "surname": "Barbacci-Tobin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Vincent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Troutman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Baker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rajamohan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kakar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Clark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Morris"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Science", 
+            "doi": "10.1126/science.1232389", 
+            "year": "2013b", 
+            "title": "Wnt stabilization of beta-catenin reveals principles for morphogen receptor-scaffold assemblies", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MV", 
+                    "surname": "Semonov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BT", 
+                    "surname": "MacDonald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Garcia Abreu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Peng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "He"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Biochemical and Biophysical Research", 
+            "doi": "10.1016/j.bbrc.2013.03.103", 
+            "year": "2013a", 
+            "title": "Development of Akt-activated GSK3beta inhibitory peptide", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Piao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BY", 
+                    "surname": "Yoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HR", 
+                    "surname": "Moon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NC", 
+                    "surname": "Ha"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Frontiers in Molecular Neuroscience", 
+            "doi": "10.3389/fnmol.2011.00040", 
+            "year": "2011", 
+            "title": "GSK-3: functional insights from cell biology and animal models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Kaidanovich-Beilin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Woodgett"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Cold Spring Harbour Perspectives in Biology", 
+            "doi": "10.1101/cshperspect.a007880", 
+            "year": "2012", 
+            "title": "Frizzled and LRP5/6 receptors for Wnt/beta-catenin signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BT", 
+                    "surname": "MacDonald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "He"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.272.12.7797", 
+            "year": "1997", 
+            "title": "Target protease specificity of the viral serpin CrmA. Analysis of five caspases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Snipas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Orth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Muzio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VM", 
+                    "surname": "Dixit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Salvesen"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04185", 
+            "year": "2005", 
+            "title": "A dual-kinase mechanism for Wnt co-receptor phosphorylation and activation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Tamai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Doble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Habas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Okamura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Woodgett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "He"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/16.22.6646", 
+            "year": "1997", 
+            "title": "The crystal structure of a phosphorylase kinase peptide substrate complex: kinase substrate recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Lowe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Noble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VT", 
+                    "surname": "Skamnaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NG", 
+                    "surname": "Oikonomakos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Owen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LN", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Frontiers in Bioscience", 
+            "doi": "10.2741/3324", 
+            "year": "2009", 
+            "title": "GSK-3 inhibitors and insulin receptor signaling in health, disease, and therapeutics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Wada"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Nature Structural Biology", 
+            "doi": "10.1038/89624", 
+            "year": "2001", 
+            "title": "Structure of GSK3beta reveals a primed phosphorylation mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "ter Haar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Coll"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Austen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Hsiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Swenson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jain"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0004926", 
+            "year": "2009", 
+            "title": "Inhibition of GSK3 phosphorylation of beta-catenin via phosphorylated PPPSPXS motifs of Wnt coreceptor LRP6", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Garcia Abreu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "He"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1994", 
+            "title": "Glycogen synthase kinase-3 beta is a dual specificity kinase differentially regulated by tyrosine and serine/threonine phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "QM", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Fiol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "DePaoli-Roach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Roach"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "International Journal of Alzheimer\u2019s Disease", 
+            "doi": "10.4061/2011/505607", 
+            "year": "2011", 
+            "title": "What are the bona fide GSK3 substrates?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Sutherland"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Cold Spring Harbour Perspectives in Biology", 
+            "doi": "10.1101/cshperspect.a007898", 
+            "year": "2013", 
+            "title": "The beta-catenin destruction complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Stamos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WI", 
+                    "surname": "Weis"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Journal of Pharmacological Sciences", 
+            "doi": "10.1254/jphs.08R28FM", 
+            "year": "2009", 
+            "title": "Drug development targeting the glycogen synthase kinase-3beta (GSK-3beta)-mediated signal transduction pathway: inhibitors of the Wnt/beta-catenin signaling pathway as novel anticancer drugs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Takahashi-Yanaga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sasaguri"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Journal of Medicinal Chemistry", 
+            "doi": "10.1021/jm301034u", 
+            "year": "2012", 
+            "title": "Selectivity, cocrystal structures, and neuroprotective properties of leucettines, a family of protein kinase inhibitors derived from the marine sponge alkaloid leucettamine B", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tahtouh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Elkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Filippakopoulos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Soundararajan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Burgy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Durieu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cochet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Schmid"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Lo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Delhommel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Oberholzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Pearl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Carreaux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Bazureau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Knapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Meijer"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Phosphorylation of the Wnt receptor LRP6 directly inhibits glycogen synthase kinase-3 by acting as a pseudosubstrate that stabilizes an active conformation of the enzyme, identical to autoinhibition by phosphorylation of its N terminus.", 
+    "publish": "1", 
+    "article-version-id": "01998.1", 
+    "volume": "3", 
+    "keywords": {
+        "author-keywords": [
+            "GSK-3", 
+            "Wnt signaling", 
+            "protein kinase", 
+            "LRP6"
+        ], 
+        "research-organism": [
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.01998", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-5": {
+                "award-id": "Postdoctoral Fellowship", 
+                "institution": "Canadian Institutes of Health Research"
+            }, 
+            "par-4": {
+                "award-id": "Postdoctoral Fellowship", 
+                "institution": "American Heart Association"
+            }, 
+            "par-3": {
+                "award-id": "T32 GM007276", 
+                "institution": "National Institutes of Health"
+            }, 
+            "par-2": {
+                "award-id": "AG39420", 
+                "institution": "National Institutes of Health"
+            }, 
+            "par-1": {
+                "award-id": "GM56169", 
+                "institution": "National Institutes of Health"
+            }
+        }, 
+        "related-object": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Molecular and Cellular Physiology", 
+                "city": "Stanford", 
+                "institution": "Stanford University", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Structural Biology", 
+                "city": "Stanford", 
+                "institution": "Stanford University", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "JLS, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "ML-HC, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "MDE, Conception and design, Acquisition of data, Analysis and interpretation of data", 
+            "con4": "NS, Conception and design, Analysis and interpretation of data", 
+            "con5": "WIW, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "bill.weis@stanford.edu"
+        }
+    }, 
+    "path": "content/3/e01998", 
+    "fragments": [
+        {
+            "path": "content/3/e01998/abstract-1", 
+            "doi": "10.7554/eLife.01998.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e01998/abstract-2", 
+            "doi": "10.7554/eLife.01998.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e01998/F1", 
+            "doi": "10.7554/eLife.01998.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e01998/T1", 
+            "doi": "10.7554/eLife.01998.004", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/3/e01998/T2", 
+            "doi": "10.7554/eLife.01998.005", 
+            "type": "table-wrap", 
+            "title": "Table 2."
+        }, 
+        {
+            "path": "content/3/e01998/F2", 
+            "doi": "10.7554/eLife.01998.006", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e01998/F3", 
+            "doi": "10.7554/eLife.01998.007", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e01998/F4", 
+            "doi": "10.7554/eLife.01998.008", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e01998/media-1", 
+            "doi": "10.7554/eLife.01998.009", 
+            "type": "media", 
+            "title": "Video 1."
+        }, 
+        {
+            "path": "content/3/e01998/F5", 
+            "doi": "10.7554/eLife.01998.010", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e01998/F6", 
+            "doi": "10.7554/eLife.01998.011", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/3/e01998/T3", 
+            "doi": "10.7554/eLife.01998.012", 
+            "type": "table-wrap", 
+            "title": "Table 3."
+        }, 
+        {
+            "path": "content/3/e01998/F7", 
+            "doi": "10.7554/eLife.01998.013", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/3/e01998/1", 
+            "doi": "10.7554/eLife.01998.014", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Cole", 
+                    "given-names": "Philip", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Johns Hopkins University School of Medicine"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e01998/2", 
+            "doi": "10.7554/eLife.01998.015", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.01998", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

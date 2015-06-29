@@ -1,0 +1,3505 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Bonasio", 
+            "given-names": "Roberto", 
+            "references": {
+                "present-address": [
+                    "pa1"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "contribution": [
+                    "con1"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-11689"
+        }, 
+        {
+            "surname": "Lecona", 
+            "given-names": "Emilio", 
+            "references": {
+                "present-address": [
+                    "pa2"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "contribution": [
+                    "con2"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-11920"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Varun", 
+            "surname": "Narendra", 
+            "id": "author-11939", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Philipp", 
+            "surname": "Voigt", 
+            "id": "author-11940", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Fabio", 
+            "surname": "Parisi", 
+            "id": "author-11941", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Yuval", 
+            "surname": "Kluger", 
+            "id": "author-11942", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "surname": "Reinberg", 
+            "corresp": "yes", 
+            "given-names": "Danny", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con7"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-1172"
+        }, 
+        {
+            "surname": "Shilatifard", 
+            "given-names": "Ali", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Stowers Institute for Medical Research"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-07-01", 
+    "title": "Interactions with RNA direct the Polycomb group protein SCML2 to chromatin where it represses target genes", 
+    "citations": {
+        "bib34": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.1630", 
+            "year": "2010", 
+            "title": "GREAT improves functional interpretation of cis-regulatory regions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CY", 
+                    "surname": "McLean"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bristor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hiller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Clarke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BT", 
+                    "surname": "Schaar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Lowe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Wenger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bejerano"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0904715106", 
+            "year": "2009", 
+            "title": "Many human large intergenic noncoding RNAs associate with chromatin-modifying complexes and affect gene expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Khalil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Guttman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Huarte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Garber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Raj"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rivea Morales"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Thomas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Presser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Bernstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "van Oudenaarden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Regev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Lander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Rinn"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Current Opinion in Genetics & Development", 
+            "doi": "10.1016/j.gde.2010.03.003", 
+            "year": "2010", 
+            "title": "RNA traffic control of chromatin complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Koziol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Rinn"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Science", 
+            "doi": "10.1126/science.1076997", 
+            "year": "2002", 
+            "title": "Role of histone H3 lysine 27 methylation in Polycomb-group silencing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Xia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Erdjument-Bromage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tempst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhang"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.17446611", 
+            "year": "2011", 
+            "title": "Integrative annotation of human large intergenic noncoding RNAs reveals global properties and specific subclasses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Cabili"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Goff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koziol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Tazon-Vega"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Regev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Rinn"
+                }
+            ]
+        }, 
+        "bib17": {
+            "comment": "Chapter 13, Unit 13 11", 
+            "doi": "10.1002/0471250953.bi1311s27", 
+            "title": "Extracting biological meaning from large gene lists with DAVID", 
+            "year": "2009", 
+            "source": "Current Protocols in Bioinformatics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Huang da"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BT", 
+                    "surname": "Sherman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Imamichi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Stephens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Lempicki"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2010-11-10-r106", 
+            "year": "2010", 
+            "title": "Differential expression analysis for sequence count data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Anders"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Huber"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0067217", 
+            "year": "2013", 
+            "title": "Identification and validation of a putative polycomb responsive element in the human genome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Bengani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mendiratta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Maini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Vasanthi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sultana"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ghasemi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ahluwalia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ramachandran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Mishra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Brahmachari"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1102223108", 
+            "year": "2011", 
+            "title": "Genome-wide remodeling of the epigenetic landscape during myogenic differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Asp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Blum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Vethantham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Parisi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Micsinai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bowman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kluger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Dynlacht"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Science", 
+            "doi": "10.1126/science.1191078", 
+            "year": "2010b", 
+            "title": "Molecular signals of epigenetic states", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bonasio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Tu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Seminars in Cell & Developmental Biology", 
+            "doi": "10.1016/j.semcdb.2009.09.010", 
+            "year": "2010a", 
+            "title": "MBT domain proteins in development and disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bonasio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lecona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Genetics", 
+            "year": "1998", 
+            "title": "Expression and properties of wild-type and mutant forms of the Drosophila sex comb on midleg (SCM) repressor protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bornemann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Simon"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Development", 
+            "year": "1996", 
+            "title": "The Drosophila Polycomb group gene Sex comb on midleg (Scm) encodes a zinc finger protein with similarity to polyhomeotic protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bornemann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Simon"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2009-10-3-r25", 
+            "year": "2009", 
+            "title": "Ultrafast and memory-efficient alignment of short DNA sequences to the human genome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Langmead"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pop"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Salzberg"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00650-07", 
+            "year": "2008", 
+            "title": "Upregulation of annexin A1 expression by butyrate in human colon adenocarcinoma cells: role of p53, NF-Y, and p38 mitogen-activated protein kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lecona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JI", 
+                    "surname": "Barrasa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Olmo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Llorente"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Turnay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Lizarbe"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Nature Structural Biology", 
+            "doi": "10.1038/79575", 
+            "year": "2000", 
+            "title": "Induced fit in RNA-protein recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Williamson"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.12.022", 
+            "year": "2010", 
+            "title": "A region of the human HOXD cluster that confers polycomb-group responsiveness", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Woo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Kharchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Daheron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Kingston"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2004.08.031", 
+            "year": "2004", 
+            "title": "Human SirT1 interacts with histone H1 and promotes formation of facultative heterochromatin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vaquero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Scher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Erdjument-Bromage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tempst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2012.09.002", 
+            "year": "2012", 
+            "title": "Asymmetrically modified nucleosomes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Voigt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "LeRoy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Drury", 
+                    "suffix": "III"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Zee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Son"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Beck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NL", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Garcia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2011.08.018", 
+            "year": "2011", 
+            "title": "Molecular mechanisms of long noncoding RNAs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Chang"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09819", 
+            "year": "2011", 
+            "title": "A long noncoding RNA maintains active chromatin to coordinate homeotic gene expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YW", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sanyal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Corces-Zimmerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Lajoie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Protacio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Flynn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Gupta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wysocka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Dekker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Helms"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Chang"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1983810", 
+            "year": "2010", 
+            "title": "Phosphorylation of the PRC2 component Ezh2 is cell cycle-regulated and up-regulates its binding to ncRNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kaneko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Son"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Margueron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Neubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2700", 
+            "year": "2013", 
+            "title": "PRC2 binds active promoters and contacts nascent RNAs in embryonic stem cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kaneko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Son"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bonasio"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2010.03.019", 
+            "year": "2010", 
+            "title": "Short RNAs are transcribed from repressed polycomb target genes and interact with polycomb repressive complex-2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kanhere"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Viiri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Araujo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rasaiyaah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Bouwman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Whyte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Pereira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Brookes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Walker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Bell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pombo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Fisher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "Jenner"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Science", 
+            "doi": "10.1126/science.1138341", 
+            "year": "2007", 
+            "title": "RNA maps reveal new RNA classes and a possible function for pervasive transcription", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kapranov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Dike"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Nix"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Duttagupta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Willingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PF", 
+                    "surname": "Stadler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hertel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hackerm\u00fcller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IL", 
+                    "surname": "Hofacker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Bell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Cheung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Drenkow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dumais"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Patel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Helt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ganesh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ghosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Piccolboni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Sementchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tammana"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Gingeras"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00275-13", 
+            "year": "2013", 
+            "title": "Variable requirements for DNA-binding proteins at polycomb-dependent repressive regions in human HOX clusters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Woo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Kharchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Daheron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Kingston"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2010.03.021", 
+            "year": "2010", 
+            "title": "Molecular interplay of the noncoding RNA ANRIL and methylated histone H3 lysine 27 by polycomb CBX7 in transcriptional silencing of INK4a", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Yap"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Munoz-Cabello"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Raguz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mujtaba"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Walsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Zhou"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/S1097-2765(04)00185-6", 
+            "year": "2004", 
+            "title": "Different EZH2-containing complexes target methylation of histone H1 or nucleosomal histone H3", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kuzmichev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Jenuwein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tempst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1035902", 
+            "year": "2002", 
+            "title": "Histone methyltransferase activity associated with a human multiprotein complex containing the enhancer of zeste protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kuzmichev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Nishioka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Erdjument-Bromage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tempst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)80604-2", 
+            "year": "1999", 
+            "title": "Stabilization of chromatin structure by PRC1, a Polycomb complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Shao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Raible"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Mollaaghababa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Guyon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bender"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Kingston"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Development", 
+            "year": "1992", 
+            "title": "Ten different Polycomb group genes are required for spatial control of the abdA and AbdB homeotic products", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Simon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Chiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bender"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M306469200", 
+            "year": "2003", 
+            "title": "Crystal structure of the malignant brain tumor (MBT) repeats in Sex Comb on Midleg-like 2 (SCML2)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sathyamurthy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Allen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Murzin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bycroft"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2007.02.009", 
+            "year": "2007", 
+            "title": "Genome regulation by polycomb and trithorax proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Schuettengruber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chourrout"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Vervoort"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Leblanc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Cavalli"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Genetics", 
+            "year": "2001", 
+            "title": "Long-range repression by multiple polycomb group (PcG) proteins targeted by fusion to a defined DNA-binding domain in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Roseman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Morgan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Mallin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Roberson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Parnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Bornemann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Simon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PK", 
+                    "surname": "Geyer"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2008.07.081", 
+            "year": "2008", 
+            "title": "The malignant brain tumor repeats of human SCML2 bind to peptides containing monomethylated lysine", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Santiveri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Lechtenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Allen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sathyamurthy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Jaulent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SMV", 
+                    "surname": "Freund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bycroft"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Cell Death & Disease", 
+            "doi": "10.1038/cddis.2011.84", 
+            "year": "2011", 
+            "title": "Roles of the Polycomb group proteins in stem cells and cancer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Richly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Aloia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Di Croce"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2007.05.022", 
+            "year": "2007", 
+            "title": "Functional Demarcation of active and Silent chromatin domains in human HOX loci by noncoding RNAs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Rinn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kertesz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Squazzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Brugmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Goodnough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Helms"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Farnham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Segal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Chang"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Genetics", 
+            "doi": "10.1534/genetics.104.027474", 
+            "year": "2004", 
+            "title": "Requirement for sex comb on midleg protein interactions in Drosophila polycomb group repression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Peterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Mallin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "Francis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Ketel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Stamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Voeller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Kingston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Simon"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2064", 
+            "year": "2011", 
+            "title": "Structure-function studies of FMRP RGG peptide recognition of an RNA duplex-quadruplex junction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Phan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Kuryavyi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Darnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Serganov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Majumdar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ilin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Raslin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Polonskaia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Clain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Darnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Patel"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btp612", 
+            "year": "2010a", 
+            "title": "DEGseq: an R package for identifying differentially expressed genes from RNA-seq data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Feng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.01451-09", 
+            "year": "2010b", 
+            "title": "Comparative analysis of chromatin binding by Sex Comb on Midleg (SCM) and other polycomb group repressors at a Drosophila Hox gene", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Jahren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Ketel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Mallin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Simon"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Development", 
+            "doi": "10.1242/dev.02747", 
+            "year": "2007", 
+            "title": "Mammalian Polycomb Scmh1 mediates exclusion of Polycomb complexes from the XY body in the pachytene spermatocytes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Takada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K-i", 
+                    "surname": "Isono"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shinga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JMA", 
+                    "surname": "Turner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kitamura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Ohara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Watanabe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Singh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kamijo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Jenuwein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Burgoyne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Koseki"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2011.12.029", 
+            "year": "2012", 
+            "title": "RYBP-PRC1 complexes mediate H2A ubiquitylation at polycomb target sites independently of PRC2 and H3K27me3", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Tavares"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dimitrova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Oxley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Webster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Poot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Demmers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Bezstarosti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Koide"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Wutz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Vidal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Elderkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Brockdorff"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2679", 
+            "year": "2013", 
+            "title": "Promiscuous RNA binding by Polycomb repressive complex 2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Davidovich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Goodrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0036365", 
+            "year": "2012", 
+            "title": "A novel human polycomb binding site acts as a functional polycomb response element in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Cuddapah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TY", 
+                    "surname": "Roh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Jose"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Fuller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1824", 
+            "year": "2010", 
+            "title": "Role for the MOV10 RNA helicase in polycomb-mediated repression of the INK4a tumor suppressor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "El Messaoudi-Aubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nicholls"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GN", 
+                    "surname": "Maertens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brookes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Bernstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Peters"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/11.5.1475", 
+            "year": "1983", 
+            "title": "Accurate transcription initiation by RNA polymerase II in a soluble extract from isolated mammalian nuclei", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Dignam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Lebovitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "Roeder"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2012.01.002", 
+            "year": "2012", 
+            "title": "PCGF homologs, CBX proteins, and RYBP define functionally distinct PRC1 family complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bonasio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Strino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sawai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Parisi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kluger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nature Reviews Molecular cell Biology", 
+            "doi": "10.1038/nrm2738", 
+            "year": "2009", 
+            "title": "Regulatory roles of natural antisense transcripts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Faghihi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wahlestedt"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkp596", 
+            "year": "2009", 
+            "title": "Transcriptome analysis by strand-specific sequencing of complementary DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Parkhomchuk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Borodina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Amstislavskiy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Banaru"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Hallen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Krobitsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lehrach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Soldatov"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng.336", 
+            "year": "2009", 
+            "title": "Multiple recurrent genetic events converge on control of histone lysine methylation in medulloblastoma", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Northcott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Nakahara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Feuk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Ellison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Croul"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mack"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PN", 
+                    "surname": "Kongkham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Peacock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Dubuc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YS", 
+                    "surname": "Ra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zilberberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "McLeod"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Scherer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sunil Rao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Eberhart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Grajkowska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Gillespie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Lach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Grundy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IF", 
+                    "surname": "Pollack"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Hamilton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Van Meter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Carlotti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Boop"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bigner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Gilbertson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Rutka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Taylor"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2013.11.012", 
+            "year": "2014", 
+            "title": "Interactions between JARID2 and noncoding RNAs regulate PRC2 recruitment to chromatin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kaneko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bonasio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Saldana-Meyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yoshida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Son"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Nishino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Umezawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Oncogene", 
+            "doi": "10.1038/sj.onc.1209119", 
+            "year": "2006", 
+            "title": "A survey of the signaling pathways involved in megakaryocytic differentiation of the human K562 leukemia cell line by molecular and c-DNA array analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jacquel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Herrant"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Defamie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Belhacene"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Colosetti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Marchetti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Legros"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Deckert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Mari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Cassuto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hofman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Auberger"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.2158", 
+            "year": "2012", 
+            "title": "Inhibition of natural antisense transcripts in vivo results in gene-specific transcriptional upregulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Modarresi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Faghihi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Lopez-Toledano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Fatemi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Magistri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Brothers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "van der Brug"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wahlestedt"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "EMBO Reports", 
+            "doi": "10.1038/sj.embor.7401085", 
+            "year": "2007", 
+            "title": "Structural and functional analyses of methyl-lysine binding by the malignant brain tumour repeat protein Sex comb on midleg", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Grimm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "de Ayala Alonso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Rybin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Steuerwald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Ly-Hartig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Fischle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "M\u00fcller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "M\u00fcller"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2008.11.004", 
+            "year": "2008", 
+            "title": "Ezh1 and Ezh2 maintain repressive chromatin through different mechanisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Margueron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sarma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Blais"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zavadil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Woodcock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Dynlacht"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Nature", 
+            "doi": "10.1038/276565a0", 
+            "year": "1978", 
+            "title": "A gene complex controlling segmentation in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EB", 
+                    "surname": "Lewis"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.22.17.6070-6078.2002", 
+            "year": "2002", 
+            "title": "The core of the polycomb repressive complex is compositionally and functionally conserved in flies and humans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Weiss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Erdjument-Bromage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Shao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tempst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Kingston"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "PLOS Biology", 
+            "doi": "10.1371/journal.pbio.1001737", 
+            "year": "2013", 
+            "title": "Polycomb protein SCML2 regulates the cell cycle by binding and modulating CDK/CYCLIN/p21 complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lecona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Rojas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bonasio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Johnston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Fernandez-Capetillo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2012.08.022", 
+            "year": "2012", 
+            "title": "Histone recognition by human malignant brain tumor domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Nady"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Krichevsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Zhong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Duan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Tempel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Amaya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ravichandran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Arrowsmith"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Science", 
+            "doi": "10.1126/science.1192002", 
+            "year": "2010", 
+            "title": "Long noncoding RNA as modular scaffold of histone modification complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Tsai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Manor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Mosammaparast"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Segal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Chang"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2007.03.048", 
+            "year": "2007", 
+            "title": "L3MBTL1, a histone-methylation-dependent chromatin Lock", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Trojer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Sims"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vaquero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kalakonda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Boccuni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Erdjument-Bromage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tempst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Nimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YH", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Current Opinion in Genetics & Development", 
+            "doi": "10.1016/j.gde.2006.08.005", 
+            "year": "2006", 
+            "title": "Polycomb response elements and targeting of Polycomb group proteins in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "M\u00fcller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kassis"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Nature", 
+            "doi": "10.1038/293036a0", 
+            "year": "1981", 
+            "title": "A gene product required for correct initiation of segmental determination in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Struhl"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Nature Reviews Cancer", 
+            "doi": "10.1038/nrc1991", 
+            "year": "2006", 
+            "title": "Polycomb silencers control cell fate, development and cancer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sparmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "van Lohuizen"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2008-9-9-r137", 
+            "year": "2008", 
+            "title": "Model-based analysis of ChIP-Seq (MACS)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Meyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Eeckhoute"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Bernstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Nussbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Myers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XS", 
+                    "surname": "Liu"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2011.11.032", 
+            "year": "2012", 
+            "title": "Direct recruitment of polycomb repressive complex 1 to chromatin by core binding transcription factors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Mazor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HT", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Kathrein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Woo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Chouinard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Labadorf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Akie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TB", 
+                    "surname": "Moran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Zacharek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Taniuchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "Roeder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LI", 
+                    "surname": "Zon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fraenkel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Cantor"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2013.02.013", 
+            "year": "2013", 
+            "title": "Occupying chromatin: polycomb mechanisms for getting to genomic targets, stopping transcriptional traffic, and staying put", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Simon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Kingston"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm2763", 
+            "year": "2009", 
+            "title": "Mechanisms of polycomb gene silencing: knowns and unknowns", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Simon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Kingston"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.04.042", 
+            "year": "2009", 
+            "title": "Defining the human deubiquitinating enzyme interaction landscape", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Sowa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Bennett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gygi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Harper"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.08.020", 
+            "year": "2009", 
+            "title": "A vertebrate Polycomb response element governs segmentation of the posterior hindbrain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Pannell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Karaiskakis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sturgeon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Djabali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ellis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HD", 
+                    "surname": "Lipshitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Cordes"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The Polycomb group protein SCML2 contributes to the assembly and gene silencing function of Polycomb Repressive Complex 1 (PRC1) and requires an RNA-binding region to reach chromatin targets.", 
+    "publish": "1", 
+    "article-version-id": "02637.1", 
+    "volume": "3", 
+    "keywords": {
+        "author-keywords": [
+            "Polycomb", 
+            "noncoding RNAs", 
+            "chromatin", 
+            "SCML2", 
+            "PRC1", 
+            "MBT"
+        ], 
+        "research-organism": [
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.02637", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {
+            "pa1": "Department of Cell and Developmental Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, United States", 
+            "pa2": "Genome Instability Group, Spanish National Cancer Research Centre (CNIO), Madrid, Spain"
+        }, 
+        "competing-interest": {
+            "conf2": "The authors declare that no competing interests exist.", 
+            "conf1": "DR: Reviewing editor, <italic>eLife</italic>."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "CA-16359", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute (HHMI)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM-64844, R37-37120", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}
+        }, 
+        "affiliation": {
+            "aff3": {
+                "dept": "Yale Cancer Center", 
+                "city": "New Haven", 
+                "institution": "Yale University School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Department of Pathology", 
+                "city": "New Haven", 
+                "institution": "Yale University School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Biochemistry and Molecular Pharmacology", 
+                "city": "New York", 
+                "institution": "Howard Hughes Medical Institute, New York University School of Medicine", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {
+            "equal-contrib": "These authors contributed equally to this work"
+        }, 
+        "contribution": {
+            "con1": "RB, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "EL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "VN, Acquisition of data, Analysis and interpretation of data", 
+            "con4": "PV, Acquisition of data, Analysis and interpretation of data", 
+            "con5": "FP, Analysis and interpretation of data, Drafting or revising the article", 
+            "con6": "YK, Analysis and interpretation of data, Drafting or revising the article", 
+            "con7": "DR, Conception and design, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "danny.reinberg@nyumc.org"
+        }
+    }, 
+    "path": "content/3/e02637", 
+    "fragments": [
+        {
+            "path": "content/3/e02637/abstract-1", 
+            "doi": "10.7554/eLife.02637.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e02637/abstract-2", 
+            "doi": "10.7554/eLife.02637.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e02637/F1", 
+            "doi": "10.7554/eLife.02637.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e02637/F2", 
+            "fragments": [
+                {
+                    "path": "content/3/e02637/F2/F3", 
+                    "doi": "10.7554/eLife.02637.005", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e02637/F2/F4", 
+                    "doi": "10.7554/eLife.02637.006", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.02637.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e02637/F5", 
+            "fragments": [
+                {
+                    "path": "content/3/e02637/F5/F6", 
+                    "doi": "10.7554/eLife.02637.008", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02637.007", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e02637/F7", 
+            "fragments": [
+                {
+                    "path": "content/3/e02637/F7/F8", 
+                    "doi": "10.7554/eLife.02637.010", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02637.009", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e02637/F9", 
+            "fragments": [
+                {
+                    "path": "content/3/e02637/F9/F10", 
+                    "doi": "10.7554/eLife.02637.012", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02637.011", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e02637/F11", 
+            "fragments": [
+                {
+                    "path": "content/3/e02637/F11/F12", 
+                    "doi": "10.7554/eLife.02637.014", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02637.013", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/3/e02637/F13", 
+            "fragments": [
+                {
+                    "path": "content/3/e02637/F13/F14", 
+                    "doi": "10.7554/eLife.02637.016", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02637.015", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/3/e02637/DC1", 
+            "doi": "10.7554/eLife.02637.017", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/3/e02637/1", 
+            "doi": "10.7554/eLife.02637.018", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Shilatifard", 
+                    "given-names": "Ali", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Stowers Institute for Medical Research"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e02637/2", 
+            "doi": "10.7554/eLife.02637.019", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.02637", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Genes and chromosomes"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

@@ -1,0 +1,2468 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Yun", 
+            "surname": "Bai", 
+            "id": "author-14929", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Akshay", 
+            "surname": "Tambe", 
+            "id": "author-15267", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Kaihong", 
+            "surname": "Zhou", 
+            "id": "author-15268", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Doudna", 
+            "corresp": "yes", 
+            "given-names": "Jennifer A", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2", 
+                    "aff3", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-3402"
+        }, 
+        {
+            "surname": "Nilsen", 
+            "given-names": "Timothy", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Case Western Reserve University"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-08-27", 
+    "title": "RNA-guided assembly of Rev-RRE nuclear export complexes", 
+    "citations": {
+        "bib34": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2009-10-3-r25", 
+            "year": "2009", 
+            "title": "Ultrafast and memory-efficient alignment of short DNA sequences to the human genome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Langmead"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pop"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Salzberg"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)00065-9", 
+            "year": "2000", 
+            "title": "Identification of a regulated pathway for nuclear pre-mRNA turnover", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bousquet-Antonelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Presutti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Tollervey"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2006.06.048", 
+            "year": "2006", 
+            "title": "Two distinct binding modes of a protein cofactor with its target RNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bokinsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LG", 
+                    "surname": "Nivon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Chai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhuang"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2008.07.016", 
+            "year": "2008", 
+            "title": "A solution to limited genomic capacity: using adaptable binding surfaces to assemble the functional HIV Rev oligomer on RNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Daugherty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "D'Orso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Frankel"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature", 
+            "doi": "10.1038/nature07298", 
+            "year": "2008", 
+            "title": "Concurrent nucleation of 16S folding and induced fit in 30S ribosome assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Adilakshmi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Bellur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Woodson"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1106541108", 
+            "year": "2011b", 
+            "title": "Modeling and automation of sequencing-based characterization of RNA structure", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aviran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Lucks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Mortimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GP", 
+                    "surname": "Schroth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Arkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Proceedings of the 49th Allerton Conference on Communication, Control, and Computing", 
+            "year": "2011a", 
+            "title": "RNA structure characterization from chemical mapping experiments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aviran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Lucks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Science", 
+            "doi": "10.1126/science.273.5281.1547", 
+            "year": "1996", 
+            "title": "Alpha helix-RNA major groove recognition in an HIV-1 rev peptide-RRE RNA complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Battiste"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Mao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Rao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Muhandiram"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LE", 
+                    "surname": "Kay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Frankel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Williamson"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkt543", 
+            "year": "2013", 
+            "title": "Hepatitis C virus 3'UTR regulates viral translation through direct interactions with the host translation machinery", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Bai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Nature Chemical Biology", 
+            "doi": "10.1038/nchembio.232", 
+            "year": "2009", 
+            "title": "The role of dynamic conformational ensembles in biomolecular recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Boehr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Nussinov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Wright"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Structure", 
+            "doi": "10.1016/j.str.2011.08.002", 
+            "year": "2011", 
+            "title": "Crystal structure of the HCV IRES central domain reveals strategy for start-codon positioning", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Berry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Waghray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Mortimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Bai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.1353", 
+            "year": "2009", 
+            "title": "Robust, high-throughput solution structural analyses by small angle X-ray scattering (SAXS)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GL", 
+                    "surname": "Hura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Menon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hammel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Rambo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FL", 
+                    "surname": "Poole", 
+                    "suffix": "II"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Tsutakawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FE", 
+                    "surname": "Jenney", 
+                    "suffix": "Jnr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Classen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Frankel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Hopkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Scott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Dillard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Adams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Tainer"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1110064108", 
+            "year": "2011", 
+            "title": "Accurate sampling and deep sequencing of the HIV-1 protease gene using a Primer ID", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Jabara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Roach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Anderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Swanstrom"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "RNA", 
+            "doi": "10.1261/rna.1166808", 
+            "year": "2008", 
+            "title": "ShapeFinder: a software system for high-throughput quantitative analysis of nucleic acid reactivity information resolved by capillary electrophoresis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Vasa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Guex"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Wilkinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Giddings"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Journal of Virology", 
+            "doi": "10.1128/JVI.01520-08", 
+            "year": "2009", 
+            "title": "Trafficking through the Rev/RRE pathway is essential for efficient inhibition of human immunodeficiency virus type 1 by an antisense RNA derived from the envelope gene", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Ward"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rekosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Hammarskjold"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08237", 
+            "year": "2009", 
+            "title": "Architecture and secondary structure of an entire HIV-1 RNA genome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Watts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KK", 
+                    "surname": "Dang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Gorelick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "Leonard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Bess", 
+                    "suffix": "Jnr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Swanstrom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Burch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2004.09.029", 
+            "year": "2004", 
+            "title": "Requirement of DDX3 DEAD box RNA helicase for HIV-1 Rev-RRE export function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VS", 
+                    "surname": "Yedavalli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Neuveut"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YH", 
+                    "surname": "Chi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Kleiman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Jeang"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.95.25.14863", 
+            "year": "1998", 
+            "title": "Cluster analysis and display of genome-wide expression patterns", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Eisen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PT", 
+                    "surname": "Spellman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PO", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Botstein"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.10.008", 
+            "year": "2013", 
+            "title": "An unusual topological structure of the HIV-1 Rev response element", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Fang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IP", 
+                    "surname": "O'Carroll"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mitchell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zuo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Rausch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Dyba"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kjems"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Schwieters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Seifert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Winans"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Watts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Stahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PT", 
+                    "surname": "Wingfield"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Byrd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "Le Grice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YX", 
+                    "surname": "Wang"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi00194a002", 
+            "year": "1994", 
+            "title": "Inhibition of human immunodeficiency virus type-1 env expression by C-5 propyne oligonucleotides specific for Rev-response element stem-loop V", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Fenster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Wagner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Froehler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Chin"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)80371-2", 
+            "year": "1997", 
+            "title": "CRM1 is an export receptor for leucine-rich nuclear export signals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fornerod"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ohno"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yoshida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IW", 
+                    "surname": "Mattaj"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Science", 
+            "doi": "10.1126/science.1230715", 
+            "year": "2013", 
+            "title": "A guanosine-centric mechanism for RNA chaperone function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Grohman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Gorelick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Lickwar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Lieb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Bower"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Znosko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(90)90671-Z", 
+            "year": "1990", 
+            "title": "HIV-1 regulator of virion expression (Rev) protein binds to an RNA stem-loop structure located within the Rev response element region", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Heaphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Dingwall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Ernberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Gait"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Green"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Karn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Lowe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Singh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Skinner"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.88.16.7366", 
+            "year": "1991", 
+            "title": "Human immunodeficiency virus type 1 regulator of virion expression, rev, forms nucleoprotein filaments after binding to a purine-rich \u201cbubble\u201d located within the rev-responsive region of viral mRNAs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Heaphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Finch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Gait"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Karn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Singh"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Journal of Virology", 
+            "year": "1991", 
+            "title": "Minimal Rev-response element for type 1 human immunodeficiency virus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "XJ", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Hope"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Bond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "McDonald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Grahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TG", 
+                    "surname": "Parslow"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0807388106", 
+            "year": "2009", 
+            "title": "HIV-1 Rev protein assembles on viral RNA one molecule at a time", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Pond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WK", 
+                    "surname": "Ridgeway"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Robertson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Millar"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Biopolymers", 
+            "doi": "10.1002/bip.21638", 
+            "year": "2011", 
+            "title": "Characterizing flexible and intrinsically unstructured biological macromolecules by SAS using the Porod-Debye law", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Rambo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Tainer"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Annual Review of Microbiology", 
+            "doi": "10.1146/annurev.micro.52.1.491", 
+            "year": "1998", 
+            "title": "The HIV-1 Rev protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VW", 
+                    "surname": "Pollard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Malim"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "PLOS Pathogens", 
+            "doi": "10.1371/journal.ppat.1003294", 
+            "year": "2013", 
+            "title": "Comparison of SIV and HIV-1 genomic RNA structures reveals impact of sequence evolution on conserved and non-conserved structural motifs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Pollom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KK", 
+                    "surname": "Dang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Potter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Gorelick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Burch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Swanstrom"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Journal of the American Chemical Society", 
+            "doi": "10.1021/ja8061216", 
+            "year": "2008", 
+            "title": "Time-resolved RNA SHAPE chemistry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Mortimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2009.126", 
+            "year": "2009", 
+            "title": "Time-resolved RNA SHAPE chemistry: quantitative RNA structure analysis in one-second snapshots and at single-nucleotide resolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Mortimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Journal of the American Chemical Society", 
+            "doi": "10.1021/ja043822v", 
+            "year": "2005", 
+            "title": "RNA structure analysis at single nucleotide resolution by selective 2'-hydroxyl acylation and primer extension (SHAPE)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Merino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Wilkinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Coughlan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Current Protocols in Chemical Biology", 
+            "doi": "10.1002/9780470559277.ch120019", 
+            "year": "2012", 
+            "title": "SHAPE-Seq: high-throughput RNA structure analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Mortimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aviran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Lucks"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1006/jmbi.1994.1488", 
+            "year": "1994", 
+            "title": "A molecular rheostat. Co-operative rev binding to stem I of the rev-response element modulates human immunodeficiency virus type-1 late gene expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Mann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Mikaelian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Zemmel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Green"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Lowe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kimura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Singh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Butler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Gait"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Karn"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Biopolymers", 
+            "doi": "10.1002/bip.22265", 
+            "year": "2013", 
+            "title": "Polyelectrolyte properties of single stranded DNA measured using SAXS and single-molecule FRET: beyond the wormlike chain model", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Meisburger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Sutton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Pabit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kirmizialtin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Elber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pollack"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1006/jmbi.1996.0285", 
+            "year": "1996", 
+            "title": "Flexible regions of RNA structure facilitate co-operative Rev assembly on the Rev-response element", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Zemmel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Kelley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Karn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Butler"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Nature", 
+            "doi": "10.1038/35030160", 
+            "year": "2000", 
+            "title": "The protein Aly links pre-messenger-RNA splicing to nuclear export in metazoans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Straesser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Katahira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hurt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Reed"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Antiviral Research", 
+            "doi": "10.1016/S0166-3542(01)00222-4", 
+            "year": "2002", 
+            "title": "Small molecule modulators of HIV Rev/Rev response element interaction identified by random screening", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Chapman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TB", 
+                    "surname": "Stanley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hazen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EP", 
+                    "surname": "Garvey"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "PLOS Pathogens", 
+            "doi": "10.1371/journal.ppat.0030054", 
+            "year": "2007", 
+            "title": "Rev proteins of human and simian immunodeficiency virus enhance RNA encapsidation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brandt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Blissenbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Grewe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Konietzny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Grunwald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Uberla"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Journal of Applied Crystallography", 
+            "doi": "10.1107/S0021889812048698", 
+            "year": "2013", 
+            "title": "Implementation and performance of SIBYLS: a dual endstation small-angle X-ray scattering and macromolecular crystallography beamline at the Advanced Light Source", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Classen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GL", 
+                    "surname": "Hura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Holton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Rambo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Rodic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "McGuire"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hammel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Meigs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Frankel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Tainer"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1006/jmbi.1996.0858", 
+            "year": "1997", 
+            "title": "A dynamic in vivo view of the HIV-I Rev-RRE interaction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Charpentier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Stutz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rosbash"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Trends in Biochemical Sciences", 
+            "doi": "10.1016/S0968-0004(03)00142-7", 
+            "year": "2003", 
+            "title": "Nuclear mRNA export: insights from virology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Cullen"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/19.7.1577", 
+            "year": "1991", 
+            "title": "Characterization of HIV-1 REV protein: binding stoichiometry and minimal RNA substrate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Cook"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Fisk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hauber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Usman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Daly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Rusche"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Nature", 
+            "doi": "10.1038/338254a0", 
+            "year": "1989", 
+            "title": "The HIV-1 rev trans-activator acts through a structured target sequence to activate nuclear export of unspliced viral mRNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Malim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hauber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Le"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JV", 
+                    "surname": "Maizel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Cullen"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(91)90158-U", 
+            "year": "1991", 
+            "title": "HIV-1 structural gene expression requires the binding of multiple Rev monomers to the viral RRE: implications for HIV-1 latency", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Malim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Cullen"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/bth078", 
+            "year": "2004", 
+            "title": "Open source clustering software", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "de Hoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Imoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nolan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Miyano"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1902", 
+            "year": "2010b", 
+            "title": "Structural basis for cooperative RNA binding and export complex assembly by HIV Rev", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Daugherty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Frankel"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Methods", 
+            "doi": "10.1016/j.ymeth.2010.06.007", 
+            "year": "2010", 
+            "title": "SHAPE-directed RNA secondary structure prediction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Low"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Weeks"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1007022107", 
+            "year": "2010a", 
+            "title": "HIV Rev response element (RRE) directs assembly of the Rev homooligomer into discrete asymmetric complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Daugherty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Booth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Jayaraman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Frankel"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi9719096", 
+            "year": "1998", 
+            "title": "Structural dynamics of HIV-1 Rev and its complexes with RRE and 5S RNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Seifert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Amberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Graf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Auer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Millar"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Journal of Applied Crystallography", 
+            "doi": "10.1107/S0021889803012779", 
+            "year": "2003", 
+            "title": "PRIMUS: a Windows PC-based system for small-angle scattering data analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Konarev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Volkov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Sokolova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MHJ", 
+                    "surname": "Koch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DI", 
+                    "surname": "Svergun"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.88.3.683", 
+            "year": "1991", 
+            "title": "Structural analysis of the interaction between the human immunodeficiency virus Rev protein and the Rev response element", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kjems"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sharp"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Nature", 
+            "doi": "10.1038/nature13039", 
+            "year": "2014", 
+            "title": "Protein-guided RNA dynamics during early ribosome assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Abeysirigunawarden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mayerle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ragunathan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Luthey-Schulten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Woodson"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.96.26.14937", 
+            "year": "1999", 
+            "title": "Splicing is required for rapid and efficient mRNA export in metazoans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Reed"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.274.25.17452", 
+            "year": "1999", 
+            "title": "Real-time kinetics of HIV-1 Rev-Rev response element interactions. definition of minimal binding sites on RNA and protein and stoichiometric analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DI", 
+                    "surname": "Van Ryk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Venkatesan"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(93)90280-4", 
+            "year": "1993", 
+            "title": "RNA recognition by an isolated alpha helix", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Buettner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hudson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Frankel"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1106501108", 
+            "year": "2011", 
+            "title": "Multiplexed RNA structure characterization with selective 2'-hydroxyl acylation analyzed by primer extension sequencing (SHAPE-Seq)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Lucks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Mortimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aviran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GP", 
+                    "surname": "Schroth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Arkin"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Antimicrobial Agents and Chemotherapy", 
+            "doi": "10.1128/AAC.00274-08", 
+            "year": "2008", 
+            "title": "Heterocyclic compounds that inhibit Rev-RRE function and human immunodeficiency virus type 1 replication", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Shuck-Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FF", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Willard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Raman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ptak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Hammarskjold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rekosh"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev-biochem-062608-160432", 
+            "year": "2011", 
+            "title": "Assembly of bacterial ribosomes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Shajani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Sykes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Williamson"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Molecular Biology International", 
+            "doi": "10.1155/2012/530754", 
+            "year": "2012", 
+            "title": "Probing Retroviral and Retrotransposon genome structures: the \u201cSHAPE\u201d of things to come", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sztuba-Solinska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "Le Grice"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Journal of Applied Crystallography", 
+            "doi": "10.1107/S0021889892001663", 
+            "year": "1992", 
+            "title": "Determination of the regularization parameter in indirect-transform methods using perceptual criteria", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Svergun"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "BMC Bioinformatics", 
+            "doi": "10.1186/1471-2105-11-129", 
+            "year": "2010", 
+            "title": "RNAstructure: software for RNA secondary structure prediction and analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Reuter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Mathews"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "RNA", 
+            "doi": "10.1261/rna.035006.112", 
+            "year": "2012", 
+            "title": "Intrinsic flexibility of snRNA hairpin loops facilitates protein binding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WT", 
+                    "surname": "Stump"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KB", 
+                    "surname": "Hall"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/bth349", 
+            "year": "2004", 
+            "title": "Java Treeview-extensible visualization of microarray data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Saldanha"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2011.04.026", 
+            "year": "2011", 
+            "title": "Single-molecule studies reveal that DEAD box protein DDX1 promotes oligomerization of HIV-1 Rev on the Rev response element", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Robertson-Anderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Edgcomb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Carmel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Williamson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Millar"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Tertiary folding of the Rev-response element (RRE) in HIV RNA ensures the rapid formation of the Rev-RRE viral ribonucleoprotein particle via a two-step process.", 
+    "publish": "1", 
+    "article-version-id": "03656.1", 
+    "volume": "3", 
+    "keywords": {
+        "author-keywords": [
+            "SHAPE-Seq", 
+            "HIV RRE-Rev complex", 
+            "RNA nuclear export"
+        ], 
+        "research-organism": [
+            "viruses"
+        ]
+    }, 
+    "doi": "10.7554/eLife.03656", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000057", 
+                "award-id": "The HARC Center, P50GM82250", 
+                "institution": "National Institute of General Medical Sciences", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Physical Biosciences Division", 
+                "city": "Berkeley", 
+                "institution": "Lawrence Berkeley National Laboratory", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Department of Chemistry", 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": null, 
+                "city": "Berkeley", 
+                "institution": "Howard Hughes Medical Institute, University of California, Berkeley", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Molecular and Cell Biology", 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "YB, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "AT, Acquisition of data, Contributed unpublished essential data or reagents", 
+            "con3": "KZ, Acquisition of data, Contributed unpublished essential data or reagents", 
+            "con4": "JAD, Conception and design, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "doudna@berkeley.edu"
+        }
+    }, 
+    "path": "content/3/e03656", 
+    "fragments": [
+        {
+            "path": "content/3/e03656/abstract-1", 
+            "doi": "10.7554/eLife.03656.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e03656/abstract-2", 
+            "doi": "10.7554/eLife.03656.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e03656/F1", 
+            "fragments": [
+                {
+                    "path": "content/3/e03656/F1/F2", 
+                    "doi": "10.7554/eLife.03656.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e03656/F1/F3", 
+                    "doi": "10.7554/eLife.03656.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.03656.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e03656/F4", 
+            "fragments": [
+                {
+                    "path": "content/3/e03656/F4/F5", 
+                    "doi": "10.7554/eLife.03656.007", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.03656.006", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e03656/F6", 
+            "fragments": [
+                {
+                    "path": "content/3/e03656/F6/F7", 
+                    "doi": "10.7554/eLife.03656.009", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.03656.008", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e03656/F8", 
+            "fragments": [
+                {
+                    "path": "content/3/e03656/F8/F9", 
+                    "doi": "10.7554/eLife.03656.011", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e03656/F8/F10", 
+                    "doi": "10.7554/eLife.03656.012", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.03656.010", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e03656/F11", 
+            "doi": "10.7554/eLife.03656.013", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e03656/F12", 
+            "doi": "10.7554/eLife.03656.014", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/3/e03656/DC1", 
+            "doi": "10.7554/eLife.03656.015", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/3/e03656/DC2", 
+            "doi": "10.7554/eLife.03656.016", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 2."
+        }, 
+        {
+            "path": "content/3/e03656/1", 
+            "doi": "10.7554/eLife.03656.017", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Nilsen", 
+                    "given-names": "Timothy", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Case Western Reserve University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e03656/2", 
+            "doi": "10.7554/eLife.03656.018", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.03656", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}
