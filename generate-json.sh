@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# installs the jat-scraper, the elife-article XML and runs the jats-scraper 
+# over the article XML into the article-json directory.
+# use ctrl-c to quit.
+# @author Luke Skibinski <l.skibinski@elifesciences.org>
+
 install_jats_scraper() {
     # destroy any trace of the jats-scraper
     rm -rf ./jats-scraper/
