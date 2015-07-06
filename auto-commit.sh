@@ -6,5 +6,5 @@
 
 set -e
 git add article-json/*.json
-git ci -m "automatic commit"
+git commit -m "automatic commit"
 git push origin master
