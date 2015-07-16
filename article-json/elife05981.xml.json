@@ -1,0 +1,3017 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Anthony W", 
+            "surname": "Azevedo", 
+            "id": "author-23059", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Thuy", 
+            "surname": "Doan", 
+            "id": "author-23060", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-4", 
+                    "par-9"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Hormoz", 
+            "surname": "Moaven", 
+            "id": "author-23051", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Iza", 
+            "surname": "Sokal", 
+            "id": "author-23052", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con8"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Faiza", 
+            "surname": "Baameur", 
+            "id": "author-23053", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Sergey A", 
+            "surname": "Vishnivetskiy", 
+            "id": "author-23054", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con7"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Kristoff T", 
+            "surname": "Homan", 
+            "id": "author-23055", 
+            "references": {
+                "affiliation": [
+                    "aff5"
+                ], 
+                "contribution": [
+                    "con9"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-10"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "John JG", 
+            "surname": "Tesmer", 
+            "id": "author-23056", 
+            "references": {
+                "affiliation": [
+                    "aff5"
+                ], 
+                "contribution": [
+                    "con10"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-7", 
+                    "par-8"
+                ]
+            }
+        }, 
+        {
+            "surname": "Gurevich", 
+            "given-names": "Vsevolod V", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-5"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0002-3950-5351", 
+            "type": "author", 
+            "id": "author-23057"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Jeannie", 
+            "surname": "Chen", 
+            "id": "author-23058", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-6"
+                ]
+            }
+        }, 
+        {
+            "surname": "Rieke", 
+            "corresp": "yes", 
+            "given-names": "Fred", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff6"
+                ], 
+                "contribution": [
+                    "con11"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-3406"
+        }, 
+        {
+            "surname": "Calabrese", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Emory University"
+                }
+            ], 
+            "given-names": "Ronald L", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1056"
+        }
+    ], 
+    "pub-date": "2015-04-24", 
+    "title": "C-terminal threonines and serines play distinct roles in the desensitization of rhodopsin, a G protein-coupled receptor", 
+    "citations": {
+        "bib34": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12133", 
+            "year": "2013", 
+            "title": "Crystal structure of pre-activated arrestin p44", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YJ", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "Hofmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OP", 
+                    "surname": "Ernst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Scheerer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H-W", 
+                    "surname": "Choe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Sommer"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2012.07.029", 
+            "year": "2012", 
+            "title": "Calcium feedback to cGMP synthesis strongly attenuates single-photon responses driven by long rhodopsin lifetimes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OP", 
+                    "surname": "Gross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EN", 
+                    "surname": "Pugh", 
+                    "suffix": "Jr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Burns"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1993", 
+            "title": "Visual arrestin interaction with rhodopsin. Sequential multisite binding ensures strict selectivity toward light-activated phosphorylated rhodopsin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Benovic"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M110.154526", 
+            "year": "2011", 
+            "title": "Differential G-protein-coupled receptor phosphorylation provides evidence for a signaling bar code", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Butcher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Prihandoko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Kong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "McWilliams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Edwards"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bottrill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mistry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Tobin"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nephron Physiology", 
+            "doi": "10.1152/physiol.00001.2010", 
+            "year": "2010", 
+            "title": "Lessons from photoreceptors: turning off G-protein signaling in living cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Burns"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EN", 
+                    "surname": "Pugh"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.0819-09.2009", 
+            "year": "2009", 
+            "title": "Arrestin competition influences the kinetics and variability of the single-photon responses of mammalian rod photoreceptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Doan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Azevedo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hurley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi052021h", 
+            "year": "2006", 
+            "title": "Differential phosphorylation of the rhodopsin cytoplasmic tail mediates the binding of arrestin and its splice variant, p44", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ascano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Robinson"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4750-10.2011", 
+            "year": "2011", 
+            "title": "Experimental protocols alter phototransduction: the implications for retinal processing at visual threshold", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Azevedo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Molecular Vision", 
+            "year": "2006", 
+            "title": "Arrestin residues involved in the functional binding of arrestin to phosphorylated, photolyzed rhodopsin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Ascano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Gregurick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Robinson"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.1984.sp015518", 
+            "year": "1984", 
+            "title": "The photocurrent, noise and spectral sensitivity of rods of the monkey Macaca fascicularis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Nunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Schnapf"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "The Journal of Physiology", 
+            "year": "1979", 
+            "title": "Responses of retinal rods to single photons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Lamb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Yau"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi982419w", 
+            "year": "1999", 
+            "title": "Rhodopsin's carboxyl-terminal threonines are required for wild-type arrestin-mediated quench of transducin activation in vitro", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Brannock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Weng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Robinson"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.107.114058", 
+            "year": "2008", 
+            "title": "Diffusion of the second messengers in the cytoplasm acts as a variability suppressor of the single photon response in vertebrate phototransduction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bisegna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Caruso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Andreucci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Hamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dibenedetto"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "The Journal of General Physiology", 
+            "doi": "10.1085/jgp.200308832", 
+            "year": "2003", 
+            "title": "Multiple steps of phosphorylation of activated rhodopsin can account for the reproducibility of vertebrate rod single-photon responses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Hamer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Nicholas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Tranchina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Liebman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Lamb"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.272.21.13869", 
+            "year": "1997", 
+            "title": "Agonist-induced desensitization, internalization, and phosphorylation of the sst2A somatostatin receptor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Hipkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Friedman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Clark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Eppler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Schonbrunn"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M706057200", 
+            "year": "2007", 
+            "title": "Regulation of arrestin binding by rhodopsin phosphorylation level", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Vishnivetskiy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Raman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Kennedy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hurley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/j.bpj.2008.10.016", 
+            "year": "2009", 
+            "title": "Overexpression of rhodopsin alters the structure and photoresponse of rod photoreceptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "XH", 
+                    "surname": "Wen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Brush"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Michaud"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Al-Ubaidi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Hamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dibenedetto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Anderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Makino"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M708974200", 
+            "year": "2008", 
+            "title": "Structures of rhodopsin kinase in different ligand states reveal key elements involved in G protein-coupled receptor kinase activation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Singh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Maeda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Palczewski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJG", 
+                    "surname": "Tesmer"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1982", 
+            "title": "Catecholamine-induced desensitization of turkey erythrocyte adenylate cyclase. Structural alterations in the beta-adrenergic receptor revealed by photoaffinity labeling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Stadel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Nambi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Lavin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Heald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.80.11.3173", 
+            "year": "1983", 
+            "title": "Catecholamine-induced desensitization of turkey erythrocyte adenylate cyclase is associated with phosphorylation of the beta-adrenergic receptor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Stadel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Nambi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "Shorr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DF", 
+                    "surname": "Sawyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Trends in Pharmacological Sciences", 
+            "doi": "10.1016/j.tips.2008.05.006", 
+            "year": "2008", 
+            "title": "Location, location, location...site-specific GPCR phosphorylation offers a mechanism for cell-type-specific signalling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Tobin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Butcher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Kong"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(02)00822-X", 
+            "year": "2002", 
+            "title": "Mechanisms regulating variability of the single photon responses of mammalian rod photoreceptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Field"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi991857f", 
+            "year": "2000", 
+            "title": "Phosphorylation modulates the affinity of light-activated rhodopsin for G protein and arrestin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Gibson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Parkes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Liebman"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature", 
+            "doi": "10.1038/36147", 
+            "year": "1998", 
+            "title": "X-ray crystal structure of arrestin from bovine rod outer segments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Granzin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Wilden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HW", 
+                    "surname": "Choe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Labahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Krafft"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "B\u00fcldt"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.5391-09.2010", 
+            "year": "2010", 
+            "title": "Control of Rhodopsin's active lifetime by Arrestin-1 expression in mammalian rods", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OP", 
+                    "surname": "Gross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Burns"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(00)80784-9", 
+            "year": "1999", 
+            "title": "Variability in the time course of single photon responses from toad rods: termination of rhodopsin's activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Whitlock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Lamb"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi00541a032", 
+            "year": "1982", 
+            "title": "Light-dependent phosphorylation of rhodopsin: number of phosphorylation sites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Wilden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "K\u00fchn"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Trends in Pharmacological Sciences", 
+            "doi": "10.1016/j.tips.2003.12.008", 
+            "year": "2004", 
+            "title": "The molecular acrobatics of arrestin activation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EV", 
+                    "surname": "Gurevich"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Current Opinion in Cell Biology", 
+            "doi": "10.1016/j.ceb.2013.10.007", 
+            "year": "2014", 
+            "title": "Extensive shape shifting underlies functional versatility of arrestins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EV", 
+                    "surname": "Gurevich"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(00)00093-3", 
+            "year": "2000", 
+            "title": "Rapid and reproducible deactivation of rhodopsin requires multiple phosphorylation sites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mendez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Burns"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Roca"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Simon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Science Signaling", 
+            "doi": "10.1126/scisignal.2001707", 
+            "year": "2011", 
+            "title": "Distinct phosphorylation sites on the {beta}2-adrenergic receptor establish a barcode that encodes differential functions of {beta}-arrestin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KN", 
+                    "surname": "Nobles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rajagopal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RT", 
+                    "surname": "Strachan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T-Y", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bressler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Hara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Shenoy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gygi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Progress in Retinal and Eye Research", 
+            "doi": "10.1016/S1350-9462(03)00017-X", 
+            "year": "2003", 
+            "title": "Rhodopsin phosphorylation: 30 years later", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Maeda"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0037832", 
+            "year": "2012", 
+            "title": "Rhodopsin expression level affects rod outer segment morphology and photoresponse kinetics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Makino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-H", 
+                    "surname": "Wen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Michaud"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HI", 
+                    "surname": "Covington"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dibenedetto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Hamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Caruso"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Molecular Pharmacology", 
+            "doi": "10.1124/mol.107.038570", 
+            "year": "2008", 
+            "title": "Distinct phosphorylation sites in the SST2A somatostatin receptor control internalization, desensitization, and arrestin binding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Dewi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Bee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Schonbrunn"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Science", 
+            "doi": "10.1126/science.2163110", 
+            "year": "1990", 
+            "title": "beta-Arrestin: a protein that regulates beta-adrenergic receptor function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Lohse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Benovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Codina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.96.2.736", 
+            "year": "1999", 
+            "title": "Morphological, physiological, and biochemical changes in rhodopsin knockout mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Krasnoperova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Calvert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Kosaras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Cameron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nicol\u00f3"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Makino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Sidman"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/S0006-3495(04)74301-5", 
+            "year": "2004", 
+            "title": "Experimental and computational studies of the desensitization process in the bovine rhodopsin-arrestin complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ascano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Robinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Gregurick"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi1001085", 
+            "year": "2010", 
+            "title": "Relationships among visual cycle retinoids, rhodopsin phosphorylation, and phototransduction in mouse eyes during light and dark adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nawrot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Garwin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Saari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hurley"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Science", 
+            "doi": "10.1126/science.1109237", 
+            "year": "2005", 
+            "title": "Transduction of receptor signals by \u00df-arrestins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Shenoy"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M113.450031", 
+            "year": "2013a", 
+            "title": "Critical role of the central 139-Loop in stability and binding selectivity of arrestin-1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Vishnivetskiy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Baameur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Findley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Cellular Signalling", 
+            "doi": "10.1016/j.cellsig.2013.07.009", 
+            "year": "2013b", 
+            "title": "Constitutively active rhodopsin mutants causing night blindness are effectively phosphorylated by GRKs but differ in arrestin-1 binding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Vishnivetskiy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Ostermaier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Singhal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Panneels"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Homan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Glukhova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Sligar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJG", 
+                    "surname": "Tesmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GFX", 
+                    "surname": "Schertler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Standfuss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/S0006-3495(98)77625-8", 
+            "year": "1998", 
+            "title": "Origin of reproducibility in the responses of retinal rods to single photons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0409534102", 
+            "year": "2005", 
+            "title": "Different G protein-coupled receptor kinases govern G protein and \u03b2-arrestin-mediated signaling of V2 vasopressin receptor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X-R", 
+                    "surname": "Ren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Reiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev.biochem.67.1.653", 
+            "year": "1998", 
+            "title": "G protein-coupled receptor kinases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Pitcher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "Freedman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12120", 
+            "year": "2013", 
+            "title": "Structure of active \u03b2-arrestin-1 bound to a G-protein-coupled receptor phosphopeptide", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Manglik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Kruse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RI", 
+                    "surname": "Reis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W-C", 
+                    "surname": "Tseng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Staus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hilger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Uysal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L-Y", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Paduch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tripathi-Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Koide"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Koide"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WI", 
+                    "surname": "Weis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Kossiakoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BK", 
+                    "surname": "Kobilka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0038011", 
+            "year": "2012", 
+            "title": "TrakEM2 software for neural circuit reconstruction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cardona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Saalfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schindelin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Arganda-Carreras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Preibisch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Longair"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tomancak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Hartenstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Douglas"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Nature", 
+            "doi": "10.1038/35075083", 
+            "year": "2001", 
+            "title": "Membrane protein diffusion sets the speed of rod phototransduction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Calvert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VI", 
+                    "surname": "Govardovskii"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Krasnoperova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Anderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Makino"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Applied Mathematics", 
+            "doi": "10.4236/am.2012.39143", 
+            "year": "2012", 
+            "title": "Characterizing placental surface shape with a high-dimensional shape descriptor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mulgrew"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Salafia"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1018960108", 
+            "year": "2011", 
+            "title": "Identification of key factors that reduce the variability of the single photon response", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Caruso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bisegna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Andreucci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lenoci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Hamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dibenedetto"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Annual Review of Physiology", 
+            "doi": "10.1146/annurev.physiol.69.022405.154749", 
+            "year": "2007", 
+            "title": "\u03b2-Arrestins and cell signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "DeWire"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Shenoy"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4353-09.2010", 
+            "year": "2010", 
+            "title": "Background light produces a recoverin-dependent modulation of activated-rhodopsin lifetime in mouse rods", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CK", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Woodruff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FS", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GL", 
+                    "surname": "Fain"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Protein Science", 
+            "doi": "10.1110/ps.3870102", 
+            "year": "2002", 
+            "title": "Mass spectrometric analysis of the kinetics of in vivo rhodopsin phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KB", 
+                    "surname": "Craven"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "Niemi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hurley"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi990010g", 
+            "year": "1999", 
+            "title": "Structural features of the C-terminal domain of bovine rhodopsin: a site-directed spin-labeling study", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Langen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Altenbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Khorana"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WL", 
+                    "surname": "Hubbell"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Pattern classification", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RO", 
+                    "surname": "Duda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Hart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "Stork"
+                }
+            ], 
+            "year": "2001"
+        }, 
+        "bib18": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/S0006-3495(94)80614-9", 
+            "year": "1994", 
+            "title": "Detection of jumps in single-channel data containing subconductance levels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Draber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Schultze"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2006.07.010", 
+            "year": "2006", 
+            "title": "RGS expression rate-limits recovery of rod photoresponses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Krispel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Melling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-J", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Martemyanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Quillinan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VY", 
+                    "surname": "Arshavsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TG", 
+                    "surname": "Wensel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C-K", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Burns"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Science", 
+            "doi": "10.1126/science.1126612", 
+            "year": "2006", 
+            "title": "Multiple phosphorylation sites confer reproducibility of the rod's single-photon responses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Doan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mendez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Detwiler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0409532102", 
+            "year": "2005", 
+            "title": "Functional antagonism of different G protein-coupled receptor kinases for \u03b2-arrestin-mediated angiotensin II receptor signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-R", 
+                    "surname": "Ren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Whalen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Reiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M204687200", 
+            "year": "2003", 
+            "title": "N-Formyl peptide receptor phosphorylation domains differentially regulate arrestin and Agonist affinity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Key"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Foutz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Sklar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Prossnitz"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(01)00340-3", 
+            "year": "2001", 
+            "title": "Multiple phosphorylation of rhodopsin and the in vivo chemistry underlying rod photoreceptor dark adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Kennedy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "Niemi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KB", 
+                    "surname": "Craven"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Garwin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Saari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hurley"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)80735-7", 
+            "year": "1999", 
+            "title": "The 2.8 A crystal structure of visual arrestin: a model for arrestin's regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Hirsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Schubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Sigler"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "FEBS Letters", 
+            "doi": "10.1016/0014-5793(84)81221-1", 
+            "year": "1984", 
+            "title": "Light-induced binding of 48-kDa protein to photoreceptor membranes is highly enhanced by phosphorylation of rhodopsin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "K\u00fchn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Wilden"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Nature", 
+            "doi": "10.1038/nature13430", 
+            "year": "2014", 
+            "title": "Visualization of arrestin recruitment by a G-protein-coupled receptor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GH", 
+                    "surname": "Westfield"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RI", 
+                    "surname": "Reis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L-Y", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Tripathi-Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Qian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Blanc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Oleskie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Dosey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Liang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Gu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Shan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hanna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Choi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XJ", 
+                    "surname": "Yao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BU", 
+                    "surname": "Klink"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Kahsai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Sidhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Koide"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Penczek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Kossiakoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VL", 
+                    "surname": "Woods", 
+                    "suffix": "Jr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BK", 
+                    "surname": "Kobilka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Skiniotis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Trends in Biochemical Sciences", 
+            "doi": "10.1016/j.tibs.2011.06.003", 
+            "year": "2011", 
+            "title": "Emerging paradigms of \u03b2-arrestin-dependent seven transmembrane receptor signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lefkowitz"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Annual Review of Pharmacology and Toxicology", 
+            "doi": "10.1146/annurev.pharmtox.38.1.289", 
+            "year": "1998", 
+            "title": "The role of receptor kinases and arrestins in G protein\u2013coupled receptor regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Krupnick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Benovic"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1215176110", 
+            "year": "2013", 
+            "title": "Involvement of distinct arrestin-1 elements in binding to different functional forms of rhodopsin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Zhuang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M-K", 
+                    "surname": "Cho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Vishnivetskiy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Iverson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Sanders"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Nature", 
+            "doi": "10.1038/269078a0", 
+            "year": "1977", 
+            "title": "Light-induced fluctuations in membrane current of single toad rod outer segments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K-W", 
+                    "surname": "Yau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Lamb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "Nature", 
+            "doi": "10.1038/39068", 
+            "year": "1997", 
+            "title": "Prolonged photoresponses in transgenic mouse rods lacking arrestin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Dodd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Makino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Simon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.83.5.1174", 
+            "year": "1986", 
+            "title": "Phosphodiesterase activation by photoexcited rhodopsin is quenched when rhodopsin is phosphorylated and binds the intrinsic 48-kDa protein of rod outer segments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Wilden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "K\u00fchn"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi00072a030", 
+            "year": "1993", 
+            "title": "Sequential phosphorylation of rhodopsin at multiple sites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ohguro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Palczewski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Ericsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Walsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi00170a022", 
+            "year": "1994", 
+            "title": "Control of rhodopsin multiple phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ohguro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Ericsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Walsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Palczewski"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Visual Neuroscience", 
+            "doi": "10.1017/S0952523800006441", 
+            "year": "1992", 
+            "title": "Light-dependent delay in the falling phase of the retinal rod photoresponse", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Pepperberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Cornwall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kahlert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "Hofmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ripps"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.270.24.14259", 
+            "year": "1995", 
+            "title": "Rhodopsin phosphorylation and dephosphorylation in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ohguro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Van Hooser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Milam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Palczewski"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Serine and threonine phosphorylation sites work in concert to provide rapid and reproducible desensitization of the G-protein coupled receptor rhodopsin.", 
+    "related-articles": [], 
+    "publish": "1", 
+    "article-version-id": "05981.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "G-protein-coupled receptor", 
+            "single-photon response", 
+            "arrestin", 
+            "G-protein-coupled receptor kinase"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.05981", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-10": {
+                "id": "http://dx.doi.org/10.13039/100000968", 
+                "award-id": "post-doctoral fellowship N014938", 
+                "institution": "American Heart Association (AHA)", 
+                "id-type": "FundRef"
+            }, 
+            "par-9": {
+                "institution": "Poncin Scholarship"
+            }, 
+            "par-8": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "HL086865", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-7": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "HL071818", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-6": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "EY12155", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "EY11500", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "T32EY-07031", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "T32GM-07270", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "EY11850", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute (HHMI)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff6": {
+                "dept": null, 
+                "city": "Seattle", 
+                "institution": "Howard Hughes Medical Institute, University of Washington", 
+                "country": "United States"
+            }, 
+            "aff5": {
+                "dept": "Life Sciences Institute, Departments of Pharmacology and Biological Chemistry", 
+                "city": "Ann Arbor", 
+                "institution": "University of Michigan", 
+                "country": "United States"
+            }, 
+            "aff4": {
+                "dept": "Department of Pharmacology", 
+                "city": "Nashville", 
+                "institution": "Vanderbilt University School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Departments of Cell & Neurobiology and Ophthalmology, Zilkha Neurogenetic Institute", 
+                "city": "Los Angeles", 
+                "institution": "Keck School of Medicine of University of Southern California", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Department of Ophthalmology", 
+                "city": "Seattle", 
+                "institution": "University of Washington", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Physiology and Biophysics", 
+                "city": "Seattle", 
+                "institution": "University of Washington", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "AWA, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "TD, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "VVG, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "JC, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con5": "HM, Conception and design, Acquisition of data, Analysis and interpretation of data", 
+            "con6": "FB, Conception and design, Acquisition of data, Analysis and interpretation of data", 
+            "con7": "SAV, Conception and design, Acquisition of data, Analysis and interpretation of data", 
+            "con8": "IS, Isolated rhodopsin outer segments, Acquisition of data", 
+            "con9": "KTH, Expressed and purified GRK1, Acquisition of data", 
+            "con10": "JJGT, Expressed and purified GRK1, Acquisition of data", 
+            "con11": "FR, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "rieke@u.washington.edu"
+        }
+    }, 
+    "path": "content/4/e05981", 
+    "fragments": [
+        {
+            "path": "content/4/e05981/abstract-1", 
+            "doi": "10.7554/eLife.05981.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e05981/abstract-2", 
+            "doi": "10.7554/eLife.05981.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e05981/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e05981/F1/F2", 
+                    "doi": "10.7554/eLife.05981.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.05981.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e05981/F3", 
+            "doi": "10.7554/eLife.05981.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e05981/F4", 
+            "doi": "10.7554/eLife.05981.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e05981/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e05981/F5/F6", 
+                    "doi": "10.7554/eLife.05981.008", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e05981/F5/F7", 
+                    "doi": "10.7554/eLife.05981.009", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.05981.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e05981/F8", 
+            "fragments": [
+                {
+                    "path": "content/4/e05981/F8/F9", 
+                    "doi": "10.7554/eLife.05981.011", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.05981.010", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e05981/F10", 
+            "doi": "10.7554/eLife.05981.012", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e05981/F11", 
+            "doi": "10.7554/eLife.05981.013", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e05981/F12", 
+            "fragments": [
+                {
+                    "path": "content/4/e05981/F12/F13", 
+                    "doi": "10.7554/eLife.05981.015", 
+                    "type": "fig", 
+                    "title": "Figure 8\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.05981.014", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/4/e05981/T1", 
+            "doi": "10.7554/eLife.05981.016", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/4/e05981/1", 
+            "doi": "10.7554/eLife.05981.017", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Calabrese", 
+                    "given-names": "Ronald L", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Emory University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e05981/2", 
+            "doi": "10.7554/eLife.05981.018", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.05981", 
+    "categories": {
+        "heading": [
+            "Biophysics and structural biology", 
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

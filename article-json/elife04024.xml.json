@@ -1,0 +1,839 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "David", 
+            "surname": "Blum", 
+            "id": "author-16373", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Haiping", 
+            "surname": "Hao", 
+            "id": "author-16374", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Michael", 
+            "surname": "McCarthy", 
+            "id": "author-16380", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf4"
+                ]
+            }
+        }, 
+        {
+            "corresp": "yes", 
+            "type": "author", 
+            "group-author-key": "group-author-id1", 
+            "references": {
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf3"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "collab": "Reproducibility Project: Cancer Biology"
+        }, 
+        {
+            "surname": "Green", 
+            "given-names": "Michael R", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Howard Hughes Medical Institute, University of Massachusetts Medical School"
+                }
+            ], 
+            "type": "editor"
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Elizabeth", 
+            "surname": "Iorns", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "city": "California", 
+                    "institution": "Science Exchange, Palo Alto"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "William", 
+            "surname": "Gunn", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "country": "United Kingdom", 
+                    "institution": "Mendeley", 
+                    "city": "London"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Fraser", 
+            "surname": "Tan", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "city": "California", 
+                    "institution": "Science Exchange, Palo Alto"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Joelle", 
+            "surname": "Lomax", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "city": "California", 
+                    "institution": "Science Exchange, Palo Alto"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Timothy", 
+            "surname": "Errington", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "country": "Virginia", 
+                    "institution": "Center for Open Science", 
+                    "city": "Charlottesville"
+                }
+            ]
+        }
+    ], 
+    "pub-date": "2015-01-26", 
+    "title": "Registered report: Transcriptional amplification in tumor cells with elevated c-Myc", 
+    "citations": {
+        "bib11": {
+            "source": "Transcription", 
+            "doi": "10.4161/trns.25907", 
+            "year": "2013", 
+            "title": "Dose-dependent regulation of target gene expression and cell proliferation by c-Myc levels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schuhmacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Eick"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Current Biology", 
+            "doi": "10.1016/S0960-9822(99)80507-7", 
+            "year": "1999", 
+            "title": "Control of cell growth by c-Myc in the absence of cell division", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schuhmacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Staege"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pajic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Polack"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "UH", 
+                    "surname": "Weidle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Bornkamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Eick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kohlhuber"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature", 
+            "doi": "10.1038/nature13473", 
+            "year": "2014", 
+            "title": "Activation and repression by oncogenic MYC shape tumour-specific gene expression profiles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Walz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lorenzin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Morton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Wiese"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "von Eyss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Herold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Rycak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Dumay-Odelot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Karim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bartkuhn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Roels"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "W\u00fcstefeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fischer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Teichmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zender"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Sansom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Wolf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Eilers"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Oncogene", 
+            "doi": "10.1038/sj.onc.1208198", 
+            "year": "2005", 
+            "title": "Dissection of transcriptional programmes in response to serum and c-Myc in a human B-cell line", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Schlosser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "H\u00f6lzel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hoffmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Burtschler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kohlhuber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schuhmacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Chapman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "UH", 
+                    "surname": "Weidle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Eick"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/nature13537", 
+            "year": "2014", 
+            "title": "Selective transcriptional regulation by Myc in cellular growth control and lymphomagenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sab\u00f2"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Kress"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pelizzola"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "de Pretis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Gorski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tesi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Morelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bora"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Verrecchia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Tonelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Fag\u00e0"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Bianchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ronchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Low"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "M\u00fcller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Guccione"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Campaner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Amati"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature Reviews Cancer", 
+            "doi": "10.1038/nrc3790", 
+            "year": "2014", 
+            "title": "Transcription: the transcriptional effects of MYC", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GK", 
+                    "surname": "Alderton"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Behavior Research Methods", 
+            "doi": "10.3758/BF03193146", 
+            "year": "2007", 
+            "title": "G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Faul"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Erdfelder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Lang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Buchner"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Cold Spring Harbor Perspectives in Medicine", 
+            "doi": "10.1101/cshperspect.a014217", 
+            "year": "2013", 
+            "title": "MYC, metabolism, cell growth, and tumorigenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Dang"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2012.08.026", 
+            "year": "2012", 
+            "title": "Transcriptional amplification in tumor cells with elevated c-Myc", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CY", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lov\u00e9n"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Rahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Paranal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Burge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Bradner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TI", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Young"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Frontiers in Psychology", 
+            "doi": "10.3389/fpsyg.2013.00863", 
+            "year": "2013", 
+            "title": "Calculating and reporting effect sizes to facilitate cumulative science: a practical primer for t-tests and ANOVAs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lakens"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "International Journal of cancer. Journal International Du Cancer", 
+            "doi": "10.1002/1097-0215(20000915)87:63.0.CO;2-6", 
+            "year": "2000", 
+            "title": "Cell cycle activation by c-myc in a burkitt lymphoma model cell line", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pajic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Spitkovsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Christoph"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Kempkes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schuhmacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Staege"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Brielmeier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ellwart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kohlhuber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Bornkamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Polack"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Eick"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2012.08.033", 
+            "year": "2012", 
+            "title": "c-Myc is a universal amplifier of expressed genes in lymphocytes and embryonic stem cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Nie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yamane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Resch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Green"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Tessarollo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Casellas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Levens"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "", 
+    "related-articles": [], 
+    "publish": "1", 
+    "article-version-id": "04024.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "Reproducibility Project: Cancer Biology", 
+            "methodology", 
+            "c-Myc", 
+            "gene expression"
+        ], 
+        "research-organism": [
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.04024", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf3": "RP:CB: EI, FT and JL are employed by and hold shares in Science Exchange Inc.", 
+            "conf2": "HH: This is a Science Exchange Associated lab.", 
+            "conf1": "DB: This is a Science Exchange Associated lab.", 
+            "conf4": "The other author declares that no competing interests exist."
+        }, 
+        "funding": {
+            "par-1": {
+                "institution": "Laura and John Arnold Foundation"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff3": {
+                "dept": null, 
+                "city": "Oxford", 
+                "institution": "University of Oxford", 
+                "country": "United Kingdom"
+            }, 
+            "aff2": {
+                "dept": "JHMI Deep Sequencing and Microarray Core Facility", 
+                "city": "Baltimore", 
+                "institution": "Johns Hopkins University", 
+                "country": null
+            }, 
+            "aff1": {
+                "dept": "Bioexpression and Fermentation Facility", 
+                "city": "Athens", 
+                "institution": "University of Georgia", 
+                "country": "Georgia"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "DB, Drafting or revising the article", 
+            "con2": "HH, Drafting or revising the article", 
+            "con3": "MMC, Drafting or revising the article", 
+            "con4": "RP:CB, Conception and design, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "tim@cos.io"
+        }
+    }, 
+    "path": "content/4/e04024", 
+    "fragments": [
+        {
+            "path": "content/4/e04024/abstract-1", 
+            "doi": "10.7554/eLife.04024.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e04024/1", 
+            "doi": "10.7554/eLife.04024.002", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Green", 
+                    "given-names": "Michael R", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Howard Hughes Medical Institute, University of Massachusetts Medical School"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e04024/2", 
+            "doi": "10.7554/eLife.04024.003", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.04024", 
+    "categories": {
+        "heading": [
+            "Biochemistry"
+        ], 
+        "display-channel": [
+            "Registered report"
+        ]
+    }
+}

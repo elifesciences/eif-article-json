@@ -1,0 +1,1129 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Jonas", 
+            "corresp": "yes", 
+            "given-names": "Eric", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-17193"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Konrad", 
+            "surname": "Kording", 
+            "id": "author-17688", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-5", 
+                    "par-6"
+                ]
+            }
+        }, 
+        {
+            "surname": "Skinner", 
+            "affiliations": [
+                {
+                    "country": "Canada", 
+                    "institution": "University Health Network, and University of Toronto"
+                }
+            ], 
+            "given-names": "Frances K", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-14764"
+        }
+    ], 
+    "pub-date": "2015-04-30", 
+    "title": "Automatic discovery of cell types and microcircuitry from neural connectomics", 
+    "citations": {
+        "bib8": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.122653799", 
+            "year": "2002", 
+            "title": "Community structure in social and biological networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Girvan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Newman"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Journal of Machine Learning Research", 
+            "year": "2012", 
+            "title": "Tensor decompositions for learning latent variable models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Anandkumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Kakade"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Telgarsky"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Current Opinion in Neurobiology", 
+            "doi": "10.1016/j.conb.2009.07.011", 
+            "year": "2009", 
+            "title": "Cell-type identity: a key to unlocking the function of neocortical circuits", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hestrin"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.01170.2003", 
+            "year": "2004", 
+            "title": "Characterization of neocortical principal cells and interneurons by network interactions and extracellular features", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Barth\u00f3"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hirase"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Monconduit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Zugaro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Harris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Buzs\u00e1ki"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.1991.sp018733", 
+            "year": "1991", 
+            "title": "A functional microcircuit for cat visual cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Douglas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Martin"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0506806103", 
+            "year": "2006", 
+            "title": "Wiring optimization can relate neuronal structure and function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Chklovskii"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Hippocampus", 
+            "doi": "10.1002/(SICI)1098-1063(1996)6:4<347::AID-HIPO1>3.0.CO;2-I", 
+            "year": "1998", 
+            "title": "Interneurons of the hippocampus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Freund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Buzs\u00e1ki"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Cerebral Cortex", 
+            "doi": "10.1093/cercor/bhs290", 
+            "year": "2013", 
+            "title": "A hierarchical structure of cortical interneuron electrical diversity revealed by automated statistical analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Druckmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Sch\u00fcrmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Markram"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Segev"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Journal of the American Statistical Association", 
+            "doi": "10.1198/016214501753208735", 
+            "year": "2001", 
+            "title": "Estimation and prediction for stochastic blockstructures", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Nowicki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Snijders"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn0302-190", 
+            "year": "2002", 
+            "title": "The frontal cortex: does size matter?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Passingham"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn0901-877", 
+            "year": "2001", 
+            "title": "The fundamental plan of the retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Masland"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Science", 
+            "doi": "10.1126/science.298.5594.824", 
+            "year": "2002", 
+            "title": "Network motifs: simple building blocks of complex networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Milo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shen-Orr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Itzkovitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kashtan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chklovskii"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Alon"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2480", 
+            "year": "2013", 
+            "title": "Why not connectomics?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Morgan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Lichtman"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Journal of Neurophysiology", 
+            "year": "1957", 
+            "title": "Modality and topographic properties of single neurons of cat's somatic sensory cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Mountcastle"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Brain", 
+            "year": "1997", 
+            "title": "The columnar organization of the neocortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Mountcastle"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Machine learning: A probabilistic perspective", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "Murphy"
+                }
+            ], 
+            "year": "2012"
+        }, 
+        "bib26": {
+            "source": "Journal of Computational and Graphical Statistics", 
+            "year": "2000", 
+            "title": "Markov chain sampling methods for Dirichlet process mixture models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Neal"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Annals of Statistics", 
+            "doi": "10.1214/aos/1056562461", 
+            "year": "2003", 
+            "title": "Slice sampling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Neal"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Developmental Neurobiology", 
+            "doi": "10.1002/dneu.20809", 
+            "year": "2011", 
+            "title": "Comparison between supervised and unsupervised classifications of neuronal cell types: a case study", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Guerra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "McGarry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Robles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bielza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Larra\u00f1aga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Yuste"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Trends in Neurosciences", 
+            "doi": "10.1016/j.tins.2005.08.003", 
+            "year": "2005", 
+            "title": "Microcircuits in action from CPGs to neocortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Grillner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Markram"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "De Schutter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Silberberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FE", 
+                    "surname": "LeBeau"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1202128109", 
+            "year": "2012", 
+            "title": "Statistical connectivity provides a sufficient foundation for specific functional connectivity in neocortical neural microcircuits", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Hill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Riachi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Sch\u00fcrmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Markram"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12346", 
+            "year": "2013", 
+            "title": "Connectomic reconstruction of the inner plexiform layer in the mouse retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Helmstaedter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Briggman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Turaga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Jain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Seung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Denk"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Journal of Classification", 
+            "doi": "10.1007/BF01908075", 
+            "year": "1985", 
+            "title": "Comparing partitions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Hubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Arabie"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Journal of Machine Learning Research", 
+            "year": "2013", 
+            "title": "Stochastic variational inference", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Hoffman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Blei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Paisley"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Proceedings of the 21st National Conference on Artificial Intelligence", 
+            "doi": "10.1145/1837026.1837061", 
+            "year": "2006", 
+            "title": "Learning systems of concepts with an infinite relational model", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kemp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Tenenbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Griffiths"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "ACM SIGGRAPH 2010 Talks", 
+            "doi": "10.1145/1837026.1837061", 
+            "year": "2010", 
+            "title": "Visualizing a classic CPU in action", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "James"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Silverman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Silverman"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Journal of the Optical Society of America. A, Optics, Image Science, and Vision", 
+            "doi": "10.1364/JOSAA.22.002013", 
+            "year": "2005", 
+            "title": "Coding of color and form in the geniculostriate visual pathway (invited review)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Lennie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Movshon"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.09.006", 
+            "year": "2013", 
+            "title": "The next-generation sequencing revolution and its impact on genomics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Koboldt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Steinberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Larson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Wilson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Mardis"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences", 
+            "doi": "10.1098/rstb.1986.0056", 
+            "year": "1986", 
+            "title": "The structure of the nervous system of the nematode Caenorhabditis elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Southgate"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thomson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brenner"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Nature", 
+            "doi": "10.1038/30918", 
+            "year": "1998", 
+            "title": "Collective dynamics of \u2018small-world\u2019 networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Watts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Strogatz"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "PLOS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.1001066", 
+            "year": "2011", 
+            "title": "Structural properties of the Caenorhabditis elegans neuronal network", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LR", 
+                    "surname": "Varshney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Paniagua"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Chklovskii"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Annual Review of Neuroscience", 
+            "doi": "10.1146/annurev.neuro.28.061604.135731", 
+            "year": "2005", 
+            "title": "The circuitry of V1 and V2: integration of color, form, and motion", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Sincich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Horton"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2014.08.054", 
+            "year": "2014", 
+            "title": "Neuronal cell types and connectivity: Lessons from the retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Seung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "S\u00fcmb\u00fcl"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Computational Statistics & Data Analysis", 
+            "doi": "10.1016/j.csda.2012.08.004", 
+            "year": "2013", 
+            "title": "Variational Bayesian inference for the latent position cluster model for network data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Salter-Townshend"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TB", 
+                    "surname": "Murphy"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "PLOS Biology", 
+            "doi": "10.1371/journal.pbio.1001411", 
+            "year": "2012", 
+            "title": "Sequencing the connectome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Zador"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Dubnau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HK", 
+                    "surname": "Oyibo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zhan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Cao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ID", 
+                    "surname": "Peikon"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Proceedings of the Twenty-Second Conference on Uncertainty in Artificial Intelligence", 
+            "year": "2006", 
+            "title": "Infinite hidden relational models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Tresp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HP", 
+                    "surname": "Kriegel"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "An algorithm for analysing brain connectivity data identifies cell types and connections in simple (<italic>C. elegans</italic>) and complex (mouse) nervous systems, and can even resolve structure and connectivity in a man-made microprocessor.", 
+    "related-articles": [], 
+    "publish": "1", 
+    "article-version-id": "04250.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "connectomics", 
+            "computation", 
+            "microcircuitry"
+        ], 
+        "research-organism": [
+            "<italic>C. elegans</italic>", 
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.04250", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-6": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "R01NS063399", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "R01NS074044", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000185", 
+                "award-id": "XData Award FA8750-12-2-0331", 
+                "institution": "Defense Advanced Research Projects Agency", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100006235", 
+                "award-id": "Award 7076018", 
+                "institution": "Lawrence Berkely National Laboratory", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000001", 
+                "award-id": "NSF CISE Expeditions Award CCF-1139158", 
+                "institution": "National Science Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100006978", 
+                "award-id": "AWS in Education grant", 
+                "institution": "University of California Berkeley (University of California, Berkeley)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}
+        }, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Department of Physiology", 
+                "city": "Chicago", 
+                "institution": "Northwestern University", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Department of Physical Medicine and Rehabilitation", 
+                "city": "Chicago", 
+                "institution": "Rehabilitation Institute of Chicago", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Department of Physical Medicine and Rehabilitation", 
+                "city": "Chicago", 
+                "institution": "Northwestern University", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Electrical Engineering and Computer Science", 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "EJ, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "KK, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "jonas@eecs.berkeley.edu"
+        }
+    }, 
+    "path": "content/4/e04250", 
+    "fragments": [
+        {
+            "path": "content/4/e04250/abstract-1", 
+            "doi": "10.7554/eLife.04250.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e04250/abstract-2", 
+            "doi": "10.7554/eLife.04250.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e04250/F1", 
+            "doi": "10.7554/eLife.04250.010", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e04250/F2", 
+            "doi": "10.7554/eLife.04250.003", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e04250/F3", 
+            "doi": "10.7554/eLife.04250.004", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e04250/F4", 
+            "doi": "10.7554/eLife.04250.005", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e04250/F5", 
+            "doi": "10.7554/eLife.04250.006", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e04250/F6", 
+            "doi": "10.7554/eLife.04250.007", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e04250/F7", 
+            "doi": "10.7554/eLife.04250.008", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e04250/F8", 
+            "doi": "10.7554/eLife.04250.009", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/4/e04250/F9", 
+            "doi": "10.7554/eLife.04250.011", 
+            "type": "fig", 
+            "title": "Figure 9."
+        }, 
+        {
+            "path": "content/4/e04250/F10", 
+            "doi": "10.7554/eLife.04250.012", 
+            "type": "fig", 
+            "title": "Figure 10."
+        }, 
+        {
+            "path": "content/4/e04250/F11", 
+            "doi": "10.7554/eLife.04250.013", 
+            "type": "fig", 
+            "title": "Figure 11."
+        }, 
+        {
+            "path": "content/4/e04250/1", 
+            "doi": "10.7554/eLife.04250.014", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Skinner", 
+                    "given-names": "Frances K", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Canada", 
+                            "institution": "University Health Network, and University of Toronto"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e04250/2", 
+            "doi": "10.7554/eLife.04250.015", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.04250", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Tools and resources"
+        ]
+    }
+}

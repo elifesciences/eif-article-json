@@ -1,0 +1,1422 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Marina", 
+            "surname": "Rudan", 
+            "id": "author-19141", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-5", 
+                    "par-6"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Dominique", 
+            "surname": "Schneider", 
+            "id": "author-7675", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Warnecke", 
+            "corresp": "yes", 
+            "given-names": "Tobias", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-4"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff4"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-18748"
+        }, 
+        {
+            "surname": "Krisko", 
+            "corresp": "yes", 
+            "given-names": "Anita", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-5", 
+                    "par-6"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-19142"
+        }, 
+        {
+            "surname": "Barkai", 
+            "affiliations": [
+                {
+                    "country": "Israel", 
+                    "institution": "Weizmann Institute of Science"
+                }
+            ], 
+            "given-names": "Naama", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1725"
+        }
+    ], 
+    "pub-date": "2015-03-25", 
+    "title": "RNA chaperones buffer deleterious mutations in E. coli", 
+    "citations": {
+        "bib34": {
+            "source": "Science", 
+            "doi": "10.1126/science.1212986", 
+            "year": "2012", 
+            "title": "The molecular diversity of adaptive convergence", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Tenaillon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rodr\u00edguez-Verdugo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Gaut"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "McDonald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Bennett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Long"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Gaut"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "RNA", 
+            "year": "1996", 
+            "title": "Kinetic pathway for folding of the Tetrahymena ribozyme revealed by three UV-inducible crosslinks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WD", 
+                    "surname": "Downs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Journal of Bacteriology", 
+            "year": "1993", 
+            "title": "Derepression of LamB protein facilitates outer membrane permeation of carbohydrates into Escherichia coli under conditions of nutrient stress", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Death"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Notley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ferenci"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.272.1.196", 
+            "year": "1997", 
+            "title": "CspA, the major cold-shock protein of Escherichia coli, is an RNA chaperone", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Inouye"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Journal of Bacteriology", 
+            "year": "1997", 
+            "title": "CspA, the major cold shock protein of Escherichia coli, negatively regulates its own gene expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bae"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Inouye"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06235", 
+            "year": "2007", 
+            "title": "Kinetic redistribution of native and misfolded RNAs by a DEAD-box chaperone", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Bhaskaran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Russell"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08480", 
+            "year": "2009", 
+            "title": "Genome evolution and adaptation in a long-term experiment with Escherichia coli", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Barrick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Yoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Jeong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TK", 
+                    "surname": "Oh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Schneider"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Kim"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Analytical Biochemistry", 
+            "doi": "10.1016/0003-2697(76)90527-3", 
+            "year": "1976", 
+            "title": "A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Bradford"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Genome Biology and Evolution", 
+            "doi": "10.1093/gbe/evq044", 
+            "year": "2010", 
+            "title": "Chaperonin-dependent accelerated substitution rates in prokaryotes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bogumil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Dagan"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Biotechniques", 
+            "doi": "10.2144/000112517", 
+            "year": "2007", 
+            "title": "ImageJ for microscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10665", 
+            "year": "2011", 
+            "title": "Predicting mutation outcome from early stochastic variation in genetic interaction partners", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Burga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MO", 
+                    "surname": "Casanueva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Lehner"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btq033", 
+            "year": "2010", 
+            "title": "BEDTools: a flexible suite of utilities for comparing genomic features", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Quinlan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Hall"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Science", 
+            "doi": "10.1126/science.1240276", 
+            "year": "2013", 
+            "title": "Cryptic variation in morphological evolution: HSP90 as a capacitor for loss of eyes in cavefish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Rohner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DF", 
+                    "surname": "Jarosz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Kowalko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yoshizawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Jeffery"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Borowsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lindquist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Tabin"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Biotechnology", 
+            "year": "1991", 
+            "title": "Quantifying fitness and gene stability in microorganisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Science", 
+            "doi": "10.1126/science.1194617", 
+            "year": "2010", 
+            "title": "Mutational robustness of ribosomal protein genes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Lind"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OG", 
+                    "surname": "Berg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DI", 
+                    "surname": "Andersson"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Algorithms for Molecular Biology", 
+            "doi": "10.1186/1748-7188-6-26", 
+            "year": "2011", 
+            "title": "ViennaRNA Package 2.0", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lorenz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Bernhart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "H\u00f6ner Zu Siederdissen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tafer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Flamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PF", 
+                    "surname": "Stadler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IL", 
+                    "surname": "Hofacker"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(02)00771-7", 
+            "year": "2002", 
+            "title": "A DEAD-box protein functions as an ATP-dependent RNA chaperone in group I intron splicing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mohr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Stryker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Lambowitz"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "RNA Biology", 
+            "doi": "10.4161/rna.7.6.13571", 
+            "year": "2010", 
+            "title": "Roles of DEAD-box proteins in RNA and RNP folding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Pan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Russell"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg2899", 
+            "year": "2011", 
+            "title": "Synonymous but not the same: the causes and consequences of codon bias", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Plotkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Kudla"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Nature", 
+            "doi": "10.1038/381169a0", 
+            "year": "1996", 
+            "title": "A DEAD-box RNA helicase in the Escherichia coli RNA degradosome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Py"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Higgins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Krisch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Carpousis"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nature", 
+            "doi": "10.1038/nature749", 
+            "year": "2002", 
+            "title": "Hsp90 as a capacitor of phenotypic variation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Queitsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Sangster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lindquist"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Genome Biology and Evolution", 
+            "doi": "10.1093/gbe/evq045", 
+            "year": "2010", 
+            "title": "The effect of chaperonin buffering on protein evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Fares"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Nature", 
+            "doi": "10.1038/417398a", 
+            "year": "2002", 
+            "title": "Endosymbiotic bacteria: groEL buffers against deleterious mutations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Fares"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MX", 
+                    "surname": "Ruiz-Gonz\u00e1lez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Moya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "Elena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Barrio"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkm926", 
+            "year": "2008", 
+            "title": "Mutation of the arginine finger in the active site of Escherichia coli DbpA abolishes ATPase and helicase activity and confers a dominant slow growth phenotype", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Elles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OC", 
+                    "surname": "Uhlenbeck"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.270.36.20871", 
+            "year": "1995", 
+            "title": "RNA chaperones and the RNA folding problem", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Herschlag"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10317", 
+            "year": "2011", 
+            "title": "Molecular chaperones in protein folding and proteostasis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FU", 
+                    "surname": "Hartl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bracher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hayer-Hartl"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Journal of Bacteriology", 
+            "doi": "10.1128/JB.188.1.240-248.2006", 
+            "year": "2006", 
+            "title": "Cold-induced putative DEAD box RNA helicases CshA and CshB are essential for cold adaptation and interact with cold shock protein B in Bacillus subtilis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hunger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Beckering"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Wiegeshoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PL", 
+                    "surname": "Graumann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Marahiel"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Folding & Design", 
+            "doi": "10.1016/S1359-0278(98)00014-5", 
+            "year": "1998", 
+            "title": "Coupling protein stability and protein function in Escherichia coli CspA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Hilier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Rodriguez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Gregoret"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Molecular Systems Biology", 
+            "doi": "10.1038/msb.2009.94", 
+            "year": "2010", 
+            "title": "GroEL dependency affects codon usage\u2013support for a critical role of misfolding in gene evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Warnecke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LD", 
+                    "surname": "Hurst"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.12.17.2770", 
+            "year": "1998", 
+            "title": "Ribonuclease E organizes the protein interactions in the Escherichia coli RNA degradosome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Vanzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YS", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Py"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Blum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Higgins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Raynal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Krisch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Carpousis"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Evolution", 
+            "doi": "10.2307/2409028", 
+            "year": "1988", 
+            "title": "Experimental studies of pleiotropy and epistasis in Escherichia coli. I. Variation in competitive fitness among mutants resistant to virus T4", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Molecular Microbiology", 
+            "doi": "10.1046/j.1365-2958.2003.03862.x", 
+            "year": "2004", 
+            "title": "The RNA degradosome and poly(A) polymerase of Escherichia coli are required in vivo for the degradation of small mRNA decay intermediates containing REP\u2010stabilizers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Khemici"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Carpousis"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08009", 
+            "year": "2009", 
+            "title": "Chaperonin overexpression promotes genetic variation and enzyme evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tokuriki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1404307111", 
+            "year": "2014", 
+            "title": "DEAD-box protein CYT-19 is activated by exposed helices in a group I intron RNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Jarmoskaite"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Bhaskaran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Seifert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Russell"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Nature", 
+            "doi": "10.1038/42701", 
+            "year": "1997", 
+            "title": "Evolution of high mutation rates in experimental populations of E. coli", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Sniegowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Gerrish"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Methods in Enzymology", 
+            "doi": "10.1016/B978-0-12-420067-8.00010-6", 
+            "year": "2013", 
+            "title": "Recombineering: highly efficient in vivo genetic engineering using single-strand oligos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Sawitzke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Thomason"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bubunenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Costantino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Court"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Nature", 
+            "doi": "10.1038/24550", 
+            "year": "1998", 
+            "title": "Hsp90 as a capacitor for morphological evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Rutherford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lindquist"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Frontiers in Bioscience", 
+            "doi": "10.2741/2557", 
+            "year": "2008", 
+            "title": "RNA misfolding and the action of chaperones", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Russell"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gks1194", 
+            "year": "2012", 
+            "title": "MicroScope\u2014an integrated microbial resource for the curation and comparative analysis of genomic and metabolic data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Vallenet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Belda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Calteau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Cruveiller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Engelen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Lajus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Le F\u00e8vre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Longin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Mornico"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Roche"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Rouy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Salvignol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Scarpelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Thil Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Weiman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "M\u00e9digue"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Journal of Bacteriology", 
+            "doi": "10.1128/JB.01509-06", 
+            "year": "2007", 
+            "title": "Mutational analysis of the Escherichia coli DEAD box protein CsdA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Turner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Love"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Alexander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Jones"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The overexpression of RNA chaperones, including several DEAD box RNA helicases, enhances the fitness of mutationally compromised <italic>E. coli</italic> strains.", 
+    "related-articles": [], 
+    "publish": "1", 
+    "article-version-id": "04745.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "chaperones", 
+            "evolution", 
+            "mutation buffering"
+        ], 
+        "research-organism": [
+            "<italic>E. coli</italic>"
+        ]
+    }, 
+    "doi": "10.7554/eLife.04745", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-6": {
+                "institution": "Mediterranean Institute for Life Sciences"
+            }, 
+            "par-5": {
+                "institution": "Fondation Nelia et Amadeo Barletta"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/501100000265", 
+                "institution": "Medical Research Council (MRC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/501100004794", 
+                "institution": "Centre National de la Recherche Scientifique", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "institution": "Universite Grenoble Alps"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000780", 
+                "award-id": "FP7-ICT-2013-10 project EvoEvo grant 610427", 
+                "institution": "European Commission", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}, 
+            "dataro2": {}
+        }, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Molecular Systems Group, MRC Clinical Sciences Centre", 
+                "city": "London", 
+                "institution": "Imperial College", 
+                "country": "United Kingdom"
+            }, 
+            "aff3": {
+                "dept": null, 
+                "city": "Grenoble", 
+                "institution": "Centre National de la Recherche Scientifique", 
+                "country": "France"
+            }, 
+            "aff2": {
+                "dept": "Laboratoire Adaptation et Pathog\u00e9nie des Microorganismes", 
+                "city": "Grenoble", 
+                "institution": "Universit\u00e9 Grenoble Alpes", 
+                "country": "France"
+            }, 
+            "aff1": {
+                "dept": null, 
+                "city": "Split", 
+                "institution": "Mediterranean Institute for Life Sciences", 
+                "country": "Croatia"
+            }
+        }, 
+        "equal-contrib": {
+            "equal-contrib": "These authors contributed equally to this work"
+        }, 
+        "contribution": {
+            "con1": "MR, performed the experiments and contributed to experimental design and writing of the article", 
+            "con2": "DS, provided the REL606-derived strains and sequences and contributed to the writing of the article", 
+            "con3": "TW, conceived the study, designed experiments, analyzed the data, provided the MG1655-derived sequences and contributed to the writing of the article", 
+            "con4": "AK, designed experiments, analyzed the data, and contributed to the writing of the article"
+        }, 
+        "email": {
+            "cor1": "tobias.warnecke@csc.mrc.ac.uk", 
+            "cor2": "anita.krisko@medils.hr"
+        }
+    }, 
+    "path": "content/4/e04745", 
+    "fragments": [
+        {
+            "path": "content/4/e04745/abstract-1", 
+            "doi": "10.7554/eLife.04745.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e04745/abstract-2", 
+            "doi": "10.7554/eLife.04745.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e04745/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e04745/F1/F2", 
+                    "doi": "10.7554/eLife.04745.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.04745.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e04745/F3", 
+            "fragments": [
+                {
+                    "path": "content/4/e04745/F3/F4", 
+                    "doi": "10.7554/eLife.04745.006", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.04745.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e04745/T1", 
+            "doi": "10.7554/eLife.04745.007", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/4/e04745/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e04745/F5/F6", 
+                    "doi": "10.7554/eLife.04745.009", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e04745/F5/F7", 
+                    "doi": "10.7554/eLife.04745.010", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.04745.008", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e04745/F8", 
+            "fragments": [
+                {
+                    "path": "content/4/e04745/F8/F9", 
+                    "doi": "10.7554/eLife.04745.012", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.04745.011", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e04745/F10", 
+            "doi": "10.7554/eLife.04745.013", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e04745/F11", 
+            "doi": "10.7554/eLife.04745.014", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e04745/F12", 
+            "doi": "10.7554/eLife.04745.015", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e04745/DC1", 
+            "doi": "10.7554/eLife.04745.016", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e04745/DC2", 
+            "doi": "10.7554/eLife.04745.017", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 2."
+        }, 
+        {
+            "path": "content/4/e04745/DC3", 
+            "doi": "10.7554/eLife.04745.018", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 3."
+        }, 
+        {
+            "path": "content/4/e04745/DC4", 
+            "doi": "10.7554/eLife.04745.019", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 4."
+        }, 
+        {
+            "path": "content/4/e04745/DC5", 
+            "doi": "10.7554/eLife.04745.020", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 5."
+        }, 
+        {
+            "path": "content/4/e04745/1", 
+            "doi": "10.7554/eLife.04745.021", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Barkai", 
+                    "given-names": "Naama", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Israel", 
+                            "institution": "Weizmann Institute of Science"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e04745/2", 
+            "doi": "10.7554/eLife.04745.022", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.04745", 
+    "categories": {
+        "heading": [
+            "Genomics and evolutionary biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

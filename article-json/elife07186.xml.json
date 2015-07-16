@@ -1,0 +1,2768 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Harish N", 
+            "surname": "Vasudevan", 
+            "id": "author-29917", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Pierre", 
+            "surname": "Mazot", 
+            "id": "author-29918", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Fenglei", 
+            "surname": "He", 
+            "id": "author-29919", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-4"
+                ]
+            }
+        }, 
+        {
+            "surname": "Soriano", 
+            "corresp": "yes", 
+            "given-names": "Philippe", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-21632"
+        }, 
+        {
+            "surname": "Bronner", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "California Institute of Technology"
+                }
+            ], 
+            "given-names": "Marianne E", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1052"
+        }
+    ], 
+    "pub-date": "2015-05-07", 
+    "title": "Receptor tyrosine kinases modulate distinct transcriptional programs by differential usage of intracellular pathways", 
+    "citations": {
+        "bib34": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200409182", 
+            "year": "2005", 
+            "title": "Sox2 induction by FGF and FGFR2 activating mutations inhibits Wnt signaling and osteoblast differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mansukhani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Ambrosetti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Holmes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Cornivelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Basilico"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2008.211", 
+            "year": "2009", 
+            "title": "Systematic and integrative analysis of large gene lists using DAVID bioinformatics resources", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BT", 
+                    "surname": "Sherman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Lempicki"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btr625", 
+            "year": "2012", 
+            "title": "Expression2Kinases: mRNA profiling linked to multiple upstream regulatory layers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EY", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gordonov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Lim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Perkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ma'ayan"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "BMC Bioinformatics", 
+            "doi": "10.1186/1471-2105-14-128", 
+            "year": "2013", 
+            "title": "Enrichr: interactive and collaborative HTML5 gene list enrichment analysis tool", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EY", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Duan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GV", 
+                    "surname": "Meirelles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Clark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ma'ayan"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Current Topics in Developmental Biology", 
+            "doi": "10.1016/bs.ctdb.2014.11.005", 
+            "year": "2015", 
+            "title": "Receptor tyrosine kinase signaling: regulating neural crest development one phosphate at a time", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Fantauzzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng1987", 
+            "year": "2007", 
+            "title": "A module of negative feedback regulators defines growth factor signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Amit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Citri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Shay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Katz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Tarcic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Siwak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lahad"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jacob-Hirsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Amariglio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Vaisman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Segal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rechavi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Alon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GB", 
+                    "surname": "Mills"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Domany"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yarden"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature Medicine", 
+            "doi": "10.1038/nm0306-283", 
+            "year": "2006", 
+            "title": "Stops along the RAS pathway in human genetic disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bentires-Alj"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Kontaridis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Neel"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nature Reviews. Molecular Cell Biology", 
+            "doi": "10.1038/nrm3048", 
+            "year": "2011", 
+            "title": "Feedback regulation of EGFR signalling: decision making by early and delayed loops", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Avraham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yarden"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Science", 
+            "doi": "10.1126/science.1068873", 
+            "year": "2002", 
+            "title": "MAP kinase phosphatase as a locus of flexibility in a mitogen-activated protein kinase signaling network", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "US", 
+                    "surname": "Bhalla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PT", 
+                    "surname": "Ram"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Iyengar"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "BMC Bioinformatics", 
+            "doi": "10.1186/1471-2105-8-372", 
+            "year": "2007", 
+            "title": "Genes2Networks: connecting lists of gene symbols using mammalian protein interactions databases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SI", 
+                    "surname": "Berger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Posner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ma'ayan"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1963210", 
+            "year": "2010", 
+            "title": "Ephrin-B1 forward signaling regulates craniofacial morphogenesis by controlling cell proliferation across Eph-ephrin boundaries", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JO", 
+                    "surname": "Bush"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Development", 
+            "doi": "10.1242/dev.079152", 
+            "year": "2012", 
+            "title": "Palatogenesis: morphogenetic and molecular mechanisms of secondary palate development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JO", 
+                    "surname": "Bush"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Jiang"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Development", 
+            "doi": "10.1242/dev.050146", 
+            "year": "2010", 
+            "title": "The role of FGF/Erk signaling in pluripotent cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lanner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rossant"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.84.5.1182", 
+            "year": "1987", 
+            "title": "Expression of a set of growth-related immediate early genes in BALB/c 3T3 cells: coordinate regulation with c-fos or c-myc", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Lau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Nathans"
+                }
+            ]
+        }, 
+        "bib18a": {
+            "source": "Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M003074200", 
+            "year": "2000", 
+            "title": "p130(Cas) regulates the activity of AND-34, a novel Ral, Rap1, and R-Ras guanine nucleotide exchange factor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gotoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Cai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Tian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Feig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Lerner"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M113.463620", 
+            "year": "2013", 
+            "title": "Type 1 fibroblast growth factor receptor in cranial neural crest cell-derived mesenchyme is required for palatogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "You"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WL", 
+                    "surname": "McKeehan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Li"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI33715", 
+            "year": "2008", 
+            "title": "Persistent expression of Pax3 in the neural crest causes cleft palate and defective osteogenesis in mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Engleka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Plotkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Epstein"
+                }
+            ]
+        }, 
+        "bib26a": {
+            "source": "Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M407732200", 
+            "year": "2004", 
+            "title": "Human tribbles, a protein family controlling mitogen-activated protein kinase cascades", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kiss-Toth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Bagstaff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Sung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Jozsa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Dempsey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Caunt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Oxley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Wyllie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Polgar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Harte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "O'Neill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Qwarnstrom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Dower"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2006.04.044", 
+            "year": "2006", 
+            "title": "Continuous ERK activation downregulates antiproliferative genes throughout G1 phase to allow cell-cycle progression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yamamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ebisuya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Ashida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Okamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Yonehara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Nishida"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Plos Genetics", 
+            "doi": "10.1371/journal.pgen.1003851", 
+            "year": "2013", 
+            "title": "A critical role for PDGFR\u03b1 signaling in medial nasal process development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "He"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Development", 
+            "doi": "10.1242/dev.02242", 
+            "year": "2006", 
+            "title": "Context-specific requirements for Fgfr1 signaling through Frs2 and Frs3 during mouse development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RV", 
+                    "surname": "Hoch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib7a": {
+            "source": "EMBO Journal", 
+            "doi": "10.1093/emboj/cdg316", 
+            "year": "2003", 
+            "title": "Vav mediates Ras stimulation by direct activation of the GDP/GTP exchange factor Ras GRP1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Caloca"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Zugaza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Matallanas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Crespo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XR", 
+                    "surname": "Bustelo"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)81688-8", 
+            "year": "2000", 
+            "title": "Signaling\u20142000 and beyond", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hunter"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI61498", 
+            "year": "2012", 
+            "title": "Modulation of noncanonical TGF- \u03b2 signaling prevents cleft palate in Tgfbr2 mutant mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Iwata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Hacia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Suzuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sanchez-Lara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Urata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Chai"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1257405", 
+            "year": "2005", 
+            "title": "To proliferate or to die: role of Id3 in cell cycle progression and survival of neural crest progenitors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bronner-Fraser"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2013-14-4-r36", 
+            "year": "2013", 
+            "title": "TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Pertea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Pimentel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kelley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Salzberg"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/S1534-5807(01)00103-4", 
+            "year": "2002", 
+            "title": "An allelic series at the PDGF\u03b1R locus indicates unequal contributions of distinct signaling pathways during development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Klinghoffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TG", 
+                    "surname": "Hamilton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hoch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng1922", 
+            "year": "2007", 
+            "title": "PDGF signaling specificity is mediated through multiple immediate early genes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schmahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Raymond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)00100-8", 
+            "year": "2000", 
+            "title": "Receptor tyrosine kinases: specific outcomes from general signals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Simon"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Journal of Cellular Physiology", 
+            "doi": "10.1002/jcp.21323", 
+            "year": "2008", 
+            "title": "Osteoblast proliferation or differentiation is regulated by relative strengths of opposing signaling pathways", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Raucci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bellosta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Grassi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Basilico"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mansukhani"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/ncb1543", 
+            "year": "2007", 
+            "title": "Growth factor-induced MAPK network topology shapes Erk response determining PC-12 cell fate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Santos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Verveer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PI", 
+                    "surname": "Bastiaens"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(03)01077-8", 
+            "year": "2004", 
+            "title": "Specificity in signal transduction: from phosphotyrosine-SH2 domain interactions to complex cellular systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Pawson"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "European Journal of Human Genetics: EJHG", 
+            "doi": "10.1038/ejhg.2012.55", 
+            "year": "2012", 
+            "title": "PDGFRa mutations in humans with isolated cleft palate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rattanasopha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Tongkobpetch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Srichomthong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Siriwan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Suphapeetiporn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Shotelersuk"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.990702", 
+            "year": "2002", 
+            "title": "FGF signaling pathways in endochondral and intramembranous bone development and human genetic disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Ornitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Marie"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Oncogene", 
+            "doi": "10.1038/sj.onc.1210412", 
+            "year": "2007", 
+            "title": "Differential regulation of MAP kinase signalling by dual-specificity protein phosphatases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Owens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Keyse"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2010.03.054", 
+            "year": "2010", 
+            "title": "Ligand-specific c-fos expression emerges from the spatiotemporal control of ErbB network dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nakakuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Birtwistle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Saeki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Yumoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ide"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nagashima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Brusch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Ogunnaike"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Okada-Hatakeyama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BN", 
+                    "surname": "Kholodenko"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0805239105", 
+            "year": "2008", 
+            "title": "Mouse and human phenotypes indicate a critical conserved role for ERK2 signaling in neural crest development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Newbern"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Wickramasinghe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Samuels"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Cherosky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Karlo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "O'Loughlin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wikenheiser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gargesha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YQ", 
+                    "surname": "Doughman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Charron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Ginty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Watanabe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Saitta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WD", 
+                    "surname": "Snider"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GE", 
+                    "surname": "Landreth"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06968", 
+            "year": "2008", 
+            "title": "The ground state of embryonic stem cell self-renewal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q-L", 
+                    "surname": "Ying"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nichols"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Batlle-Morera"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Doble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Woodgett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Smith"
+                }
+            ]
+        }, 
+        "bib60a": {
+            "source": "Journal of Hepatology", 
+            "doi": "10.1016/j.jhep.2009.02.027", 
+            "year": "2009", 
+            "title": "Protein kinase SGK1 enhances MEK/ERK complex formation through the phosphorylation of ERK2: Implication for the positive regulatory role of SGK1 on the ERK function during liver regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Won"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Byun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YR", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Choi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Seok"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Cho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IS", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YK", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Hur"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Nature Medicine", 
+            "doi": "10.1038/nm.2793", 
+            "year": "2012", 
+            "title": "Matrix IGF-1 maintains bone mass by activation of mTOR in mesenchymal stem cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Xian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Rosen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Qiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Crane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Frassica"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Rodriguez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "surname": "Xiaofeng Jia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "surname": "Shoshana Yakar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "surname": "Shouhong Xuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "surname": "Argiris Efstratiadis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "surname": "Mei Wan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "surname": "Xu Cao"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng1415", 
+            "year": "2004", 
+            "title": "A specific requirement for PDGF-C in palate formation and PDGFR-alpha signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ding"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Bostr\u00f6m"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Tsoi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "O'Rourke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GY", 
+                    "surname": "Koh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Betsholtz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Hart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Marazita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Field"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PP", 
+                    "surname": "Tam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nagy"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(83)90037-5", 
+            "year": "1983", 
+            "title": "Molecular cloning of gene sequences regulated by platelet-derived growth factor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BH", 
+                    "surname": "Cochran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Reffel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Stiles"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "European Journal of Human Genetics: EJHG", 
+            "doi": "10.1038/ejhg.2008.245", 
+            "year": "2009", 
+            "title": "The PDGF-C regulatory region SNP rs28999109 decreases promoter transcriptional activity and is associated with CL/P", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Choi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Marazita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Hart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PP", 
+                    "surname": "Sulima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Field"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TG", 
+                    "surname": "McHenry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Govil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Cooper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Letra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Menezes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Narayanan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Mansilla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Granjeiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Vieira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Lidral"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Murray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Hart"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Current biology", 
+            "doi": "10.1016/S0960-9822(07)00562-3", 
+            "year": "1998", 
+            "title": "Modification of gene activity in mouse embryos in utero by a tamoxifen-inducible form of Cre recombinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Danielian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Muccino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Rowitch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Michael"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "McMahon"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Development", 
+            "doi": "10.1242/dev.00669", 
+            "year": "2003", 
+            "title": "Spatial and temporal patterns of ERK signaling during mouse embryogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LB", 
+                    "surname": "Corson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yamanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Lai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rossant"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)80785-0", 
+            "year": "1999", 
+            "title": "Diverse signaling pathways activated by growth factor receptors induce broadly overlapping, rather than independent, sets of genes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fambrough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "McClure"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kazlauskas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Lander"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/ncb822", 
+            "year": "2002", 
+            "title": "Molecular interpretation of ERK signal duration by immediate early gene products", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LO", 
+                    "surname": "Murphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Fingar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Blenis"
+                }
+            ]
+        }, 
+        "bib31a": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0905657107", 
+            "year": "2010", 
+            "title": "Stk40 links the pluripotency factor Oct4 to the Erk/MAPK pathway and controls extraembryonic endoderm differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Tang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Won Kwon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jin"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Science Signaling", 
+            "doi": "10.1126/scisignal.3146re9", 
+            "year": "2010", 
+            "title": "Fibroblast growth factor receptor signaling crosstalk in skeletogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Miraoui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Marie"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.23.11.4013-4025.2003", 
+            "year": "2003", 
+            "title": "Evolutionary divergence of platelet-derived growth factor alpha receptor signaling mechanisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TG", 
+                    "surname": "Hamilton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Klinghoffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Corrin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2013.08.002", 
+            "year": "2013", 
+            "title": "Functional proteomics defines the molecular switch underlying FGF receptor trafficking and cellular outputs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Francavilla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Rigbolt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KB", 
+                    "surname": "Emdal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Carraro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Vernet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Bekker-Jensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Streicher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wikstr\u00f6m"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sundstr\u00f6m"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Bellusci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Cavallaro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Blagoev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JV", 
+                    "surname": "Olsen"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(95)90401-8", 
+            "year": "1995", 
+            "title": "Specificity of receptor tyrosine kinase signaling: transient versus sustained extracellular signal-regulated kinase activation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marshall"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.238709.114", 
+            "year": "2014", 
+            "title": "PI3K-mediated PDGFR\u03b1 signaling regulates survival and proliferation in skeletal development through p53-dependent intracellular pathways", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Fantauzzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Journal of Cellular Biochemistry", 
+            "doi": "10.1002/jcb.20154", 
+            "year": "2004", 
+            "title": "Inhibitory helix-loop-helix transcription factors Id1/Id3 promote bone formation in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Maeda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Tsuji"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nifuji"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Noda"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccr.2007.03.009", 
+            "year": "2007", 
+            "title": "Rewired ERK-JNK signaling pathways in melanoma", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Lopez-Bergami"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Goydos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yip"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bar-Eli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Herlyn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Smalley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mahale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Eroshkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aaronson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Ronai"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Development", 
+            "doi": "10.1242/dev.02701", 
+            "year": "2007", 
+            "title": "Dusp6 (Mkp3) is a negative feedback regulator of FGF-stimulated ERK signaling during mouse development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Scott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hatch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Tian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Mansour"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2010.06.011", 
+            "year": "2010", 
+            "title": "Cell signaling by receptor tyrosine kinases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Lemmon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schlessinger"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Human Molecular Genetics", 
+            "doi": "10.1093/hmg/ddq045", 
+            "year": "2010", 
+            "title": "Increased EFG- and PDGFalpha-receptor signaling by mutant FGF-receptor 2 contributes to osteoblast dysfunction in Apert craniosynostosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Miraoui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ringe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "H\u00e4upl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Marie"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Cold Spring Harbor Perspectives in Biology", 
+            "doi": "10.1101/cshperspect.a009043", 
+            "year": "2013", 
+            "title": "Complexity of receptor tyrosine kinase signal processing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Volinsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BN", 
+                    "surname": "Kholodenko"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2007.03.007", 
+            "year": "2007", 
+            "title": "The transcription factor MEF2C is required for craniofacial development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Verzi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Agarwal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "McCulley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Schwarz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Black"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Trends in Biochemical Sciences", 
+            "doi": "10.1016/j.tibs.2011.03.006", 
+            "year": "2011", 
+            "title": "The Ras-ERK and PI3K-mTOR pathways: cross-talk and compensation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Mendoza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Er"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Blenis"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Current biology", 
+            "doi": "10.1016/S0960-9822(00)00154-8", 
+            "year": "1994", 
+            "title": "EGF triggers neuronal differentiation of PC12 cells that overexpress the EGF receptor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Traverse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Seedorf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Paterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marshall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ullrich"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.1621", 
+            "year": "2010", 
+            "title": "Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Pertea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mortazavi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Kwan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "van Baren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Salzberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Wold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2014.10.005", 
+            "year": "2014", 
+            "title": "Article SRF regulates craniofacial development through selective recruitment of MRTF cofactors by PDGF signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HN", 
+                    "surname": "Vasudevan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.250703", 
+            "year": "2003", 
+            "title": "Fgfr1 regulates patterning of the pharyngeal region", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Trokovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Trokovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Partanen"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Trends in Biochemical Sciences", 
+            "doi": "10.1016/j.tibs.2014.08.010", 
+            "year": "2014", 
+            "title": "Feedback and redundancy in receptor tyrosine kinase signaling: relevance to cancer therapies", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bernards"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Development", 
+            "year": "1997", 
+            "title": "The PDGF \u03b1 receptor is required for neural crest cell development and for normal patterning of the somites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Development", 
+            "doi": "10.1242/dev.00241", 
+            "year": "2003", 
+            "title": "Cell autonomous requirement for PDGFRalpha in populations of cranial and cardiac neural crest cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Tallquist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Plos Biology", 
+            "doi": "10.1371/journal.pbio.0000052", 
+            "year": "2003", 
+            "title": "Additive effects of PDGF receptor \u03b2 signaling pathways in vascular smooth muscle cell development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Tallquist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "French"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Soriano"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "PDGF and FGF signal via distinct intracellular pathways to confer different cellular outcomes during craniofacial development.", 
+    "related-articles": [], 
+    "publish": "1", 
+    "article-version-id": "07186.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "RTK", 
+            "PDGF", 
+            "FGF", 
+            "transcription", 
+            "craniofacial development"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.07186", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "K99DE024617", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "NRSA Individual Predoctoral Fellowship F31DE023456", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "R01DE022778", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "R01DE022363", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}, 
+            "dataro2": {}
+        }, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Developmental and Regenerative Biology", 
+                "city": "New York", 
+                "institution": "Icahn School of Medicine at Mount Sinai", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "HNV, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "PM, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "FH, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "PS, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "philippe.soriano@mssm.edu"
+        }
+    }, 
+    "path": "content/4/e07186", 
+    "fragments": [
+        {
+            "path": "content/4/e07186/abstract-1", 
+            "doi": "10.7554/eLife.07186.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e07186/abstract-2", 
+            "doi": "10.7554/eLife.07186.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e07186/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e07186/F1/F2", 
+                    "doi": "10.7554/eLife.07186.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07186.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e07186/F3", 
+            "fragments": [
+                {
+                    "path": "content/4/e07186/F3/F4", 
+                    "doi": "10.7554/eLife.07186.006", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07186.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e07186/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e07186/F5/F6", 
+                    "doi": "10.7554/eLife.07186.008", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07186.007", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e07186/F7", 
+            "doi": "10.7554/eLife.07186.009", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e07186/F8", 
+            "fragments": [
+                {
+                    "path": "content/4/e07186/F8/F9", 
+                    "doi": "10.7554/eLife.07186.011", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07186.010", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e07186/F10", 
+            "fragments": [
+                {
+                    "path": "content/4/e07186/F10/F11", 
+                    "doi": "10.7554/eLife.07186.013", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07186.012", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e07186/DC1", 
+            "doi": "10.7554/eLife.07186.014", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e07186/DC2", 
+            "doi": "10.7554/eLife.07186.015", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 2."
+        }, 
+        {
+            "path": "content/4/e07186/DC3", 
+            "doi": "10.7554/eLife.07186.016", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 3."
+        }, 
+        {
+            "path": "content/4/e07186/DC4", 
+            "doi": "10.7554/eLife.07186.017", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 4."
+        }, 
+        {
+            "path": "content/4/e07186/DC5", 
+            "doi": "10.7554/eLife.07186.018", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 5."
+        }, 
+        {
+            "path": "content/4/e07186/1", 
+            "doi": "10.7554/eLife.07186.019", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Bronner", 
+                    "given-names": "Marianne E", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "California Institute of Technology"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e07186/2", 
+            "fragments": [
+                {
+                    "path": "content/4/e07186/2/F12", 
+                    "doi": "10.7554/eLife.07186.021", 
+                    "type": "fig", 
+                    "title": "Author response image 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07186.020", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.07186", 
+    "categories": {
+        "heading": [
+            "Computational and systems biology", 
+            "Developmental biology and stem cells"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

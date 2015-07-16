@@ -1,0 +1,2599 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Levin", 
+            "given-names": "Tera C", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0001-7883-8522", 
+            "type": "author", 
+            "id": "author-16614"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Allison J", 
+            "surname": "Greaney", 
+            "id": "author-16615", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Laura", 
+            "surname": "Wetzel", 
+            "id": "author-19694", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "King", 
+            "corresp": "yes", 
+            "given-names": "Nicole", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-1274"
+        }, 
+        {
+            "surname": "S\u00e1nchez Alvarado", 
+            "given-names": "Alejandro", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Howard Hughes Medical Institute, Stowers Institute for Medical Research"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-10-09", 
+    "title": "The rosetteless gene controls development in the choanoflagellate S. rosetta", 
+    "citations": {
+        "bib34": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btp352", 
+            "year": "2009", 
+            "title": "The sequence Alignment/Map format and SAMtools", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Handsaker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Wysoker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fennell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ruan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Homer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Marth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Abecasis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Durbin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "collab": "1000 Genome Project Data Processing Subgroup"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btg112", 
+            "year": "2003", 
+            "title": "R/qtl: QTL mapping in experimental crosses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Broman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "Churchill"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Genetics", 
+            "year": "1974", 
+            "title": "The genetics of Caenorhabditis elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brenner"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Nature", 
+            "doi": "10.1038/360183a0", 
+            "year": "1992", 
+            "title": "Engineering galactose-binding activity into a C-type mannose-binding protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Drickamer"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Science", 
+            "doi": "10.1126/science.1151084", 
+            "year": "2008", 
+            "title": "The premetazoan ancestry of cadherins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Abedin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib3": {
+            "comment": "In Press", 
+            "doi": "10.1101/cshperspect.a016162", 
+            "title": "Bacterial influences on animal origins", 
+            "year": "2014", 
+            "source": "Cold Spring Harbor Perspectives in Biology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Alegado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Trends in Genetics", 
+            "doi": "10.1016/j.tig.2008.04.002", 
+            "year": "2008", 
+            "title": "Are we there yet? Tracking the development of new model systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Abzhanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Extavour"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Groover"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Hodges"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Hoekstra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Kramer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Monteiro"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "International Journal of Systematic and Evolutionary Microbiology", 
+            "doi": "10.1099/ijs.0.038646-0", 
+            "year": "2013", 
+            "title": "Algoriphagus machipongonensis sp. nov., co-isolated with a colonial choanoflagellate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Alegado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Grabenstatter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Zuzow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Morris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Summons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.00013", 
+            "year": "2012", 
+            "title": "A bacterial sulfonolipid triggers multicellular development in the closest living relatives of animals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Alegado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Cao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Dermenjian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Zuzow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Fairclough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Clardy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "PLOS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.1000392", 
+            "year": "2009", 
+            "title": "Fast statistical alignment", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Bradley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Roberts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Smoot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Juvekar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Do"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Dewey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Holmes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Handbook of microbiological media", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Atlas"
+                }
+            ], 
+            "year": "2004"
+        }, 
+        "bib28": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.5542-07.2008", 
+            "year": "2008", 
+            "title": "CLEC-38, a transmembrane protein with C-type lectin-like domains, negatively regulates UNC-40-mediated axon outgrowth and promotes presynaptic development in Caenorhabditis elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Kulkarni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WG", 
+                    "surname": "Wadsworth"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Current Biology", 
+            "doi": "10.1016/S0960-9822(02)01187-9", 
+            "year": "2002", 
+            "title": "The closest unicellular relatives of animals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BF", 
+                    "surname": "Lang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "O'Kelly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nerad"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Gray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Burger"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Genetics", 
+            "doi": "10.1534/genetics.107.085936", 
+            "year": "2008", 
+            "title": "Genome analysis of the unicellular green alga Chlamydomonas reinhardtii indicates an ancient evolutionary origin for key pattern recognition and cell-signaling protein families", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GL", 
+                    "surname": "Wheeler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Miranda-Saavedra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Barton"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "FEBS Journal", 
+            "doi": "10.1111/j.1742-4658.2005.05031.x", 
+            "year": "2005", 
+            "title": "The C-type lectin-like domain superfamily", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Zelensky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Gready"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Nature Reviews Immunology", 
+            "doi": "10.1038/nri2569", 
+            "year": "2009", 
+            "title": "Signalling through C\u2010type lectin receptors: shaping immune responses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TB", 
+                    "surname": "Geijtenbeek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SI", 
+                    "surname": "Gringhuis"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Jenaische Zeitschrift f\u00fcr Naturwissenschaft", 
+            "year": "1874", 
+            "title": "Die Gastraea-theorie, die phylogenetische classification des thierreichs und die homologie der keimblatter", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Haeckel"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Development", 
+            "year": "1996", 
+            "title": "The identification of genes with unique and essential functions in the development of the zebrafish, Danio rerio", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Haffter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Granato"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Brand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Mullins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hammerschmidt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Kane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Odenthal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "van Eeden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YJ", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CP", 
+                    "surname": "Heisenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RN", 
+                    "surname": "Kelsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Furutani-Seiki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Vogelsang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Beuchle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Schach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Fabian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "N\u00fcsslein-Volhard"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.66.2.352", 
+            "year": "1970", 
+            "title": "Genetic control of the cell-division cycle in yeast. I. Detection of mutants", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "Hartwell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Culotti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Reid"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.21.22.7817-7825.2001", 
+            "year": "2001", 
+            "title": "Mice with a targeted deletion of the tetranectin gene exhibit a spinal deformity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Iba"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Durkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Johnsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hunziker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Damgaard-Pedersen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Engvall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Albrechtsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "UM", 
+                    "surname": "Wewer"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.95.13.7485", 
+            "year": "1998", 
+            "title": "A phenotype-based screen for embryonic lethal mutations in the mouse", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kasarskis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Manova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KV", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06617", 
+            "year": "2008", 
+            "title": "The genome of the choanoflagellate Monosiga brevicollis and the origin of metazoans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Westbrook"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kuo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Abedin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chapman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Fairclough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Hellsten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Isogai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Letunic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Marr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Pincus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Putnam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rokas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Wright"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Zuzow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Dirks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Good"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Goodstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lemons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Lyons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Morris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nichols"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Richter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Salamov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Sequencing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bork"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Lim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Manning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WT", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "McGinnis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Shapiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tjian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IV", 
+                    "surname": "Grigoriev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rokhsar"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Cold Spring Harbor Protocols", 
+            "doi": "10.1101/pdb.prot5152", 
+            "year": "2009", 
+            "title": "Rapid Preparation of genomic DNA from Monosiga and other choanoflagellates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Abedin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Leadbeater"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.275.14.10323", 
+            "year": "2000", 
+            "title": "Sweet tooth, a novel receptor protein-tyrosine kinase with C-type lectin-like extracellular domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Reidling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Steele"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Annual Review of Genetics", 
+            "doi": "10.1146/annurev-genet-111212-133456", 
+            "year": "2013", 
+            "title": "The genomic and cellular foundations of animal origins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Richter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Protist", 
+            "doi": "10.1016/j.protis.2012.09.002", 
+            "year": "2012", 
+            "title": "Molecular phylogeny of Unikonts: new insights into the position of Apusomonads and Ancyromonads and the internal relationships of Opisthokonts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Paps"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Medina-Chac\u00f3n"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Marshall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Suga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Ruiz-Trillo"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2009.02.052", 
+            "year": "2009", 
+            "title": "Phylogenomics revives traditional views on deep animal relationships", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Philippe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Derelle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Lopez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Pick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Borchiellini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Boury-Esnault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Vacelet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Renard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Houliston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Qu\u00e9innec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Da Silva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Wincker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Le Guyader"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Leys"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Jackson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Schreiber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Erpenbeck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Morgenstern"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "W\u00f6rheide"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Manuel"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Journal of Eukaryotic Microbiology", 
+            "doi": "10.1111/j.1550-7408.2011.00572.x", 
+            "year": "2011", 
+            "title": "Higher level taxonomy and molecular phylogenetics of the Choanoflagellatea", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Nitsche"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Arndt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Leadbeater"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Nature", 
+            "doi": "10.1038/287795a0", 
+            "year": "1980", 
+            "title": "Mutations affecting segment number and polarity in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "N\u00fcsslein-Volhard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Wieschaus"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1120685109", 
+            "year": "2012", 
+            "title": "Origin of metazoan cadherin diversity and the antiquity of the classical cadherin/\u03b2-catenin complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Nichols"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BW", 
+                    "surname": "Roberts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Richter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Fairclough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Evolution & Development", 
+            "doi": "10.1111/j.1525-142X.2008.00231.x", 
+            "year": "2008", 
+            "title": "Six major steps in animal evolution: are we derived sponge larvae?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Nielsen"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Bioessays", 
+            "doi": "10.1002/bies.200800214", 
+            "year": "2009", 
+            "title": "The origin of Metazoa: a transition from temporal to spatial cell differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KV", 
+                    "surname": "Mikhailov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Konstantinova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Nikitin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Troshin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LY", 
+                    "surname": "Rusin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VA", 
+                    "surname": "Lyubetsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YV", 
+                    "surname": "Panchin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Mylnikov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Moroz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Aleoshin"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "International Journal of Systematic and Evolutionary Microbiology", 
+            "doi": "10.1099/ijs.0.64156-0", 
+            "year": "2006", 
+            "title": "Echinicola pacifica gen. nov., sp. nov., a novel flexibacterium isolated from the sea urchin Strongylocentrotus intermedius", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OI", 
+                    "surname": "Nedashkovskaya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Vancanneyt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Lysenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Shin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NI", 
+                    "surname": "Kalinovskaya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VV", 
+                    "surname": "Mikhailov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Bae"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Swings"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0801667105", 
+            "year": "2008", 
+            "title": "Molecular phylogeny of choanoflagellates, the sister group to Metazoa", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Leadbeater"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hassan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nelson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Baldauf"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Cellular Microbiology", 
+            "doi": "10.1111/j.1462-5822.2005.00506.x", 
+            "year": "2005", 
+            "title": "How C-type lectins detect pathogens", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cambi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koopman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Figdor"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2013.07.006", 
+            "year": "2013", 
+            "title": "The Drosophila selectin furrowed mediates intercellular planar cell polarity interactions via frizzled stabilization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Chin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mlodzik"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Glycobiology", 
+            "doi": "10.1093/glycob/1.2.131", 
+            "year": "1991", 
+            "title": "Cell surface mucin-type glycoproteins and mucin-like domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Carraway"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Hull"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng.806", 
+            "year": "2011", 
+            "title": "A framework for variation discovery and genotyping using next-generation DNA sequencing data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "DePristo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Banks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Poplin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KV", 
+                    "surname": "Garimella"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Maguire"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Hartl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Philippakis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "del Angel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Rivas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hanna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "McKenna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Fennell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Kernytsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AY", 
+                    "surname": "Sivachenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cibulskis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Gabriel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Altshuler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Daly"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2011.06.003", 
+            "year": "2011", 
+            "title": "Cell differentiation and morphogenesis in the colony-forming choanoflagellate Salpingoeca rosetta", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Dayel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Alegado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Fairclough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Levin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Nichols"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "McDonald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Brunn", 
+            "year": "1866", 
+            "title": "Versuche \u00fcber Pflanzenhybriden. Verhandlungen des naturforschenden Vereines in Brunn", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Mendel"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Nature", 
+            "doi": "10.1038/353402a0", 
+            "year": "1991", 
+            "title": "Mutations affecting body organization in the Arabidopsis embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Mayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RAT", 
+                    "surname": "Ruiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Berleth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mise\u00e9ra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Ju\u00fcrgens"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2013-14-2-r15", 
+            "year": "2013", 
+            "title": "Premetazoan genome evolution and the regulation of cell differentiation in the choanoflagellate Salpingoeca rosetta", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Fairclough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kramer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HM", 
+                    "surname": "Robertson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Begovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Richter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Russ"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Westbrook"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Manning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BF", 
+                    "surname": "Lang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Haas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Nusbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2010.09.014", 
+            "year": "2010", 
+            "title": "Multicellular development in a choanoflagellate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Fairclough"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Dayel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "PLOS Pathogens", 
+            "doi": "10.1371/journal.ppat.1003931", 
+            "year": "2014", 
+            "title": "Transmission-blocking antibodies against mosquito C-type lectins for dengue prevention", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Qin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "MS", 
+                    "surname": "Diamond"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Glycobiology", 
+            "doi": "10.1093/glycob/9.12.1357", 
+            "year": "1999", 
+            "title": "C-Type lectin-like domains in Caenorhabditis elegans: predictions from the complete genome sequence", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Drickamer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Dodd"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btp324", 
+            "year": "2009", 
+            "title": "Fast and accurate short read alignment with Burrows-Wheeler transform", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Durbin"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2013.08.061", 
+            "year": "2013", 
+            "title": "Evidence for sex and recombination in the choanoflagellate Salpingoeca rosetta", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Levin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "King"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkr931", 
+            "year": "2012", 
+            "title": "SMART 7: recent updates to the protein domain annotation resource", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Letunic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Doerks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bork"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Alternative splicing in the Postgenomic Era", 
+            "year": "2007", 
+            "title": "The coupling of alternative splicing and nonsense-mediated mRNA decay", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Lareau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Brooks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Soergel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Meng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Brenner"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "BJ", 
+                    "surname": "Blencowe"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "BR", 
+                    "surname": "Graveley"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0801314105", 
+            "year": "2008", 
+            "title": "The protist, Monosiga brevicollis, has a tyrosine kinase signaling network more elaborate and diverse than found in any known metazoan", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Manning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WT", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhai"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "The Journal of Experimental Medicine", 
+            "doi": "10.1084/jem.20021840", 
+            "year": "2003", 
+            "title": "DC-SIGN (CD209) mediates dengue virus infection of human dendritic cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Tassaneetrithep"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TH", 
+                    "surname": "Burgess"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Granelli-Piperno"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trumpfheller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Finke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Eller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Pattanapanyasat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sarasombath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Birx"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Steinman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schlesinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Marovich"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Current Opinion in Immunology", 
+            "doi": "10.1016/j.coi.2005.11.014", 
+            "year": "2006", 
+            "title": "The mannose-binding lectin: a prototypic pattern recognition molecule", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Takahashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Ip"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IC", 
+                    "surname": "Michelow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Ezekowitz"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1221734110", 
+            "year": "2013", 
+            "title": "Identification and characterization of a previously undescribed family of sequence-specific DNA-binding domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Lohse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Hernday"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Fordyce"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Noiman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Sorrells"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Hanson-Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Nobile"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "DeRisi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.01287", 
+            "year": "2013", 
+            "title": "Regulated aggregative multicellularity in a close unicellular relative of metazoa", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sebe-Pedros"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Irimia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "del Campo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Parra-Acero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Russ"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Nusbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Blencowe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Ruiz-Trillo"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/72708", 
+            "year": "2000", 
+            "title": "An economic method for the fluorescent labeling of PCR fragments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schuelke"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Cellular Signalling", 
+            "doi": "10.1016/j.cellsig.2010.03.018", 
+            "year": "2010", 
+            "title": "C-type lectin DC-SIGN: an adhesion, signalling and antigen-uptake molecule that guides dendritic cells in immunity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "\u0160vajger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Anderluh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jeras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Obermajer"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Science Signaling", 
+            "doi": "10.1126/scisignal.2002733", 
+            "year": "2012", 
+            "title": "Genomic survey of premetazoans shows deep conservation of cytoplasmic tyrosine kinases and multiple radiations of receptor tyrosine kinases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Suga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Dacre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "De Mendoza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shalchian-Tabrizi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Manning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Ruiz-Trillo"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Glycobiology", 
+            "doi": "10.1093/glycob/6.5.489", 
+            "year": "1996", 
+            "title": "Brain extracellular matrix", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Ruoslahti"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Molecular Biology and Evolution", 
+            "doi": "10.1093/molbev/msn006", 
+            "year": "2008", 
+            "title": "A phylogenomic investigation into the origin of metazoa", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Ruiz-Trillo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Roger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Burger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Gray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BF", 
+                    "surname": "Lang"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2089", 
+            "year": "2012", 
+            "title": "NIH Image to ImageJ: 25 years of image analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Schneider"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WS", 
+                    "surname": "Rasband"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Eliceiri"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Thescientificworldjournal", 
+            "doi": "10.1100/2012/931386", 
+            "year": "2012", 
+            "title": "Evolution of the C-type lectin-like receptor genes of the DECTIN-1 cluster in the NK gene complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sattler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ghadially"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hofer"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The establishment of forward genetics in <italic>S. rosetta</italic> reveals the first gene known to be required for choanoflagellate multicellular development.", 
+    "related-articles": [], 
+    "publish": "1", 
+    "article-version-id": "04070.1", 
+    "volume": "3", 
+    "keywords": {
+        "author-keywords": [
+            "choanoflagellate", 
+            "<italic>Salpingoeca rosetta</italic>", 
+            "multicellularity", 
+            "C-type lectin-like", 
+            "rosetteless"
+        ], 
+        "research-organism": [
+            "other"
+        ]
+    }, 
+    "doi": "10.7554/eLife.04070", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100007631", 
+                "institution": "Canadian Institute for Advanced Research", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM089977", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro4": {}, 
+            "dataro1": {}, 
+            "dataro2": {}, 
+            "dataro3": {}
+        }, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Molecular and Cell Biology", 
+                "city": "Berkeley", 
+                "institution": "Howard Hughes Medical Institute, University of California, Berkeley", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "TCL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "AJG, Acquisition of data, Analysis and interpretation of data", 
+            "con3": "LW, Acquisition of data, Analysis and interpretation of data", 
+            "con4": "NK, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "nking@berkeley.edu"
+        }
+    }, 
+    "path": "content/3/e04070", 
+    "fragments": [
+        {
+            "path": "content/3/e04070/abstract-1", 
+            "doi": "10.7554/eLife.04070.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e04070/abstract-2", 
+            "doi": "10.7554/eLife.04070.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e04070/F1", 
+            "doi": "10.7554/eLife.04070.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e04070/F2", 
+            "doi": "10.7554/eLife.04070.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e04070/T1", 
+            "doi": "10.7554/eLife.04070.005", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/3/e04070/F3", 
+            "fragments": [
+                {
+                    "path": "content/3/e04070/F3/F4", 
+                    "doi": "10.7554/eLife.04070.007", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e04070/F3/F5", 
+                    "doi": "10.7554/eLife.04070.008", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.04070.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e04070/F6", 
+            "fragments": [
+                {
+                    "path": "content/3/e04070/F6/DC1", 
+                    "doi": "10.7554/eLife.04070.010", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 4\u2014source data 1."
+                }, 
+                {
+                    "path": "content/3/e04070/F6/F7", 
+                    "doi": "10.7554/eLife.04070.011", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e04070/F6/F8", 
+                    "doi": "10.7554/eLife.04070.012", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/3/e04070/F6/F9", 
+                    "doi": "10.7554/eLife.04070.013", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.04070.009", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e04070/F10", 
+            "fragments": [
+                {
+                    "path": "content/3/e04070/F10/F11", 
+                    "doi": "10.7554/eLife.04070.015", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e04070/F10/F12", 
+                    "doi": "10.7554/eLife.04070.016", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.04070.014", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e04070/F13", 
+            "fragments": [
+                {
+                    "path": "content/3/e04070/F13/F14", 
+                    "doi": "10.7554/eLife.04070.018", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e04070/F13/F15", 
+                    "doi": "10.7554/eLife.04070.019", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.04070.017", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/3/e04070/DC2", 
+            "doi": "10.7554/eLife.04070.020", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/3/e04070/DC3", 
+            "doi": "10.7554/eLife.04070.021", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 2."
+        }, 
+        {
+            "path": "content/3/e04070/1", 
+            "doi": "10.7554/eLife.04070.022", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "S\u00e1nchez Alvarado", 
+                    "given-names": "Alejandro", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Howard Hughes Medical Institute, Stowers Institute for Medical Research"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e04070/2", 
+            "doi": "10.7554/eLife.04070.023", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.04070", 
+    "categories": {
+        "heading": [
+            "Developmental biology and stem cells", 
+            "Genomics and evolutionary biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}
