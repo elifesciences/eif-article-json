@@ -1,0 +1,3432 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Caron", 
+            "corresp": "yes", 
+            "given-names": "Etienne", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-10"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2", 
+                    "dataro3"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0003-2770-6970", 
+            "type": "author", 
+            "id": "author-31162"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Lucia", 
+            "surname": "Espona", 
+            "id": "author-32328", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Daniel J", 
+            "surname": "Kowalewski", 
+            "id": "author-32329", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con8"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-6"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Heiko", 
+            "surname": "Schuster", 
+            "id": "author-32330", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con9"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-6"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Nicola", 
+            "surname": "Ternette", 
+            "id": "author-23680", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con10"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Ad\u00e1n", 
+            "surname": "Alp\u00edzar", 
+            "id": "author-32350", 
+            "references": {
+                "affiliation": [
+                    "aff5"
+                ], 
+                "contribution": [
+                    "con11"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Ralf B", 
+            "surname": "Schittenhelm", 
+            "id": "author-32332", 
+            "references": {
+                "affiliation": [
+                    "aff6"
+                ], 
+                "contribution": [
+                    "con12"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-11"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Sri H", 
+            "surname": "Ramarathinam", 
+            "id": "author-32333", 
+            "references": {
+                "affiliation": [
+                    "aff6"
+                ], 
+                "contribution": [
+                    "con13"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Cecilia S", 
+            "surname": "Lindestam Arlehamn", 
+            "id": "author-32334", 
+            "references": {
+                "affiliation": [
+                    "aff7"
+                ], 
+                "contribution": [
+                    "con16"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Ching", 
+            "surname": "Chiek Koh", 
+            "id": "author-32335", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Ludovic C", 
+            "surname": "Gillet", 
+            "id": "author-32336", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Armin", 
+            "surname": "Rabsteyn", 
+            "id": "author-32337", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con17"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Pedro", 
+            "surname": "Navarro", 
+            "id": "author-32338", 
+            "references": {
+                "affiliation": [
+                    "aff8"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-7", 
+                    "par-8"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Sangtae", 
+            "surname": "Kim", 
+            "id": "author-32339", 
+            "references": {
+                "affiliation": [
+                    "aff9"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Henry", 
+            "surname": "Lam", 
+            "id": "author-32340", 
+            "references": {
+                "affiliation": [
+                    "aff10"
+                ], 
+                "contribution": [
+                    "con7"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Theo", 
+            "surname": "Sturm", 
+            "id": "author-32341", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con18"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Miguel", 
+            "surname": "Marcilla", 
+            "id": "author-32342", 
+            "references": {
+                "affiliation": [
+                    "aff5"
+                ], 
+                "contribution": [
+                    "con14"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-9"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Alessandro", 
+            "surname": "Sette", 
+            "id": "author-21315", 
+            "references": {
+                "affiliation": [
+                    "aff7"
+                ], 
+                "contribution": [
+                    "con19"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "David S", 
+            "surname": "Campbell", 
+            "id": "author-32343", 
+            "references": {
+                "affiliation": [
+                    "aff11"
+                ], 
+                "contribution": [
+                    "con20"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-12"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Eric W", 
+            "surname": "Deutsch", 
+            "id": "author-32344", 
+            "references": {
+                "affiliation": [
+                    "aff11"
+                ], 
+                "contribution": [
+                    "con21"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-12"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Robert L", 
+            "surname": "Moritz", 
+            "id": "author-32345", 
+            "references": {
+                "affiliation": [
+                    "aff11"
+                ], 
+                "contribution": [
+                    "con22"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-12"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Anthony W", 
+            "surname": "Purcell", 
+            "id": "author-27571", 
+            "references": {
+                "affiliation": [
+                    "aff6"
+                ], 
+                "contribution": [
+                    "con15"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Hans-Georg", 
+            "surname": "Rammensee", 
+            "id": "author-32346", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con23"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-6"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Stefan", 
+            "surname": "Stevanovic", 
+            "id": "author-32347", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con24"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-6"
+                ]
+            }
+        }, 
+        {
+            "surname": "Aebersold", 
+            "corresp": "yes", 
+            "given-names": "Ruedi", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff12"
+                ], 
+                "contribution": [
+                    "con25"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3", 
+                    "par-4", 
+                    "par-5"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-1317"
+        }, 
+        {
+            "surname": "Chakraborty", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Massachusetts Institute of Technology"
+                }
+            ], 
+            "given-names": "Arup K", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-9459"
+        }
+    ], 
+    "pub-date": "2015-07-08", 
+    "title": "An open-source computational and data resource to analyze digital maps of immunopeptidomes", 
+    "citations": {
+        "bib34": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.M113.034314", 
+            "year": "2014", 
+            "title": "Increased diversity of the HLA-B40 ligandome by the presentation of peptides phosphorylated at their main anchor residue", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Marcilla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Alp\u00edzar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lombard\u00eda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ramos-Fernandez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ramos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Albar"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth1019", 
+            "year": "2007", 
+            "title": "Target-decoy search strategy for increased confidence in large-scale protein identifications by mass spectrometry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Elias"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gygi"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "PLOS Pathogens", 
+            "doi": "10.1371/journal.ppat.1003129.s009", 
+            "year": "2013", 
+            "title": "Kinetics of antigen expression and epitope presentation during virus infection", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NP", 
+                    "surname": "Croft"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YC", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NL", 
+                    "surname": "Dudek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IE", 
+                    "surname": "Flesch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Tscharke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Purcell"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Nature", 
+            "doi": "10.1038/nature13988", 
+            "year": "2014", 
+            "title": "Checkpoint blockade cancer immunotherapy targets tumour-specific mutant antigens", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Gubin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Schuster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Ward"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Noguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ivanova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hundal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Arthur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Krebber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GE", 
+                    "surname": "Mulder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Toebes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Vesely"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Korman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Allison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Freeman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Sharpe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Pearce"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Schumacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Rammensee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Melief"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Mardis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Gillanders"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Artyomov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Schreiber"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.O111.011833", 
+            "year": "2011", 
+            "title": "The Human Immunopeptidome Project, a suggestion for yet another postgenome next big thing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Admon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bassani-Sternberg"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Immunogenetics", 
+            "doi": "10.1007/s00251-014-0819-9", 
+            "year": "2014", 
+            "title": "Different binding motifs of the celiac disease-associated HLA molecules DQ2.5, DQ2.2, and DQ7.5 revealed by relative quantitative proteomics of endogenous peptide repertoires", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Bergseng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "D\u00f8rum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M\u00d8", 
+                    "surname": "Arntzen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nielsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nyg\u00e5rd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Buus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "de Souza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Sollid"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.M114.042812", 
+            "year": "2015", 
+            "title": "Mass spectrometry of human leukocyte antigen class I peptidomes reveals strong effects of protein abundance and turnover on antigen presentation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bassani-Sternberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Pletscher-Frankild"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Jensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mann"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Molecular Systems Biology", 
+            "doi": "10.1038/msb.2011.68", 
+            "year": "2011", 
+            "title": "The MHC I immunopeptidome conveys to the cell surface an integrative view of cellular regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Vincent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M-H", 
+                    "surname": "Fortier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-P", 
+                    "surname": "Laverdure"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bramoull\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M-P", 
+                    "surname": "Hardy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Voisin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PP", 
+                    "surname": "Roux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lemieux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Thibault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Perreault"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Leukemia", 
+            "doi": "10.1038/leu.2014.233", 
+            "year": "2014", 
+            "title": "Mapping the HLA ligandome landscape of acute myeloidleukemia: a targeted approach toward peptide-based immunotherapy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Berlin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Kowalewski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Schuster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Mirza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Walz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Handel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Schmid-Horch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HR", 
+                    "surname": "Salih"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Kanz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Rammensee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "cacute"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Stickel"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Journal of Proteome Research", 
+            "doi": "10.1021/pr049882h", 
+            "year": "2004", 
+            "title": "Open source system for analyzing, validating, and storing protein identification data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Craig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Cortens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Beavis"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2703", 
+            "year": "2013", 
+            "title": "Quantifying protein interaction dynamics by SWATH mass spectrometry: application to the 14-3-3 system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rosenberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "R\u00f6st"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vichalkovski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gstaiger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1416389112", 
+            "year": "2014", 
+            "title": "HLA ligandome analysis identifies the underlying specificities of spontaneous antileukemia immune responses in chronic lymphocytic leukemia (CLL)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Kowalewski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Schuster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Backert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Berlin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Kanz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HR", 
+                    "surname": "Salih"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Rammensee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Stevanovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Stickel"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Concurrency Computation", 
+            "doi": "10.1002/cpe.3294", 
+            "year": "2014", 
+            "title": "iPortal: the swiss grid proteomics portal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kunszt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Blum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Hull\u00e1r"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Schmid"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Srebniak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wolski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Rinn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Elmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ramakrishnan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Quandt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Malmstr\u00f6m"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Science", 
+            "doi": "10.1126/science.1546328", 
+            "year": "1992", 
+            "title": "Characterization of peptides bound to the class I MHC molecule HLA-A2.1 by mass spectrometry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DF", 
+                    "surname": "Hunt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Henderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shabanowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sakaguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Michel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Sevilir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Cox"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Appella"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VH", 
+                    "surname": "Engelhard"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Analytical Chemistry", 
+            "doi": "10.1021/ac025747h", 
+            "year": "2002", 
+            "title": "Empirical statistical model to estimate the accuracy of peptide identifications made by MS/MS and database search", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Keller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AI", 
+                    "surname": "Nesvizhskii"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kolker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Molecular Systems Biology", 
+            "doi": "10.1038/msb4100024", 
+            "year": "2005", 
+            "title": "A uniform proteomics MS/MS analysis platform utilizing open XML file formats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Keller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Eng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XJ", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms6277", 
+            "year": "2014", 
+            "title": "MS-GF+ makes progress towards a universal database search tool for proteomics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Pevzner"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "BMC Bioinformatics", 
+            "doi": "10.1186/1471-2105-15-241", 
+            "year": "2014", 
+            "title": "Dataset size and composition impact the reliability of performance benchmarks for peptide-MHC binding predictions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sidney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Buus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sette"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nielsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Peters"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Science", 
+            "doi": "10.1126/science.1232910", 
+            "year": "2013", 
+            "title": "Accelerating next-generation vaccine development for global disease prevention", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Koff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Burton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Walker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "King"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Nabel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ahmed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Bhan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Plotkin"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Nature Immunology", 
+            "doi": "10.1038/ni.2871", 
+            "year": "2014", 
+            "title": "Toward a human vaccines project", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Koff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ID", 
+                    "surname": "Gust"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Plotkin"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Methods in Molecular Biology", 
+            "doi": "10.1007/978-1-62703-218-6_12", 
+            "year": "2013", 
+            "title": "Biochemical large-scale identification of MHC class I ligands", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Kowalewski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Stevanovic"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "The New England Journal of Medicine", 
+            "doi": "10.1056/NEJMoa1406498", 
+            "year": "2014", 
+            "title": "Genetic basis for clinical response to CTLA-4 blockade in melanoma", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Snyder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Makarov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Merghoub"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Zaretsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Desrichard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Walsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Postow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TS", 
+                    "surname": "Ho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Hollmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bruggeman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kannan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Elipenahli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Harbison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ribas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Wolchok"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Chan"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btv123", 
+            "year": "2015", 
+            "title": "Automated benchmarking of peptide-MHC class I binding predictions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Trolle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IG", 
+                    "surname": "Metushi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Greenbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sidney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Lund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sette"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Peter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nielsen"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.M111.007690", 
+            "year": "2011", 
+            "title": "iProphet: multi-level integrative analysis of shotgun proteomic data improves peptide and protein identification rates and error estimates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Shteynberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Deutsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Eng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tasman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Mendoza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Moritz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AI", 
+                    "surname": "Nesvizhskii"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.R113.027797", 
+            "year": "2013", 
+            "title": "Combining results of multiple search engines in proteomics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Shteynberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AI", 
+                    "surname": "Nesvizhskii"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Moritz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Deutsch"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccell.2014.12.004", 
+            "year": "2015", 
+            "title": "Biomarkers in cancer immunotherapy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Schumacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ke\u015fmir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "van Buuren"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.M113.035550", 
+            "year": "2015", 
+            "title": "Reproducible and consistent quantification of the Saccharomyces cerevisiae proteome by SWATH-mass spectrometry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Selevsek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CY", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Navarro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OM", 
+                    "surname": "Bernhardt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Reiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LY", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Vitek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Cell Host & Microbe", 
+            "doi": "10.1016/j.chom.2015.06.001", 
+            "year": "2015a", 
+            "title": "Absolute proteome composition and dynamics during dormancy and resuscitation of Mycobacterium tuberculosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OT", 
+                    "surname": "Schubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ludwig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kogadeeva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Zimmermann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rosenberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gengenbacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "R\u00f6st"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SHE", 
+                    "surname": "Kaufmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Sauer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2015-015", 
+            "year": "2015b", 
+            "title": "Building high-quality assay libraries for targeted analysis of SWATH MS data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OT", 
+                    "surname": "Schubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Navarro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rosenberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Wolski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Amodei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mallick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "MacLean"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Arthritis & Rheumatology", 
+            "doi": "10.1002/art.38963", 
+            "year": "2014a", 
+            "title": "Revisiting the arthritogenic peptide theory: quantitative not qualitative changes in the peptide repertoire of HLA-B27 allotypes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Schittenhelm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TCC", 
+                    "surname": "Lim Kam Sian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Wilmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NL", 
+                    "surname": "Dudek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Purcell"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Tissue Antigens", 
+            "doi": "10.1111/tan.12282", 
+            "year": "2014b", 
+            "title": "A comprehensive analysis of constitutive naturally processed and presented HLA-C*04:01 (Cw4)-specific peptides", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Schittenhelm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NL", 
+                    "surname": "Dudek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NP", 
+                    "surname": "Croft"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Ramarathinam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Purcell"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Proteomics", 
+            "doi": "10.1002/pmic.201100463", 
+            "year": "2012", 
+            "title": "Using iRT, a normalized retention time for more targeted measurement of peptides", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Escher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Reiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "MacLean"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ossola"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Herzog"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chilton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "MacCoss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Rinner"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Proteomics", 
+            "doi": "10.1002/pmic.201200439", 
+            "year": "2012", 
+            "title": "Comet: an open-source MS/MS sequence database search tool", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Eng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Jahan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Hoopmann"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "The Journal of Experimental Medicine", 
+            "doi": "10.1084/jem.20071985", 
+            "year": "2008", 
+            "title": "The MHC class I peptide repertoire is molded by the transcriptome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M-H", 
+                    "surname": "Fortier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M-P", 
+                    "surname": "Hardy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Voisin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lemieux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Perreault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Thibault"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature", 
+            "doi": "10.1038/351290a0", 
+            "year": "1991", 
+            "title": "Allele-specific motifs revealed by sequencing of self-peptides eluted from MHC molecules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Falk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "R\u00f6tzschke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Stevanovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Rammensee"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Current Opinion in Immunology", 
+            "doi": "10.1016/j.coi.2014.10.012", 
+            "year": "2015", 
+            "title": "The nature of self for T cells\u2014a systems-level perspective", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Granados"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Laumont"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Thibault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Perreault"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.O111.016717", 
+            "year": "2012", 
+            "title": "Targeted data extraction of the MS/MS spectra generated by data-independent acquisition: a new concept for consistent and accurate proteome analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Navarro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Tate"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "R\u00f6st"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Selevsek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Reiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bonner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.2841", 
+            "year": "2014", 
+            "title": "OpenSWATH enables automated, targeted analysis of data- independent acquisition MS data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "R\u00f6st"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rosenberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Navarro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Miladinovi\u0107"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OT", 
+                    "surname": "Schubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wolski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Ben", 
+                    "surname": "C Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Malmstr\u00f6m"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Malmstr\u00f6m"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Scientific Data", 
+            "doi": "10.1038/sdata.2014.31", 
+            "year": "2014", 
+            "title": "A repository of assays to quantify 10,000 human proteins by SWATH-MS", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rosenberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Koh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Guo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "R\u00f6st"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kouvonen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Heusel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Caron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vichalkovski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Faini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OT", 
+                    "surname": "Schubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Faridi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Ebhardt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Matondo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Bader"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Campbell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Deutsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Moritz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Tate"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Molecular & Cellular Proteomics", 
+            "doi": "10.1074/mcp.M112.024810", 
+            "year": "2013", 
+            "title": "The human leukocyte antigen-presented ligandome of B lymphocytes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Hassan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Kester"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "de Ru"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hombrink"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Drijfhout"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Nijveen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Leunissen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Heemskerk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Falkenburg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "van Veelen"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Nature Medicine", 
+            "doi": "10.1038/nm.3807", 
+            "year": "2015", 
+            "title": "Rapid mass spectrometric conversion of tissue biopsy samples into permanent quantitative digital proteome maps", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Guo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kouvonen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Koh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Wolski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "R\u00f6st"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rosenberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Lorenz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gillessen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Joerger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Jochum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Journal of Proteome Research", 
+            "doi": "10.1021/pr101060v", 
+            "year": "2011", 
+            "title": "More than 100,000 detectable peptide species elute in single shotgun proteomics runs but the majority is inaccessible to data-dependent LC\u2212MS/MS", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Michalski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Cox"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mann"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms4600", 
+            "year": "2014", 
+            "title": "Impact of genomic polymorphisms on the repertoire of human MHC class I-associated peptides", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Granados"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Sriranganadane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Daouda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Zieger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Laumont"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Caron-Lizotte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Boucher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Hardy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Gendron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "C\u00f4t\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SEB", 
+                    "surname": "Lemieux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Thibault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Perreault"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkn202", 
+            "year": "2008", 
+            "title": "NetMHC-3.0: accurate web accessible predictions of human, mouse and monkey MHC class I affinities for peptides of length 8-11", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lundegaard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Lamberth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Harndahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Buus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Lund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nielsen"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Molecular Systems Biology", 
+            "doi": "10.15252/msb.20145728", 
+            "year": "2015", 
+            "title": "Quantitative variability of 342 plasma proteins in a human twin population", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Buil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Gillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Blum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LY", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Vitek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mouritsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Lachance"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Spector"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Dermitzakis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "PLOS Pathogens", 
+            "doi": "10.1371/journal.ppat.1003130", 
+            "year": "2013", 
+            "title": "Memory T cells in latent Mycobacterium tuberculosis infection are directed against three antigenic islands and largely contained in a CXCR3+CCR6+ Th1 subset", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Lindestam Arlehamn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gerasimova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Mele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Henderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Swann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Greenbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sidney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "James"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Taplitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "McKinney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WW", 
+                    "surname": "Kwok"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Grey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Sallusto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Peters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sette"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.1254", 
+            "year": "2008", 
+            "title": "Building consensus spectral libraries for peptide identification in proteomics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Deutsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Eddes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Eng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Stein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2015", 
+            "year": "2012", 
+            "title": "Selected reaction monitoring-based proteomics: workflows, potential, pitfalls and future directions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Picotti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Aebersold"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "The Journal of Immunology", 
+            "doi": "10.4049/jimmunol.1302101", 
+            "year": "2013", 
+            "title": "HLA class I alleles are associated with peptide-binding repertoires of different size, affinity, and immunogenicity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Paul"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Weiskopf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Angelo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sidney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Peters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sette"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gks1262", 
+            "year": "2012", 
+            "title": "The proteomics identifications (PRIDE) database and associated tools: status in 2013", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Vizcaino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "Cote"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Csordas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Dianes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fabregat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Foster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Griss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Alpi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Birim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Contell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "O'Kelly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Schoenegger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Ovelleiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Perez-Riverol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Reisinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rios"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hermjakob"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "A community-based international effort generates standardized HLA allele-specific peptide assay libraries and enables the analysis of the human immunopeptidome by SWATH mass spectrometry.", 
+    "related-articles": [], 
+    "elocation-id": "e07661", 
+    "publish": "1", 
+    "article-version-id": "07661.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "human leukocytes antigen", 
+            "immunopeptidome", 
+            "targeted mass spectrometry", 
+            "SWATH-MS", 
+            "DIA"
+        ], 
+        "research-organism": [
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.07661", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-12": {
+                "id": "http://dx.doi.org/10.13039/100000057", 
+                "award-id": "R01GM087221 and 2P50 GM076547/Center for Systems Biology", 
+                "institution": "National Institute of General Medical Sciences (NIGMS)", 
+                "id-type": "FundRef"
+            }, 
+            "par-11": {
+                "id": "http://dx.doi.org/10.13039/501100001711", 
+                "award-id": "Postdoc Mobility Fellowship", 
+                "institution": "Schweizerische Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung", 
+                "id-type": "FundRef"
+            }, 
+            "par-10": {
+                "id": "http://dx.doi.org/10.13039/501100000780", 
+                "award-id": "Marie Curie Intra-European Fellowship", 
+                "institution": "European Commission (EC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-9": {
+                "id": "http://dx.doi.org/10.13039/501100003329", 
+                "award-id": "Carlos III Health Institute (ISCIII) (ProteoRed-PRB2, PT13/0001)", 
+                "institution": "Ministerio de Econom\u00eda y Competitividad", 
+                "id-type": "FundRef"
+            }, 
+            "par-8": {
+                "award-id": "of the Johannes Gutenberg University Mainz", 
+                "institution": "Forschungszentrum Immuntherapie (FZI)"
+            }, 
+            "par-7": {
+                "id": "http://dx.doi.org/10.13039/501100002347", 
+                "award-id": "e:Bio Express2Present, 0316179C", 
+                "institution": "Bundesministerium f\u00fcr Bildung und Forschung", 
+                "id-type": "FundRef"
+            }, 
+            "par-6": {
+                "institution": "German Cancer Consortium (DKTK)"
+            }, 
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/501100000780", 
+                "award-id": "SysteMtb, 241587", 
+                "institution": "European Commission (EC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/501100001711", 
+                "award-id": "3100A0-688 107679", 
+                "institution": "Schweizerische Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/501100000781", 
+                "award-id": "ERC-2008-AdG_20080422", 
+                "institution": "European Research Council (ERC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "HHSN272201200010C and HHSN272200900044C", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000925", 
+                "award-id": "1022509 and 1085017", 
+                "institution": "National Health and Medical Research Council (NHMRC)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}, 
+            "dataro2": {}, 
+            "dataro3": {}
+        }, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Target Discovery Institute Mass Spectrometry Laboratory", 
+                "city": "Oxford", 
+                "institution": "University of Oxford", 
+                "country": "United Kingdom"
+            }, 
+            "aff9": {
+                "dept": null, 
+                "city": "Richland", 
+                "institution": "Pacific Northwest National Laboratory", 
+                "country": "United States"
+            }, 
+            "aff8": {
+                "dept": "Institute for Immunology", 
+                "city": "Mainz", 
+                "institution": "University Medical Center of the Johannes Gutenberg University Mainz", 
+                "country": "Germany"
+            }, 
+            "aff7": {
+                "dept": null, 
+                "city": "La Jolla", 
+                "institution": "La Jolla Institute for Allergy and Immunology", 
+                "country": "United States"
+            }, 
+            "aff6": {
+                "dept": "Department of Biochemistry and Molecular Biology", 
+                "city": "Clayton", 
+                "institution": "Monash University", 
+                "country": "Australia"
+            }, 
+            "aff5": {
+                "dept": "Proteomics Unit", 
+                "city": "Madrid", 
+                "institution": "Spanish National Biotechnology Centre", 
+                "country": "Spain"
+            }, 
+            "aff10": {
+                "dept": "Division of Biomedical Engineering and Department of Chemical and Biomolecular Engineering", 
+                "city": "Hong Kong", 
+                "institution": "Hong Kong University of Science and Technology", 
+                "country": "China"
+            }, 
+            "aff3": {
+                "dept": "DKFZ partner site T\u00fcbingen", 
+                "city": "T\u00fcbingen", 
+                "institution": "German Cancer Consortium", 
+                "country": "Germany"
+            }, 
+            "aff2": {
+                "dept": "Department of Immunology, Interfaculty Institute for Cell Biology", 
+                "city": "T\u00fcbingen", 
+                "institution": "University of T\u00fcbingen", 
+                "country": "Germany"
+            }, 
+            "aff1": {
+                "dept": "Department of Biology, Institute of Molecular Systems Biology", 
+                "city": "Zurich", 
+                "institution": "ETH Z\u00fcrich", 
+                "country": "Switzerland"
+            }, 
+            "aff12": {
+                "dept": "Faculty of Science", 
+                "city": "Zurich", 
+                "institution": "University of Zurich", 
+                "country": "Switzerland"
+            }, 
+            "aff11": {
+                "dept": null, 
+                "city": "Seattle", 
+                "institution": "Institute for Systems Biology", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con18": "TS, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con19": "AS, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con12": "RBS, Acquisition of data, Drafting or revising the article", 
+            "con13": "SHR, Acquisition of data, Drafting or revising the article", 
+            "con10": "NT, Acquisition of data, Drafting or revising the article", 
+            "con11": "AA, Acquisition of data, Drafting or revising the article", 
+            "con16": "CSLA, Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con17": "AR, Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con14": "MM, Acquisition of data, Drafting or revising the article", 
+            "con15": "AWP, Acquisition of data, Drafting or revising the article", 
+            "con1": "EC, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "LE, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "CCK, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "LCG, Analysis and interpretation of data, Drafting or revising the article", 
+            "con5": "PN, Analysis and interpretation of data, Drafting or revising the article", 
+            "con6": "SK, Analysis and interpretation of data, Drafting or revising the article", 
+            "con7": "HL, Analysis and interpretation of data, Drafting or revising the article", 
+            "con8": "DJK, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con9": "HS, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con25": "RA, Conception and design, Drafting or revising the article", 
+            "con24": "SS, Conception and design, Drafting or revising the article", 
+            "con23": "H-GR, Conception and design, Drafting or revising the article", 
+            "con22": "RLM, Conception and design, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con21": "EWD, Conception and design, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con20": "DSC, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents"
+        }, 
+        "email": {
+            "cor1": "caron@imsb.biol.ethz.ch", 
+            "cor2": "aebersold@imsb.biol.ethz.ch"
+        }
+    }, 
+    "path": "content/4/e07661", 
+    "fragments": [
+        {
+            "path": "content/4/e07661/abstract-1", 
+            "doi": "10.7554/eLife.07661.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e07661/abstract-2", 
+            "doi": "10.7554/eLife.07661.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e07661/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e07661/F1/DC1", 
+                    "doi": "10.7554/eLife.07661.004", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 1\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e07661/F1/F2", 
+                    "doi": "10.7554/eLife.07661.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07661/F1/F3", 
+                    "doi": "10.7554/eLife.07661.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e07661/F1/F4", 
+                    "doi": "10.7554/eLife.07661.007", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.07661.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e07661/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e07661/F5/DC2", 
+                    "doi": "10.7554/eLife.07661.009", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 2\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/DC3", 
+                    "doi": "10.7554/eLife.07661.010", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 2\u2014source data 2."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/DC4", 
+                    "doi": "10.7554/eLife.07661.011", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 2\u2014source data 3."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/DC5", 
+                    "doi": "10.7554/eLife.07661.012", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 2\u2014source data 4."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/DC6", 
+                    "doi": "10.7554/eLife.07661.013", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 2\u2014source data 5."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/F6", 
+                    "doi": "10.7554/eLife.07661.014", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/F7", 
+                    "doi": "10.7554/eLife.07661.015", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/F8", 
+                    "doi": "10.7554/eLife.07661.016", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/F9", 
+                    "doi": "10.7554/eLife.07661.017", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 4."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/F10", 
+                    "doi": "10.7554/eLife.07661.018", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 5."
+                }, 
+                {
+                    "path": "content/4/e07661/F5/F11", 
+                    "doi": "10.7554/eLife.07661.019", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 6."
+                }
+            ], 
+            "doi": "10.7554/eLife.07661.008", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e07661/F12", 
+            "fragments": [
+                {
+                    "path": "content/4/e07661/F12/DC7", 
+                    "doi": "10.7554/eLife.07661.021", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 3\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e07661/F12/F13", 
+                    "doi": "10.7554/eLife.07661.022", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07661/F12/F14", 
+                    "doi": "10.7554/eLife.07661.023", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e07661/F12/F15", 
+                    "doi": "10.7554/eLife.07661.024", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/4/e07661/F12/F16", 
+                    "doi": "10.7554/eLife.07661.025", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 4."
+                }, 
+                {
+                    "path": "content/4/e07661/F12/F17", 
+                    "doi": "10.7554/eLife.07661.026", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 5."
+                }, 
+                {
+                    "path": "content/4/e07661/F12/F18", 
+                    "doi": "10.7554/eLife.07661.027", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 6."
+                }, 
+                {
+                    "path": "content/4/e07661/F12/F19", 
+                    "doi": "10.7554/eLife.07661.028", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 7."
+                }
+            ], 
+            "doi": "10.7554/eLife.07661.020", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e07661/DC8", 
+            "doi": "10.7554/eLife.07661.029", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e07661/DC9", 
+            "doi": "10.7554/eLife.07661.030", 
+            "type": "supplementary-material", 
+            "title": "Source code 1."
+        }, 
+        {
+            "path": "content/4/e07661/1", 
+            "doi": "10.7554/eLife.07661.031", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Chakraborty", 
+                    "given-names": "Arup K", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Massachusetts Institute of Technology"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e07661/2", 
+            "fragments": [
+                {
+                    "path": "content/4/e07661/2/F20", 
+                    "doi": "10.7554/eLife.07661.033", 
+                    "type": "fig", 
+                    "title": "Author response image 1."
+                }, 
+                {
+                    "path": "content/4/e07661/2/F21", 
+                    "doi": "10.7554/eLife.07661.034", 
+                    "type": "fig", 
+                    "title": "Author response image 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.07661.032", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.07661", 
+    "categories": {
+        "heading": [
+            "Computational and systems biology", 
+            "Immunology"
+        ], 
+        "display-channel": [
+            "Tools and resources"
+        ]
+    }
+}
