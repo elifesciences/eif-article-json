@@ -1,0 +1,1576 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Brad", 
+            "surname": "Evans", 
+            "id": "author-30369", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Erin", 
+            "surname": "Griner", 
+            "id": "author-16421", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ]
+            }
+        }, 
+        {
+            "corresp": "yes", 
+            "type": "author", 
+            "group-author-key": "group-author-id1", 
+            "references": {
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "collab": "Reproducibility Project: Cancer Biology"
+        }, 
+        {
+            "surname": "Davidson", 
+            "affiliations": [
+                {
+                    "country": "France", 
+                    "institution": "Institut de G\u00e9n\u00e9tique et de Biologie Mol\u00e9culaire et Cellulaire"
+                }
+            ], 
+            "given-names": "Irwin", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-14864"
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Elizabeth", 
+            "surname": "Iorns", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "city": "California", 
+                    "institution": "Science Exchange, Palo Alto"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "William", 
+            "surname": "Gunn", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "country": "United Kingdom", 
+                    "institution": "Mendeley", 
+                    "city": "London"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Fraser", 
+            "surname": "Tan", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "city": "California", 
+                    "institution": "Science Exchange, Palo Alto"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Joelle", 
+            "surname": "Lomax", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "city": "California", 
+                    "institution": "Science Exchange, Palo Alto"
+                }
+            ]
+        }, 
+        {
+            "type": "author non-byline", 
+            "given-names": "Timothy", 
+            "surname": "Errington", 
+            "group-author-key": "group-author-id1", 
+            "affiliations": [
+                {
+                    "country": "Virginia", 
+                    "institution": "Center for Open Science", 
+                    "city": "Charlottesville"
+                }
+            ]
+        }
+    ], 
+    "pub-date": "2015-07-31", 
+    "title": "Registered report: Oncometabolite 2-hydroxyglutarate is a competitive inhibitor of \u03b1-ketoglutarate-dependent dioxygenases", 
+    "citations": {
+        "bib11": {
+            "source": "Nature", 
+            "doi": "10.1038/nature11323", 
+            "year": "2012", 
+            "title": "IDH1(R132H) mutation increases murine haematopoietic progenitors and alters epigenetics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sasaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Knobbe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Munger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EF", 
+                    "surname": "Lind"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Brenner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Br\u00fcstle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IS", 
+                    "surname": "Harris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Holmes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Wakeham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Haight"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "You-Ten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WY", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schalm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Virtanen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Reifenberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Ohashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Barber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Figueroa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Melnick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-C", 
+                    "surname": "Z\u00fa\u00f1iga-Pfl\u00fccker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TW", 
+                    "surname": "Mak"
+                }
+            ]
+        }, 
+        "bib10": {
+            "comment": "http://www.R-project.org/", 
+            "source": "R Foundation for Statistical Computing", 
+            "year": "2014", 
+            "title": "R: a language and environment for statistical computing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "collab": "R Core Team"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10866", 
+            "year": "2012", 
+            "title": "IDH1 mutation is sufficient to establish the glioma hypermethylator phenotype", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Turcan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rohle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Goenka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Walsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Fang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Yilmaz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Campos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AWM", 
+                    "surname": "Fabius"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Ward"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Thompson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kaufman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Guryanova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Heguy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Viale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LGT", 
+                    "surname": "Morris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Huse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IK", 
+                    "surname": "Mellinghoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Chan"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI71180", 
+            "year": "2013", 
+            "title": "MYC-driven accumulation of 2-hydroxyglutarate is associated with breast cancer prognosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Terunuma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Putluri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mishra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Math\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TH", 
+                    "surname": "Dorsey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Wallace"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Issaq"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Killian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Stevenson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Karoly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Samanta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Prieto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TYT", 
+                    "surname": "Hsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Kurley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Putluri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sonavane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Edelman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wulff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Starks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Kittles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Yfantis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OB", 
+                    "surname": "Ioffe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Schiff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Stephens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Meltzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Veenstra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TF", 
+                    "surname": "Westbrook"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sreekumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ambs"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccr.2010.12.014", 
+            "year": "2011", 
+            "title": "Oncometabolite 2-Hydroxyglutarate is a competitive inhibitor of \u03b1-ketoglutarate-dependent dioxygenases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LX", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WQ", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Frye"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YH", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "QY", 
+                    "surname": "Lei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Guan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xiong"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccr.2010.01.020", 
+            "year": "2010", 
+            "title": "The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Ward"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Patel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Wise"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Abdel-Wahab"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Bennett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Coller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Cross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VR", 
+                    "surname": "Fantin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Hedvat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Perl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Rabinowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carroll"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Sharp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Thompson"
+                }
+            ]
+        }, 
+        "bib7a": {
+            "source": "Epigenetic alterations in oncogenesis", 
+            "year": "2012", 
+            "title": "Ten Eleven Translocation Enzymes and 5-Hydroxymethylation in Mammalian Development and Cancer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SRM", 
+                    "surname": "Kinney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Pradhan"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "AR", 
+                    "surname": "Karpf"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI67266", 
+            "year": "2013", 
+            "title": "Isocitrate dehydrogenase mutations in leukemia", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "McKenney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Levine"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10860", 
+            "year": "2012", 
+            "title": "IDH mutation impairs histone demethylation and results in a block to cell differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Ward"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Kapoor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rohle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Turcan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Abdel-Wahab"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Edwards"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Khanin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Figueroa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Melnick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Wellen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "O'Rourke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Berger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IK", 
+                    "surname": "Mellinghoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Thompson"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.231233.113", 
+            "year": "2014", 
+            "title": "D-2-hydroxyglutarate produced by mutant IDH2 causes cardiomyopathy and neurodegeneration in mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Akbay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Moslehi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Christensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Saha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Tchaicha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Ramkissoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Stewart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Carretero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kikuchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Cohoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Murray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Uno"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Fisch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gurumurthy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Gliser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Choe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Keenan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Son"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Stanley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Losman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Padera"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RT", 
+                    "surname": "Bronson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Asara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Abdel-Wahab"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PC", 
+                    "surname": "Amrein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Fathi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NN", 
+                    "surname": "Danial"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Kimmelman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Kung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Ligon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Yen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WG", 
+                    "surname": "Kaelin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bardeesy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KK", 
+                    "surname": "Wong"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Elife", 
+            "doi": "10.7554/eLife.04333", 
+            "year": "2014", 
+            "title": "An open investigation of the reproducibility of cancer biology research", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Errington"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Iorns"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Gunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FE", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lomax"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Nosek"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.132738.111", 
+            "year": "2012", 
+            "title": "A heterozygous IDH1R132H/WT mutation induces genome-wide alterations in DNA methylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Duncan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Barwick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Jin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rago"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kapoor-Vazirani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Powell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Chi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Bigner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Vertino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yan"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccr.2010.11.015", 
+            "year": "2010", 
+            "title": "Leukemic IDH1 and IDH2 mutations result in a hypermethylation phenotype, disrupt TET2 function, and impair hematopoietic differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Figueroa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Abdel-Wahab"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Ward"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Patel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Shih"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bhagwat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vasanthakumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HF", 
+                    "surname": "Fernandez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Tallman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Wolniak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Peeters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Choe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VR", 
+                    "surname": "Fantin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Paietta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "L\u00f6wenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Licht"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Godley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Delwel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJM", 
+                    "surname": "Valk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Thompson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Melnick"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Behavior Research Methods", 
+            "doi": "10.3758/BF03193146", 
+            "year": "2007", 
+            "title": "G* Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Faul"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Erdfelder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Lang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Buchner"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Blood", 
+            "doi": "10.1182/blood-2013-10-533604", 
+            "year": "2015", 
+            "title": "IDH2 mutation-induced histone and DNA hypermethylation is progressively reversed by small-molecule inhibition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kernytsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hansen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schalm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Straley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Gliser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Travins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Murray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Dorsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Agresta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Schenkein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Biller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Yen"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09303", 
+            "year": "2010", 
+            "title": "Role of Tet proteins in 5mC to 5hmC conversion, ES-cell self-renewal and inner cell mass specification", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "D'Alessio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OV", 
+                    "surname": "Taranova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Sowers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhang"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "", 
+    "related-articles": [], 
+    "elocation-id": "e07420", 
+    "publish": "1", 
+    "article-version-id": "07420.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "methodology", 
+            "Reproducibility Project: Cancer Biology", 
+            "IDH", 
+            "2-hydroxyglutarate"
+        ], 
+        "research-organism": [
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.07420", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf2": "The other authors declare that no competing interests exist.", 
+            "conf1": "RP:CB: We disclose that EI, FT, and JL are employed by and hold shares in Science Exchange Inc. The experiments presented in this manuscript will be conducted by BE at the Proteomics and Mass Spectrometry Facility, which is a Science Exchange lab."
+        }, 
+        "funding": {
+            "par-1": {
+                "institution": "Laura and John Arnold Foundation"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": null, 
+                "city": "Charlottesville, Virginia", 
+                "institution": "University of Virginia", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Proteomics and Mass Spectrometry Facility", 
+                "city": "St. Louis, Missouri", 
+                "institution": "Donald Danforth Plant Science Center", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "BE, Drafting or revising the article", 
+            "con2": "EG, Drafting or revising the article", 
+            "con3": "RP:CB, Conception and design, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "fraser@scienceexchange.com"
+        }
+    }, 
+    "path": "content/4/e07420", 
+    "fragments": [
+        {
+            "path": "content/4/e07420/abstract-1", 
+            "doi": "10.7554/eLife.07420.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e07420/1", 
+            "doi": "10.7554/eLife.07420.002", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Davidson", 
+                    "given-names": "Irwin", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "France", 
+                            "institution": "Institut de G\u00e9n\u00e9tique et de Biologie Mol\u00e9culaire et Cellulaire"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e07420/2", 
+            "doi": "10.7554/eLife.07420.003", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.07420", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Human biology and medicine"
+        ], 
+        "display-channel": [
+            "Registered report"
+        ]
+    }
+}
