@@ -1,0 +1,2415 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Kent", 
+            "surname": "Riemondy", 
+            "id": "author-29341", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-5"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Xiao-jing", 
+            "surname": "Wang", 
+            "id": "author-29342", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Enrique C", 
+            "surname": "Torchia", 
+            "id": "author-29343", 
+            "references": {
+                "affiliation": [
+                    "aff3", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-4"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Dennis R", 
+            "surname": "Roop", 
+            "id": "author-27225", 
+            "references": {
+                "affiliation": [
+                    "aff3", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-4", 
+                    "par-5"
+                ]
+            }
+        }, 
+        {
+            "surname": "Yi", 
+            "corresp": "yes", 
+            "given-names": "Rui", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3", 
+                    "par-5"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-9464"
+        }, 
+        {
+            "surname": "Dang", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "University of Pennsylvania"
+                }
+            ], 
+            "given-names": "Chi Van", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1069"
+        }
+    ], 
+    "pub-date": "2015-07-23", 
+    "title": "MicroRNA-203 represses selection and expansion of oncogenic Hras transformed tumor initiating cells", 
+    "citations": {
+        "bib34": {
+            "source": "Science", 
+            "doi": "10.1126/science.1208130", 
+            "year": "2011", 
+            "title": "The mutational landscape of head and neck squamous cell carcinoma", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Stransky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Egloff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Tward"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Kostic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cibulskis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sivachenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GV", 
+                    "surname": "Kryukov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Lawrence"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Sougnez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "McKenna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Shefler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Ramos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Stojanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Carter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Voet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Cort\u00e9s"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Auclair"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Berger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Saksena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Guiducci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Onofrio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Parkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Romkes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Weissfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Seethala"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rangel-Escare\u00f1o"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Fernandez-Lopez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hidalgo-Miranda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Melendez-Zajgla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Winckler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ardlie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Gabriel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Meyerson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Lander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Getz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Golub"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Garraway"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Grandis"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08170", 
+            "year": "2009", 
+            "title": "Argonaute HITS-CLIP decodes microRNA-mRNA interaction maps", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Chi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Zang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Darnell"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(86)90665-3", 
+            "year": "1986", 
+            "title": "v-ras genes from Harvey and BALB murine sarcoma viruses can act as initiators of two-stage mouse skin carcinogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Quintanilla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ramsden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IB", 
+                    "surname": "Kerr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Balmain"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "EMBO Molecular Medicine", 
+            "doi": "10.1002/emmm.201100209", 
+            "year": "2012", 
+            "title": "MicroRNA dysregulation in cancer: diagnostics, monitoring and therapeutics. A comprehensive review", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MV", 
+                    "surname": "Iorio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Croce"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2009.120", 
+            "year": "2009", 
+            "title": "Multi-stage chemical carcinogenesis in mouse skin: fundamentals and applications", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Abel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Angel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kiguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "DiGiovanni"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.01.002", 
+            "year": "2009", 
+            "title": "MicroRNAs: target recognition and regulatory functions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Bartel"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Science", 
+            "doi": "10.1126/science.1206923", 
+            "year": "2011", 
+            "title": "Exome sequencing of head and neck squamous cell carcinoma reveals inactivating mutations in NOTCH1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Agrawal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Frederick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Pickering"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bettegowda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Fakhry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TX", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "El-Naggar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Jasser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Weinstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Trevi\u00f1o"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Drummond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Muzny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LD", 
+                    "surname": "Wood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Hruban"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WH", 
+                    "surname": "Westra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WM", 
+                    "surname": "Koch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Califano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Gibbs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Sidransky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Vogelstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VE", 
+                    "surname": "Velculescu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Papadopoulos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Wheeler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Kinzler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Myers"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2014.08.062", 
+            "year": "2014", 
+            "title": "Rewiring of an epithelial differentiation factor, miR-203, to inhibit human squamous cell carcinoma metastasis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Benaich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Woodhouse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Goldie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mishra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Quist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Watt"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Nature Reviews. Cancer", 
+            "doi": "10.1038/nrc3597", 
+            "year": "2013", 
+            "title": "Unravelling cancer stem cell potential", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Beck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Blanpain"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Cancer Research", 
+            "year": "1989", 
+            "title": "ras oncogenes in human cancer: a review", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Bos"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04296", 
+            "year": "2006", 
+            "title": "Oncogenic pathway signatures in human cancers as a guide to targeted therapies", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Bild"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Yao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Potti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chasse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Joshi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Harpole"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Lancaster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Berchuck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Olson", 
+                    "suffix": "Jr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Marks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HK", 
+                    "surname": "Dressman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "West"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Nevins"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2014.012", 
+            "year": "2014", 
+            "title": "Mapping Argonaute and conventional RNA-binding protein interactions with RNA at single-nucleotide resolution using HITS-CLIP and CIMS analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Moore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EC", 
+                    "surname": "Gantman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Darnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Darnell"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng.905", 
+            "year": "2011", 
+            "title": "MicroRNAs can generate thresholds in target gene expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mukherji"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Ebert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GX", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Tsang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sharp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "van Oudenaarden"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Current Opinion in Molecular Therapeutics", 
+            "year": "2010", 
+            "title": "Potential microRNA therapies targeting Ras, NFkappaB and p53 signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Kasinski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Slack"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng2003", 
+            "year": "2007", 
+            "title": "Impaired microRNA processing enhances cellular transformation and tumorigenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Kumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Mercer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Golub"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Jacks"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1989", 
+            "title": "DNA polymerase alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IR", 
+                    "surname": "Lehman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LS", 
+                    "surname": "Kaguni"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Cell Death and Differentiation", 
+            "doi": "10.1038/cdd.2008.69", 
+            "year": "2008", 
+            "title": "miR-203 represses \u201cstemness\u201d by repressing DeltaNp63", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Lena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Shalom-Feuerstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "di Val Cervo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Aberdam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Knight"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Melino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Candi"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2008.50", 
+            "year": "2008", 
+            "title": "Isolation and short-term culture of primary keratinocytes, hair follicle populations and dermal cells from newborn mice and keratinocytes from adult mice for in vitro analysis and for grafting to immunodeficient mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Lichti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Anders"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Yuspa"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Journal of Virology", 
+            "doi": "10.1128/JVI.00078-10", 
+            "year": "2010", 
+            "title": "Human papillomaviruses modulate expression of microRNA 203 upon epithelial differentiation to control levels of p63 proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Melar-New"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Laimins"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2012.02.005", 
+            "year": "2012", 
+            "title": "MicroRNAs in stress signaling and human disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Mendell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EN", 
+                    "surname": "Olson"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Cancer Research", 
+            "doi": "10.1158/0008-5472.CAN-04-0811", 
+            "year": "2004", 
+            "title": "Heparin-binding EGF-like growth factor is a promising target for ovarian cancer therapy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Miyamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hirata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yamazaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kageyama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hasuwa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Mizushima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Tanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yagi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sonoda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kanoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Nakano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mekada"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2013-14-10-r109", 
+            "year": "2013", 
+            "title": "High-efficiency RNA cloning enables accurate quantification of miRNA expression by deep sequencing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Riemonday"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Anderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Yi"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Nature Reviews. Cancer", 
+            "doi": "10.1038/nrc969", 
+            "year": "2003", 
+            "title": "Targeting RAS signalling pathways in cancer therapy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Downward"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccr.2011.10.014", 
+            "year": "2011", 
+            "title": "Targeting of the tumor suppressor GRHL3 by a miR-21-dependent proto-oncogenic network results in PTEN loss and tumorigenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Darido"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Georgy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Wilanowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Dworkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Auden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rank"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Srivastava"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Finlay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Papenfuss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PP", 
+                    "surname": "Pandolfi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Pearson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Jane"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Cancer Research", 
+            "doi": "10.1158/0008-5472.CAN-08-0299", 
+            "year": "2008", 
+            "title": "Podoplanin is a novel fos target gene in skin carcinogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Durchdewald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Guinea-Viniegra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Haag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Riehl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Lichter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EF", 
+                    "surname": "Wagner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Angel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hess"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature", 
+            "doi": "10.1038/nature11344", 
+            "year": "2012", 
+            "title": "Defining the mode of tumour growth by clonal analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Driessens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Beck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Caauwe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Simons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Blanpain"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09267", 
+            "year": "2010", 
+            "title": "Mammalian microRNAs predominantly act to decrease target mRNA levels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Guo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NT", 
+                    "surname": "Ingolia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Weissman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Bartel"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2014.08.028", 
+            "year": "2014", 
+            "title": "mRNA destabilization is the dominant effect of mammalian microRNAs by the time substantial repression ensues", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Eichhorn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Guo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "McGeary"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Rodriguez-Mias"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Shin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Baek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Hsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ghoshal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Vill\u00e9n"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Bartel"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06642", 
+            "year": "2008", 
+            "title": "A skin microRNA promotes differentiation by repressing \u201cstemness\u201d", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Yi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Poy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Stoffel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fuchs"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI65856", 
+            "year": "2013", 
+            "title": "Epithelial stem cell mutations that promote squamous cell carcinoma metastasis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Neiman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Reddi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Han"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Birlea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Mitra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Dionne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Fernandez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Murao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Bian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Keysar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NB", 
+                    "surname": "Goldstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Bornstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Han"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wisell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jimeno"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Roop"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XJ", 
+                    "surname": "Wang"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2005.01.014", 
+            "year": "2005", 
+            "title": "RAS is regulated by the let-7 microRNA family", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Grosshans"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shingara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Byrom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Jarvis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Labourier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Reinert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Slack"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Development", 
+            "doi": "10.1242/dev.089649", 
+            "year": "2013", 
+            "title": "Rapid and widespread suppression of self-renewal by microRNA-203 during epidermal differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Jackson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Feng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Flagg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "O'Loughlin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Stokes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fuchs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Yi"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Oncogene", 
+            "doi": "10.1038/onc.2008.370", 
+            "year": "2009", 
+            "title": "An autoregulatory loop mediated by miR-21 and PDCD4 controls the AP-1 activity in RAS transformation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Talotta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cimmino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Matarazzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Casalino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "De Vita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "D'Esposito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Di Lauro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Verde"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2011.02.013", 
+            "year": "2011", 
+            "title": "Hallmarks of cancer: the next generation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hanahan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Weinberg"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "The Journal of Investigative Dermatology", 
+            "doi": "10.1038/jid.2012.78", 
+            "year": "2012", 
+            "title": "Heparin-binding EGF-like growth factor promotes epithelial-mesenchymal transition in human keratinocytes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Stoll"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ritti\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Elder"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1107807108", 
+            "year": "2011", 
+            "title": "Tumor-initiating stem cells of squamous cell carcinomas and their control by TGF-\u03b2 and integrin/focal adhesion kinase (FAK) signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schober"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fuchs"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Science", 
+            "doi": "10.1126/science.1224676", 
+            "year": "2012", 
+            "title": "Lineage tracing reveals Lgr5+ stem cell activity in mouse intestinal adenomas", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Schepers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Snippert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Stange"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "van den Born"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "van Es"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "van de Wetering"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Clevers"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2012.04.023", 
+            "year": "2012", 
+            "title": "The life history of 21 breast cancers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nik-Zainal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Van Loo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Wedge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LB", 
+                    "surname": "Alexandrov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Greenman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Lau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Raine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Marshall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ramakrishna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Shlien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Cooke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hinton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Menzies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Stebbings"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Leroy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Rance"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Mudie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Gamble"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Stephens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "McLaren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Tarpey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Papaemmanuil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HR", 
+                    "surname": "Davies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Varela"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "McBride"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GR", 
+                    "surname": "Bignell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Leung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Butler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Teague"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Martin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "J\u00f6nsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Mariani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Boyault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Miron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fatima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Langer\u00f8d"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Aparicio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tutt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Sieuwerts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "\u00c5", 
+                    "surname": "Borg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Thomas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Salomon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "B\u00f8rresen-Dale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Futreal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Stratton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Campbell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "collab": "Breast Cancer Working Group of the International Cancer Genome Consortium"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "RNA", 
+            "doi": "10.1261/rna.035360.112", 
+            "year": "2013", 
+            "title": "Genome-wide maps of polyadenylation reveal dynamic mRNA 3\u2019-end formation in mammalian cell lineages", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Dowell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Yi"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Science", 
+            "doi": "10.1126/science.1235122", 
+            "year": "2013", 
+            "title": "Cancer genome landscapes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Vogelstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Papadopoulos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VE", 
+                    "surname": "Velculescu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Diaz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Kinzler"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Inhibition of <italic>microRNA-203</italic> by oncogenic <italic>HRas</italic> mutations promotes skin cancer initiation.", 
+    "related-articles": [], 
+    "elocation-id": "e07004", 
+    "publish": "1", 
+    "article-version-id": "07004.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "microRNA", 
+            "tumor suppressor", 
+            "Hras", 
+            "skin cancer"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.07004", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/100000069", 
+                "award-id": "P30AR057212", 
+                "institution": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000054", 
+                "award-id": "R01CA052607", 
+                "institution": "National Cancer Institute (NCI)", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000069", 
+                "award-id": "R01AR066703", 
+                "institution": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000048", 
+                "award-id": "124718-RSG-13-197-01-DDC", 
+                "institution": "American Cancer Society (ACS)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000069", 
+                "award-id": "R01AR059697", 
+                "institution": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}
+        }, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Charles C Gates Center for Regenerative Medicine and Stem Cell Biology", 
+                "city": "Denver", 
+                "institution": "University of Colorado Denver Anschutz Medical Campus", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Department of Dermatology", 
+                "city": "Denver", 
+                "institution": "University of Colorado Denver Anschutz Medical Campus", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Department of Pathology", 
+                "city": "Denver", 
+                "institution": "University of Colorado Denver Anschutz Medical Campus", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Molecular, Cellular and Developmental Biology", 
+                "city": "Boulder", 
+                "institution": "University of Colorado, Boulder", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "KR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "RY, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "X-W, Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con4": "DRR, Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con5": "ECT, Acquisition of data, Contributed unpublished essential data or reagents"
+        }, 
+        "email": {
+            "cor1": "yir@colorado.edu"
+        }
+    }, 
+    "path": "content/4/e07004", 
+    "fragments": [
+        {
+            "path": "content/4/e07004/abstract-1", 
+            "doi": "10.7554/eLife.07004.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e07004/abstract-2", 
+            "doi": "10.7554/eLife.07004.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e07004/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e07004/F1/DC1", 
+                    "doi": "10.7554/eLife.07004.004", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 1\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07004.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e07004/F2", 
+            "doi": "10.7554/eLife.07004.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e07004/F3", 
+            "fragments": [
+                {
+                    "path": "content/4/e07004/F3/F4", 
+                    "doi": "10.7554/eLife.07004.007", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07004/F3/F5", 
+                    "doi": "10.7554/eLife.07004.008", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.07004.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e07004/F6", 
+            "fragments": [
+                {
+                    "path": "content/4/e07004/F6/F7", 
+                    "doi": "10.7554/eLife.07004.010", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07004.009", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e07004/F8", 
+            "doi": "10.7554/eLife.07004.011", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e07004/F9", 
+            "fragments": [
+                {
+                    "path": "content/4/e07004/F9/DC2", 
+                    "doi": "10.7554/eLife.07004.013", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 6\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e07004/F9/DC3", 
+                    "doi": "10.7554/eLife.07004.014", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 6\u2014source data 2."
+                }, 
+                {
+                    "path": "content/4/e07004/F9/F10", 
+                    "doi": "10.7554/eLife.07004.015", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07004/F9/F11", 
+                    "doi": "10.7554/eLife.07004.016", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e07004/F9/F12", 
+                    "doi": "10.7554/eLife.07004.017", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/4/e07004/F9/F13", 
+                    "doi": "10.7554/eLife.07004.018", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 4."
+                }, 
+                {
+                    "path": "content/4/e07004/F9/F14", 
+                    "doi": "10.7554/eLife.07004.019", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 5."
+                }
+            ], 
+            "doi": "10.7554/eLife.07004.012", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e07004/F15", 
+            "fragments": [
+                {
+                    "path": "content/4/e07004/F15/F16", 
+                    "doi": "10.7554/eLife.07004.021", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07004/F15/F17", 
+                    "doi": "10.7554/eLife.07004.022", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.07004.020", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e07004/DC4", 
+            "doi": "10.7554/eLife.07004.023", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e07004/DC5", 
+            "doi": "10.7554/eLife.07004.024", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 2."
+        }, 
+        {
+            "path": "content/4/e07004/1", 
+            "doi": "10.7554/eLife.07004.025", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Dang", 
+                    "given-names": "Chi Van", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "University of Pennsylvania"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e07004/2", 
+            "doi": "10.7554/eLife.07004.026", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.07004", 
+    "categories": {
+        "heading": [
+            "Developmental biology and stem cells", 
+            "Human biology and medicine"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}
