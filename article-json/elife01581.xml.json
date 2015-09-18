@@ -857,62 +857,392 @@
                 }
             ]
         }, 
-        "bib76": {
-            "source": "Biological Chemistry", 
-            "doi": "10.1515/BC.2002.140", 
+        "bib99": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.22.12.4218-4229.2002", 
             "year": "2002", 
-            "title": "Reverse genetic analysis of the Caenorhabditis elegans 26S proteasome subunits by RNA interference", 
+            "title": "RSC2, encoding a component of the RSC nucleosome remodeling complex, is essential for 2 microm plasmid maintenance in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Scott-Drew"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Hayes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Howard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Murray"
+                }
+            ]
+        }, 
+        "bib98": {
+            "source": "Journal of Cell Biology", 
+            "doi": "10.1083/jcb.149.3.553", 
+            "year": "2000", 
+            "title": "Partitioning of the 2-microm circle plasmid of Saccharomyces cerevisiae. Functional coordination with chromosome segregation and plasmid-encoded rep protein distribution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Velmurugan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XM", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CSM", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Dobson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jayaram"
+                }
+            ]
+        }, 
+        "bib91": {
+            "source": "Nature", 
+            "doi": "10.1038/35888", 
+            "year": "1998", 
+            "title": "Potent and specific genetic interference by double-stranded RNA in Caenorhabditis elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fire"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Montgomery"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Kostas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Driver"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Mello"
+                }
+            ]
+        }, 
+        "bib90": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.132159.111", 
+            "year": "2012", 
+            "title": "The GENCODE v7 catalog of human long noncoding RNAs: analysis of their gene structure, evolution, and expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Derrien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bussotti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tanzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Djebali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tilgner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Guernec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Martin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Merkel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "Knowles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lagarde"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Veeravalli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Ruan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ruan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lassmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Carninci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lipovich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Gonzalez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Thomas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Shiekhattar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Gingeras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Hubbard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Notredame"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Harrow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Guig\u00f2"
+                }
+            ]
+        }, 
+        "bib93": {
+            "source": "Nature", 
+            "doi": "10.1038/418244a", 
+            "year": "2002", 
+            "title": "RNA interference", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Hannon"
+                }
+            ]
+        }, 
+        "bib92": {
+            "source": "Journal of Cell Biology", 
+            "doi": "10.1083/jcb.134.6.1349", 
+            "year": "1996", 
+            "title": "The clustering of telomeres and colocalization with Rap1, Sir3, and Sir4 proteins in wild-type Saccharomyces cerevisiae", 
             "authors": [
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Takahashi"
+                    "surname": "Gotta"
                 }, 
                 {
                     "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Iwasaki"
+                    "given-names": "T", 
+                    "surname": "Laroche"
                 }, 
                 {
                     "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Inoue"
+                    "given-names": "A", 
+                    "surname": "Formenton"
                 }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Takahashi"
-                }
-            ]
-        }, 
-        "bib75": {
-            "source": "Journal of Virology", 
-            "doi": "10.1128/JVI.76.24.12963-12973.2002", 
-            "year": "2002", 
-            "title": "RNA interference directed against viral and cellular targets inhibits human immunodeficiency virus Type 1 replication", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RM", 
-                    "surname": "Surabhi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RB", 
-                    "surname": "Gaynor"
-                }
-            ]
-        }, 
-        "bib74": {
-            "source": "Biochemical Society Transactions", 
-            "doi": "10.1042/BST0301126", 
-            "year": "2002", 
-            "title": "Biochemical identification of A-minor motifs within RNA tertiary structure by interference analysis", 
-            "authors": [
                 {
                     "group-type": "author", 
                     "given-names": "SA", 
-                    "surname": "Strobel"
+                    "surname": "Maillet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Driver"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Scherthan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Gasser"
+                }
+            ]
+        }, 
+        "bib95": {
+            "source": "Annual Review of Genetics", 
+            "doi": "10.1146/annurev.genet.34.1.187", 
+            "year": "2000", 
+            "title": "Recognition and silencing of repeated DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hsieh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fire"
+                }
+            ]
+        }, 
+        "bib94": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2012.08.027", 
+            "year": "2012", 
+            "title": "RNA polymerase II collision interrupts convergent transcription", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Hobson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Steinmetz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JQ", 
+                    "surname": "Svejstrup"
+                }
+            ]
+        }, 
+        "bib97": {
+            "source": "Nature", 
+            "doi": "10.1038/nature11247", 
+            "year": "2012", 
+            "title": "An integrated encyclopedia of DNA elements in the human genome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "collab": "The ENCODE Project Constorium"
+                }
+            ]
+        }, 
+        "bib96": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2009-10-3-r25", 
+            "year": "2009", 
+            "title": "Ultrafast and memory-efficient alignment of short DNA sequences to the human genome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Langmead"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pop"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Salzberg"
                 }
             ]
         }, 
@@ -941,62 +1271,6 @@
                     "group-type": "author", 
                     "given-names": "D", 
                     "surname": "Moazed"
-                }
-            ]
-        }, 
-        "bib8": {
-            "source": "Cancer cell", 
-            "doi": "10.1016/S1535-6108(02)00122-8", 
-            "year": "2002", 
-            "title": "Stable suppression of tumorigenicity by virus-mediated RNA interference", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "TR", 
-                    "surname": "Brummelkamp"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Bernards"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Agami"
-                }
-            ]
-        }, 
-        "bib1": {
-            "source": "Genesis", 
-            "doi": "10.1002/gene.10126", 
-            "year": "2002", 
-            "title": "RNA interference from a CAX trinucleotide repeat", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Akten"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Suh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GK", 
-                    "surname": "Genova"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Roberts"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FR", 
-                    "surname": "Jackson"
                 }
             ]
         }, 
@@ -2753,34 +3027,6 @@
                 }
             ]
         }, 
-        "bib64": {
-            "source": "Genesis", 
-            "doi": "10.1002/gene.10149", 
-            "year": "2002", 
-            "title": "Transgene-mediated RNA interference defines a novel role for notch in chemosensory startle behavior", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Presente"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Shaw"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Nye"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AJ", 
-                    "surname": "Andres"
-                }
-            ]
-        }, 
         "bib65": {
             "source": "The EMBO Journal", 
             "doi": "10.1093/emboj/18.9.2538", 
@@ -3053,29 +3299,6 @@
                 }
             ]
         }, 
-        "bib69": {
-            "source": "Trends in Molecular Medicine", 
-            "doi": "10.1016/S1471-4914(02)02421-8", 
-            "year": "2002", 
-            "title": "RNA interference: a promising approach to antiviral therapy?", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Silva"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SM", 
-                    "surname": "Hammond"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GJ", 
-                    "surname": "Hannon"
-                }
-            ]
-        }, 
         "bib88": {
             "source": "Nature Structure & Molecular Biology", 
             "doi": "10.1038/nsmb1141", 
@@ -3279,34 +3502,6 @@
                     "group-type": "author", 
                     "given-names": "A", 
                     "surname": "Morillon"
-                }
-            ]
-        }, 
-        "bib81": {
-            "source": "Genesis", 
-            "doi": "10.1002/gene.10146", 
-            "year": "2002", 
-            "title": "Two-color GFP imaging demonstrates cell-autonomy of GAL4-driven RNA interference in Drosophila", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Van Roessel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NM", 
-                    "surname": "Hayward"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CS", 
-                    "surname": "Barros"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AH", 
-                    "surname": "Brand"
                 }
             ]
         }, 
@@ -4690,34 +4885,6 @@
                 }
             ]
         }, 
-        "bib14": {
-            "source": "Genes Development", 
-            "doi": "10.1101/gad.1025202", 
-            "year": "2002", 
-            "title": "Fragile X-related protein and VIG associate with the RNA interference machinery", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Caudy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Myers"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GJ", 
-                    "surname": "Hannon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SM", 
-                    "surname": "Hammond"
-                }
-            ]
-        }, 
         "bib17": {
             "source": "Science", 
             "doi": "10.1126/science.1108625", 
@@ -5182,28 +5349,6 @@
                     "group-type": "author", 
                     "given-names": "K", 
                     "surname": "Ohta"
-                }
-            ]
-        }, 
-        "bib34": {
-            "source": "Yi chuan = Hereditas/Zhongguo yi chuan xue hui bian ji", 
-            "year": "2002", 
-            "title": "[Double stranded RNA (RNA interference RNAi) in different creatures]", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Han"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XM", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XF", 
-                    "surname": "Gu"
                 }
             ]
         }, 

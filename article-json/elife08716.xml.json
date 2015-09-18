@@ -1,0 +1,1475 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Clare", 
+            "surname": "Rollie", 
+            "id": "author-34478", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Stefanie", 
+            "surname": "Schneider", 
+            "id": "author-34481", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Anna Sophie", 
+            "surname": "Brinkmann", 
+            "id": "author-34480", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Edward L", 
+            "surname": "Bolt", 
+            "id": "author-34477", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "White", 
+            "corresp": "yes", 
+            "given-names": "Malcolm F", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0003-1543-9342", 
+            "type": "author", 
+            "id": "author-33503"
+        }, 
+        {
+            "surname": "Nilsen", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Case Western Reserve University"
+                }
+            ], 
+            "given-names": "Timothy W", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-22520"
+        }
+    ], 
+    "pub-date": "2015-08-18", 
+    "title": "Intrinsic sequence specificity of the Cas1 integrase directs new spacer acquisition", 
+    "citations": {
+        "bib9": {
+            "comment": "Table of contents", 
+            "doi": "10.1128/MMBR.00020-08", 
+            "title": "RecBCD enzyme and the repair of double-stranded DNA breaks", 
+            "year": "2008", 
+            "source": "Microbiology and Molecular Biology Reviews", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Dillingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Kowalczykowski"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "RNA Biology", 
+            "doi": "10.4161/rna.24023", 
+            "year": "2013", 
+            "title": "CRISPR-spacer integration reporter plasmids reveal distinct genuine acquisition specificities among CRISPR-Cas I-E variants of Escherichia coli", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Diez-Villasenor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NM", 
+                    "surname": "Guzman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Almendros"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Garcia-Martinez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Mojica"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gku510", 
+            "year": "2014", 
+            "title": "Detection and characterization of spacer integration intermediates in type I-E CRISPR-Cas system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Arslan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Hermanns"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wurm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wagner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "\u00dc", 
+                    "surname": "Pul"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2014.03.011", 
+            "year": "2014", 
+            "title": "CRISPR-Cas systems: prokaryotes upgrade to adaptive immunity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Barrangou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Marraffini"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Molecular Microbiology", 
+            "doi": "10.1111/j.1365-2958.2010.07465.x", 
+            "year": "2011", 
+            "title": "A dual function of the CRISPR-Cas system in bacterial antivirus immunity and DNA repair", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Babu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Beloglazova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Flick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Graham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Skarina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Nocek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gagarinova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Pogoutse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Binkowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Phanse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Joachimiak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EV", 
+                    "surname": "Koonin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Savchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Emili"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Greenblatt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Edwards"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Yakunin"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Journal of Chemical Physics", 
+            "doi": "10.1063/1.3142699", 
+            "year": "2009", 
+            "title": "The persistence length of double stranded DNA determined using dark field tethered particle motion", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brinkers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HR", 
+                    "surname": "Dietrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FH", 
+                    "surname": "de Groote"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IT", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Rieger"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M803225200", 
+            "year": "2008", 
+            "title": "A novel family of sequence-specific endoribonucleases associated with the clustered regularly interspaced short palindromic repeats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Beloglazova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Zimmerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Proudfoot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Makarova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kudritska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kochinyan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Chruszcz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Minor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EV", 
+                    "surname": "Koonin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Edwards"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Savchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Yakunin"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Retrovirology", 
+            "doi": "10.1186/1742-4690-5-114", 
+            "year": "2008", 
+            "title": "Integrase and integration: biochemical activities of HIV-1 integrase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Delelis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Carayon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Saib"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Deprez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Mouscadet"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Science", 
+            "doi": "10.1126/science.1738845", 
+            "year": "1992", 
+            "title": "Reversal of integration and DNA splicing mediated by integrase of human immunodeficiency virus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Chow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Vincent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Ellison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PO", 
+                    "surname": "Brown"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev-biochem-072911-172315", 
+            "year": "2013", 
+            "title": "CRISPR-mediated adaptive immune systems in bacteria and archaea", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sorek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Lawrence"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wiedenheft"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0035888", 
+            "year": "2012", 
+            "title": "CRISPR interference directs strand specific spacer acquisition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Swarts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Mosterd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "van Passel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Brouns"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Biology Direct", 
+            "doi": "10.1186/1745-6150-1-7", 
+            "year": "2006", 
+            "title": "A putative RNA-interference-based immune system in prokaryotes: computational analysis of the predicted enzymatic machinery, functional analogies with eukaryotic RNAi, and hypothetical mechanisms of action", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Makarova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Grishin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Shabalina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YI", 
+                    "surname": "Wolf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EV", 
+                    "surname": "Koonin"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M112.382598", 
+            "year": "2012", 
+            "title": "Double-stranded endonuclease activity in Bacillus halodurans clustered regularly interspaced short palindromic repeats (CRISPR)-associated Cas2 protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Nam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Ding"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Haitjema"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "DeLisa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "KE"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkt922", 
+            "year": "2014", 
+            "title": "Evolution of CRISPR RNA recognition and processing by Cas6 endonucleases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Niewoehner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jinek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2820", 
+            "year": "2014", 
+            "title": "Cas1-Cas2 complex formation mediates spacer acquisition during CRISPR-Cas adaptive immunity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Nu\u00f1ez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Kranzusch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Noeske"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Wright"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "Davies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Nature", 
+            "doi": "10.1038/nature14237", 
+            "year": "2015", 
+            "title": "Integrase-mediated spacer acquisition during CRISPR-Cas adaptive immunity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Nu\u00f1ez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Engelman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "The EMBO Journal", 
+            "year": "1996", 
+            "title": "Distinct DNA sequence and structure requirements for the two steps of V(D)J recombination signal cleavage", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Ramsden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Mcblane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "van Gent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gellert"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "The EMBO Journal", 
+            "year": "1995", 
+            "title": "The phage Mu transpososome core: DNA requirements for assembly and function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Savilahti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Rice"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Mizuuchi"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gku226", 
+            "year": "2014", 
+            "title": "Pervasive generation of oppositely oriented spacers during CRISPR adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shmakov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Savitskaya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Semenova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Logacheva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Datsenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Severinov"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.274.47.33480", 
+            "year": "1999", 
+            "title": "Stereospecificity of reactions catalyzed by HIV-1 integrase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Gerton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Herschlag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PO", 
+                    "surname": "Brown"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Virology", 
+            "doi": "10.1016/j.virol.2012.10.003", 
+            "year": "2012", 
+            "title": "Memory of viral infections by CRISPR-Cas adaptive immune systems: acquisition of new information", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PC", 
+                    "surname": "Fineran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Charpentier"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Annual Review of Biophysics and Biophysical Chemistry", 
+            "doi": "10.1146/annurev.bb.17.060188.001405", 
+            "year": "1988", 
+            "title": "Flexibility of DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Hagerman"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "RNA biology", 
+            "doi": "10.4161/rna.20177", 
+            "year": "2012", 
+            "title": "The bacterial CRISPR/Cas system as analog of the mammalian adaptive immune system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Goren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Yosef"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Edgar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Qimron"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkp1104", 
+            "year": "2010", 
+            "title": "PCNA and XPF cooperate to distort DNA substrates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Hutton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Craggs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Penedo"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Molecular Microbiology", 
+            "doi": "10.1111/mmi.12640", 
+            "year": "2014", 
+            "title": "Adapting to new threats: the generation of memory by CRISPR-Cas immune systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Heler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Marraffini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bikard"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Journal of the American Chemical Society", 
+            "doi": "10.1021/ja408729b", 
+            "year": "2013", 
+            "title": "Toroidal structure and DNA cleavage by the CRISPR-associated [4Fe-4S] cluster containing Cas4 nuclease SSO0001 from Sulfolobus solfataricus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lemak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Beloglazova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Nocek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Skarina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Flick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Popovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Joachimiak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Savchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Yakunin"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2007-8-4-r61", 
+            "year": "2007", 
+            "title": "Evolutionary conservation of sequence and secondary structures in CRISPR repeats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Kunin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sorek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hugenholtz"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Protein Expression and Purification", 
+            "doi": "10.1016/j.pep.2008.09.008", 
+            "year": "2009", 
+            "title": "A simple and efficient expression and purification system using two newly constructed vectors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Naismith"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Nature", 
+            "doi": "10.1038/nature14302", 
+            "year": "2015", 
+            "title": "CRISPR adaptation biases explain preference for acquisition of foreign DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Levy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Goren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Yosef"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Auster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Manor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Amitai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Edgar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Qimron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sorek"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0047232", 
+            "year": "2012", 
+            "title": "The CRISPR associated protein Cas4 Is a 5' to 3' DNA exonuclease with an iron-sulfur cluster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kasciukovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "White"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1300108110", 
+            "year": "2013", 
+            "title": "DNA motifs determining the efficiency of adaptation into the Escherichia coli CRISPR array", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Yosef"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Shitrit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Goren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Burstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Pupko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Qimron"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gks216", 
+            "year": "2012", 
+            "title": "Proteins and DNA elements essential for the CRISPR adaptation process in Escherichia coli", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Yosef"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Goren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Qimron"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Structure", 
+            "doi": "10.1016/j.str.2009.03.019", 
+            "year": "2009", 
+            "title": "Structural basis for DNase activity of a conserved protein implicated in CRISPR-mediated genome defense", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wiedenheft"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jinek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Coyle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Ma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Doudna"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.257550.114", 
+            "year": "2015", 
+            "title": "Cas9 function and host genome sampling in Type II-A CRISPR-Cas adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Terns"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Terns"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Nature Reviews. Microbiology", 
+            "doi": "10.1038/nrmicro3279", 
+            "year": "2014", 
+            "title": "Unravelling the structural and mechanistic basis of CRISPR-Cas systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "van der Oost"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Westra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RN", 
+                    "surname": "Jackson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wiedenheft"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The acquisition of new foreign DNA by the prokaryotic adaptive immune system CRISPR-Cas is shown to depend on the fundamental sequence specificity of the Cas1 integrase.", 
+    "related-articles": [], 
+    "elocation-id": "e08716", 
+    "publish": "1", 
+    "article-version-id": "08716.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "<italic>Sulfolobus solfataricus</italic>", 
+            "CRISPR", 
+            "integrase", 
+            "adaptation"
+        ], 
+        "research-organism": [
+            "<italic>E. coli</italic>", 
+            "other"
+        ]
+    }, 
+    "doi": "10.7554/eLife.08716", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000268", 
+                "award-id": "BB/M000400/1", 
+                "institution": "Biotechnology and Biological Sciences Research Council (BBSRC)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff3": {
+                "dept": "School of Life Sciences, Queen's Medical Centre", 
+                "email": null, 
+                "city": "Nottingham", 
+                "institution": "University of Nottingham", 
+                "country": "United Kingdom"
+            }, 
+            "aff2": {
+                "dept": "Faculty of Medicine, Institute of Cell Biology", 
+                "email": null, 
+                "city": "Essen", 
+                "institution": "University of Duisburg-Essen", 
+                "country": "Germany"
+            }, 
+            "aff1": {
+                "dept": "Biomedical Sciences Research Complex", 
+                "email": null, 
+                "city": "St Andrews", 
+                "institution": "University of St Andrews", 
+                "country": "United Kingdom"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "CR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "SS, Acquisition of data", 
+            "con3": "ASB, Acquisition of data, Contributed unpublished essential data or reagents", 
+            "con4": "ELB, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con5": "MFW, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "mfw2@st-and.ac.uk"
+        }
+    }, 
+    "path": "content/4/e08716", 
+    "fragments": [
+        {
+            "path": "content/4/e08716/abstract-1", 
+            "doi": "10.7554/eLife.08716.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e08716/abstract-2", 
+            "doi": "10.7554/eLife.08716.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e08716/F1", 
+            "doi": "10.7554/eLife.08716.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e08716/F2", 
+            "doi": "10.7554/eLife.08716.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e08716/F3", 
+            "fragments": [
+                {
+                    "path": "content/4/e08716/F3/DC1", 
+                    "doi": "10.7554/eLife.08716.006", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 3\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08716.005", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e08716/F4", 
+            "doi": "10.7554/eLife.08716.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e08716/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e08716/F5/DC2", 
+                    "doi": "10.7554/eLife.08716.009", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 5\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e08716/F5/DC3", 
+                    "doi": "10.7554/eLife.08716.010", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 5\u2014source data 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.08716.008", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e08716/F6", 
+            "doi": "10.7554/eLife.08716.011", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e08716/F7", 
+            "fragments": [
+                {
+                    "path": "content/4/e08716/F7/DC4", 
+                    "doi": "10.7554/eLife.08716.013", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 7\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08716.012", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e08716/F8", 
+            "doi": "10.7554/eLife.08716.014", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/4/e08716/F9", 
+            "fragments": [
+                {
+                    "path": "content/4/e08716/F9/DC5", 
+                    "doi": "10.7554/eLife.08716.016", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 9\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08716.015", 
+            "type": "fig", 
+            "title": "Figure 9."
+        }, 
+        {
+            "path": "content/4/e08716/F10", 
+            "doi": "10.7554/eLife.08716.017", 
+            "type": "fig", 
+            "title": "Figure 10."
+        }, 
+        {
+            "path": "content/4/e08716/T1", 
+            "doi": "10.7554/eLife.08716.018", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/4/e08716/T2", 
+            "doi": "10.7554/eLife.08716.019", 
+            "type": "table-wrap", 
+            "title": "Table 2."
+        }, 
+        {
+            "path": "content/4/e08716/1", 
+            "doi": "10.7554/eLife.08716.020", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Nilsen", 
+                    "given-names": "Timothy W", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Case Western Reserve University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e08716/2", 
+            "doi": "10.7554/eLife.08716.021", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.08716", 
+    "categories": {
+        "heading": [
+            "Biochemistry"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}
