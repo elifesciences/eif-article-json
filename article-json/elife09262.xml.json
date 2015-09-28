@@ -1,0 +1,1559 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Austin L", 
+            "surname": "Reese", 
+            "id": "author-28376", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "surname": "Kavalali", 
+            "corresp": "yes", 
+            "given-names": "Ege T", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-14987"
+        }, 
+        {
+            "surname": "Raman", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Northwestern University"
+                }
+            ], 
+            "given-names": "Indira M", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-8100"
+        }
+    ], 
+    "pub-date": "2015-07-24", 
+    "title": "Spontaneous neurotransmission signals through store-driven Ca2+ transients to maintain synaptic homeostasis", 
+    "citations": {
+        "bib34": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.108.128728", 
+            "year": "2008", 
+            "title": "Calmodulin mediates differential sensitivity of CaMKII and calcineurin to local Ca2+ in cardiac myocytes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Saucerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Bers"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(00)80683-2", 
+            "year": "1999", 
+            "title": "Single synaptic events evoke NMDA receptor-mediated release of calcium from internal stores in hippocampal dendritic spines", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Emptage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TV", 
+                    "surname": "Bliss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fine"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn0806-989", 
+            "year": "2006", 
+            "title": "Seeking a function for spontaneous neurotransmission", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Chung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Science", 
+            "doi": "10.1126/science.1709304", 
+            "year": "1991", 
+            "title": "Ca2+ permeability of KA-AMPA\u2013gated glutamate receptor channels depends on subunit composition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hollmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hartley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Heinemann"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2601-12.2012", 
+            "year": "2012", 
+            "title": "Optimization of a GCaMP calcium indicator for neural activity imaging", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Akerboom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TW", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Wardill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Tian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Marvin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mutlu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NC", 
+                    "surname": "Calderon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Esposti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Borghuis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XR", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gordus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Orger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Portugues"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Engert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Macklin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Filosa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Aggarwal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Kerr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Takagi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kracun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Shigetomi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Khakh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Baier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lagnado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CI", 
+                    "surname": "Bargmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Kimmel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Jayaraman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Svoboda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Schreiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Looger"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10130", 
+            "year": "2011", 
+            "title": "NMDA receptor blockade at rest triggers rapid behavioural antidepressant responses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Autry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Adachi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Nosyreva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Na"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Los"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PF", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Monteggia"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Brain Research", 
+            "doi": "10.1016/S0006-8993(03)02523-X", 
+            "year": "2003", 
+            "title": "Localization of translational components at the ultramicroscopic level at postsynaptic sites of the rat brain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Asaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Usuda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nakazawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kametani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Suzuki"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Science", 
+            "doi": "10.1126/science.1114816", 
+            "year": "2005", 
+            "title": "Neuronal activity regulates diffusion across the neck of dendritic spines", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Bloodgood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Sabatini"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Nature", 
+            "doi": "10.1038/341230a0", 
+            "year": "1989", 
+            "title": "NMDA and non-NMDA receptors are co-localized at individual excitatory synapses in cultured rat hippocampus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Bekkers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Stevens"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.0569-14.2014", 
+            "year": "2014", 
+            "title": "Regulation of neuronal gene expression and survival by basal NMDA receptor activity: a role for histone deacetylase 4", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Modrusan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Kaminker"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.00226.2007", 
+            "year": "2007", 
+            "title": "Differential effects of SNAP-25 deletion on Ca2+ -dependent and Ca2+ -independent neurotransmission", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bronk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Deak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Wilson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Sudhof"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Molecular and Cellular Biochemistry", 
+            "doi": "10.1007/BF00240306", 
+            "year": "1992", 
+            "title": "Ryanodine as a functional probe of the skeletal muscle sarcoplasmic reticulum Ca2+ release channel", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Meissner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "el-Hashem"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4998-12.2013", 
+            "year": "2013", 
+            "title": "Acute suppression of spontaneous neurotransmission drives synaptic potentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Nosyreva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Szabla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Autry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Ryazanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Monteggia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.96.22.12893", 
+            "year": "1999", 
+            "title": "Activity-dependent regulation of synaptic clustering in a hippocampal culture system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Klingauf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Tsien"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "The Journal of Neuroscience", 
+            "year": "1996", 
+            "title": "Multiple voltage-dependent mechanisms potentiate calcium channel activity in hippocampal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Plummer"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "The Journal of Neuroscience", 
+            "year": "2000", 
+            "title": "NMDA receptor-mediated subthreshold Ca(2+) signals in spines of hippocampal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kovalchuk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Eilers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lisman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Konnerth"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Science Signaling", 
+            "doi": "10.1126/scisignal.2005242", 
+            "year": "2014", 
+            "title": "Store-operated calcium entry promotes the degradation of the transcription factor Sp4 in resting neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lalonde"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Saia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Gill"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Brain Research", 
+            "doi": "10.1016/0006-8993(92)90183-A", 
+            "year": "1992", 
+            "title": "Blockade of NMDA receptor-mediated mobilization of intracellular Ca2+ prevents neurotoxicity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SZ", 
+                    "surname": "Lei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Abele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Lipton"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.03658", 
+            "year": "2014", 
+            "title": "Fast retrieval and autonomous regulation of single spontaneously recycling synaptic vesicles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Leitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kavalali"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "The Journal of Neuroscience", 
+            "year": "2001", 
+            "title": "Activation of silent synapses by rapid activity-dependent synaptic recruitment of AMPA receptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Liao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Scannevin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Huganir"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Journal of Neurophysiology", 
+            "year": "1996", 
+            "title": "Dihydropyridine-sensitive, voltage-gated Ca2+ channels contribute to the resting intracellular Ca2+ concentration of hippocampal CA1 pyramidal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Magee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Avery"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Christie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Johnston"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn783", 
+            "year": "2002", 
+            "title": "Genetic ablation of the t-SNARE SNAP-25 distinguishes mechanisms of neuroexocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Washbourne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Thompson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Costa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Mathews"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Lopez-Bendito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Molnar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Becher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Valenzuela"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LD", 
+                    "surname": "Partridge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Wilson"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Nature", 
+            "doi": "10.1038/36103", 
+            "year": "1998", 
+            "title": "Activity-dependent scaling of quantal amplitude in neocortical neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Turrigiano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Leslie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Desai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Rutherford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Nelson"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.3964-11.2011", 
+            "year": "2011", 
+            "title": "Decrease in calcium concentration triggers neuronal retinoic acid synthesis during homeostatic synaptic plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hintze"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Science", 
+            "doi": "10.1126/science.1096202", 
+            "year": "2004", 
+            "title": "Regulation of dendritic protein synthesis by miniature synaptic events", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Sutton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Wall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GN", 
+                    "surname": "Aakalu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Schuman"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.2006.112896", 
+            "year": "2006", 
+            "title": "mGluR1/5 subtype-specific calcium signalling and induction of long-term potentiation in rat hippocampal oriens/alveus interneurones", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Topolnik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Azzi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Morin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kougioumoutzakis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Lacaille"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "The Journal of Physiology", 
+            "year": "1952", 
+            "title": "Spontaneous subthreshold activity at motor nerve endings", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Fatt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Katz"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.90754.2008", 
+            "year": "2009", 
+            "title": "NMDA receptor activation by spontaneous glutamatergic neurotransmission", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Espinosa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Cell Calcium", 
+            "doi": "10.1054/ceca.1999.0095", 
+            "year": "2000", 
+            "title": "Chemical and physiological characterization of fluo-4 Ca(2+)-indicator dyes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Gee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WN", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bishop-Stewart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.272.43.26965", 
+            "year": "1997", 
+            "title": "Dantrolene inhibition of sarcoplasmic reticulum Ca2+ release by direct and specific action at skeletal muscle ryanodine receptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Fruen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Mickelson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Louis"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Nature", 
+            "doi": "10.1038/nature11554", 
+            "year": "2012", 
+            "title": "Synaptic amplification by dendritic spines enhances input cooperativity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Harnett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Makara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Spruston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WL", 
+                    "surname": "Kath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Magee"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1323920111", 
+            "year": "2014", 
+            "title": "Mechanisms underlying differential effectiveness of memantine and ketamine in rapid antidepressant responses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Gideons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Monteggia"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2007.07.030", 
+            "year": "2007", 
+            "title": "Postsynaptic decoding of neural activity: eEF2 as a biochemical sensor coupling miniature synaptic transmission to local protein synthesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Sutton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HT", 
+                    "surname": "Ito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Schuman"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2006.03.040", 
+            "year": "2006", 
+            "title": "Miniature neurotransmission stabilizes synaptic function via tonic suppression of local dendritic protein synthesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Sutton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HT", 
+                    "surname": "Ito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cressy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kempf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Woo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Schuman"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Nature Reviews. Neuroscience", 
+            "doi": "10.1038/nrn3875", 
+            "year": "2015", 
+            "title": "The mechanisms and functions of spontaneous neurotransmitter release", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "The Journal of Neuroscience", 
+            "year": "1990", 
+            "title": "Voltage dependence of NMDA-activated macroscopic conductances predicted by single-channel kinetics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CE", 
+                    "surname": "Jahr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Stevens"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Neuropharmacology", 
+            "doi": "10.1016/S0028-3908(01)00005-3", 
+            "year": "2001", 
+            "title": "mGluR1-mediated potentiation of NMDA receptors involves a rise in intracellular calcium and activation of protein kinase C", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VA", 
+                    "surname": "Skeberdis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Opitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MV", 
+                    "surname": "Bennett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Zukin"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1992", 
+            "title": "[3H]ryanodine as a probe of changes in the functional state of the Ca(2+)-release channel in malignant hyperthermia", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Hawkes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Nelson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Hamilton"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(00)80146-4", 
+            "year": "1996", 
+            "title": "Definition of the readily releasable pool of vesicles at hippocampal synapses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rosenmund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Stevens"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2011.10.034", 
+            "year": "2012", 
+            "title": "Vti1a identifies a vesicle pool that preferentially recycles at rest and maintains spontaneous neurotransmission", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ramirez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Khvotchev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Trauterman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Kavalali"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.01017.2011", 
+            "year": "2012", 
+            "title": "Tonic NMDA receptor-mediated current in prefrontal cortical pyramidal cells and fast-spiking interneurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Povysheva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Johnson"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Cerebral Cortex", 
+            "doi": "10.1093/cercor/bhs320", 
+            "year": "2014", 
+            "title": "Cortical dendritic spine heads are not electrically isolated by the spine neck from membrane potential signals in parent dendrites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Popovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NT", 
+                    "surname": "Carnevale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Zecevic"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "The Journal of Neuroscience", 
+            "year": "1997", 
+            "title": "Three-dimensional organization of smooth endoplasmic reticulum in hippocampal CA1 dendrites and dendritic spines of the immature and mature rat", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Spacek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Harris"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "ACS Chemical Neuroscience", 
+            "doi": "10.1021/cn300218d", 
+            "year": "2013", 
+            "title": "Calmodulin transduces Ca2+ oscillations into differential regulation of its target proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Slavov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Carey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Linse"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Individual neurons can adjust the strength of their synapses by using spontaneous calcium influx through NMDA receptors to trigger the release of additional calcium from intracellular stores, which can in turn be used to regulate protein synthesis.", 
+    "related-articles": [], 
+    "elocation-id": "e09262", 
+    "publish": "1", 
+    "article-version-id": "09262.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "spontaneous neurotransmitter release", 
+            "NMDA receptor signaling", 
+            "Ca<sup>2+</sup> induced Ca<sup>2+</sup> release", 
+            "homeostatic plasticity"
+        ], 
+        "research-organism": [
+            "mouse", 
+            "rat"
+        ]
+    }, 
+    "doi": "10.7554/eLife.09262", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000065", 
+                "award-id": "T32 NS069562", 
+                "institution": "National Institute of Neurological Disorders and Stroke (NINDS)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "MH066198", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Physiology", 
+                "email": null, 
+                "city": "Dallas", 
+                "institution": "University of Texas Southwestern Medical Center", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Neuroscience", 
+                "email": null, 
+                "city": "Dallas", 
+                "institution": "University of Texas Southwestern Medical Center", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "ALR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "ETK, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "ege.kavalali@utsouthwestern.edu"
+        }
+    }, 
+    "path": "content/4/e09262", 
+    "fragments": [
+        {
+            "path": "content/4/e09262/abstract-1", 
+            "doi": "10.7554/eLife.09262.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e09262/abstract-2", 
+            "doi": "10.7554/eLife.09262.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e09262/F1", 
+            "doi": "10.7554/eLife.09262.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e09262/F2", 
+            "fragments": [
+                {
+                    "path": "content/4/e09262/F2/F3", 
+                    "doi": "10.7554/eLife.09262.005", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.09262.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e09262/F4", 
+            "doi": "10.7554/eLife.09262.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e09262/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e09262/F5/F6", 
+                    "doi": "10.7554/eLife.09262.008", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e09262/F5/F7", 
+                    "doi": "10.7554/eLife.09262.009", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.09262.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e09262/F8", 
+            "doi": "10.7554/eLife.09262.010", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e09262/F9", 
+            "doi": "10.7554/eLife.09262.011", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e09262/1", 
+            "doi": "10.7554/eLife.09262.012", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Raman", 
+                    "given-names": "Indira M", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Northwestern University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e09262/2", 
+            "fragments": [
+                {
+                    "path": "content/4/e09262/2/F10", 
+                    "doi": "10.7554/eLife.09262.014", 
+                    "type": "fig", 
+                    "title": "Author response image 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.09262.013", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.09262", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

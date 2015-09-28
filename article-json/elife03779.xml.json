@@ -1,0 +1,4271 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Alexander", 
+            "surname": "Muir", 
+            "id": "author-15968", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Subramaniam", 
+            "surname": "Ramachandran", 
+            "id": "author-15969", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Fran\u00e7oise M", 
+            "surname": "Roelants", 
+            "id": "author-15970", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Garrett", 
+            "surname": "Timmons", 
+            "id": "author-15971", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Thorner", 
+            "corresp": "yes", 
+            "given-names": "Jeremy", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-6241"
+        }, 
+        {
+            "surname": "Hunter", 
+            "given-names": "Tony", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Salk Institute"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-10-03", 
+    "title": "TORC2-dependent protein kinase Ypk1 phosphorylates ceramide synthase to stimulate synthesis of complex sphingolipids", 
+    "citations": {
+        "bib63a": {
+            "source": "Methods in Enzymology", 
+            "doi": "10.1016/S0076-6879(00)11094-8", 
+            "year": "2000", 
+            "title": "Isolation and characterization of novel inhibitors of sphingolipid synthesis: australifungin, viridofungins, rustimicin and khafrefungin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Mandala"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GH", 
+                    "surname": "Harris"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Eukaryotic Cell", 
+            "doi": "10.1128/EC.2.2.284-294.2003", 
+            "year": "2003", 
+            "title": "Ceramide/long-chain base phosphate rheostat in Saccharomyces cerevisiae: regulation of ceramide synthesis by Elo3p and Cka2p", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Kobayashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Nagiec"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "BMC Bioinformatics", 
+            "doi": "10.1186/1471-2105-11-243", 
+            "year": "2010", 
+            "title": "MOTIPS: automated motif analysis for predicting targets of modular protein domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mok"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tonikian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Sidhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Turk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Snyder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Gerstein"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2009.154", 
+            "year": "2009", 
+            "title": "Separation and detection of large phospho-proteins using Phos-tag SDS-PAGE", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kinoshita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kinoshita-Kikuta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Koike"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2013.11.040", 
+            "year": "2013", 
+            "title": "Chemical genetics of rapamycin-insensitive TORC2 in S. cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JI", 
+                    "surname": "Kliegman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fiedler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Ryan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YF", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XY", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Thomas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Caccese"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Shales"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Rabinowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "Krogan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Shokat"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Progress in Lipid Research", 
+            "doi": "10.1016/j.plipres.2007.03.001", 
+            "year": "2007", 
+            "title": "Metabolism and biological functions of two phosphorylated sphingolipids, sphingosine 1-phosphate and ceramide 1-phosphate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kihara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mitsutake"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Mizutani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Igarashi"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Genetics", 
+            "year": "2000", 
+            "title": "Accumulation of phosphorylated sphingoid long chain bases results in cell growth inhibition in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Fyrst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Saba"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.25.16.7239-7248.2005", 
+            "year": "2005", 
+            "title": "Tor2 directly phosphorylates the AGC kinase Ypk2 to regulate actin polarization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kamada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Fujioka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NN", 
+                    "surname": "Suzuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Inagaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wullschleger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Loewith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ohsumi"
+                }
+            ]
+        }, 
+        "bib43": {
+            "comment": "Epub ahead of print, 8 March 2014", 
+            "source": "Biomolecular NMR Assignments", 
+            "year": "2014", 
+            "title": "1H, 15N and 13C resonance assignments of the conserved region in the middle domain of S. pombe Sin1 protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kataoka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Furuita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hattori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kobayashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ikegami"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shiozaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fujiwara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kojima"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.8.3.268", 
+            "year": "1998", 
+            "title": "Homologs of the yeast longevity gene LAG1 in Caenorhabditis elegans and human", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Kirchman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Zagulski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hunt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Jazwinski"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "The Biochemical Journal", 
+            "doi": "10.1042/BJ20060697", 
+            "year": "2006", 
+            "title": "Transmembrane topology of ceramide synthase in yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kageyama-Yahara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Riezman"
+                }
+            ]
+        }, 
+        "bib79": {
+            "source": "Current Opinion in Cell Biology", 
+            "doi": "10.1016/j.ceb.2011.03.008", 
+            "year": "2011", 
+            "title": "Endocytosis and signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HW", 
+                    "surname": "Platta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Stenmark"
+                }
+            ]
+        }, 
+        "bib78": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm2822", 
+            "year": "2010", 
+            "title": "The nuts and bolts of AGC protein kinases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pearce"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Komander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Alessi"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1117563109", 
+            "year": "2012", 
+            "title": "Plasma membrane recruitment and activation of the AGC kinase Ypk1 is mediated by target of rapamycin complex 2 (TORC2) and its effector proteins Slm1 and Slm2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Niles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Mogri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Vlahakis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Powers"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2013.12.040", 
+            "year": "2014", 
+            "title": "TOR complex 2-Ypk1 signaling maintains sphingolipid homeostasis by sensing and regulating ROS accumulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Niles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Joslin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fresques"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Powers"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.273.31.19437", 
+            "year": "1998", 
+            "title": "The LCB4 (YOR171c) and LCB5 (YLR260w) genes of Saccharomyces encode sphingoid long chain base kinases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Nagiec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Skrzypek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Nagiec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Lester"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.272.15.9809", 
+            "year": "1997", 
+            "title": "Sphingolipid synthesis as a target for antifungal drugs. Complementation of the inositol phosphorylceramide synthase defect in a mutant strain of Saccharomyces cerevisiae by the AUR1 gene", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Nagiec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Nagiec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Baltisberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wells"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Lester"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib77": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M113.457069", 
+            "year": "2013", 
+            "title": "Vps9 family protein Muk1 is the second Rab5 guanosine nucleotide exchange factor in budding yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Paulsel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Merz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Nickerson"
+                }
+            ]
+        }, 
+        "bib76": {
+            "comment": "Epub ahead of print, 29 April 2014", 
+            "doi": "10.4161/auto.28971", 
+            "title": "Atg1 kinase organizes autophagosome formation by phosphorylating Atg9", 
+            "year": "2014", 
+            "source": "Autophagy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Papinski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kraft"
+                }
+            ]
+        }, 
+        "bib75": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M113.478511", 
+            "year": "2013", 
+            "title": "A calcineurin-dependent switch controls the trafficking function of alpha-arrestin Aly1/Art6", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "O'Donnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Cyert"
+                }
+            ]
+        }, 
+        "bib74": {
+            "source": "Cell Cycle", 
+            "doi": "10.4161/cc.21752", 
+            "year": "2012", 
+            "title": "Plasma membrane proteins Slm1 and Slm2 mediate activation of the AGC kinase Ypk1 by TORC2 and sphingolipids in S. cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Niles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Powers"
+                }
+            ]
+        }, 
+        "bib99": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E12-03-0209", 
+            "year": "2012", 
+            "title": "Orm protein phosphoregulation mediates transient sphingolipid biosynthesis response to heat stress via the Pkh-Ypk and Cdc55-PP2A pathways", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Miao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yamane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Shokat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Takematsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kozutsumi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "Drubin"
+                }
+            ]
+        }, 
+        "bib98": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.13.7.798", 
+            "year": "1999", 
+            "title": "Yeast calcineurin regulates nuclear localization of the Crz1p transcription factor through dephosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Stathopoulos-Gerontides"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Guo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Cyert"
+                }
+            ]
+        }, 
+        "bib91": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2013.08.019", 
+            "year": "2013", 
+            "title": "TORC2 signaling pathway guarantees genome stability in the face of DNA strand breaks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shimada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Filipuzzi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Stahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Helliwell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Studer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hoepfner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Seeber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Loewith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Movva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Gasser"
+                }
+            ]
+        }, 
+        "bib90": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.129213.111", 
+            "year": "2012", 
+            "title": "Functional wiring of the yeast kinome revealed by global analysis of genetic network motifs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sharifpoor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "van Dyk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Costanzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Baryshnikova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Friesen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Douglas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Youn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "VanderSluis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Myers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Papp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Boone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Andrews"
+                }
+            ]
+        }, 
+        "bib93": {
+            "source": "Genetics", 
+            "year": "1989", 
+            "title": "A system of shuttle vectors and yeast host strains designed for efficient manipulation of DNA in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Sikorski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hieter"
+                }
+            ]
+        }, 
+        "bib92": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E12-10-0753", 
+            "year": "2013", 
+            "title": "TORC1-regulated protein kinase Npr1 phosphorylates Orm to stimulate complex sphingolipid synthesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Shimobayashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Oppliger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Moes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Jen\u00f6"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Hall"
+                }
+            ]
+        }, 
+        "bib95": {
+            "source": "Biochimica et Biophysica Acta", 
+            "doi": "10.1016/j.bbabio.2006.07.005", 
+            "year": "2006", 
+            "title": "Ysp2 mediates death of yeast induced by amiodarone or intracellular acidification", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sokolov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Knorre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Smirnova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Markova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pozniakovsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Skulachev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Severin"
+                }
+            ]
+        }, 
+        "bib94": {
+            "source": "Cold Spring Harbor Perspectives in Biology", 
+            "doi": "10.1101/cshperspect.a004697", 
+            "year": "2011", 
+            "title": "Membrane organization and lipid rafts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Simons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Sampaio"
+                }
+            ]
+        }, 
+        "bib97": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm1103", 
+            "year": "2003", 
+            "title": "Sphingosine-1-phosphate: an enigmatic signalling lipid", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Spiegel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Milstien"
+                }
+            ]
+        }, 
+        "bib96": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2005.12.011", 
+            "year": "2006", 
+            "title": "Mapping pathways and phenotypes by systematic gene overexpression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sopko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Preston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Chua"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Papp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kafadar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Snyder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Oliver"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Cyert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Hughes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Boone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Andrews"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.273.46.30688", 
+            "year": "1998", 
+            "title": "The Saccharomyces cerevisiae TSC10/YBR265w gene encoding 3-ketosphinganine reductase is identified in a screen for temperature-sensitive suppressors of the Ca2+-sensitive csg2\u0394 mutant", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Beeler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bacikova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Gable"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Hopkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Slife"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Dunn"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.201109113", 
+            "year": "2012", 
+            "title": "A molecular switch on an arrestin-like protein relays glucose signaling to transporter endocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Becuwe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Vieira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gomes-Rezende"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Soares-Cunha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Casal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Haguenauer-Tsapis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Vincent"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Paiva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "L\u00e9on"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Autophagy", 
+            "year": "2014", 
+            "title": "ATG13: just a companion, or an executor of the autophagic program?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Alers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wesselborg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Stork"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/16.9.2179", 
+            "year": "1997", 
+            "title": "The two isoenzymes for yeast NAD+-dependent glycerol 3-phosphate dehydrogenase encoded by GPD1 and GPD2 have distinct roles in osmoadaptation and redox regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ansell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Granath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hohmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Thevelein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Adler"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00230-14", 
+            "year": "2014", 
+            "title": "Specific alpha-arrestins negatively regulate Saccharomyces cerevisiae pheromone response by down-modulating the G-protein coupled receptor Ste2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Alvaro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "O'Donnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Prosser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Augustine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Goldman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Brodsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Cyert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wendland"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Database", 
+            "doi": "10.1093/database/bar062", 
+            "year": "2012", 
+            "title": "YeastMine\u2013an integrated data warehouse for Saccharomyces cerevisiae data as a multipurpose tool-kit", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Balakrishnan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Karra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Hitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Binkley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sullivan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Micklem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Cherry"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Cell Metabolism", 
+            "doi": "10.1016/j.cmet.2007.11.015", 
+            "year": "2008", 
+            "title": "Regulation of ceramide biosynthesis by TOR complex 2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aronova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Wedaman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Aronov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Fontes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ramos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Hammock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Powers"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.10.4.1043", 
+            "year": "1999", 
+            "title": "Two endoplasmic reticulum (ER) membrane proteins that facilitate ER-to-Golgi transport of glycosylphosphatidylinositol-anchored proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WP", 
+                    "surname": "Barz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Walter"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.95.26.15400", 
+            "year": "1998", 
+            "title": "Differential regulation of transcription: repression by unactivated mitogen-activated protein kinase Kss1 requires the Dig1 and Dig2 proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Bardwell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Cook"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JX", 
+                    "surname": "Zhu-Shimoni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Voora"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.95.1.150", 
+            "year": "1998", 
+            "title": "Sphingoid base 1-phosphate phosphatase: a key regulator of sphingolipid metabolism and stress response", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Mandala"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Thornton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Tu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Kurtz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nickels"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Broach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Menzeleev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Spiegel"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/S1097-2765(02)00568-3", 
+            "year": "2002", 
+            "title": "Identification of the tuberous sclerosis complex-2 tumor suppressor gene product tuberin as a target of the phosphoinositide 3-kinase/akt pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Manning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Tee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Logsdon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Blenis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Cantley"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Science Signaling", 
+            "doi": "10.1126/scisignal.2000482", 
+            "year": "2010", 
+            "title": "Deciphering protein kinase specificity through large-scale analysis of yeast phosphorylation site motifs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mok"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Piccirillo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GR", 
+                    "surname": "Jeschke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Sheridan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Parker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Desai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jwa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Cameroni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Niu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Good"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Remenyi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Ma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YJ", 
+                    "surname": "Sheu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Sassi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sopko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "De Virgilio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NM", 
+                    "surname": "Hollingsworth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Lim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DF", 
+                    "surname": "Stern"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Stillman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Andrews"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Gerstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Snyder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Turk"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "The Biochemical Journal", 
+            "doi": "10.1042/BJ20040108", 
+            "year": "2004", 
+            "title": "SLI1 (YGR212W) is a major gene conferring resistance to the sphingolipid biosynthesis inhibitor ISP-1, and encodes an ISP-1 N-acetyltransferase in yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Momoi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Tanoue"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Takematsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Suzuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Suzuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Suzuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fujita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kozutsumi"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M111.257592", 
+            "year": "2011", 
+            "title": "mSIN1 protein mediates SGK1 protein interaction with mTORC2 protein complex and is required for selective activation of the epithelial sodium channel", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Ives"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Pearce"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "The EMBO Journal", 
+            "year": "1995", 
+            "title": "Fps1, a yeast member of the MIP family of channel proteins, is a facilitator for glycerol uptake and efflux and is inactive under osmotic stress", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Luyten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Albertyn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WF", 
+                    "surname": "Skibbe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Prior"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ramos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Thevelein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hohmann"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2011.09.054", 
+            "year": "2011", 
+            "title": "TORC1 regulates endocytosis via Npr1-mediated phosphoinhibition of a ubiquitin ligase adaptor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "MacGurn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PC", 
+                    "surname": "Hsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Smolka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Emr"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "BMC Biochemistry", 
+            "doi": "10.1186/1471-2091-6-22", 
+            "year": "2005", 
+            "title": "Substrate specificity analysis of protein kinase complex Dbf2-Mob1 by peptide library and proteome array screening", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Mah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Elia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Devgan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ptacek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schutkowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Snyder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Yaffe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Deshaies"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "Seminars in Cell & Developmental Biology", 
+            "doi": "10.1016/j.semcdb.2003.12.022", 
+            "year": "2004", 
+            "title": "PDK1, the master regulator of AGC kinase signal transduction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mora"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Komander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "van Aalten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Alessi"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M604244200", 
+            "year": "2006", 
+            "title": "Mutual antagonism of target of rapamycin and calcineurin signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Mulet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Martin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Loewith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Hall"
+                }
+            ]
+        }, 
+        "bib88": {
+            "source": "Database", 
+            "doi": "10.1093/database/bat026", 
+            "year": "2013", 
+            "title": "The PhosphoGRID Saccharomyces cerevisiae protein phosphorylation site database: version 2.0 update", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Sadowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Breitkreutz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Stark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Dahabieh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Raithatha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bernhard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Oughtred"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dolinski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Barreto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tyers"
+                }
+            ]
+        }, 
+        "bib89": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.12.11.3417", 
+            "year": "2001", 
+            "title": "Lag1p and Lac1p are essential for the acyl-CoA-dependent ceramide synthase reaction in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schorling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Vall\u00e9e"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WP", 
+                    "surname": "Barz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Riezman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Oesterhelt"
+                }
+            ]
+        }, 
+        "bib82": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1116948108", 
+            "year": "2011", 
+            "title": "Protein kinase Ypk1 phosphorylates regulatory proteins Orm1 and Orm2 to control sphingolipid homeostasis in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Roelants"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DK", 
+                    "surname": "Breslow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Muir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Weissman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }
+            ]
+        }, 
+        "bib83": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E02-04-0201", 
+            "year": "2002", 
+            "title": "Pkh1 and Pkh2 differentially phosphorylate and activate Ypk1 and Ykr2 and define protein kinase modules required for maintenance of cell wall integrity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Roelants"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Torrance"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bezman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }
+            ]
+        }, 
+        "bib80": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M700253200", 
+            "year": "2007", 
+            "title": "Specificity profiling of Pak kinases allows identification of novel phosphorylation sites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "UE", 
+                    "surname": "Rennefahrt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Deacon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Parker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Devarajan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Beeser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chernoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Knapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Turk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Peterson"
+                }
+            ]
+        }, 
+        "bib81": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0912497106", 
+            "year": "2010", 
+            "title": "A protein kinase network regulates the function of aminophospholipid flippases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Roelants"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Baltz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Trott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Fereres"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }
+            ]
+        }, 
+        "bib86": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2007.02.014", 
+            "year": "2007", 
+            "title": "A conserved docking site modulates substrate affinity for calcineurin, signaling output, and in vivo function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Roy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Hogan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Cyert"
+                }
+            ]
+        }, 
+        "bib87": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev.biochem.75.110105.142336", 
+            "year": "2006", 
+            "title": "Introduction to the membrane protein reviews: the interplay of structure, dynamics, and environment in membrane protein function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Sachs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Engelman"
+                }
+            ]
+        }, 
+        "bib84": {
+            "source": "Nature Reviews Microbiology", 
+            "doi": "10.1099/mic.0.27286-0", 
+            "year": "2004", 
+            "title": "Differential roles of PDK1- and PDK2-phosphorylation sites in the yeast AGC kinases Ypk1, Pkc1 and Sch9", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Roelants"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Torrance"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }
+            ]
+        }, 
+        "bib85": {
+            "source": "Science Signaling", 
+            "doi": "10.1126/scisignal.2100re9", 
+            "year": "2009", 
+            "title": "Cracking the phosphatase code: docking interactions determine substrate specificity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Roy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Cyert"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI57144", 
+            "year": "2011", 
+            "title": "Ceramides as modulators of cellular and whole-body metabolism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BT", 
+                    "surname": "Bikman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Summers"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/ncb2480", 
+            "year": "2012", 
+            "title": "Plasma membrane stress induces relocalization of Slm proteins and activation of TORC2 to promote sphingolipid synthesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Berchtold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Piccolis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Chiaruttini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Riezman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Riezman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Roux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Walther"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Loewith"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2010.10.005", 
+            "year": "2010", 
+            "title": "Membranes in balance: mechanisms of sphingolipid homeostasis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DK", 
+                    "surname": "Breslow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Weissman"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Cold Spring Harbor Perspectives in Biology", 
+            "doi": "10.1101/cshperspect.a013326", 
+            "year": "2013", 
+            "title": "Sphingolipid homeostasis in the endoplasmic reticulum and beyond", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DK", 
+                    "surname": "Breslow"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0701140104", 
+            "year": "2007", 
+            "title": "Chemical genetics reveals the requirement for Polo-like kinase 1 activity in positioning RhoA and triggering cytokinesis in human cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Burkard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Randall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Larochelle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Shokat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Fisher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Jallepalli"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.01973-05", 
+            "year": "2006", 
+            "title": "Slm1 and slm2 are novel substrates of the calcineurin phosphatase required for heat stress-induced endocytosis of the yeast uracil permease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bultynck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VL", 
+                    "surname": "Heath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Majeed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Galan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Haguenauer-Tsapis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Cyert"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.3672305", 
+            "year": "2005", 
+            "title": "The yeast gene order browser: combining curated homology and syntenic context reveals gene fate in polyploid species", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "Byrne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Wolfe"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Methods in yeast genetics: a cold spring harbor laboratory course manual", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Burke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Amberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Strathern"
+                }
+            ], 
+            "year": "2005"
+        }, 
+        "bib19": {
+            "source": "PLOS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.1003078", 
+            "year": "2013", 
+            "title": "Coordination of rapid sphingolipid responses to heat stress in yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PW", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Fonseca"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YA", 
+                    "surname": "Hannun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EO", 
+                    "surname": "Voit"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Current Biology", 
+            "doi": "10.1016/S0960-9822(99)80088-8", 
+            "year": "1999", 
+            "title": "Functional counterparts of mammalian protein kinases PDK1 and SGK in budding yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Casamayor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Torrance"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kobayashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Alessi"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.272.51.32566", 
+            "year": "1997", 
+            "title": "Involvement of yeast sphingolipids in the heat stress response of Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Jenkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Richards"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Wahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Mao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Obeid"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hannun"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2006.08.033", 
+            "year": "2006", 
+            "title": "SIN1/MIP1 maintains rictor-mTOR complex integrity and regulates Akt phosphorylation and substrate specificity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Jacinto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Facchinetti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Soto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Qin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Su"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Cell Cycle", 
+            "doi": "10.4161/cc.7.3.5245", 
+            "year": "2008", 
+            "title": "Fission yeast TOR complex 2 activates the AGC-family Gad8 kinase essential for stress resistance and cell cycle control", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ikeda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Morigasaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tatebe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Tamanoi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shiozaki"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M703757200", 
+            "year": "2007", 
+            "title": "Essential, completely conserved glycine residue in the domain III S2-S3 linker of voltage-gated calcium channel alpha1 subunits in yeast and mammals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Iida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Teng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Saka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tamai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Izumi-Nakaseko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Adachi-Akahane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Iida"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2009.04.031", 
+            "year": "2009", 
+            "title": "Phosphorylation of the tumor suppressor CYLD by the breast cancer oncogene IKKepsilon promotes cell transformation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Hutti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Abbott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AY", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Sprott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Asara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Hahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Cantley"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2007.02.012", 
+            "year": "2007", 
+            "title": "Evolution of Ime2 phosphorylation sites on Cdk1 substrates provides a mechanism to limit the effects of the phosphatase Cdc14 in meiosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Holt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Hutti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Cantley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DO", 
+                    "surname": "Morgan"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Science", 
+            "doi": "10.1126/science.1150021", 
+            "year": "2008", 
+            "title": "The chemical genomic portrait of yeast: uncovering a phenotype for all genes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Hillenmeyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wildenhain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Pierce"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Proctor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "St Onge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tyers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Koller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Altman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Nislow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Giaever"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Antimicrobial Agents and Chemotherapy", 
+            "doi": "10.1128/AAC.39.12.2765", 
+            "year": "1995", 
+            "title": "The AUR1 gene in Saccharomyces cerevisiae encodes dominant resistance to the antifungal agent aureobasidin A (LY295337)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Heidler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Radding"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Journal of Lipid Research", 
+            "year": "1980", 
+            "title": "The extraction of inositol-containing phospholipids and phosphatidylcholine from Saccharomyces cerevisiae and Neurospora crassa", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Hanson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Lester"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2008.03.003", 
+            "year": "2008", 
+            "title": "AMPK phosphorylation of raptor mediates a metabolic checkpoint", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Gwinn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Shackelford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DF", 
+                    "surname": "Egan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Mihaylova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mery"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Vasquez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Turk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Shaw"
+                }
+            ]
+        }, 
+        "bib108": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2013.10.024", 
+            "year": "2013", 
+            "title": "TORC1 inhibits GSK3-mediated Elo2 phosphorylation to regulate very long chain fatty acid synthesis and autophagy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zimmermann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Santos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Gable"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Epstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Gururaj"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Chymkowitch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Pultz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SV", 
+                    "surname": "R\u00f8dk\u00e6r"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Clay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bj\u00f8r\u00e5s"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Barral"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "F\u00e6rgeman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Dunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Riezman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Enserink"
+                }
+            ]
+        }, 
+        "bib102": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2010.10.026", 
+            "year": "2010", 
+            "title": "Rab-family GTPase regulates TOR complex 2 signaling in fission yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tatebe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Morigasaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Murayama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shiozaki"
+                }
+            ]
+        }, 
+        "bib103": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/sj.emboj.7600562", 
+            "year": "2005", 
+            "title": "Lip1p: a novel subunit of acyl-CoA ceramide synthase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Vall\u00e9e"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Riezman"
+                }
+            ]
+        }, 
+        "bib100": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E13-06-0340", 
+            "year": "2014", 
+            "title": "The protein kinase Sch9 is a key regulator of sphingolipid metabolism in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Swinnen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Wilms"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Idkowiak-Baldys"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Smets"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "De Snijder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Accardo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ghillebert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Thevissen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Cammue"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "De Vos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bielawski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YA", 
+                    "surname": "Hannun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Winderickx"
+                }
+            ]
+        }, 
+        "bib101": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.02403-05", 
+            "year": "2006", 
+            "title": "The phosphatidylinositol 4,5-biphosphate and TORC2 binding proteins Slm1 and Slm2 function in sphingolipid regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tabuchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Audhya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Parsons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Boone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Emr"
+                }
+            ]
+        }, 
+        "bib106": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1461206", 
+            "year": "2006", 
+            "title": "Identification of Sin1 as an essential TORC2 component required for complex formation and kinase activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Inoki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ikenoue"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Guan"
+                }
+            ]
+        }, 
+        "bib107": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M104749200", 
+            "year": "2001", 
+            "title": "The initial step of the glycerolipid pathway: identification of glycerol 3-phosphate/dihydroxyacetone phosphate dual substrate acyltransferases in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zou"
+                }
+            ]
+        }, 
+        "bib104": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0805797105", 
+            "year": "2008", 
+            "title": "Stress resistance and signal fidelity independent of nuclear MAPK function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Westfall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Patterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }
+            ]
+        }, 
+        "bib105": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/86737", 
+            "year": "2001", 
+            "title": "A motif-based profile scanning approach for genome-wide prediction of signaling pathways", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Yaffe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Leparc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Obata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Volinia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Cantley"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Molecular cloning: a laboratory manual", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Green"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sambrook"
+                }
+            ], 
+            "year": "2012"
+        }, 
+        "bib29": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1844", 
+            "year": "2010", 
+            "title": "Molecular mechanisms in signal transduction at the membrane", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Groves"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kuriyan"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0057630", 
+            "year": "2013", 
+            "title": "Functional characterization of Aspergillus nidulans ypkA, a homologue of the mammalian kinase SGK", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Colabardini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Savoldi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Goldman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GH", 
+                    "surname": "Goldman"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M300656200", 
+            "year": "2003", 
+            "title": "Roles for sphingolipid biosynthesis in mediation of specific programs of the heat stress response determined through gene expression profiling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Cowart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Okamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FR", 
+                    "surname": "Pinto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Gandy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Almeida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YA", 
+                    "surname": "Hannun"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00461-06", 
+            "year": "2007", 
+            "title": "The yeast PH domain proteins Slm1 and Slm2 are targets of sphingolipid signaling during the response to heat stress", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Daquinag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fadri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Qin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kunz"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.23.1.229-237.2003", 
+            "year": "2003", 
+            "title": "Targeting the MEF2-like transcription factor Smp1 by the stress-activated Hog1 mitogen-activated protein kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "de Nadal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Casadom\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Posas"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200107135", 
+            "year": "2002", 
+            "title": "The conserved Pkh-Ypk kinase cascade is required for endocytosis in yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "deHart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Schnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Allen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Hicke"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Journal of Lipid Research", 
+            "doi": "10.1194/jlr.R800003-JLR200", 
+            "year": "2008", 
+            "title": "Thematic review series: sphingolipids. New insights into sphingolipid metabolism and function in budding yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Molecular Interventions", 
+            "doi": "10.1124/mi.9.5.8", 
+            "year": "2009", 
+            "title": "Close encounters of the oily kind: regulation of transporters by lipids", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Divito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Amara"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkm324", 
+            "year": "2007", 
+            "title": "LIPID MAPS online tools for lipid research", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Fahy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sud"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Cotter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Subramaniam"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Genetics", 
+            "doi": "10.1534/genetics.111.133363", 
+            "year": "2011", 
+            "title": "Target of rapamycin (TOR) in nutrient signaling and growth control", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Loewith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Hall"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/ncb2860", 
+            "year": "2013", 
+            "title": "Sin1 phosphorylation impairs mTORC2 complex integrity and inhibits downstream Akt signalling to suppress tumorigenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Gan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Inuzuka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Lazorchak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Arojo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Zhai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shaik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Menon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Gygi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Asara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Manning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Blenis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wei"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0064477", 
+            "year": "2013", 
+            "title": "Re-annotation of protein-coding genes in the genome of Saccharomyces cerevisiae based on support vector machines", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FB", 
+                    "surname": "Guo"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2008.09.025", 
+            "year": "2008", 
+            "title": "Arrestin-related ubiquitin-ligase adaptors regulate endocytosis and protein turnover at the cell surface", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "MacGurn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Chu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Stefan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Emr"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Journal of Cell Science", 
+            "doi": "10.1242/jcs.100578", 
+            "year": "2012", 
+            "title": "Regulation of sphingolipid synthesis through Orm1 and Orm2 in yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Polu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Schneiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Chang"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2007.05.052", 
+            "year": "2007", 
+            "title": "Systematic discovery of in vivo phosphorylation networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Linding"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Jensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Ostheimer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "van Vugt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "J\u00f8rgensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Miron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Diella"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Colwill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Elder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Metalnikov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Nguyen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pasculescu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LD", 
+                    "surname": "Samson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Woodgett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Russell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bork"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Yaffe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Pawson"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Cell Metabolism", 
+            "doi": "10.1016/j.cmet.2012.06.004", 
+            "year": "2012a", 
+            "title": "Sphingolipid signaling mediates iron toxicity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YJ", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kropat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Henras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Merchant"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Dickson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GF", 
+                    "surname": "Chanfreau"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M112.363580", 
+            "year": "2012", 
+            "title": "Modulation of ceramide synthase activity via dimerization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Laviad"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kelly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Merrill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Futerman"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M111.303701", 
+            "year": "2012", 
+            "title": "Target of rapamycin complex 2 signals to downstream effector yeast protein kinase 2 (Ypk2) through adheres-voraciously-to-target-of-rapamycin-2 protein 1 (Avo1) in Saccharomyces cerevisiae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Liao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MY", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00897-12", 
+            "year": "2012b", 
+            "title": "Reciprocal phosphorylation of yeast glycerol-3-phosphate dehydrogenases in adaptation to distinct types of stress", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YJ", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GR", 
+                    "surname": "Jeschke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Roelants"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Thorner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Turk"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "TORC2-Ypk1 signaling upregulates flux through the sphingolipid pathway not only by increasing the supply of long-chain base precursors, but also by increasing their use in synthesizing complex sphingolipids.", 
+    "related-articles": [], 
+    "elocation-id": "e03779", 
+    "publish": "1", 
+    "article-version-id": "03779.1", 
+    "volume": "3", 
+    "keywords": {
+        "author-keywords": [
+            "phosphorylation", 
+            "regulation", 
+            "substrates", 
+            "mutants", 
+            "plasma membrane", 
+            "lipids"
+        ], 
+        "research-organism": [
+            "<italic>S. cerevisiae</italic>"
+        ]
+    }, 
+    "doi": "10.7554/eLife.03779", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100005595", 
+                "award-id": "Cancer Research Coordinating Committee (CRCC)", 
+                "institution": "University of California", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "award-id": "Senior Investigator Award 11-0118", 
+                "institution": "American Asthma Foundation"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000057", 
+                "award-id": "GM21841", 
+                "institution": "National Institute of General Medical Sciences", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff3": {
+                "dept": "Department of Chemistry", 
+                "email": null, 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Chemical Biology Graduate Program", 
+                "email": null, 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Division of Biochemistry, Biophysics and Structural Biology, Department of Molecular and Cell Biology", 
+                "email": null, 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "AM, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "SR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "FMR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "GT, Contributed in a major way to screening all of the bioinformatic hits using the synthetic dosage lethal method devised in this paper, Acquisition of data", 
+            "con5": "JT, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "jthorner@berkeley.edu"
+        }
+    }, 
+    "path": "content/3/e03779", 
+    "fragments": [
+        {
+            "path": "content/3/e03779/abstract-1", 
+            "doi": "10.7554/eLife.03779.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e03779/abstract-2", 
+            "doi": "10.7554/eLife.03779.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e03779/F1", 
+            "doi": "10.7554/eLife.03779.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e03779/T1", 
+            "doi": "10.7554/eLife.03779.004", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/3/e03779/F2", 
+            "doi": "10.7554/eLife.03779.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e03779/F3", 
+            "doi": "10.7554/eLife.03779.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e03779/F4", 
+            "doi": "10.7554/eLife.03779.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e03779/F5", 
+            "doi": "10.7554/eLife.03779.008", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e03779/F6", 
+            "doi": "10.7554/eLife.03779.009", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/3/e03779/F7", 
+            "doi": "10.7554/eLife.03779.010", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/3/e03779/F8", 
+            "doi": "10.7554/eLife.03779.011", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/3/e03779/T2", 
+            "doi": "10.7554/eLife.03779.012", 
+            "type": "table-wrap", 
+            "title": "Table 2."
+        }, 
+        {
+            "path": "content/3/e03779/T3", 
+            "doi": "10.7554/eLife.03779.013", 
+            "type": "table-wrap", 
+            "title": "Table 3."
+        }, 
+        {
+            "path": "content/3/e03779/1", 
+            "doi": "10.7554/eLife.03779.014", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Hunter", 
+                    "given-names": "Tony", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Salk Institute"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e03779/2", 
+            "doi": "10.7554/eLife.03779.015", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.03779", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Cell biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

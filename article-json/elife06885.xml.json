@@ -1,0 +1,823 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Zhao", 
+            "given-names": "Jing", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-28738"
+        }, 
+        {
+            "surname": "Lin", 
+            "corresp": "yes", 
+            "given-names": "Quan", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "equal-contrib": "yes", 
+            "type": "author", 
+            "id": "author-28524"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Kevin J", 
+            "surname": "Kim", 
+            "id": "author-28739", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Faranak D", 
+            "surname": "Dardashti", 
+            "id": "author-37788", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Jennifer", 
+            "surname": "Kim", 
+            "id": "author-39566", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Fei", 
+            "surname": "He", 
+            "id": "author-42287", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Sun", 
+            "corresp": "yes", 
+            "given-names": "Yi", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con7"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2", 
+                    "par-3"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-28742"
+        }, 
+        {
+            "surname": "Barres", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Stanford School of Medicine"
+                }
+            ], 
+            "given-names": "Ben", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-2901"
+        }
+    ], 
+    "pub-date": "2015-08-13", 
+    "title": "Ngn1 inhibits astrogliogenesis through induction of miR-9 during neuronal fate specification", 
+    "citations": {
+        "bib11": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(01)00224-0", 
+            "year": "2001", 
+            "title": "Neurogenin promotes neurogenesis and inhibits glial differentiation by independent mechanisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nadal-Vicens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Misono"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MZ", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Zubiaga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Hua"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Fan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Greenberg"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.3219-08.2008", 
+            "year": "2008", 
+            "title": "MicroRNA-9 modulates Cajal-Retzius cell differentiation by suppressing Foxg1 expression in mouse medial pallium", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Shibata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Kurokawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Nakao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ohmura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Aizawa"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(93)90530-4", 
+            "year": "1993", 
+            "title": "Posttranscriptional regulation of the heterochronic gene lin-14 by lin-4 mediates temporal pattern formation in C. elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wightman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Ha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Ruvkun"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Current Opinion in Neurobiology", 
+            "doi": "10.1016/S0959-4388(02)00322-7", 
+            "year": "2002", 
+            "title": "Molecular mechanisms controlling cortical gliogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Sauvageot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Stiles"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2007.04.019", 
+            "year": "2007", 
+            "title": "Timing is everything: making neurons versus glia in the developing cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FD", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Gauthier"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Science", 
+            "doi": "10.1126/science.278.5337.477", 
+            "year": "1997", 
+            "title": "Regulation of gliogenesis in the central nervous system by the JAK-STAT signaling pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bonni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nadal-Vicens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bhatt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Frank"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Rozovsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Stahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Yancopoulos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Greenberg"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth1079", 
+            "year": "2007", 
+            "title": "MicroRNA sponges: competitive inhibitors of small RNAs in mammalian cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Ebert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Neilson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sharp"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Cerebral Cortex", 
+            "doi": "10.1093/cercor/bhj168", 
+            "year": "2006", 
+            "title": "A role for proneural genes in the maturation of cortical progenitor cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Britz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mattar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Nguyen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Langevin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zimmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Alam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Guillemot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Schuurmans"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn1440", 
+            "year": "2005", 
+            "title": "A positive autoregulatory loop of Jak-STAT signaling controls the onset of astrogliogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "He"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Ge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Martinowich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Becker-Catania"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Coskun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Zhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Castro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Guillemot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Fan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "de Vellis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YE", 
+                    "surname": "Sun"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0510419103", 
+            "year": "2006", 
+            "title": "Coupling of cell migration with neurogenesis by proneural bHLH factors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Ge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "He"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Blanchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Coskun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Nguyen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JI", 
+                    "surname": "Heng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Martinowich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Tao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Castro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Sobeih"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Corfas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Gleeson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Greenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Guillemot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YE", 
+                    "surname": "Sun"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(93)90529-Y", 
+            "year": "1993", 
+            "title": "The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Feinbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Ambros"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Stem Cells", 
+            "doi": "10.1634/stemcells.2005-0441", 
+            "year": "2006", 
+            "title": "Specific microRNAs modulate embryonic stem cell-derived neurogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Krichevsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Sonntag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Isacson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Kosik"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "During neurogenesis, Neurogenin 1 activates the microRNA miR-9, which directly targets the Jak-Stat pathway to inhibit astrogliogenesis.", 
+    "related-articles": [], 
+    "elocation-id": "e06885", 
+    "publish": "1", 
+    "article-version-id": "06885.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "neurogenin", 
+            "neurogenesis", 
+            "microRNA-9", 
+            "astrogliogenesis", 
+            "Jak", 
+            "Stat"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.06885", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000025", 
+                "award-id": "R01MH084095", 
+                "institution": "National Institute of Mental Health (NIMH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "award-id": "2012CB966303, 2014CB964602", 
+                "institution": "Basic Research Program of China"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000874", 
+                "award-id": "19509", 
+                "institution": "Brain and Behavior Research Foundation", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Stem Cell Translational Research Center", 
+                "email": null, 
+                "city": "Shanghai", 
+                "institution": "Tongji University School of Medicine", 
+                "country": "China"
+            }, 
+            "aff1": {
+                "dept": "Department of Psychiatry and Behavioral Sciences and Intellectual Development and Disabilities Research Center", 
+                "email": null, 
+                "city": "Los Angeles", 
+                "institution": "University of California, Los Angeles", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {
+            "equal-contrib": "These authors contributed equally to this work"
+        }, 
+        "contribution": {
+            "con1": "JZ, Final approval of the version to be published, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con2": "QL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "KJK, Final approval of the version to be published, Acquisition of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con4": "FDD, Final approval of the version to be published, Acquisition of data, Analysis and interpretation of data, Contributed unpublished essential data or reagents", 
+            "con5": "JK, Final approval of the version to be published, Acquisition of data, Analysis and interpretation of data, Contributed unpublished essential data or reagents", 
+            "con6": "FH, Final approval of the version to be published, Acquisition of data, Analysis and interpretation of data, Contributed unpublished essential data or reagents", 
+            "con7": "YS, Final approval of the version to be published, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "qlin@mednet.ucla.edu", 
+            "cor2": "ysun@mednet.ucla.edu"
+        }
+    }, 
+    "path": "content/4/e06885", 
+    "fragments": [
+        {
+            "path": "content/4/e06885/abstract-1", 
+            "doi": "10.7554/eLife.06885.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e06885/abstract-2", 
+            "doi": "10.7554/eLife.06885.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e06885/F1", 
+            "doi": "10.7554/eLife.06885.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e06885/F2", 
+            "fragments": [
+                {
+                    "path": "content/4/e06885/F2/F3", 
+                    "doi": "10.7554/eLife.06885.005", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.06885.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e06885/F4", 
+            "fragments": [
+                {
+                    "path": "content/4/e06885/F4/F5", 
+                    "doi": "10.7554/eLife.06885.007", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e06885/F4/F6", 
+                    "doi": "10.7554/eLife.06885.008", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.06885.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e06885/1", 
+            "doi": "10.7554/eLife.06885.009", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Barres", 
+                    "given-names": "Ben", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Stanford School of Medicine"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e06885/2", 
+            "doi": "10.7554/eLife.06885.010", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.06885", 
+    "categories": {
+        "heading": [
+            "Developmental biology and stem cells", 
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Short report"
+        ]
+    }
+}
