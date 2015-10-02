@@ -5,9 +5,9 @@
     "contributors": [
         {
             "type": "author", 
-            "given-names": "Dale", 
-            "surname": "Cowley", 
-            "id": "author-32799", 
+            "given-names": "Israr", 
+            "surname": "Khan", 
+            "id": "author-32801", 
             "references": {
                 "affiliation": [
                     "aff1"
@@ -22,12 +22,12 @@
         }, 
         {
             "type": "author", 
-            "given-names": "Kumar", 
-            "surname": "Pandya", 
-            "id": "author-32800", 
+            "given-names": "John", 
+            "surname": "Kerwin", 
+            "id": "author-32802", 
             "references": {
                 "affiliation": [
-                    "aff1"
+                    "aff2"
                 ], 
                 "contribution": [
                     "con2"
@@ -39,26 +39,26 @@
         }, 
         {
             "type": "author", 
-            "given-names": "Israr", 
-            "surname": "Khan", 
-            "id": "author-32801", 
+            "given-names": "Kate", 
+            "surname": "Owen", 
+            "id": "author-29160", 
             "references": {
                 "affiliation": [
-                    "aff2"
+                    "aff3"
                 ], 
                 "contribution": [
                     "con3"
                 ], 
                 "competing-interest": [
-                    "conf3"
+                    "conf4"
                 ]
             }
         }, 
         {
             "type": "author", 
-            "given-names": "John", 
-            "surname": "Kerwin", 
-            "id": "author-32802", 
+            "given-names": "Erin", 
+            "surname": "Griner", 
+            "id": "author-16421", 
             "references": {
                 "affiliation": [
                     "aff3"
@@ -72,49 +72,15 @@
             }
         }, 
         {
-            "type": "author", 
-            "given-names": "Kate", 
-            "surname": "Owen", 
-            "id": "author-29160", 
-            "references": {
-                "affiliation": [
-                    "aff4"
-                ], 
-                "contribution": [
-                    "con5"
-                ], 
-                "competing-interest": [
-                    "conf6"
-                ]
-            }
-        }, 
-        {
-            "type": "author", 
-            "given-names": "Erin", 
-            "surname": "Griner", 
-            "id": "author-16421", 
-            "references": {
-                "affiliation": [
-                    "aff4"
-                ], 
-                "contribution": [
-                    "con6"
-                ], 
-                "competing-interest": [
-                    "conf6"
-                ]
-            }
-        }, 
-        {
             "corresp": "yes", 
             "type": "author", 
             "group-author-key": "group-author-id1", 
             "references": {
                 "contribution": [
-                    "con7"
+                    "con5"
                 ], 
                 "competing-interest": [
-                    "conf5"
+                    "conf3"
                 ], 
                 "funding": [
                     "par-1"
@@ -2259,12 +2225,10 @@
     "referenced": {
         "present-address": {}, 
         "competing-interest": {
-            "conf3": "IK: Alamo Laboratories Inc. is a Science Exchange associated laboratory.", 
-            "conf2": "KP: TransViragen Inc. is a Science Exchange associated laboratory.", 
-            "conf1": "DC: TransViragen Inc. is a Science Exchange associated laboratory.", 
-            "conf6": "The other authors declare that no competing interests exist.", 
-            "conf5": "RP:CB: EI, FT, JL, and NP are employed and holds shares in Science Exchange Inc.", 
-            "conf4": "JK: Biotechnology Research and Education Program, University of Maryland is a Science Exchange associated laboratory."
+            "conf3": "RP:CB: EI, FT, JL, and NP are employed and holds shares in Science Exchange Inc.", 
+            "conf2": "JK: Biotechnology Research and Education Program, University of Maryland is a Science Exchange associated laboratory.", 
+            "conf1": "IK: Alamo Laboratories Inc. is a Science Exchange associated laboratory.", 
+            "conf4": "The other authors declare that no competing interests exist."
         }, 
         "funding": {
             "par-1": {
@@ -2274,44 +2238,35 @@
         "related-object": {}, 
         "foot-note": {}, 
         "affiliation": {
-            "aff4": {
+            "aff3": {
                 "dept": null, 
                 "email": null, 
                 "city": "Charlottesville", 
                 "institution": "University of Virginia", 
                 "country": "Virginia"
             }, 
-            "aff3": {
+            "aff2": {
                 "dept": "Biotechnology Research and Education Program", 
                 "email": null, 
                 "city": "College Park", 
                 "institution": "University of Maryland", 
                 "country": "Maryland"
             }, 
-            "aff2": {
+            "aff1": {
                 "dept": null, 
                 "email": null, 
                 "city": "San Antonio", 
                 "institution": "Alamo Laboratories Inc", 
                 "country": "Texas"
-            }, 
-            "aff1": {
-                "dept": null, 
-                "email": null, 
-                "city": "Chapel Hill", 
-                "institution": "TransViragen Inc", 
-                "country": "North Carolina"
             }
         }, 
         "equal-contrib": {}, 
         "contribution": {
-            "con1": "DC, Drafting or revising the article", 
-            "con2": "KP, Drafting or revising the article", 
-            "con3": "IK, Drafting or revising the article", 
-            "con4": "JK, Drafting or revising the article", 
-            "con5": "KO, Drafting or revising the article", 
-            "con6": "EG, Drafting or revising the article", 
-            "con7": "RP:CB, Conception and design, Drafting or revising the article"
+            "con1": "IK, Drafting or revising the article", 
+            "con2": "JK, Drafting or revising the article", 
+            "con3": "KO, Drafting or revising the article", 
+            "con4": "EG, Drafting or revising the article", 
+            "con5": "RP:CB, Conception and design, Drafting or revising the article"
         }, 
         "email": {
             "cor1": "tim@cos.io"
