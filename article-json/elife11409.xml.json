@@ -1,0 +1,582 @@
+{
+    "status": "VOR", 
+    "article-type": "article-commentary", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Amanda M", 
+            "surname": "Willard ", 
+            "id": "author-43338", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Gittis ", 
+            "corresp": "yes", 
+            "given-names": "Aryn H", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-38231"
+        }
+    ], 
+    "pub-date": "2015-10-09", 
+    "title": "Mapping neural circuits with CLARITY", 
+    "citations": {
+        "bib9": {
+            "source": "Neuroscience", 
+            "doi": "10.1016/j.neuroscience.2014.04.010", 
+            "year": "2014", 
+            "title": "An update on the connections of the ventral mesencephalic dopaminergic complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Yetnikoff", 
+                    "collab": "<surname>Yetnikoff</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HN", 
+                    "surname": "Lavezzi", 
+                    "collab": "<surname>Lavezzi</surname><given-names>HN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Reichard", 
+                    "collab": "<surname>Reichard</surname><given-names>RA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Zahm", 
+                    "collab": "<surname>Zahm</surname><given-names>DS</given-names>"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "eLlife", 
+            "doi": "10.7554/eLife.10032", 
+            "year": "2015", 
+            "title": "Dopamine neurons projecting to the posterior striatum form an anatomically distinct subclass", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Menegas", 
+                    "collab": "<surname>Menegas</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Bergan", 
+                    "collab": "<surname>Bergan</surname><given-names>JF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Ogawa", 
+                    "collab": "<surname>Ogawa</surname><given-names>SK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Isogai", 
+                    "collab": "<surname>Isogai</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Umadevi Venkataraju", 
+                    "collab": "<surname>Umadevi Venkataraju</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Osten", 
+                    "collab": "<surname>Osten</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Uchida", 
+                    "collab": "<surname>Uchida</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Watabe-Uchida", 
+                    "collab": "<surname>Watabe-Uchida</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2015.07.015", 
+            "year": "2015", 
+            "title": "Circuit architecture of VTA dopamine neurons revealed by systematic input-output mapping", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Beier", 
+                    "collab": "<surname>Beier</surname><given-names>KT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Steinberg", 
+                    "collab": "<surname>Steinberg</surname><given-names>EE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "DeLoach", 
+                    "collab": "<surname>DeLoach</surname><given-names>KE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Xie", 
+                    "collab": "<surname>Xie</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Miyamichi", 
+                    "collab": "<surname>Miyamichi</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Schwarz", 
+                    "collab": "<surname>Schwarz</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XJ", 
+                    "surname": "Gao", 
+                    "collab": "<surname>Gao</surname><given-names>XJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Kremer", 
+                    "collab": "<surname>Kremer</surname><given-names>EJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Malenka", 
+                    "collab": "<surname>Malenka</surname><given-names>RC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Luo", 
+                    "collab": "<surname>Luo</surname><given-names>L</given-names>"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "New England Journal of Medicine", 
+            "doi": "10.1056/NEJM198804073181402", 
+            "year": "1988", 
+            "title": "Uneven pattern of dopamine loss in the striatum of patients with idiopathic Parkinson's disease. Pathophysiologic and clinical implications", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Kish", 
+                    "collab": "<surname>Kish</surname><given-names>SJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shannak", 
+                    "collab": "<surname>Shannak</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Hornykiewicz", 
+                    "collab": "<surname>Hornykiewicz</surname><given-names>O</given-names>"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12107", 
+            "year": "2013", 
+            "title": "Structural and molecular interrogation of intact biological systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Chung", 
+                    "collab": "<surname>Chung</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wallace", 
+                    "collab": "<surname>Wallace</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Kim", 
+                    "collab": "<surname>Kim</surname><given-names>SY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kalyanasundaram", 
+                    "collab": "<surname>Kalyanasundaram</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Andalman", 
+                    "collab": "<surname>Andalman</surname><given-names>AS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Davidson", 
+                    "collab": "<surname>Davidson</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Mirzabekov", 
+                    "collab": "<surname>Mirzabekov</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Zalocusky", 
+                    "collab": "<surname>Zalocusky</surname><given-names>KA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mattis", 
+                    "collab": "<surname>Mattis</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Denisin", 
+                    "collab": "<surname>Denisin</surname><given-names>AK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Pak", 
+                    "collab": "<surname>Pak</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Bernstein", 
+                    "collab": "<surname>Bernstein</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ramakrishnan", 
+                    "collab": "<surname>Ramakrishnan</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Grosenick", 
+                    "collab": "<surname>Grosenick</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Gradinaru", 
+                    "collab": "<surname>Gradinaru</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Deisseroth", 
+                    "collab": "<surname>Deisseroth</surname><given-names>K</given-names>"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2011.03.025", 
+            "year": "2011", 
+            "title": "Projection-specific modulation of dopamine neuron synapses by aversive and rewarding stimuli", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lammel", 
+                    "collab": "<surname>Lammel</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DI", 
+                    "surname": "Ion", 
+                    "collab": "<surname>Ion</surname><given-names>DI</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Roeper", 
+                    "collab": "<surname>Roeper</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Malenka", 
+                    "collab": "<surname>Malenka</surname><given-names>RC</given-names>"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2008.01.022", 
+            "year": "2008", 
+            "title": "Unique properties of mesoprefrontal neurons within a dual mesocorticolimbic dopamine system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lammel", 
+                    "collab": "<surname>Lammel</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hetzel", 
+                    "collab": "<surname>Hetzel</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Hackel", 
+                    "collab": "<surname>Hackel</surname><given-names>O</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Jones", 
+                    "collab": "<surname>Jones</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Liss", 
+                    "collab": "<surname>Liss</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Roeper", 
+                    "collab": "<surname>Roeper</surname><given-names>J</given-names>"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.1526-08.2008", 
+            "year": "2008", 
+            "title": "Midbrain dopamine neurons: projection target determines action potential duration and dopamine D(2) receptor inhibition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EB", 
+                    "surname": "Margolis", 
+                    "collab": "<surname>Margolis</surname><given-names>EB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Mitchell", 
+                    "collab": "<surname>Mitchell</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ishikawa", 
+                    "collab": "<surname>Ishikawa</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GO", 
+                    "surname": "Hjelmstad", 
+                    "collab": "<surname>Hjelmstad</surname><given-names>GO</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "Fields", 
+                    "collab": "<surname>Fields</surname><given-names>HL</given-names>"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2015.07.014", 
+            "year": "2015", 
+            "title": "Intact-brain analyses reveal distinct information carried by SNc dopamine subcircuits", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Lerner", 
+                    "collab": "<surname>Lerner</surname><given-names>TN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Shilyansky", 
+                    "collab": "<surname>Shilyansky</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Davidson", 
+                    "collab": "<surname>Davidson</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Evans", 
+                    "collab": "<surname>Evans</surname><given-names>KE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Beier", 
+                    "collab": "<surname>Beier</surname><given-names>KT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Zalocusky", 
+                    "collab": "<surname>Zalocusky</surname><given-names>KA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Crow", 
+                    "collab": "<surname>Crow</surname><given-names>AK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Malenka", 
+                    "collab": "<surname>Malenka</surname><given-names>RC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Luo", 
+                    "collab": "<surname>Luo</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tomer", 
+                    "collab": "<surname>Tomer</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Deisseroth", 
+                    "collab": "<surname>Deisseroth</surname><given-names>K</given-names>"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "", 
+    "related-articles": [
+        {
+            "href": "10.7554/eLife.10032", 
+            "type": "commentary-article"
+        }
+    ], 
+    "elocation-id": "e11409", 
+    "publish": "1", 
+    "article-version-id": "11409.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "dopamine", 
+            "rabies virus", 
+            "striatum", 
+            "anatomy", 
+            "input", 
+            "monosynaptic"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.11409", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {}, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Biological Sciences and the Center for the Neural Basis of Cognition", 
+                "email": "agittis@cmu.edu", 
+                "city": "Pittsburgh", 
+                "institution": "Carnegie Mellon University", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Biological Sciences and the Center for the Neural Basis of Cognition", 
+                "email": null, 
+                "city": "Pittsburgh", 
+                "institution": "Carnegie Mellon University", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {}, 
+        "email": {}
+    }, 
+    "path": "content/4/e11409", 
+    "fragments": [], 
+    "article-id": "10.7554/eLife.11409", 
+    "categories": {
+        "sub-display-channel": [
+            "Dopamine system"
+        ], 
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Insight"
+        ]
+    }
+}

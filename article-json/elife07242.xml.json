@@ -1,0 +1,2884 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Shuang", 
+            "surname": "Li", 
+            "id": "author-30168", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Bopanna I", 
+            "surname": "Kalappa", 
+            "id": "author-37423", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Tzounopoulos", 
+            "corresp": "yes", 
+            "given-names": "Thanos", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-19554"
+        }, 
+        {
+            "surname": "Westbrook", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Vollum Institute"
+                }
+            ], 
+            "given-names": "Gary L", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1202"
+        }
+    ], 
+    "pub-date": "2015-08-27", 
+    "title": "Noise-induced plasticity of KCNQ2/3 and HCN channels underlies vulnerability and resilience to tinnitus", 
+    "citations": {
+        "bib53": {
+            "source": "The Neuroscientist", 
+            "doi": "10.1177/1073858409341085", 
+            "year": "2010", 
+            "title": "Homeostatic regulation of neuronal excitability by K(+) channels in normal and diseased brains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Misonou", 
+                    "collab": "<surname>Misonou</surname><given-names>H</given-names>"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.1079-11.2011", 
+            "year": "2011", 
+            "title": "Dynamic interaction of Ih and IK-LVA during trains of synaptic potentials in principal neurons of the medial superior olive", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Khurana", 
+                    "collab": "<surname>Khurana</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Remme", 
+                    "collab": "<surname>Remme</surname><given-names>MW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rinzel", 
+                    "collab": "<surname>Rinzel</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NL", 
+                    "surname": "Golding", 
+                    "collab": "<surname>Golding</surname><given-names>NL</given-names>"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1100223108", 
+            "year": "2011", 
+            "title": "Mice with behavioral evidence of tinnitus exhibit dorsal cochlear nucleus hyperactivity because of decreased GABAergic inhibition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Middleton", 
+                    "collab": "<surname>Middleton</surname><given-names>JW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kiritani", 
+                    "collab": "<surname>Kiritani</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Pedersen", 
+                    "collab": "<surname>Pedersen</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Turner", 
+                    "collab": "<surname>Turner</surname><given-names>JG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Shepherd", 
+                    "collab": "<surname>Shepherd</surname><given-names>GM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tzounopoulos", 
+                    "collab": "<surname>Tzounopoulos</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Science", 
+            "doi": "10.1126/science.1249240", 
+            "year": "2014", 
+            "title": "Enhancing depression mechanisms in midbrain dopamine neurons achieves homeostatic resilience", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Friedman", 
+                    "collab": "<surname>Friedman</surname><given-names>AK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Walsh", 
+                    "collab": "<surname>Walsh</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Juarez", 
+                    "collab": "<surname>Juarez</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Ku", 
+                    "collab": "<surname>Ku</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chaudhury", 
+                    "collab": "<surname>Chaudhury</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Li", 
+                    "collab": "<surname>Li</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Dietz", 
+                    "collab": "<surname>Dietz</surname><given-names>DM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Pan", 
+                    "collab": "<surname>Pan</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VF", 
+                    "surname": "Vialou", 
+                    "collab": "<surname>Vialou</surname><given-names>VF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Neve", 
+                    "collab": "<surname>Neve</surname><given-names>RL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Yue", 
+                    "collab": "<surname>Yue</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Han", 
+                    "collab": "<surname>Han</surname><given-names>MH</given-names>"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.00164.2013", 
+            "year": "2013", 
+            "title": "Noise-induced cochlear neuropathy is selective for fibers with low spontaneous rates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Furman", 
+                    "collab": "<surname>Furman</surname><given-names>AC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Kujawa", 
+                    "collab": "<surname>Kujawa</surname><given-names>SG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Liberman", 
+                    "collab": "<surname>Liberman</surname><given-names>MC</given-names>"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.2008.167007", 
+            "year": "2009", 
+            "title": "Activity-dependent depression of the spike after-depolarization generates long-lasting intrinsic plasticity in hippocampal CA3 pyramidal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>JT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Randall", 
+                    "collab": "<surname>Randall</surname><given-names>AD</given-names>"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "British Journal of Pharmacology", 
+            "doi": "10.1111/j.1476-5381.2009.00111.x", 
+            "year": "2009", 
+            "title": "Neural KCNQ (Kv7) channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>DA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Passmore", 
+                    "collab": "<surname>Passmore</surname><given-names>GM</given-names>"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/9165", 
+            "year": "1999", 
+            "title": "Plasticity in the intrinsic excitability of cortical pyramidal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Desai", 
+                    "collab": "<surname>Desai</surname><given-names>NS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Rutherford", 
+                    "collab": "<surname>Rutherford</surname><given-names>LC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Turrigiano", 
+                    "collab": "<surname>Turrigiano</surname><given-names>GG</given-names>"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.5297-11.2012", 
+            "year": "2012", 
+            "title": "Ca(2)(+)/cAMP-sensitive covariation of I(A) and I(H) voltage dependences tunes rebound firing in dopaminergic neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Amendola", 
+                    "collab": "<surname>Amendola</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Woodhouse", 
+                    "collab": "<surname>Woodhouse</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Martin-Eauclaire", 
+                    "collab": "<surname>Martin-Eauclaire</surname><given-names>MF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Goaillard", 
+                    "collab": "<surname>Goaillard</surname><given-names>JM</given-names>"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Physiological Reviews", 
+            "doi": "10.1152/physrev.00029.2008", 
+            "year": "2009", 
+            "title": "Hyperpolarization-activated cation channels: from genes to function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Biel", 
+                    "collab": "<surname>Biel</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wahl-Schott", 
+                    "collab": "<surname>Wahl-Schott</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Michalakis", 
+                    "collab": "<surname>Michalakis</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zong", 
+                    "collab": "<surname>Zong</surname><given-names>X</given-names>"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Journal of the Association for Research in Otolaryngology", 
+            "doi": "10.1007/s101620010030", 
+            "year": "2001", 
+            "title": "Assessing tinnitus and prospective tinnitus therapeutics using a psychophysical animal model", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Bauer", 
+                    "collab": "<surname>Bauer</surname><given-names>CA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Ear and Hearing", 
+            "doi": "10.1097/AUD.0000000000000156", 
+            "year": "2015", 
+            "title": "The gap detection test: can it be used to diagnose tinnitus?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Boyen", 
+                    "collab": "<surname>Boyen</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Baskent", 
+                    "collab": "<surname>Baskent</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "van Dijk", 
+                    "collab": "<surname>van Dijk</surname><given-names>P</given-names>"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Science", 
+            "doi": "10.1126/science.279.5349.403", 
+            "year": "1998", 
+            "title": "A potassium channel mutation in neonatal human epilepsy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Biervert", 
+                    "collab": "<surname>Biervert</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Schroeder", 
+                    "collab": "<surname>Schroeder</surname><given-names>BC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kubisch", 
+                    "collab": "<surname>Kubisch</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "Berkovic", 
+                    "collab": "<surname>Berkovic</surname><given-names>SF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Propping", 
+                    "collab": "<surname>Propping</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Jentsch", 
+                    "collab": "<surname>Jentsch</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OK", 
+                    "surname": "Steinlein", 
+                    "collab": "<surname>Steinlein</surname><given-names>OK</given-names>"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Nature", 
+            "doi": "10.1038/283673a0", 
+            "year": "1980", 
+            "title": "Muscarinic suppression of a novel voltage-sensitive K+ current in a vertebrate neurone", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>DA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Adams", 
+                    "collab": "<surname>Adams</surname><given-names>PR</given-names>"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.3520-07.2007", 
+            "year": "2007", 
+            "title": "Plasticity of intrinsic excitability during long-term depression is mediated through mGluR-dependent changes in I(h) in hippocampal CA1 pyramidal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Brager", 
+                    "collab": "<surname>Brager</surname><given-names>DH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Johnston", 
+                    "collab": "<surname>Johnston</surname><given-names>D</given-names>"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Epilepsia", 
+            "doi": "10.1111/j.1528-1167.2011.03365.x", 
+            "year": "2012", 
+            "title": "The mechanism of action of retigabine (ezogabine), a first-in-class K+ channel opener for the treatment of epilepsy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Gunthorpe", 
+                    "collab": "<surname>Gunthorpe</surname><given-names>MJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Large", 
+                    "collab": "<surname>Large</surname><given-names>CH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sankar", 
+                    "collab": "<surname>Sankar</surname><given-names>R</given-names>"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.00184.2013", 
+            "year": "2014", 
+            "title": "Is noise-induced cochlear neuropathy key to the generation of hyperacusis or tinnitus?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Hickox", 
+                    "collab": "<surname>Hickox</surname><given-names>AE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Liberman", 
+                    "collab": "<surname>Liberman</surname><given-names>MC</given-names>"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "The American Journal of Medicine", 
+            "doi": "10.1016/j.amjmed.2010.02.015", 
+            "year": "2010", 
+            "title": "Prevalence and characteristics of tinnitus among US adults", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shargorodsky", 
+                    "collab": "<surname>Shargorodsky</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GC", 
+                    "surname": "Curhan", 
+                    "collab": "<surname>Curhan</surname><given-names>GC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Farwell", 
+                    "collab": "<surname>Farwell</surname><given-names>WR</given-names>"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/j.heares.2015.04.007", 
+            "year": "2015", 
+            "title": "Potassium ion channel openers, Maxipost and Retigabine, protect against peripheral salicylate ototoxicity in rats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Sheppard", 
+                    "collab": "<surname>Sheppard</surname><given-names>AM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>GD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Salvi", 
+                    "collab": "<surname>Salvi</surname><given-names>R</given-names>"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn1352", 
+            "year": "2004", 
+            "title": "Similar network activity from disparate circuit parameters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Prinz", 
+                    "collab": "<surname>Prinz</surname><given-names>AA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bucher", 
+                    "collab": "<surname>Bucher</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Marder", 
+                    "collab": "<surname>Marder</surname><given-names>E</given-names>"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.02370", 
+            "year": "2014", 
+            "title": "Criticality and degeneracy in injury-induced changes in primary afferent excitability and the implications for neuropathic pain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ratte", 
+                    "collab": "<surname>Ratte</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhu", 
+                    "collab": "<surname>Zhu</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KY", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>KY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Prescott", 
+                    "collab": "<surname>Prescott</surname><given-names>SA</given-names>"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4028-10.2010", 
+            "year": "2010", 
+            "title": "Ringing ears: the neuroscience of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LE", 
+                    "surname": "Roberts", 
+                    "collab": "<surname>Roberts</surname><given-names>LE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Eggermont", 
+                    "collab": "<surname>Eggermont</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Caspary", 
+                    "collab": "<surname>Caspary</surname><given-names>DM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Shore", 
+                    "collab": "<surname>Shore</surname><given-names>SE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Melcher", 
+                    "collab": "<surname>Melcher</surname><given-names>JR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Kaltenbach", 
+                    "collab": "<surname>Kaltenbach</surname><given-names>JA</given-names>"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Annual Review of Physiology", 
+            "doi": "10.1146/annurev.physiol.65.092101.142734", 
+            "year": "2003", 
+            "title": "Hyperpolarization-activated cation currents: from molecules to physiological function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Robinson", 
+                    "collab": "<surname>Robinson</surname><given-names>RB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Siegelbaum", 
+                    "collab": "<surname>Siegelbaum</surname><given-names>SA</given-names>"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Science", 
+            "doi": "10.1126/science.1206243", 
+            "year": "2011", 
+            "title": "HCN2 ion channels play a central role in inflammatory and neuropathic pain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EC", 
+                    "surname": "Emery", 
+                    "collab": "<surname>Emery</surname><given-names>EC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GT", 
+                    "surname": "Young", 
+                    "collab": "<surname>Young</surname><given-names>GT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Berrocoso", 
+                    "collab": "<surname>Berrocoso</surname><given-names>EM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "McNaughton", 
+                    "collab": "<surname>McNaughton</surname><given-names>PA</given-names>"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09656", 
+            "year": "2011", 
+            "title": "Reversing pathological neural activity using targeted plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ND", 
+                    "surname": "Engineer", 
+                    "collab": "<surname>Engineer</surname><given-names>ND</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Riley", 
+                    "collab": "<surname>Riley</surname><given-names>JR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Seale", 
+                    "collab": "<surname>Seale</surname><given-names>JD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Vrana", 
+                    "collab": "<surname>Vrana</surname><given-names>WA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Shetake", 
+                    "collab": "<surname>Shetake</surname><given-names>JA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Sudanagunta", 
+                    "collab": "<surname>Sudanagunta</surname><given-names>SP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Borland", 
+                    "collab": "<surname>Borland</surname><given-names>MS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Kilgard", 
+                    "collab": "<surname>Kilgard</surname><given-names>MP</given-names>"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn1568", 
+            "year": "2005", 
+            "title": "Activity-dependent decrease of excitability in rat hippocampal neurons through increases in I(h)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Fan", 
+                    "collab": "<surname>Fan</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fricker", 
+                    "collab": "<surname>Fricker</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Brager", 
+                    "collab": "<surname>Brager</surname><given-names>DH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Lu", 
+                    "collab": "<surname>Lu</surname><given-names>HC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Chitwood", 
+                    "collab": "<surname>Chitwood</surname><given-names>RA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Johnston", 
+                    "collab": "<surname>Johnston</surname><given-names>D</given-names>"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/j.heares.2012.05.011", 
+            "year": "2013", 
+            "title": "Gap detection deficits in humans with tinnitus as assessed with the acoustic startle paradigm: does tinnitus fill in the gap?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Fournier", 
+                    "collab": "<surname>Fournier</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hebert", 
+                    "collab": "<surname>Hebert</surname><given-names>S</given-names>"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "The Journal of Neuroscience", 
+            "year": "2001", 
+            "title": "Activation of expressed KCNQ potassium currents and native neuronal M-type potassium currents by the anti-convulsant drug retigabine", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Tatulian", 
+                    "collab": "<surname>Tatulian</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Delmas", 
+                    "collab": "<surname>Delmas</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FC", 
+                    "surname": "Abogadie", 
+                    "collab": "<surname>Abogadie</surname><given-names>FC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>DA</given-names>"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Behavioral Neuroscience", 
+            "doi": "10.1037/0735-7044.120.1.188", 
+            "year": "2006", 
+            "title": "Gap detection deficits in rats with tinnitus: a potential novel screening tool", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Turner", 
+                    "collab": "<surname>Turner</surname><given-names>JG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Bauer", 
+                    "collab": "<surname>Bauer</surname><given-names>CA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Parrish", 
+                    "collab": "<surname>Parrish</surname><given-names>JL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Myers", 
+                    "collab": "<surname>Myers</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Hughes", 
+                    "collab": "<surname>Hughes</surname><given-names>LF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Caspary", 
+                    "collab": "<surname>Caspary</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Frontiers in Neurology", 
+            "doi": "10.3389/fneur.2015.00088", 
+            "year": "2015", 
+            "title": "Gap-prepulse inhibition of the acoustic startle reflex (GPIAS) for tinnitus assessment: current status and future directions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Galazyuk", 
+                    "collab": "<surname>Galazyuk</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hebert", 
+                    "collab": "<surname>Hebert</surname><given-names>S</given-names>"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.02615", 
+            "year": "2014", 
+            "title": "The pros and cons of degeneracy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Goaillard", 
+                    "collab": "<surname>Goaillard</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Dufour", 
+                    "collab": "<surname>Dufour</surname><given-names>MA</given-names>"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.2008.150656", 
+            "year": "2008", 
+            "title": "Nervous system KV7 disorders: breakdown of a subthreshold brake", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Maljevic", 
+                    "collab": "<surname>Maljevic</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TV", 
+                    "surname": "Wuttke", 
+                    "collab": "<surname>Wuttke</surname><given-names>TV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lerche", 
+                    "collab": "<surname>Lerche</surname><given-names>H</given-names>"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Brain Research", 
+            "doi": "10.1016/j.brainres.2013.05.025", 
+            "year": "2013", 
+            "title": "Suppression of noise-induced hyperactivity in the dorsal cochlear nucleus following application of the cholinergic agonist, carbachol", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Manzoor", 
+                    "collab": "<surname>Manzoor</surname><given-names>NF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Kaltenbach", 
+                    "collab": "<surname>Kaltenbach</surname><given-names>JA</given-names>"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Molecular Pharmacology", 
+            "doi": "10.1124/mol.108.049825", 
+            "year": "2008", 
+            "title": "Cardiovascular KCNQ (Kv7) potassium channels: physiological regulators and new targets for therapeutic intervention", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Mackie", 
+                    "collab": "<surname>Mackie</surname><given-names>AR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Byron", 
+                    "collab": "<surname>Byron</surname><given-names>KL</given-names>"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(02)01104-2", 
+            "year": "2003", 
+            "title": "Activity-independent homeostasis in rhythmically active neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "MacLean", 
+                    "collab": "<surname>MacLean</surname><given-names>JN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Johnson", 
+                    "collab": "<surname>Johnson</surname><given-names>BR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Harris-Warrick", 
+                    "collab": "<surname>Harris-Warrick</surname><given-names>RM</given-names>"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Springerplus", 
+            "doi": "10.1186/2193-1801-3-542", 
+            "year": "2014", 
+            "title": "Age effects on tinnitus and hearing loss in CBA/CaJ mice following sound exposure", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Longenecker", 
+                    "collab": "<surname>Longenecker</surname><given-names>RJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Chonko", 
+                    "collab": "<surname>Chonko</surname><given-names>KT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Maricich", 
+                    "collab": "<surname>Maricich</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Galazyuk", 
+                    "collab": "<surname>Galazyuk</surname><given-names>AV</given-names>"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Journal of the Association for Research in Otolaryngology", 
+            "doi": "10.1007/s10162-011-0276-1", 
+            "year": "2011", 
+            "title": "Development of tinnitus in CBA/CaJ mice following sound exposure", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Longenecker", 
+                    "collab": "<surname>Longenecker</surname><given-names>RJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Galazyuk", 
+                    "collab": "<surname>Galazyuk</surname><given-names>AV</given-names>"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1302770110", 
+            "year": "2013", 
+            "title": "Pathogenic plasticity of Kv7.2/3 channel activity is essential for the induction of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Li", 
+                    "collab": "<surname>Li</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Choi", 
+                    "collab": "<surname>Choi</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tzounopoulos", 
+                    "collab": "<surname>Tzounopoulos</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/S0378-5955(04)00019-X", 
+            "year": "2004", 
+            "title": "A novel behavioral paradigm for assessing tinnitus using schedule-induced polydipsia avoidance conditioning (SIP-AC)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lobarinas", 
+                    "collab": "<surname>Lobarinas</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Sun", 
+                    "collab": "<surname>Sun</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cushing", 
+                    "collab": "<surname>Cushing</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Salvi", 
+                    "collab": "<surname>Salvi</surname><given-names>R</given-names>"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.00660.2011", 
+            "year": "2012", 
+            "title": "Diverse levels of an inwardly rectifying potassium conductance generate heterogeneous neuronal behavior in a population of dorsal cochlear nucleus pyramidal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Leao", 
+                    "collab": "<surname>Leao</surname><given-names>RM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Li", 
+                    "collab": "<surname>Li</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Doiron", 
+                    "collab": "<surname>Doiron</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tzounopoulos", 
+                    "collab": "<surname>Tzounopoulos</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Science", 
+            "doi": "10.1126/science.8456317", 
+            "year": "1993", 
+            "title": "Activity-dependent regulation of conductances in model neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "LeMasson", 
+                    "collab": "<surname>LeMasson</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Marder", 
+                    "collab": "<surname>Marder</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Abbott", 
+                    "collab": "<surname>Abbott</surname><given-names>LF</given-names>"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Journal of the Association for Research in Otolaryngology", 
+            "doi": "10.1007/s10162-014-0488-2", 
+            "year": "2014", 
+            "title": "Effects of unilateral acoustic trauma on tinnitus-related spontaneous activity in the inferior colliculus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Ropp", 
+                    "collab": "<surname>Ropp</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Tiedemann", 
+                    "collab": "<surname>Tiedemann</surname><given-names>KL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Young", 
+                    "collab": "<surname>Young</surname><given-names>ED</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "May", 
+                    "collab": "<surname>May</surname><given-names>BJ</given-names>"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.5054-14.2015", 
+            "year": "2015", 
+            "title": "Enhanced GABAA-mediated tonic inhibition in auditory thalamus of rats with behavioral evidence of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Sametsky", 
+                    "collab": "<surname>Sametsky</surname><given-names>EA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Turner", 
+                    "collab": "<surname>Turner</surname><given-names>JG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Larsen", 
+                    "collab": "<surname>Larsen</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ling", 
+                    "collab": "<surname>Ling</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Caspary", 
+                    "collab": "<surname>Caspary</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib80": {
+            "source": "Neuroscience Letters", 
+            "doi": "10.1016/S0304-3940(98)00482-0", 
+            "year": "1998", 
+            "title": "Increases in spontaneous activity in the dorsal cochlear nucleus of the rat following exposure to high-intensity sound. [Erratum appears in Neurosci Lett 1998 Aug 14;252(2):668]", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>JS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Kaltenbach", 
+                    "collab": "<surname>Kaltenbach</surname><given-names>JA</given-names>"
+                }
+            ]
+        }, 
+        "bib81": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.5303-10.2011", 
+            "year": "2011", 
+            "title": "Physiological activation of cholinergic inputs controls associative synaptic plasticity via modulation of endocannabinoid signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhao", 
+                    "collab": "<surname>Zhao</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tzounopoulos", 
+                    "collab": "<surname>Tzounopoulos</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Annual Review of Physiology", 
+            "doi": "10.1146/annurev.physiol.59.1.483", 
+            "year": "1997", 
+            "title": "Control of M-current", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Marrion", 
+                    "collab": "<surname>Marrion</surname><given-names>NV</given-names>"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2014.04.002", 
+            "year": "2014", 
+            "title": "Cell types, network homeostasis, and pathological compensation from a biologically plausible ion channel expression model", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "O'Leary", 
+                    "collab": "<surname>O'Leary</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>AH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Franci", 
+                    "collab": "<surname>Franci</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Marder", 
+                    "collab": "<surname>Marder</surname><given-names>E</given-names>"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1309966110", 
+            "year": "2013", 
+            "title": "Correlations in ion channel expression emerge from homeostatic tuning rules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "O'Leary", 
+                    "collab": "<surname>O'Leary</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>AH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Caplan", 
+                    "collab": "<surname>Caplan</surname><given-names>JS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Marder", 
+                    "collab": "<surname>Marder</surname><given-names>E</given-names>"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.2009.181024", 
+            "year": "2010", 
+            "title": "Homeostasis of intrinsic excitability in hippocampal neurones: dynamics and mechanism of the response to chronic depolarization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "O'Leary", 
+                    "collab": "<surname>O'Leary</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "van Rossum", 
+                    "collab": "<surname>van Rossum</surname><given-names>MC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Wyllie", 
+                    "collab": "<surname>Wyllie</surname><given-names>DJ</given-names>"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Nature Reviews. Neuroscience", 
+            "doi": "10.1038/nrn1949", 
+            "year": "2006", 
+            "title": "Variability, compensation and homeostasis in neuron and network function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Marder", 
+                    "collab": "<surname>Marder</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Goaillard", 
+                    "collab": "<surname>Goaillard</surname><given-names>JM</given-names>"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Neuroscience", 
+            "doi": "10.1016/j.neuroscience.2008.01.085", 
+            "year": "2008", 
+            "title": "In the ventral cochlear nucleus Kv1.1 and subunits of HCN1 are colocalized at surfaces of neurons that have low-voltage-activated and hyperpolarization-activated conductances", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Oertel", 
+                    "collab": "<surname>Oertel</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shatadal", 
+                    "collab": "<surname>Shatadal</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XJ", 
+                    "surname": "Cao", 
+                    "collab": "<surname>Cao</surname><given-names>XJ</given-names>"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Journal of Neuroscience", 
+            "year": "2002", 
+            "title": "Elevated fusiform cell activity in the dorsal cochlear nucleus of chinchillas with psychophysical evidence of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Bauer", 
+                    "collab": "<surname>Bauer</surname><given-names>CA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Caspary", 
+                    "collab": "<surname>Caspary</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/j.heares.2004.12.013", 
+            "year": "2005", 
+            "title": "The effect of dorsal cochlear nucleus ablation on tinnitus in rats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Bauer", 
+                    "collab": "<surname>Bauer</surname><given-names>CA</given-names>"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Noise & Health", 
+            "doi": "10.4103/1463-1741.121232", 
+            "year": "2013", 
+            "title": "Does tinnitus \"fill in\" the silent gaps?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Campolo", 
+                    "collab": "<surname>Campolo</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lobarinas", 
+                    "collab": "<surname>Lobarinas</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Salvi", 
+                    "collab": "<surname>Salvi</surname><given-names>R</given-names>"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Journal of the Association for Research in Otolaryngology", 
+            "doi": "10.1007/s10162-011-0290-3", 
+            "year": "2012", 
+            "title": "Bilateral dorsal cochlear nucleus lesions prevent acoustic-trauma induced tinnitus in an animal model", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Wisner", 
+                    "collab": "<surname>Wisner</surname><given-names>KW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LT", 
+                    "surname": "Sybert", 
+                    "collab": "<surname>Sybert</surname><given-names>LT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Bauer", 
+                    "collab": "<surname>Bauer</surname><given-names>CA</given-names>"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "The Journal of Neuroscience", 
+            "year": "2003", 
+            "title": "Neuronal hyperpolarization-activated pacemaker channels drive neuropathic pain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Chaplan", 
+                    "collab": "<surname>Chaplan</surname><given-names>SR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HQ", 
+                    "surname": "Guo", 
+                    "collab": "<surname>Guo</surname><given-names>HQ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>DH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Luo", 
+                    "collab": "<surname>Luo</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kuei", 
+                    "collab": "<surname>Kuei</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Velumian", 
+                    "collab": "<surname>Velumian</surname><given-names>AA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Butler", 
+                    "collab": "<surname>Butler</surname><given-names>MP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Dubin", 
+                    "collab": "<surname>Dubin</surname><given-names>AE</given-names>"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn.2692", 
+            "year": "2011", 
+            "title": "HCN channelopathy in external globus pallidus neurons in models of Parkinson's disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Chan", 
+                    "collab": "<surname>Chan</surname><given-names>CS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Glajch", 
+                    "collab": "<surname>Glajch</surname><given-names>KE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TS", 
+                    "surname": "Gertler", 
+                    "collab": "<surname>Gertler</surname><given-names>TS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Guzman", 
+                    "collab": "<surname>Guzman</surname><given-names>JN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Mercer", 
+                    "collab": "<surname>Mercer</surname><given-names>JN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Lewis", 
+                    "collab": "<surname>Lewis</surname><given-names>AS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Goldberg", 
+                    "collab": "<surname>Goldberg</surname><given-names>AB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tkatch", 
+                    "collab": "<surname>Tkatch</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Shigemoto", 
+                    "collab": "<surname>Shigemoto</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Fleming", 
+                    "collab": "<surname>Fleming</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Chetkovich", 
+                    "collab": "<surname>Chetkovich</surname><given-names>DM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Osten", 
+                    "collab": "<surname>Osten</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kita", 
+                    "collab": "<surname>Kita</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Surmeier", 
+                    "collab": "<surname>Surmeier</surname><given-names>DJ</given-names>"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Brain", 
+            "doi": "10.1093/brain/awf130", 
+            "year": "2002", 
+            "title": "The neuronal channelopathies", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Kullmann", 
+                    "collab": "<surname>Kullmann</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2845-09.2009", 
+            "year": "2009", 
+            "title": "Adding insult to injury: cochlear nerve degeneration after \"temporary\" noise-induced hearing loss", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Kujawa", 
+                    "collab": "<surname>Kujawa</surname><given-names>SG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Liberman", 
+                    "collab": "<surname>Liberman</surname><given-names>MC</given-names>"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Trends in Neurosciences", 
+            "doi": "10.1016/j.tins.2004.08.010", 
+            "year": "2004", 
+            "title": "The neuroscience of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Eggermont", 
+                    "collab": "<surname>Eggermont</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LE", 
+                    "surname": "Roberts", 
+                    "collab": "<surname>Roberts</surname><given-names>LE</given-names>"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.231499798", 
+            "year": "2001", 
+            "title": "Degeneracy and complexity in biological systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Edelman", 
+                    "collab": "<surname>Edelman</surname><given-names>GM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Gally", 
+                    "collab": "<surname>Gally</surname><given-names>JA</given-names>"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2011.05.025", 
+            "year": "2011", 
+            "title": "Exome sequencing of ion channel genes reveals complex profiles confounding personal risk assessment in epilepsy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Klassen", 
+                    "collab": "<surname>Klassen</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Davis", 
+                    "collab": "<surname>Davis</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Goldman", 
+                    "collab": "<surname>Goldman</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Burgess", 
+                    "collab": "<surname>Burgess</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Wheeler", 
+                    "collab": "<surname>Wheeler</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "McPherson", 
+                    "collab": "<surname>McPherson</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Bourquin", 
+                    "collab": "<surname>Bourquin</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lewis", 
+                    "collab": "<surname>Lewis</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Villasana", 
+                    "collab": "<surname>Villasana</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Morgan", 
+                    "collab": "<surname>Morgan</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Muzny", 
+                    "collab": "<surname>Muzny</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Gibbs", 
+                    "collab": "<surname>Gibbs</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Noebels", 
+                    "collab": "<surname>Noebels</surname><given-names>J</given-names>"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.211431298", 
+            "year": "2001", 
+            "title": "Myokymia and neonatal epilepsy caused by a mutation in the voltage sensor of the KCNQ2 K+ channel", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dedek", 
+                    "collab": "<surname>Dedek</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Kunath", 
+                    "collab": "<surname>Kunath</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kananura", 
+                    "collab": "<surname>Kananura</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Reuner", 
+                    "collab": "<surname>Reuner</surname><given-names>U</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Jentsch", 
+                    "collab": "<surname>Jentsch</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OK", 
+                    "surname": "Steinlein", 
+                    "collab": "<surname>Steinlein</surname><given-names>OK</given-names>"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/j.heares.2006.07.001", 
+            "year": "2007", 
+            "title": "Intense sound-induced plasticity in the dorsal cochlear nucleus of rats: evidence for cholinergic receptor upregulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Kaltenbach", 
+                    "collab": "<surname>Kaltenbach</surname><given-names>JA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>J</given-names>"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.5176-14.2015", 
+            "year": "2015", 
+            "title": "Potent KCNQ2/3-specific channel activator suppresses in vivo epileptic activity and prevents the development of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BI", 
+                    "surname": "Kalappa", 
+                    "collab": "<surname>Kalappa</surname><given-names>BI</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Soh", 
+                    "collab": "<surname>Soh</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Duignan", 
+                    "collab": "<surname>Duignan</surname><given-names>KM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Furuya", 
+                    "collab": "<surname>Furuya</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Edwards", 
+                    "collab": "<surname>Edwards</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Tzingounis", 
+                    "collab": "<surname>Tzingounis</surname><given-names>AV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tzounopoulos", 
+                    "collab": "<surname>Tzounopoulos</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.2014.278572", 
+            "year": "2014", 
+            "title": "Single unit hyperactivity and bursting in the auditory thalamus of awake rats directly correlates with behavioural evidence of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BI", 
+                    "surname": "Kalappa", 
+                    "collab": "<surname>Kalappa</surname><given-names>BI</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Turner", 
+                    "collab": "<surname>Turner</surname><given-names>JG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Caspary", 
+                    "collab": "<surname>Caspary</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/j.heares.2006.02.002", 
+            "year": "2006", 
+            "title": "Effects of intense tone exposure on choline acetyltransferase activity in the hamster cochlear nucleus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Jin", 
+                    "collab": "<surname>Jin</surname><given-names>YM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Godfrey", 
+                    "collab": "<surname>Godfrey</surname><given-names>DA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Kaltenbach", 
+                    "collab": "<surname>Kaltenbach</surname><given-names>JA</given-names>"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "The Journal of Neuroscience: the Official Journal of the Society for Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2788-13.2013", 
+            "year": "2013", 
+            "title": "Stimulus timing-dependent plasticity in dorsal cochlear nucleus is altered in tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Koehler", 
+                    "collab": "<surname>Koehler</surname><given-names>SD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Shore", 
+                    "collab": "<surname>Shore</surname><given-names>SE</given-names>"
+                }
+            ]
+        }, 
+        "bib79": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(03)00125-9", 
+            "year": "2003", 
+            "title": "PIP(2) activates KCNQ channels, and its hydrolysis underlies receptor-mediated inhibition of M currents", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Craciun", 
+                    "collab": "<surname>Craciun</surname><given-names>LC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Mirshahi", 
+                    "collab": "<surname>Mirshahi</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Rohacs", 
+                    "collab": "<surname>Rohacs</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Lopes", 
+                    "collab": "<surname>Lopes</surname><given-names>CM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Jin", 
+                    "collab": "<surname>Jin</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Logothetis", 
+                    "collab": "<surname>Logothetis</surname><given-names>DE</given-names>"
+                }
+            ]
+        }, 
+        "bib78": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2598-12.2012", 
+            "year": "2012", 
+            "title": "Somatosensory projections to cochlear nucleus are upregulated after unilateral deafness", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zeng", 
+                    "collab": "<surname>Zeng</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Yang", 
+                    "collab": "<surname>Yang</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Shreve", 
+                    "collab": "<surname>Shreve</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Bledsoe", 
+                    "collab": "<surname>Bledsoe</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shore", 
+                    "collab": "<surname>Shore</surname><given-names>S</given-names>"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1116981109", 
+            "year": "2012", 
+            "title": "Mechanisms contributing to central excitability changes during hearing loss", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Pilati", 
+                    "collab": "<surname>Pilati</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Ison", 
+                    "collab": "<surname>Ison</surname><given-names>MJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Barker", 
+                    "collab": "<surname>Barker</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mulheran", 
+                    "collab": "<surname>Mulheran</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Large", 
+                    "collab": "<surname>Large</surname><given-names>CH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ID", 
+                    "surname": "Forsythe", 
+                    "collab": "<surname>Forsythe</surname><given-names>ID</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Matthias", 
+                    "collab": "<surname>Matthias</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hamann", 
+                    "collab": "<surname>Hamann</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Annual Review of Physiology", 
+            "doi": "10.1146/annurev.ph.58.030196.001503", 
+            "year": "1996", 
+            "title": "Queer current and pacemaker: the hyperpolarization-activated cation current in neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Pape", 
+                    "collab": "<surname>Pape</surname><given-names>HC</given-names>"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "The European Journal of Neuroscience", 
+            "doi": "10.1111/j.0953-816X.2004.03456.x", 
+            "year": "2004", 
+            "title": "Distribution of HCN1 and HCN2 in rat auditory brainstem nuclei", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Koch", 
+                    "collab": "<surname>Koch</surname><given-names>U</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Braun", 
+                    "collab": "<surname>Braun</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kapfer", 
+                    "collab": "<surname>Kapfer</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Grothe", 
+                    "collab": "<surname>Grothe</surname><given-names>B</given-names>"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Neuroscience", 
+            "doi": "10.1016/j.neuroscience.2009.08.026", 
+            "year": "2009", 
+            "title": "Plasticity at glycinergic synapses in dorsal cochlear nucleus of rats with behavioral evidence of tinnitus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Turner", 
+                    "collab": "<surname>Turner</surname><given-names>JG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ling", 
+                    "collab": "<surname>Ling</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Parrish", 
+                    "collab": "<surname>Parrish</surname><given-names>JL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Hughes", 
+                    "collab": "<surname>Hughes</surname><given-names>LF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Caspary", 
+                    "collab": "<surname>Caspary</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/j.heares.2011.04.004", 
+            "year": "2011", 
+            "title": "Inhibitory neurotransmission in animal models of tinnitus: maladaptive plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Brozoski", 
+                    "collab": "<surname>Brozoski</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Caspary", 
+                    "collab": "<surname>Caspary</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.6538-10.2011", 
+            "year": "2011", 
+            "title": "Hyperactivity in the ventral cochlear nucleus after cochlear trauma", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Vogler", 
+                    "collab": "<surname>Vogler</surname><given-names>DP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Robertson", 
+                    "collab": "<surname>Robertson</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WH", 
+                    "surname": "Mulders", 
+                    "collab": "<surname>Mulders</surname><given-names>WH</given-names>"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn1272", 
+            "year": "2004", 
+            "title": "Cell-specific, spike timing-dependent plasticities in the dorsal cochlear nucleus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tzounopoulos", 
+                    "collab": "<surname>Tzounopoulos</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kim", 
+                    "collab": "<surname>Kim</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Oertel", 
+                    "collab": "<surname>Oertel</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LO", 
+                    "surname": "Trussell", 
+                    "collab": "<surname>Trussell</surname><given-names>LO</given-names>"
+                }
+            ]
+        }, 
+        "bib77": {
+            "source": "Hearing Research", 
+            "doi": "10.1016/j.heares.2012.04.016", 
+            "year": "2012", 
+            "title": "Prelude: noise-induced tinnitus and hearing loss in the military", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yankaskas", 
+                    "collab": "<surname>Yankaskas</surname><given-names>K</given-names>"
+                }
+            ]
+        }, 
+        "bib76": {
+            "source": "Neurology", 
+            "doi": "10.1212/01.wnl.0000275523.95103.36", 
+            "year": "2007", 
+            "title": "Peripheral nerve hyperexcitability due to dominant-negative KCNQ2 mutations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TV", 
+                    "surname": "Wuttke", 
+                    "collab": "<surname>Wuttke</surname><given-names>TV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Jurkat-Rott", 
+                    "collab": "<surname>Jurkat-Rott</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Paulus", 
+                    "collab": "<surname>Paulus</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Garncarek", 
+                    "collab": "<surname>Garncarek</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lehmann-Horn", 
+                    "collab": "<surname>Lehmann-Horn</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lerche", 
+                    "collab": "<surname>Lerche</surname><given-names>H</given-names>"
+                }
+            ]
+        }, 
+        "bib75": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.90346.2008", 
+            "year": "2008", 
+            "title": "Coupling of L-type Ca2+ channels to KV7/KCNQ channels creates a novel, activity-dependent, homeostatic intrinsic plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WW", 
+                    "surname": "Wu", 
+                    "collab": "<surname>Wu</surname><given-names>WW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Chan", 
+                    "collab": "<surname>Chan</surname><given-names>CS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Surmeier", 
+                    "collab": "<surname>Surmeier</surname><given-names>DJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Disterhoft", 
+                    "collab": "<surname>Disterhoft</surname><given-names>JF</given-names>"
+                }
+            ]
+        }, 
+        "bib74": {
+            "source": "Science", 
+            "doi": "10.1126/science.282.5395.1890", 
+            "year": "1998", 
+            "title": "KCNQ2 and KCNQ3 potassium channel subunits: molecular correlates of the M-channel", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>HS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Pan", 
+                    "collab": "<surname>Pan</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Shi", 
+                    "collab": "<surname>Shi</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>BS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Wymore", 
+                    "collab": "<surname>Wymore</surname><given-names>RS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IS", 
+                    "surname": "Cohen", 
+                    "collab": "<surname>Cohen</surname><given-names>IS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Dixon", 
+                    "collab": "<surname>Dixon</surname><given-names>JE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "McKinnon", 
+                    "collab": "<surname>McKinnon</surname><given-names>D</given-names>"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Mice that successfully avoid developing tinnitus despite exposure to excessive noise show spontaneous recovery of KCNQ2/3 potassium channel activity associated with a reduction in HCN channel activity in auditory brainstem neurons.", 
+    "related-articles": [], 
+    "elocation-id": "e07242", 
+    "publish": "1", 
+    "article-version-id": "07242.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "potassium channels", 
+            "HCN channels", 
+            "tinnitus", 
+            "homeostatic plasticity", 
+            "hyperexcitability-related disorders"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.07242", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000055", 
+                "award-id": "DC\u2013DC007905", 
+                "institution": "National Institute on Deafness and Other Communication Disorders (NIDCD)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000005", 
+                "award-id": "W81XWH-14-1-0117", 
+                "institution": "U.S. Department of Defense (DOD)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000005", 
+                "award-id": "PR093405", 
+                "institution": "U.S. Department of Defense (DOD)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Departments of Otolaryngology and Neurobiology", 
+                "email": null, 
+                "city": "Pittsburgh", 
+                "institution": "University of Pittsburgh School of Medicine", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "SL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "TT, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "BIK, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "thanos@pitt.edu"
+        }
+    }, 
+    "path": "content/4/e07242", 
+    "fragments": [
+        {
+            "path": "content/4/e07242/abstract-1", 
+            "doi": "10.7554/eLife.07242.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e07242/abstract-2", 
+            "doi": "10.7554/eLife.07242.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e07242/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e07242/F1/F2", 
+                    "doi": "10.7554/eLife.07242.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07242.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e07242/F3", 
+            "doi": "10.7554/eLife.07242.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e07242/F4", 
+            "doi": "10.7554/eLife.07242.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e07242/F5", 
+            "doi": "10.7554/eLife.07242.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e07242/F6", 
+            "doi": "10.7554/eLife.07242.008", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e07242/F7", 
+            "doi": "10.7554/eLife.07242.009", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e07242/F8", 
+            "fragments": [
+                {
+                    "path": "content/4/e07242/F8/F9", 
+                    "doi": "10.7554/eLife.07242.011", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07242.010", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e07242/F10", 
+            "fragments": [
+                {
+                    "path": "content/4/e07242/F10/F11", 
+                    "doi": "10.7554/eLife.07242.013", 
+                    "type": "fig", 
+                    "title": "Figure 8\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07242.012", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/4/e07242/F12", 
+            "doi": "10.7554/eLife.07242.014", 
+            "type": "fig", 
+            "title": "Figure 9."
+        }, 
+        {
+            "path": "content/4/e07242/DC1", 
+            "doi": "10.7554/eLife.07242.015", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e07242/1", 
+            "doi": "10.7554/eLife.07242.016", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Westbrook", 
+                    "given-names": "Gary L", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Vollum Institute"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e07242/2", 
+            "doi": "10.7554/eLife.07242.017", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.07242", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

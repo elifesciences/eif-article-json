@@ -1,0 +1,3255 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Lizhen", 
+            "surname": "Chen", 
+            "id": "author-34143", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2", 
+                    "par-5"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Marian", 
+            "surname": "Chuang", 
+            "id": "author-34144", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-6"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Thijs", 
+            "surname": "Koorman", 
+            "id": "author-34145", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "surname": "Boxem", 
+            "given-names": "Mike", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0003-3966-4173", 
+            "type": "author", 
+            "id": "author-34146"
+        }, 
+        {
+            "surname": "Jin", 
+            "corresp": "yes", 
+            "given-names": "Yishi", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-4"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-6322"
+        }, 
+        {
+            "surname": "Chisholm", 
+            "corresp": "yes", 
+            "given-names": "Andrew D", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-4"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0001-5091-0537", 
+            "type": "author", 
+            "id": "author-24232"
+        }, 
+        {
+            "surname": "VijayRaghavan", 
+            "affiliations": [
+                {
+                    "country": "India", 
+                    "institution": "National Centre for Biological Sciences, Tata Institute for Fundamental Research"
+                }
+            ], 
+            "given-names": "K", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1027"
+        }
+    ], 
+    "pub-date": "2015-09-04", 
+    "title": "Axon injury triggers EFA-6 mediated destabilization of axonal microtubules via TACC and doublecortin like kinase", 
+    "citations": {
+        "bib34": {
+            "source": "Cancer Research", 
+            "doi": "10.1158/0008-5472.CAN-07-0122", 
+            "year": "2007", 
+            "title": "Localization of human TACC3 to mitotic spindles is mediated by phosphorylation on Ser558 by Aurora A: a novel pharmacodynamic method for measuring Aurora A activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "LeRoy", 
+                    "collab": "<surname>LeRoy</surname><given-names>PJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Hunter", 
+                    "collab": "<surname>Hunter</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Hoar", 
+                    "collab": "<surname>Hoar</surname><given-names>KM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Burke", 
+                    "collab": "<surname>Burke</surname><given-names>KE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Shinde", 
+                    "collab": "<surname>Shinde</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ruan", 
+                    "collab": "<surname>Ruan</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bowman", 
+                    "collab": "<surname>Bowman</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Galvin", 
+                    "collab": "<surname>Galvin</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Ecsedy", 
+                    "collab": "<surname>Ecsedy</surname><given-names>JA</given-names>"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "The Journal of Cell Biology", 
+            "year": "1999", 
+            "title": "Dissection of cell division processes in the one cell stage Caenorhabditis elegans embryo by mutational analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "G\u00f6nczy", 
+                    "collab": "<surname>G\u00f6nczy</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Schnabel", 
+                    "collab": "<surname>Schnabel</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kaletta", 
+                    "collab": "<surname>Kaletta</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Amores", 
+                    "collab": "<surname>Amores</surname><given-names>AD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hyman", 
+                    "collab": "<surname>Hyman</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Schnabel", 
+                    "collab": "<surname>Schnabel</surname><given-names>R</given-names>"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2005.09.008", 
+            "year": "2005", 
+            "title": "Regeneration of the adult central nervous system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Case", 
+                    "collab": "<surname>Case</surname><given-names>LC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tessier-Lavigne", 
+                    "collab": "<surname>Tessier-Lavigne</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Molecular and Cellular Neurosciences", 
+            "doi": "10.1006/mcne.2000.0891", 
+            "year": "2000", 
+            "title": "Doublecortin-like kinase is associated with microtubules in neuronal growth cones", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Burgess", 
+                    "collab": "<surname>Burgess</surname><given-names>HA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Reiner", 
+                    "collab": "<surname>Reiner</surname><given-names>O</given-names>"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Neuroscience", 
+            "year": "2007", 
+            "title": "Disorganized microtubules underlie the formation of retraction bulbs and the failure of axonal regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ert\u00fcrk", 
+                    "collab": "<surname>Ert\u00fcrk</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Hellal", 
+                    "collab": "<surname>Hellal</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Enes", 
+                    "collab": "<surname>Enes</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bradke", 
+                    "collab": "<surname>Bradke</surname><given-names>F</given-names>"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "The Journal of Neuroscience", 
+            "year": "1993", 
+            "title": "Sites of microtubule stabilization for the axon", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PW", 
+                    "surname": "Baas", 
+                    "collab": "<surname>Baas</surname><given-names>PW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Ahmad", 
+                    "collab": "<surname>Ahmad</surname><given-names>FJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TP", 
+                    "surname": "Pienkowski", 
+                    "collab": "<surname>Pienkowski</surname><given-names>TP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Black", 
+                    "collab": "<surname>Black</surname><given-names>MM</given-names>"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2012.05.006", 
+            "year": "2012", 
+            "title": "Doublecortin recognizes the 13-protofilament microtubule cooperatively and tracks microtubule ends", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Bechstedt", 
+                    "collab": "<surname>Bechstedt</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Brouhard", 
+                    "collab": "<surname>Brouhard</surname><given-names>GJ</given-names>"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200504097", 
+            "year": "2005", 
+            "title": "Aurora A activates D-TACC-Msps complexes exclusively at centrosomes to stabilize centrosomal microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TP", 
+                    "surname": "Barros", 
+                    "collab": "<surname>Barros</surname><given-names>TP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kinoshita", 
+                    "collab": "<surname>Kinoshita</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hyman", 
+                    "collab": "<surname>Hyman</surname><given-names>AA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Raff", 
+                    "collab": "<surname>Raff</surname><given-names>JW</given-names>"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Journal of Cell Science", 
+            "doi": "10.1242/jcs.108381", 
+            "year": "2012", 
+            "title": "The doublecortin-related gene zyg-8 is a microtubule organizer in Caenorhabditis elegans neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Bellanger", 
+                    "collab": "<surname>Bellanger</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Cueva", 
+                    "collab": "<surname>Cueva</surname><given-names>JG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Baran", 
+                    "collab": "<surname>Baran</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Tang", 
+                    "collab": "<surname>Tang</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Goodman", 
+                    "collab": "<surname>Goodman</surname><given-names>MB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Debant", 
+                    "collab": "<surname>Debant</surname><given-names>A</given-names>"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Journal of Cell Science", 
+            "doi": "10.1242/jcs.004812", 
+            "year": "2007", 
+            "title": "ZYG-9, TAC-1 and ZYG-8 together ensure correct microtubule function throughout the cell cycle of C. elegans embryos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Bellanger", 
+                    "collab": "<surname>Bellanger</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Carter", 
+                    "collab": "<surname>Carter</surname><given-names>JC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Phillips", 
+                    "collab": "<surname>Phillips</surname><given-names>JB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Canard", 
+                    "collab": "<surname>Canard</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Bowerman", 
+                    "collab": "<surname>Bowerman</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "G\u00f6nczy", 
+                    "collab": "<surname>G\u00f6nczy</surname><given-names>P</given-names>"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Nature Reviews Neuroscience", 
+            "doi": "10.1038/nrn3176", 
+            "year": "2012", 
+            "title": "Assembly of a new growth cone after axotomy: the precursor to axon regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bradke", 
+                    "collab": "<surname>Bradke</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Fawcett", 
+                    "collab": "<surname>Fawcett</surname><given-names>JW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Spira", 
+                    "collab": "<surname>Spira</surname><given-names>ME</given-names>"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Current Biology", 
+            "doi": "10.1016/S0960-9822(03)00582-7", 
+            "year": "2003", 
+            "title": "TAC-1 and ZYG-9 form a complex that promotes microtubule assembly in C. elegans embryos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Bellanger", 
+                    "collab": "<surname>Bellanger</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "G\u00f6nczy", 
+                    "collab": "<surname>G\u00f6nczy</surname><given-names>P</given-names>"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Science", 
+            "doi": "10.1126/science.1064629", 
+            "year": "2001", 
+            "title": "Reconstitution of physiological microtubule dynamics using purified components", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kinoshita", 
+                    "collab": "<surname>Kinoshita</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Arnal", 
+                    "collab": "<surname>Arnal</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Desai", 
+                    "collab": "<surname>Desai</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DN", 
+                    "surname": "Drechsel", 
+                    "collab": "<surname>Drechsel</surname><given-names>DN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hyman", 
+                    "collab": "<surname>Hyman</surname><given-names>AA</given-names>"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms5827", 
+            "year": "2014", 
+            "title": "An assay to image neuronal microtubule dynamics in mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kleele", 
+                    "collab": "<surname>Kleele</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Marinkovic", 
+                    "collab": "<surname>Marinkovic</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>PR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Stern", 
+                    "collab": "<surname>Stern</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Weigand", 
+                    "collab": "<surname>Weigand</surname><given-names>EE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Engerer", 
+                    "collab": "<surname>Engerer</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Naumann", 
+                    "collab": "<surname>Naumann</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hartmann", 
+                    "collab": "<surname>Hartmann</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Karl", 
+                    "collab": "<surname>Karl</surname><given-names>RM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bradke", 
+                    "collab": "<surname>Bradke</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bishop", 
+                    "collab": "<surname>Bishop</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Herms", 
+                    "collab": "<surname>Herms</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Konnerth", 
+                    "collab": "<surname>Konnerth</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kerschensteiner", 
+                    "collab": "<surname>Kerschensteiner</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Godinho", 
+                    "collab": "<surname>Godinho</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Misgeld", 
+                    "collab": "<surname>Misgeld</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1211074110", 
+            "year": "2013", 
+            "title": "DLK initiates a transcriptional program that couples apoptotic and regenerative responses to axonal injury", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Watkins", 
+                    "collab": "<surname>Watkins</surname><given-names>TA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Huntwork-Rodriguez", 
+                    "collab": "<surname>Huntwork-Rodriguez</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yang", 
+                    "collab": "<surname>Yang</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Jiang", 
+                    "collab": "<surname>Jiang</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Eastham-Anderson", 
+                    "collab": "<surname>Eastham-Anderson</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Modrusan", 
+                    "collab": "<surname>Modrusan</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Kaminker", 
+                    "collab": "<surname>Kaminker</surname><given-names>JS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tessier-Lavigne", 
+                    "collab": "<surname>Tessier-Lavigne</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Lewcock", 
+                    "collab": "<surname>Lewcock</surname><given-names>JW</given-names>"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Biochimica et Biophysica Acta", 
+            "doi": "10.1016/j.bbapap.2010.01.011", 
+            "year": "2010", 
+            "title": "PONDR-FIT: a meta-predictor of intrinsically disordered amino acids", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Xue", 
+                    "collab": "<surname>Xue</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Dunbrack", 
+                    "collab": "<surname>Dunbrack</surname><given-names>RL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>RW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Dunker", 
+                    "collab": "<surname>Dunker</surname><given-names>AK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VN", 
+                    "surname": "Uversky", 
+                    "collab": "<surname>Uversky</surname><given-names>VN</given-names>"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2014.04.019", 
+            "year": "2014", 
+            "title": "Microtubule minus-end binding protein CAMSAP2 controls axon specification and dendrite development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Yau", 
+                    "collab": "<surname>Yau</surname><given-names>KW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "van Beuningen", 
+                    "collab": "<surname>van Beuningen</surname><given-names>SF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Cunha-Ferreira", 
+                    "collab": "<surname>Cunha-Ferreira</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Cloin", 
+                    "collab": "<surname>Cloin</surname><given-names>BM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EY", 
+                    "surname": "van Battum", 
+                    "collab": "<surname>van Battum</surname><given-names>EY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Will", 
+                    "collab": "<surname>Will</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Sch\u00e4tzle", 
+                    "collab": "<surname>Sch\u00e4tzle</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Tas", 
+                    "collab": "<surname>Tas</surname><given-names>RP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "van Krugten", 
+                    "collab": "<surname>van Krugten</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Katrukha", 
+                    "collab": "<surname>Katrukha</surname><given-names>EA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Jiang", 
+                    "collab": "<surname>Jiang</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Wulf", 
+                    "collab": "<surname>Wulf</surname><given-names>PS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mikhaylova", 
+                    "collab": "<surname>Mikhaylova</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Harterink", 
+                    "collab": "<surname>Harterink</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Pasterkamp", 
+                    "collab": "<surname>Pasterkamp</surname><given-names>RJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Akhmanova", 
+                    "collab": "<surname>Akhmanova</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Kapitein", 
+                    "collab": "<surname>Kapitein</surname><given-names>LC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Hoogenraad", 
+                    "collab": "<surname>Hoogenraad</surname><given-names>CC</given-names>"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2012.08.010", 
+            "year": "2012", 
+            "title": "Kinesin-13 and tubulin posttranslational modifications regulate microtubule growth in axon regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ghosh-Roy", 
+                    "collab": "<surname>Ghosh-Roy</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Goncharov", 
+                    "collab": "<surname>Goncharov</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jin", 
+                    "collab": "<surname>Jin</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Chisholm", 
+                    "collab": "<surname>Chisholm</surname><given-names>AD</given-names>"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/S1534-5807(01)00046-6", 
+            "year": "2001", 
+            "title": "zyg-8, a gene required for spindle positioning in C. elegans, encodes a doublecortin-related kinase that promotes microtubule assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "G\u00f6nczy", 
+                    "collab": "<surname>G\u00f6nczy</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Bellanger", 
+                    "collab": "<surname>Bellanger</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kirkham", 
+                    "collab": "<surname>Kirkham</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pozniakowski", 
+                    "collab": "<surname>Pozniakowski</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Baumer", 
+                    "collab": "<surname>Baumer</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Phillips", 
+                    "collab": "<surname>Phillips</surname><given-names>JB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hyman", 
+                    "collab": "<surname>Hyman</surname><given-names>AA</given-names>"
+                }
+            ]
+        }, 
+        "bib7a": {
+            "source": "Proceedings of the National Academy of Sciences", 
+            "doi": "10.1073/pnas.1211447110", 
+            "year": "2013", 
+            "title": "A dictionary of behavioral motifs reveals clusters of genes affecting Caenorhabditis elegans locomotion", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AEX", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>AEX</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EI", 
+                    "surname": "Yemini", 
+                    "collab": "<surname>Yemini</surname><given-names>EI</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Grundy", 
+                    "collab": "<surname>Grundy</surname><given-names>LJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Jucikas", 
+                    "collab": "<surname>Jucikas</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Schafer", 
+                    "collab": "<surname>Schafer</surname><given-names>WR</given-names>"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2010.09.022", 
+            "year": "2010", 
+            "title": "Patronin regulates the microtubule network by protecting microtubule minus ends", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Goodwin", 
+                    "collab": "<surname>Goodwin</surname><given-names>SS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale", 
+                    "collab": "<surname>Vale</surname><given-names>RD</given-names>"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Science", 
+            "doi": "10.1126/science.1201148", 
+            "year": "2011", 
+            "title": "Microtubule stabilization reduces scarring and causes axon regeneration after spinal cord injury", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Hellal", 
+                    "collab": "<surname>Hellal</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hurtado", 
+                    "collab": "<surname>Hurtado</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ruschel", 
+                    "collab": "<surname>Ruschel</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Flynn", 
+                    "collab": "<surname>Flynn</surname><given-names>KC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Laskowski", 
+                    "collab": "<surname>Laskowski</surname><given-names>CJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Umlauf", 
+                    "collab": "<surname>Umlauf</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Kapitein", 
+                    "collab": "<surname>Kapitein</surname><given-names>LC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Strikis", 
+                    "collab": "<surname>Strikis</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Lemmon", 
+                    "collab": "<surname>Lemmon</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bixby", 
+                    "collab": "<surname>Bixby</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Hoogenraad", 
+                    "collab": "<surname>Hoogenraad</surname><given-names>CC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bradke", 
+                    "collab": "<surname>Bradke</surname><given-names>F</given-names>"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1404133111", 
+            "year": "2014", 
+            "title": "Regulation of microtubule minus-end dynamics by CAMSAPs and Patronin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Hendershott", 
+                    "collab": "<surname>Hendershott</surname><given-names>MC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale", 
+                    "collab": "<surname>Vale</surname><given-names>RD</given-names>"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M513524200", 
+            "year": "2006", 
+            "title": "Control of intrinsically disordered stathmin by multisite phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Honnappa", 
+                    "collab": "<surname>Honnappa</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Jahnke", 
+                    "collab": "<surname>Jahnke</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Seelig", 
+                    "collab": "<surname>Seelig</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MO", 
+                    "surname": "Steinmetz", 
+                    "collab": "<surname>Steinmetz</surname><given-names>MO</given-names>"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2014.01.001", 
+            "year": "2014", 
+            "title": "Microtubule minus-end stabilization by polymerization-driven CAMSAP deposition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Jiang", 
+                    "collab": "<surname>Jiang</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hua", 
+                    "collab": "<surname>Hua</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Mohan", 
+                    "collab": "<surname>Mohan</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Grigoriev", 
+                    "collab": "<surname>Grigoriev</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Yau", 
+                    "collab": "<surname>Yau</surname><given-names>KW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>Q</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Katrukha", 
+                    "collab": "<surname>Katrukha</surname><given-names>EA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Altelaar", 
+                    "collab": "<surname>Altelaar</surname><given-names>AF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Heck", 
+                    "collab": "<surname>Heck</surname><given-names>AJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Hoogenraad", 
+                    "collab": "<surname>Hoogenraad</surname><given-names>CC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Akhmanova", 
+                    "collab": "<surname>Akhmanova</surname><given-names>A</given-names>"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Current Opinion in Neurobiology", 
+            "doi": "10.1016/j.conb.2004.01.004", 
+            "year": "2004", 
+            "title": "Nogo and axon regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Schwab", 
+                    "collab": "<surname>Schwab</surname><given-names>ME</given-names>"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1994", 
+            "title": "Structural studies of tau protein and Alzheimer paired helical filaments show no evidence for beta-structure", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Schweers", 
+                    "collab": "<surname>Schweers</surname><given-names>O</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Schonbrunn-Hanebeck", 
+                    "collab": "<surname>Schonbrunn-Hanebeck</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Marx", 
+                    "collab": "<surname>Marx</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mandelkow", 
+                    "collab": "<surname>Mandelkow</surname><given-names>E</given-names>"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.01498", 
+            "year": "2014", 
+            "title": "PTRN-1, a microtubule minus end-binding CAMSAP homolog, promotes microtubule function in Caenorhabditis elegans neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CE", 
+                    "surname": "Richardson", 
+                    "collab": "<surname>Richardson</surname><given-names>CE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Spilker", 
+                    "collab": "<surname>Spilker</surname><given-names>KA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Cueva", 
+                    "collab": "<surname>Cueva</surname><given-names>JG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Perrino", 
+                    "collab": "<surname>Perrino</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Goodman", 
+                    "collab": "<surname>Goodman</surname><given-names>MB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shen", 
+                    "collab": "<surname>Shen</surname><given-names>K</given-names>"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Science", 
+            "doi": "10.1126/science.aaa2958", 
+            "year": "2015", 
+            "title": "Systemic administration of epothilone B promotes axon regeneration after spinal cord injury", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ruschel", 
+                    "collab": "<surname>Ruschel</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Hellal", 
+                    "collab": "<surname>Hellal</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Flynn", 
+                    "collab": "<surname>Flynn</surname><given-names>KC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Dupraz", 
+                    "collab": "<surname>Dupraz</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Elliott", 
+                    "collab": "<surname>Elliott</surname><given-names>DA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tedeschi", 
+                    "collab": "<surname>Tedeschi</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bates", 
+                    "collab": "<surname>Bates</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Sliwinski", 
+                    "collab": "<surname>Sliwinski</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Brook", 
+                    "collab": "<surname>Brook</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dobrindt", 
+                    "collab": "<surname>Dobrindt</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Peitz", 
+                    "collab": "<surname>Peitz</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Br\u00fcstle", 
+                    "collab": "<surname>Br\u00fcstle</surname><given-names>O</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Norenberg", 
+                    "collab": "<surname>Norenberg</surname><given-names>MD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Blesch", 
+                    "collab": "<surname>Blesch</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Weidner", 
+                    "collab": "<surname>Weidner</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Bunge", 
+                    "collab": "<surname>Bunge</surname><given-names>MB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Bixby", 
+                    "collab": "<surname>Bixby</surname><given-names>JL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bradke", 
+                    "collab": "<surname>Bradke</surname><given-names>F</given-names>"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Trends in Cell Biology", 
+            "doi": "10.1016/j.tcb.2008.06.005", 
+            "year": "2008", 
+            "title": "The TACC proteins: TACC-ling microtubule dynamics and centrosome function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Peset", 
+                    "collab": "<surname>Peset</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Vernos", 
+                    "collab": "<surname>Vernos</surname><given-names>I</given-names>"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Experimental Neurology", 
+            "doi": "10.1016/j.expneurol.2014.06.020", 
+            "year": "2014", 
+            "title": "Independent evaluation of the anatomical and behavioral effects of Taxol in rat models of spinal cord injury", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Popovich", 
+                    "collab": "<surname>Popovich</surname><given-names>PG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Tovar", 
+                    "collab": "<surname>Tovar</surname><given-names>CA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lemeshow", 
+                    "collab": "<surname>Lemeshow</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Yin", 
+                    "collab": "<surname>Yin</surname><given-names>Q</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LB", 
+                    "surname": "Jakeman", 
+                    "collab": "<surname>Jakeman</surname><given-names>LB</given-names>"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev-biochem-072711-164947", 
+            "year": "2014", 
+            "title": "Intrinsically disordered proteins and intrinsically disordered protein regions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Oldfield", 
+                    "collab": "<surname>Oldfield</surname><given-names>CJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Dunker", 
+                    "collab": "<surname>Dunker</surname><given-names>AK</given-names>"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Science", 
+            "doi": "10.1126/science.1161566", 
+            "year": "2008", 
+            "title": "Promoting axon regeneration in the adult CNS by modulation of the PTEN/mTOR pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KK", 
+                    "surname": "Park", 
+                    "collab": "<surname>Park</surname><given-names>KK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hu", 
+                    "collab": "<surname>Hu</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Smith", 
+                    "collab": "<surname>Smith</surname><given-names>PD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Cai", 
+                    "collab": "<surname>Cai</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Connolly", 
+                    "collab": "<surname>Connolly</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Kramvis", 
+                    "collab": "<surname>Kramvis</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sahin", 
+                    "collab": "<surname>Sahin</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "He", 
+                    "collab": "<surname>He</surname><given-names>Z</given-names>"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/sj.emboj.7601335", 
+            "year": "2006", 
+            "title": "Distinct roles of doublecortin modulating the microtubule cytoskeleton", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Moores", 
+                    "collab": "<surname>Moores</surname><given-names>CA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Perderiset", 
+                    "collab": "<surname>Perderiset</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kappeler", 
+                    "collab": "<surname>Kappeler</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kain", 
+                    "collab": "<surname>Kain</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Drummond", 
+                    "collab": "<surname>Drummond</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Perkins", 
+                    "collab": "<surname>Perkins</surname><given-names>SJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chelly", 
+                    "collab": "<surname>Chelly</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cross", 
+                    "collab": "<surname>Cross</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Houdusse", 
+                    "collab": "<surname>Houdusse</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Francis", 
+                    "collab": "<surname>Francis</surname><given-names>F</given-names>"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/ncb2128", 
+            "year": "2010", 
+            "title": "Caenorhabditis elegans EFA-6 limits microtubule growth at the cell cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "O'Rourke", 
+                    "collab": "<surname>O'Rourke</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SN", 
+                    "surname": "Christensen", 
+                    "collab": "<surname>Christensen</surname><given-names>SN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Bowerman", 
+                    "collab": "<surname>Bowerman</surname><given-names>B</given-names>"
+                }
+            ]
+        }, 
+        "bib14a": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2641", 
+            "year": "2013", 
+            "title": "Engineering the Caenorhabditis elegans genome using Cas9-triggered homologous recombination", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Dickinson", 
+                    "collab": "<surname>Dickinson</surname><given-names>DJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Ward", 
+                    "collab": "<surname>Ward</surname><given-names>JD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Reiner", 
+                    "collab": "<surname>Reiner</surname><given-names>DJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Goldstein", 
+                    "collab": "<surname>Goldstein</surname><given-names>B</given-names>"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2011.07.009", 
+            "year": "2011", 
+            "title": "Axon regeneration pathways identified by systematic genetic screening in C. elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ghosh-Roy", 
+                    "collab": "<surname>Ghosh-Roy</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hubert", 
+                    "collab": "<surname>Hubert</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yan", 
+                    "collab": "<surname>Yan</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "O'Rourke", 
+                    "collab": "<surname>O'Rourke</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Bowerman", 
+                    "collab": "<surname>Bowerman</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Wu", 
+                    "collab": "<surname>Wu</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jin", 
+                    "collab": "<surname>Jin</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Chisholm", 
+                    "collab": "<surname>Chisholm</surname><given-names>AD</given-names>"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1121180109", 
+            "year": "2012", 
+            "title": "Axon injury and stress trigger a microtubule-based neuroprotective pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Stone", 
+                    "collab": "<surname>Stone</surname><given-names>MC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Tao", 
+                    "collab": "<surname>Tao</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Rolls", 
+                    "collab": "<surname>Rolls</surname><given-names>MM</given-names>"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2014.09.054", 
+            "year": "2014", 
+            "title": "The microtubule minus end binding protein Patronin/PTRN-1 is required for axon regeneration in C. elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Chuang", 
+                    "collab": "<surname>Chuang</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Goncharov", 
+                    "collab": "<surname>Goncharov</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Oegema", 
+                    "collab": "<surname>Oegema</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jin", 
+                    "collab": "<surname>Jin</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Chisholm", 
+                    "collab": "<surname>Chisholm</surname><given-names>AD</given-names>"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Annual Review of Cell and Developmental Biology", 
+            "doi": "10.1146/annurev-cellbio-101512-122311", 
+            "year": "2013", 
+            "title": "Cytoskeletal dynamics in Caenorhabditis elegans axon regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Chisholm", 
+                    "collab": "<surname>Chisholm</surname><given-names>AD</given-names>"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200607098", 
+            "year": "2007", 
+            "title": "Formation of microtubule-based traps controls the sorting and concentration of vesicles to restricted sites of regenerating neurons after axotomy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Erez", 
+                    "collab": "<surname>Erez</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Malkinson", 
+                    "collab": "<surname>Malkinson</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Prager-Khoutorsky", 
+                    "collab": "<surname>Prager-Khoutorsky</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CI", 
+                    "surname": "De Zeeuw", 
+                    "collab": "<surname>De Zeeuw</surname><given-names>CI</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Hoogenraad", 
+                    "collab": "<surname>Hoogenraad</surname><given-names>CC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Spira", 
+                    "collab": "<surname>Spira</surname><given-names>ME</given-names>"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "The Biochemical Journal", 
+            "doi": "10.1042/BJ20130545", 
+            "year": "2013", 
+            "title": "Promiscuity as a functional trait: intrinsically disordered regions as central players of interactomes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cumberworth", 
+                    "collab": "<surname>Cumberworth</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Lamour", 
+                    "collab": "<surname>Lamour</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Babu", 
+                    "collab": "<surname>Babu</surname><given-names>MM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gsponer", 
+                    "collab": "<surname>Gsponer</surname><given-names>J</given-names>"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2004.06.009", 
+            "year": "2004", 
+            "title": "Mechanism of microtubule stabilization by doublecortin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Moores", 
+                    "collab": "<surname>Moores</surname><given-names>CA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Perderiset", 
+                    "collab": "<surname>Perderiset</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Francis", 
+                    "collab": "<surname>Francis</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chelly", 
+                    "collab": "<surname>Chelly</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Houdusse", 
+                    "collab": "<surname>Houdusse</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Milligan", 
+                    "collab": "<surname>Milligan</surname><given-names>RA</given-names>"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Science", 
+            "doi": "10.1126/science.1175737", 
+            "year": "2009", 
+            "title": "KLF family members regulate intrinsic axon regeneration ability", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Moore", 
+                    "collab": "<surname>Moore</surname><given-names>DL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Blackmore", 
+                    "collab": "<surname>Blackmore</surname><given-names>MG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hu", 
+                    "collab": "<surname>Hu</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Kaestner", 
+                    "collab": "<surname>Kaestner</surname><given-names>KH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Bixby", 
+                    "collab": "<surname>Bixby</surname><given-names>JL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VP", 
+                    "surname": "Lemmon", 
+                    "collab": "<surname>Lemmon</surname><given-names>VP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Goldberg", 
+                    "collab": "<surname>Goldberg</surname><given-names>JL</given-names>"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2532", 
+            "year": "2013", 
+            "title": "Heritable genome editing in C. elegans via a CRISPR-Cas9 system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Friedland", 
+                    "collab": "<surname>Friedland</surname><given-names>AE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YB", 
+                    "surname": "Tzur", 
+                    "collab": "<surname>Tzur</surname><given-names>YB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Esvelt", 
+                    "collab": "<surname>Esvelt</surname><given-names>KM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Colaiacovo", 
+                    "collab": "<surname>Colaiacovo</surname><given-names>MP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Church", 
+                    "collab": "<surname>Church</surname><given-names>GM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Calarco", 
+                    "collab": "<surname>Calarco</surname><given-names>JA</given-names>"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/18.6.1480", 
+            "year": "1999", 
+            "title": "EFA6, a sec7 domain-containing exchange factor for ARF6, coordinates membrane recycling and actin cytoskeleton organization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Franco", 
+                    "collab": "<surname>Franco</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Peters", 
+                    "collab": "<surname>Peters</surname><given-names>PJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Boretto", 
+                    "collab": "<surname>Boretto</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "van Donselaar", 
+                    "collab": "<surname>van Donselaar</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Neri", 
+                    "collab": "<surname>Neri</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "D'Souza-Schorey", 
+                    "collab": "<surname>D'Souza-Schorey</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Chavrier", 
+                    "collab": "<surname>Chavrier</surname><given-names>P</given-names>"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E14-10-1423", 
+            "year": "2015", 
+            "title": "Kinesin-1-powered microtubule sliding initiates axonal regeneration in Drosophila cultured neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Lu", 
+                    "collab": "<surname>Lu</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lakonishok", 
+                    "collab": "<surname>Lakonishok</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VI", 
+                    "surname": "Gelfand", 
+                    "collab": "<surname>Gelfand</surname><given-names>VI</given-names>"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "The Journal of Comparative Neurology", 
+            "doi": "10.1002/cne.21522", 
+            "year": "2008", 
+            "title": "Local self-assembly mechanisms underlie the differential transformation of the proximal and distal cut axonal ends into functional and aberrant growth cones", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Erez", 
+                    "collab": "<surname>Erez</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Spira", 
+                    "collab": "<surname>Spira</surname><given-names>ME</given-names>"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/35083033", 
+            "year": "2001", 
+            "title": "Msps/XMAP215 interacts with the centrosomal protein D-TACC to regulate microtubule behaviour", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>MJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Gergely", 
+                    "collab": "<surname>Gergely</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Jeffers", 
+                    "collab": "<surname>Jeffers</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Peak-Chew", 
+                    "collab": "<surname>Peak-Chew</surname><given-names>SY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Raff", 
+                    "collab": "<surname>Raff</surname><given-names>JW</given-names>"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2010.05.002", 
+            "year": "2010", 
+            "title": "Assessing spinal axon regeneration and sprouting in Nogo-, MAG-, and OMgp-deficient mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>JK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Geoffroy", 
+                    "collab": "<surname>Geoffroy</surname><given-names>CG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Chan", 
+                    "collab": "<surname>Chan</surname><given-names>AF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Tolentino", 
+                    "collab": "<surname>Tolentino</surname><given-names>KE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Crawford", 
+                    "collab": "<surname>Crawford</surname><given-names>MJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Leal", 
+                    "collab": "<surname>Leal</surname><given-names>MA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Kang", 
+                    "collab": "<surname>Kang</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Zheng", 
+                    "collab": "<surname>Zheng</surname><given-names>B</given-names>"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.1864-09.2009", 
+            "year": "2009", 
+            "title": "Reassessment of corticospinal tract regeneration in Nogo-deficient mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>JK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Chan", 
+                    "collab": "<surname>Chan</surname><given-names>AF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Luu", 
+                    "collab": "<surname>Luu</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhu", 
+                    "collab": "<surname>Zhu</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ho", 
+                    "collab": "<surname>Ho</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tessier-Lavigne", 
+                    "collab": "<surname>Tessier-Lavigne</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Zheng", 
+                    "collab": "<surname>Zheng</surname><given-names>B</given-names>"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Current Biology", 
+            "doi": "10.1016/S0960-9822(03)00577-3", 
+            "year": "2003", 
+            "title": "TAC-1, a regulator of microtubule length in the C. elegans embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Le Bot", 
+                    "collab": "<surname>Le Bot</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Tsai", 
+                    "collab": "<surname>Tsai</surname><given-names>MC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Andrews", 
+                    "collab": "<surname>Andrews</surname><given-names>RK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ahringer", 
+                    "collab": "<surname>Ahringer</surname><given-names>J</given-names>"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2008.09.040", 
+            "year": "2008", 
+            "title": "Anchorage of microtubule minus ends to adherens junctions regulates epithelial cell-cell contacts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Meng", 
+                    "collab": "<surname>Meng</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Mushika", 
+                    "collab": "<surname>Mushika</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ichii", 
+                    "collab": "<surname>Ichii</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Takeichi", 
+                    "collab": "<surname>Takeichi</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2013.06.035", 
+            "year": "2013", 
+            "title": "The EBAX-type Cullin-RING E3 ligase and Hsp90 guard the protein quality of the SAX-3/Robo receptor in developing neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hou", 
+                    "collab": "<surname>Hou</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Guo", 
+                    "collab": "<surname>Guo</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "van der Voet", 
+                    "collab": "<surname>van der Voet</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Boxem", 
+                    "collab": "<surname>Boxem</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Dixon", 
+                    "collab": "<surname>Dixon</surname><given-names>JE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Chisholm", 
+                    "collab": "<surname>Chisholm</surname><given-names>AD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jin", 
+                    "collab": "<surname>Jin</surname><given-names>Y</given-names>"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.0302-10.2010", 
+            "year": "2010", 
+            "title": "A chemical screen identifies novel compounds that overcome glial-mediated inhibition of neuronal regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Usher", 
+                    "collab": "<surname>Usher</surname><given-names>LC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Johnstone", 
+                    "collab": "<surname>Johnstone</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ert\u00fcrk", 
+                    "collab": "<surname>Ert\u00fcrk</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hu", 
+                    "collab": "<surname>Hu</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Strikis", 
+                    "collab": "<surname>Strikis</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IB", 
+                    "surname": "Wanner", 
+                    "collab": "<surname>Wanner</surname><given-names>IB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Moorman", 
+                    "collab": "<surname>Moorman</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>JW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Min", 
+                    "collab": "<surname>Min</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HH", 
+                    "surname": "Ha", 
+                    "collab": "<surname>Ha</surname><given-names>HH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Duan", 
+                    "collab": "<surname>Duan</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hoffman", 
+                    "collab": "<surname>Hoffman</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Goldberg", 
+                    "collab": "<surname>Goldberg</surname><given-names>JL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bradke", 
+                    "collab": "<surname>Bradke</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YT", 
+                    "surname": "Chang", 
+                    "collab": "<surname>Chang</surname><given-names>YT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VP", 
+                    "surname": "Lemmon", 
+                    "collab": "<surname>Lemmon</surname><given-names>VP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Bixby", 
+                    "collab": "<surname>Bixby</surname><given-names>JL</given-names>"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.01637", 
+            "year": "2014", 
+            "title": "The Caenorhabditis elegans microtubule minus-end binding homolog PTRN-1 stabilizes synapses and neurites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Marcette", 
+                    "collab": "<surname>Marcette</surname><given-names>JD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Nonet", 
+                    "collab": "<surname>Nonet</surname><given-names>ML</given-names>"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10594", 
+            "year": "2011", 
+            "title": "Sustained axon regeneration induced by co-deletion of PTEN and SOCS3", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Sun", 
+                    "collab": "<surname>Sun</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KK", 
+                    "surname": "Park", 
+                    "collab": "<surname>Park</surname><given-names>KK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Belin", 
+                    "collab": "<surname>Belin</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Wang", 
+                    "collab": "<surname>Wang</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lu", 
+                    "collab": "<surname>Lu</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Yeung", 
+                    "collab": "<surname>Yeung</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Feng", 
+                    "collab": "<surname>Feng</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Yankner", 
+                    "collab": "<surname>Yankner</surname><given-names>BA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "He", 
+                    "collab": "<surname>He</surname><given-names>Z</given-names>"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E09-11-0967", 
+            "year": "2010", 
+            "title": "Global up-regulation of microtubule dynamics and polarity reversal during regeneration of an axon from a dendrite", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Stone", 
+                    "collab": "<surname>Stone</surname><given-names>MC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Nguyen", 
+                    "collab": "<surname>Nguyen</surname><given-names>MM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Tao", 
+                    "collab": "<surname>Tao</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Allender", 
+                    "collab": "<surname>Allender</surname><given-names>DL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Rolls", 
+                    "collab": "<surname>Rolls</surname><given-names>MM</given-names>"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Nature Cell Biology", 
+            "doi": "10.1038/71330", 
+            "year": "2000", 
+            "title": "Control of microtubule dynamics by the antagonistic activities of XMAP215 and XKCM1 in Xenopus egg extracts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tournebize", 
+                    "collab": "<surname>Tournebize</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Popov", 
+                    "collab": "<surname>Popov</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kinoshita", 
+                    "collab": "<surname>Kinoshita</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Ashford", 
+                    "collab": "<surname>Ashford</surname><given-names>AJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rybina", 
+                    "collab": "<surname>Rybina</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pozniakovsky", 
+                    "collab": "<surname>Pozniakovsky</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TU", 
+                    "surname": "Mayer", 
+                    "collab": "<surname>Mayer</surname><given-names>TU</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CE", 
+                    "surname": "Walczak", 
+                    "collab": "<surname>Walczak</surname><given-names>CE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Karsenti", 
+                    "collab": "<surname>Karsenti</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hyman", 
+                    "collab": "<surname>Hyman</surname><given-names>AA</given-names>"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2004.06.049", 
+            "year": "2004", 
+            "title": "Microtubule dynamics are necessary for SRC family kinase-dependent growth cone steering", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Suter", 
+                    "collab": "<surname>Suter</surname><given-names>DM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AW", 
+                    "surname": "Schaefer", 
+                    "collab": "<surname>Schaefer</surname><given-names>AW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Forscher", 
+                    "collab": "<surname>Forscher</surname><given-names>P</given-names>"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2012.04.028", 
+            "year": "2012", 
+            "title": "Dual leucine zipper kinase is required for retrograde injury signaling and axonal regeneration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Shin", 
+                    "collab": "<surname>Shin</surname><given-names>JE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Cho", 
+                    "collab": "<surname>Cho</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Beirowski", 
+                    "collab": "<surname>Beirowski</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Milbrandt", 
+                    "collab": "<surname>Milbrandt</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Cavalli", 
+                    "collab": "<surname>Cavalli</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "DiAntonio", 
+                    "collab": "<surname>DiAntonio</surname><given-names>A</given-names>"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4885-10.2011", 
+            "year": "2011", 
+            "title": "Taxol facilitates axon regeneration in the mature CNS", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Sengottuvel", 
+                    "collab": "<surname>Sengottuvel</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Leibinger", 
+                    "collab": "<surname>Leibinger</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pfreimer", 
+                    "collab": "<surname>Pfreimer</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Andreadaki", 
+                    "collab": "<surname>Andreadaki</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fischer", 
+                    "collab": "<surname>Fischer</surname><given-names>D</given-names>"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Current Biology", 
+            "doi": "10.1016/S0960-9822(03)00597-9", 
+            "year": "2003", 
+            "title": "Caenorhabditis elegans TAC-1 and ZYG-9 form a complex that is essential for long astral and spindle microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Srayko", 
+                    "collab": "<surname>Srayko</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Quintin", 
+                    "collab": "<surname>Quintin</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Schwager", 
+                    "collab": "<surname>Schwager</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hyman", 
+                    "collab": "<surname>Hyman</surname><given-names>AA</given-names>"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Nature Reviews Neuroscience", 
+            "doi": "10.1038/nrn1326", 
+            "year": "2004", 
+            "title": "Regeneration beyond the glial scar", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Silver", 
+                    "collab": "<surname>Silver</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Miller", 
+                    "collab": "<surname>Miller</surname><given-names>JH</given-names>"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Severing axons in <italic>C. elegans</italic> reveals a mechanism by which the axons sense acute damage and respond by sequential remodeling of their microtubule cytoskeleton.", 
+    "related-articles": [], 
+    "elocation-id": "e08695", 
+    "publish": "1", 
+    "article-version-id": "08695.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "microtubules", 
+            "axon regeneration", 
+            "Patronin"
+        ], 
+        "research-organism": [
+            "<italic>C. elegans</italic>"
+        ]
+    }, 
+    "doi": "10.7554/eLife.08695", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-6": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "UCSD Cellular and Molecular Genetics Training Grant NIH T32 GM007240", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "Neuroplasticity of Aging Training Grant NIH T32 AG000216", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "R01 NS093588", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "award-id": "864.09.008", 
+                "institution": "NWO/ALW Vidi"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "R56 NS057317, R01 NS057317", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Department of Cellular and Molecular Medicine", 
+                "email": null, 
+                "city": "La Jolla", 
+                "institution": "University of California, San Diego School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Department of Biology", 
+                "email": null, 
+                "city": "Utrecht", 
+                "institution": "Utrecht University", 
+                "country": "Netherlands"
+            }, 
+            "aff2": {
+                "dept": null, 
+                "email": null, 
+                "city": "La Jolla", 
+                "institution": "Howard Hughes Medical Institute", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Neurobiology Section, Division of Biological Sciences", 
+                "email": null, 
+                "city": "La Jolla", 
+                "institution": "University of California, San Diego", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "LC, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "MC, Acquisition of data, Analysis and interpretation of data", 
+            "con3": "TK, Acquisition of data, Analysis and interpretation of data", 
+            "con4": "MB, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con5": "YJ, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
+            "con6": "ADC, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "yijin@ucsd.edu", 
+            "cor2": "chisholm@ucsd.edu"
+        }
+    }, 
+    "path": "content/4/e08695", 
+    "fragments": [
+        {
+            "path": "content/4/e08695/abstract-1", 
+            "doi": "10.7554/eLife.08695.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e08695/abstract-2", 
+            "doi": "10.7554/eLife.08695.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e08695/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e08695/F1/F2", 
+                    "doi": "10.7554/eLife.08695.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08695/F1/F3", 
+                    "doi": "10.7554/eLife.08695.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e08695/F1/F4", 
+                    "doi": "10.7554/eLife.08695.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.08695.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e08695/media-1", 
+            "doi": "10.7554/eLife.08695.007", 
+            "type": "media", 
+            "title": "Video 1."
+        }, 
+        {
+            "path": "content/4/e08695/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e08695/F5/F6", 
+                    "doi": "10.7554/eLife.08695.009", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08695/F5/F7", 
+                    "doi": "10.7554/eLife.08695.010", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.08695.008", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e08695/T1", 
+            "doi": "10.7554/eLife.08695.011", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/4/e08695/F8", 
+            "fragments": [
+                {
+                    "path": "content/4/e08695/F8/F9", 
+                    "doi": "10.7554/eLife.08695.013", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08695.012", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e08695/F10", 
+            "fragments": [
+                {
+                    "path": "content/4/e08695/F10/F11", 
+                    "doi": "10.7554/eLife.08695.015", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08695.014", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e08695/F12", 
+            "fragments": [
+                {
+                    "path": "content/4/e08695/F12/F13", 
+                    "doi": "10.7554/eLife.08695.017", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08695.016", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e08695/F14", 
+            "fragments": [
+                {
+                    "path": "content/4/e08695/F14/F15", 
+                    "doi": "10.7554/eLife.08695.019", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08695.018", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e08695/F16", 
+            "fragments": [
+                {
+                    "path": "content/4/e08695/F16/F17", 
+                    "doi": "10.7554/eLife.08695.021", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08695/F16/F18", 
+                    "doi": "10.7554/eLife.08695.022", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.08695.020", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e08695/DC1", 
+            "doi": "10.7554/eLife.08695.023", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e08695/1", 
+            "doi": "10.7554/eLife.08695.024", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "VijayRaghavan", 
+                    "given-names": "K", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "India", 
+                            "institution": "National Centre for Biological Sciences, Tata Institute for Fundamental Research"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e08695/2", 
+            "doi": "10.7554/eLife.08695.025", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.08695", 
+    "categories": {
+        "heading": [
+            "Developmental biology and stem cells", 
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

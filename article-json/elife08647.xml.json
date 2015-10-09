@@ -1,0 +1,2426 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Lee", 
+            "given-names": "Yool", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0003-0498-3342", 
+            "type": "author", 
+            "id": "author-34114"
+        }, 
+        {
+            "surname": "Jang", 
+            "given-names": "A Reum", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0001-8347-7848", 
+            "type": "author", 
+            "id": "author-34115"
+        }, 
+        {
+            "surname": "Francey", 
+            "given-names": "Lauren J", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0002-9700-2277", 
+            "type": "author", 
+            "id": "author-34116"
+        }, 
+        {
+            "surname": "Sehgal", 
+            "given-names": "Amita", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0001-7354-9641", 
+            "type": "author", 
+            "id": "author-4923"
+        }, 
+        {
+            "surname": "Hogenesch", 
+            "corresp": "yes", 
+            "given-names": "John B", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0002-9138-8973", 
+            "type": "author", 
+            "id": "author-1411"
+        }, 
+        {
+            "surname": "Kramer", 
+            "given-names": "Achim", 
+            "role": "Reviewing editor", 
+            "id": "author-11736", 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2015-08-29", 
+    "title": "KPNB1 mediates PER/CRY nuclear translocation and circadian clock function", 
+    "citations": {
+        "bib34": {
+            "source": "Methods in Enzymology", 
+            "doi": "10.1016/S0076-6879(05)93020-6", 
+            "year": "2005", 
+            "title": "Nucleocytoplasmic shuttling of clock proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Tamanini", 
+                    "collab": "<surname>Tamanini</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yagita", 
+                    "collab": "<surname>Yagita</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Okamura", 
+                    "collab": "<surname>Okamura</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GT", 
+                    "surname": "van der Horst", 
+                    "collab": "<surname>van der Horst</surname><given-names>GT</given-names>"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04631", 
+            "year": "2006", 
+            "title": "A genome-wide Drosophila RNAi screen identifies DYRK-family kinases as regulators of NFAT", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Gwack", 
+                    "collab": "<surname>Gwack</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sharma", 
+                    "collab": "<surname>Sharma</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nardone", 
+                    "collab": "<surname>Nardone</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Tanasa", 
+                    "collab": "<surname>Tanasa</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Iuga", 
+                    "collab": "<surname>Iuga</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Srikanth", 
+                    "collab": "<surname>Srikanth</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Okamura", 
+                    "collab": "<surname>Okamura</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bolton", 
+                    "collab": "<surname>Bolton</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Feske", 
+                    "collab": "<surname>Feske</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Hogan", 
+                    "collab": "<surname>Hogan</surname><given-names>PG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rao", 
+                    "collab": "<surname>Rao</surname><given-names>A</given-names>"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi050701e", 
+            "year": "2005", 
+            "title": "Nuclear import of the respiratory syncytial virus matrix protein is mediated by importin beta1 independent of importin alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ghildyal", 
+                    "collab": "<surname>Ghildyal</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ho", 
+                    "collab": "<surname>Ho</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Wagstaff", 
+                    "collab": "<surname>Wagstaff</surname><given-names>KM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Dias", 
+                    "collab": "<surname>Dias</surname><given-names>MM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Barton", 
+                    "collab": "<surname>Barton</surname><given-names>CL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Jans", 
+                    "collab": "<surname>Jans</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bardin", 
+                    "collab": "<surname>Bardin</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Jans", 
+                    "collab": "<surname>Jans</surname><given-names>DA</given-names>"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(01)00610-9", 
+            "year": "2001", 
+            "title": "Posttranslational mechanisms regulate the mammalian circadian clock", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Etchegaray", 
+                    "collab": "<surname>Etchegaray</surname><given-names>JP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FR", 
+                    "surname": "Cagampang", 
+                    "collab": "<surname>Cagampang</surname><given-names>FR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Loudon", 
+                    "collab": "<surname>Loudon</surname><given-names>AS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Reppert", 
+                    "collab": "<surname>Reppert</surname><given-names>SM</given-names>"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "PLOS Biology", 
+            "doi": "10.1371/journal.pbio.1001840", 
+            "year": "2014", 
+            "title": "Machine learning helps identify CHRONO as a circadian clock component", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Anafi", 
+                    "collab": "<surname>Anafi</surname><given-names>RC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TK", 
+                    "surname": "Sato", 
+                    "collab": "<surname>Sato</surname><given-names>TK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Venkataraman", 
+                    "collab": "<surname>Venkataraman</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ramanathan", 
+                    "collab": "<surname>Ramanathan</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IH", 
+                    "surname": "Kavakli", 
+                    "collab": "<surname>Kavakli</surname><given-names>IH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Hughes", 
+                    "collab": "<surname>Hughes</surname><given-names>ME</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Baggs", 
+                    "collab": "<surname>Baggs</surname><given-names>JE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Growe", 
+                    "collab": "<surname>Growe</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>AC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kim", 
+                    "collab": "<surname>Kim</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hogenesch", 
+                    "collab": "<surname>Hogenesch</surname><given-names>JB</given-names>"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gks396", 
+            "year": "2012", 
+            "title": "RF-Cloning.org: an online tool for the design of restriction-free cloning projects", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Bond", 
+                    "collab": "<surname>Bond</surname><given-names>SR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Naus", 
+                    "collab": "<surname>Naus</surname><given-names>CC</given-names>"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Science", 
+            "doi": "10.1126/science.1195027", 
+            "year": "2010", 
+            "title": "Circadian integration of metabolism and energetics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bass", 
+                    "collab": "<surname>Bass</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Takahashi", 
+                    "collab": "<surname>Takahashi</surname><given-names>JS</given-names>"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Nature", 
+            "doi": "10.1038/nature05954", 
+            "year": "2007", 
+            "title": "A genome-wide transgenic RNAi library for conditional gene inactivation in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Dietzl", 
+                    "collab": "<surname>Dietzl</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Schnorrer", 
+                    "collab": "<surname>Schnorrer</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Su", 
+                    "collab": "<surname>Su</surname><given-names>KC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Barinova", 
+                    "collab": "<surname>Barinova</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fellner", 
+                    "collab": "<surname>Fellner</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Gasser", 
+                    "collab": "<surname>Gasser</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kinsey", 
+                    "collab": "<surname>Kinsey</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Oppel", 
+                    "collab": "<surname>Oppel</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Scheiblauer", 
+                    "collab": "<surname>Scheiblauer</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Couto", 
+                    "collab": "<surname>Couto</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Marra", 
+                    "collab": "<surname>Marra</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Keleman", 
+                    "collab": "<surname>Keleman</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson", 
+                    "collab": "<surname>Dickson</surname><given-names>BJ</given-names>"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Development", 
+            "year": "1993", 
+            "title": "Targeted gene expression as a means of altering cell fates and generating dominant phenotypes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Brand", 
+                    "collab": "<surname>Brand</surname><given-names>AH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Perrimon", 
+                    "collab": "<surname>Perrimon</surname><given-names>N</given-names>"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm2106", 
+            "year": "2007", 
+            "title": "Post-translational modifications regulate the ticking of the circadian clock", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gallego", 
+                    "collab": "<surname>Gallego</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Virshup", 
+                    "collab": "<surname>Virshup</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi002732+", 
+            "year": "2001", 
+            "title": "Nuclear import of Creb and AP-1 transcription factors requires importin-beta 1 and Ran but is independent of importin-alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Forwood", 
+                    "collab": "<surname>Forwood</surname><given-names>JK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Lam", 
+                    "collab": "<surname>Lam</surname><given-names>MH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Jans", 
+                    "collab": "<surname>Jans</surname><given-names>DA</given-names>"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M413236200", 
+            "year": "2005", 
+            "title": "Importin alpha/beta mediates nuclear transport of a mammalian circadian clock component, mCRY2, together with mPER2, through a bipartite nuclear localization signal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sakakida", 
+                    "collab": "<surname>Sakakida</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Miyamoto", 
+                    "collab": "<surname>Miyamoto</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Nagoshi", 
+                    "collab": "<surname>Nagoshi</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Akashi", 
+                    "collab": "<surname>Akashi</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Nakamura", 
+                    "collab": "<surname>Nakamura</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Mamine", 
+                    "collab": "<surname>Mamine</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kasahara", 
+                    "collab": "<surname>Kasahara</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Minami", 
+                    "collab": "<surname>Minami</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yoneda", 
+                    "collab": "<surname>Yoneda</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Takumi", 
+                    "collab": "<surname>Takumi</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "The Journal of Comparative Neurology", 
+            "doi": "10.1002/cne.22600", 
+            "year": "2011", 
+            "title": "Transportin 1 in the mouse brain: appearance in regions of neurogenesis, cerebrospinal fluid production/sensing, and circadian clock", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sato", 
+                    "collab": "<surname>Sato</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Mizoro", 
+                    "collab": "<surname>Mizoro</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Atobe", 
+                    "collab": "<surname>Atobe</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Fujimoto", 
+                    "collab": "<surname>Fujimoto</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yamaguchi", 
+                    "collab": "<surname>Yamaguchi</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Fustin", 
+                    "collab": "<surname>Fustin</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doi", 
+                    "collab": "<surname>Doi</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Okamura", 
+                    "collab": "<surname>Okamura</surname><given-names>H</given-names>"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Seminars in Cell and Developmental Biology", 
+            "doi": "10.1016/j.semcdb.2009.02.006", 
+            "year": "2009", 
+            "title": "The nuclear transport machinery as a regulator of Drosophila development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Mason", 
+                    "collab": "<surname>Mason</surname><given-names>DA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Goldfarb", 
+                    "collab": "<surname>Goldfarb</surname><given-names>DS</given-names>"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Science's STKE", 
+            "doi": "10.1126/stke.2202004pl6", 
+            "year": "2004", 
+            "title": "Spatiotemporal gene expression targeting with the TARGET and gene-switch systems in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "McGuire", 
+                    "collab": "<surname>McGuire</surname><given-names>SE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Mao", 
+                    "collab": "<surname>Mao</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Davis", 
+                    "collab": "<surname>Davis</surname><given-names>RL</given-names>"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.21.19.6651-6659.2001", 
+            "year": "2001", 
+            "title": "Nuclear entry mechanism of rat PER2 (rPER2): role of rPER2 in nuclear localization of CRY protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Miyazaki", 
+                    "collab": "<surname>Miyazaki</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mesaki", 
+                    "collab": "<surname>Mesaki</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Ishida", 
+                    "collab": "<surname>Ishida</surname><given-names>N</given-names>"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Nature", 
+            "doi": "10.1038/417329a", 
+            "year": "2002", 
+            "title": "Circadian rhythms from flies to human", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Panda", 
+                    "collab": "<surname>Panda</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hogenesch", 
+                    "collab": "<surname>Hogenesch</surname><given-names>JB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Kay", 
+                    "collab": "<surname>Kay</surname><given-names>SA</given-names>"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.070036197", 
+            "year": "2000", 
+            "title": "Differential regulation of circadian pacemaker output by separate clock genes in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Park", 
+                    "collab": "<surname>Park</surname><given-names>JH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Helfrich-F\u00f6rster", 
+                    "collab": "<surname>Helfrich-F\u00f6rster</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rosbash", 
+                    "collab": "<surname>Rosbash</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Hall", 
+                    "collab": "<surname>Hall</surname><given-names>JC</given-names>"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gks1161", 
+            "year": "2013", 
+            "title": "CircaDB: a database of mammalian circadian gene expression profiles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pizarro", 
+                    "collab": "<surname>Pizarro</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hayer", 
+                    "collab": "<surname>Hayer</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Lahens", 
+                    "collab": "<surname>Lahens</surname><given-names>NF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hogenesch", 
+                    "collab": "<surname>Hogenesch</surname><given-names>JB</given-names>"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btn521", 
+            "year": "2008", 
+            "title": "WAVECLOCK: wavelet analysis of circadian oscillation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TS", 
+                    "surname": "Price", 
+                    "collab": "<surname>Price</surname><given-names>TS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Baggs", 
+                    "collab": "<surname>Baggs</surname><given-names>JE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Curtis", 
+                    "collab": "<surname>Curtis</surname><given-names>AM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "Fitzgerald", 
+                    "collab": "<surname>Fitzgerald</surname><given-names>GA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hogenesch", 
+                    "collab": "<surname>Hogenesch</surname><given-names>JB</given-names>"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nature", 
+            "doi": "10.1038/nature00965", 
+            "year": "2002", 
+            "title": "Coordination of circadian timing in mammals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Reppert", 
+                    "collab": "<surname>Reppert</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Weaver", 
+                    "collab": "<surname>Weaver</surname><given-names>DR</given-names>"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2003.08.033", 
+            "year": "2003", 
+            "title": "Nuclear localization and transcriptional repression are confined to separable domains in the circadian protein CRYPTOCHROME", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zhu", 
+                    "collab": "<surname>Zhu</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Conte", 
+                    "collab": "<surname>Conte</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Green", 
+                    "collab": "<surname>Green</surname><given-names>CB</given-names>"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Journal of Cell Science", 
+            "doi": "10.1242/jcs.03174", 
+            "year": "2006", 
+            "title": "Circadian oscillators of Drosophila and mammals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Yu", 
+                    "collab": "<surname>Yu</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Hardin", 
+                    "collab": "<surname>Hardin</surname><given-names>PE</given-names>"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.08.031", 
+            "year": "2009", 
+            "title": "A genome-wide RNAi screen for modifiers of the circadian clock in human cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>EE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>AC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hirota", 
+                    "collab": "<surname>Hirota</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Miraglia", 
+                    "collab": "<surname>Miraglia</surname><given-names>LJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Welch", 
+                    "collab": "<surname>Welch</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PY", 
+                    "surname": "Pongsawakul", 
+                    "collab": "<surname>Pongsawakul</surname><given-names>PY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Atwood", 
+                    "collab": "<surname>Atwood</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Huss", 
+                    "suffix": "III", 
+                    "collab": "<surname>Huss</surname><given-names>JW</given-names><suffix>III</suffix>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Janes", 
+                    "collab": "<surname>Janes</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AI", 
+                    "surname": "Su", 
+                    "collab": "<surname>Su</surname><given-names>AI</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hogenesch", 
+                    "collab": "<surname>Hogenesch</surname><given-names>JB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Kay", 
+                    "collab": "<surname>Kay</surname><given-names>SA</given-names>"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/21.6.1301", 
+            "year": "2002", 
+            "title": "Nucleocytoplasmic shuttling and mCRY-dependent inhibition of ubiquitylation of the mPER2 clock protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yagita", 
+                    "collab": "<surname>Yagita</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Tamanini", 
+                    "collab": "<surname>Tamanini</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yasuda", 
+                    "collab": "<surname>Yasuda</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Hoeijmakers", 
+                    "collab": "<surname>Hoeijmakers</surname><given-names>JH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GT", 
+                    "surname": "van der Horst", 
+                    "collab": "<surname>van der Horst</surname><given-names>GT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Okamura", 
+                    "collab": "<surname>Okamura</surname><given-names>H</given-names>"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.01.055", 
+            "year": "2013", 
+            "title": "Competing E3 ubiquitin ligases govern circadian periodicity by degradation of CRY in nucleus and cytoplasm", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Yoo", 
+                    "collab": "<surname>Yoo</surname><given-names>SH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Mohawk", 
+                    "collab": "<surname>Mohawk</surname><given-names>JA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Siepka", 
+                    "collab": "<surname>Siepka</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shan", 
+                    "collab": "<surname>Shan</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Huh", 
+                    "collab": "<surname>Huh</surname><given-names>SK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HK", 
+                    "surname": "Hong", 
+                    "collab": "<surname>Hong</surname><given-names>HK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Kornblum", 
+                    "collab": "<surname>Kornblum</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Kumar", 
+                    "collab": "<surname>Kumar</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Koike", 
+                    "collab": "<surname>Koike</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nussbaum", 
+                    "collab": "<surname>Nussbaum</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZJ", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>ZJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Green", 
+                    "collab": "<surname>Green</surname><given-names>CB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Takahashi", 
+                    "collab": "<surname>Takahashi</surname><given-names>JS</given-names>"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2009-10-11-r130", 
+            "year": "2009", 
+            "title": "BioGPS: an extensible and customizable portal for querying and organizing gene annotation resources", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wu", 
+                    "collab": "<surname>Wu</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Orozco", 
+                    "collab": "<surname>Orozco</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Boyer", 
+                    "collab": "<surname>Boyer</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Leglise", 
+                    "collab": "<surname>Leglise</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Goodale", 
+                    "collab": "<surname>Goodale</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Batalov", 
+                    "collab": "<surname>Batalov</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Hodge", 
+                    "collab": "<surname>Hodge</surname><given-names>CL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Haase", 
+                    "collab": "<surname>Haase</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Janes", 
+                    "collab": "<surname>Janes</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Huss", 
+                    "suffix": "III", 
+                    "collab": "<surname>Huss</surname><given-names>JW</given-names><suffix>III</suffix>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AI", 
+                    "surname": "Su", 
+                    "collab": "<surname>Su</surname><given-names>AI</given-names>"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Genes and Development", 
+            "year": "2000", 
+            "title": "Dimerization and nuclear entry of mPER proteins in mammalian cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yagita", 
+                    "collab": "<surname>Yagita</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Yamaguchi", 
+                    "collab": "<surname>Yamaguchi</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Tamanini", 
+                    "collab": "<surname>Tamanini</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GT", 
+                    "surname": "van Der Horst", 
+                    "collab": "<surname>van Der Horst</surname><given-names>GT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Hoeijmakers", 
+                    "collab": "<surname>Hoeijmakers</surname><given-names>JH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yasui", 
+                    "collab": "<surname>Yasui</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Loros", 
+                    "collab": "<surname>Loros</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Dunlap", 
+                    "collab": "<surname>Dunlap</surname><given-names>JC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Okamura", 
+                    "collab": "<surname>Okamura</surname><given-names>H</given-names>"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.01.054", 
+            "year": "2013", 
+            "title": "FBXL21 regulates oscillation of the circadian clock through ubiquitination and stabilization of cryptochromes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hirano", 
+                    "collab": "<surname>Hirano</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yumimoto", 
+                    "collab": "<surname>Yumimoto</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tsunematsu", 
+                    "collab": "<surname>Tsunematsu</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Matsumoto", 
+                    "collab": "<surname>Matsumoto</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Oyama", 
+                    "collab": "<surname>Oyama</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kozuka-Hata", 
+                    "collab": "<surname>Kozuka-Hata</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nakagawa", 
+                    "collab": "<surname>Nakagawa</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lanjakornsiripan", 
+                    "collab": "<surname>Lanjakornsiripan</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KI", 
+                    "surname": "Nakayama", 
+                    "collab": "<surname>Nakayama</surname><given-names>KI</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Fukada", 
+                    "collab": "<surname>Fukada</surname><given-names>Y</given-names>"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "ACS Chemical Biology", 
+            "doi": "10.1021/cb100094k", 
+            "year": "2010", 
+            "title": "Identification of a small molecule inhibitor of importin beta mediated nuclear import by confocal on-bead screening of tagged one-bead one-compound libraries", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hintersteiner", 
+                    "collab": "<surname>Hintersteiner</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Ambrus", 
+                    "collab": "<surname>Ambrus</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bednenko", 
+                    "collab": "<surname>Bednenko</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schmied", 
+                    "collab": "<surname>Schmied</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Knox", 
+                    "collab": "<surname>Knox</surname><given-names>AJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NC", 
+                    "surname": "Meisner", 
+                    "collab": "<surname>Meisner</surname><given-names>NC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gstach", 
+                    "collab": "<surname>Gstach</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Seifert", 
+                    "collab": "<surname>Seifert</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Singer", 
+                    "collab": "<surname>Singer</surname><given-names>EL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Gerace", 
+                    "collab": "<surname>Gerace</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Auer", 
+                    "collab": "<surname>Auer</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(03)00164-8", 
+            "year": "2003", 
+            "title": "Circadian dynamics of cytosolic and nuclear Ca2+ in single suprachiasmatic nucleus neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ikeda", 
+                    "collab": "<surname>Ikeda</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sugiyama", 
+                    "collab": "<surname>Sugiyama</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Wallace", 
+                    "collab": "<surname>Wallace</surname><given-names>CS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Gompf", 
+                    "collab": "<surname>Gompf</surname><given-names>HS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yoshioka", 
+                    "collab": "<surname>Yoshioka</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Miyawaki", 
+                    "collab": "<surname>Miyawaki</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CN", 
+                    "surname": "Allen", 
+                    "collab": "<surname>Allen</surname><given-names>CN</given-names>"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M305028200", 
+            "year": "2003", 
+            "title": "Functional and structural analyses of cryptochrome. Vertebrate CRY regions responsible for interaction with the CLOCK: BMAL1 heterodimer and its nuclear localization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hirayama", 
+                    "collab": "<surname>Hirayama</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Nakamura", 
+                    "collab": "<surname>Nakamura</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ishikawa", 
+                    "collab": "<surname>Ishikawa</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kobayashi", 
+                    "collab": "<surname>Kobayashi</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Todo", 
+                    "collab": "<surname>Todo</surname><given-names>T</given-names>"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/16.6.1153", 
+            "year": "1997", 
+            "title": "Dominant-negative mutants of importin-beta block multiple pathways of import and export through the nuclear pore complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Kutay", 
+                    "collab": "<surname>Kutay</surname><given-names>U</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Izaurralde", 
+                    "collab": "<surname>Izaurralde</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FR", 
+                    "surname": "Bischoff", 
+                    "collab": "<surname>Bischoff</surname><given-names>FR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IW", 
+                    "surname": "Mattaj", 
+                    "collab": "<surname>Mattaj</surname><given-names>IW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gorlich", 
+                    "collab": "<surname>Gorlich</surname><given-names>D</given-names>"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Biochemical and Biophysical Research Communications", 
+            "doi": "10.1016/j.bbrc.2014.06.047", 
+            "year": "2014", 
+            "title": "Intracellular calcium levels can regulate Importin-dependent nuclear import", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Kaur", 
+                    "collab": "<surname>Kaur</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Ly-Huynh", 
+                    "collab": "<surname>Ly-Huynh</surname><given-names>JD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Jans", 
+                    "collab": "<surname>Jans</surname><given-names>DA</given-names>"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Science", 
+            "doi": "10.1126/science.1115901", 
+            "year": "2005", 
+            "title": "A strategy for probing the function of noncoding RNAs finds a repressor of NFAT", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Willingham", 
+                    "collab": "<surname>Willingham</surname><given-names>AT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Orth", 
+                    "collab": "<surname>Orth</surname><given-names>AP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Batalov", 
+                    "collab": "<surname>Batalov</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EC", 
+                    "surname": "Peters", 
+                    "collab": "<surname>Peters</surname><given-names>EC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Wen", 
+                    "collab": "<surname>Wen</surname><given-names>BG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Aza-Blanc", 
+                    "collab": "<surname>Aza-Blanc</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Hogenesch", 
+                    "collab": "<surname>Hogenesch</surname><given-names>JB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Schultz", 
+                    "collab": "<surname>Schultz</surname><given-names>PG</given-names>"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Science", 
+            "doi": "10.1126/science.1063097", 
+            "year": "2001", 
+            "title": "A circadian output in Drosophila mediated by neurofibromatosis-1 and Ras/MAPK", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>JA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Su", 
+                    "collab": "<surname>Su</surname><given-names>HS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bernards", 
+                    "collab": "<surname>Bernards</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Field", 
+                    "collab": "<surname>Field</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sehgal", 
+                    "collab": "<surname>Sehgal</surname><given-names>A</given-names>"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2211-05.2005", 
+            "year": "2005", 
+            "title": "A calcium flux is required for circadian rhythm generation in mammalian pacemaker neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GB", 
+                    "surname": "Lundkvist", 
+                    "collab": "<surname>Lundkvist</surname><given-names>GB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kwak", 
+                    "collab": "<surname>Kwak</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EK", 
+                    "surname": "Davis", 
+                    "collab": "<surname>Davis</surname><given-names>EK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tei", 
+                    "collab": "<surname>Tei</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Block", 
+                    "collab": "<surname>Block</surname><given-names>GD</given-names>"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Nature Immunology", 
+            "doi": "10.1038/ni.2113", 
+            "year": "2011", 
+            "title": "The kinase LRRK2 is a regulator of the transcription factor NFAT that modulates the severity of inflammatory bowel disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Krummey", 
+                    "collab": "<surname>Krummey</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Lu", 
+                    "collab": "<surname>Lu</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Cai", 
+                    "collab": "<surname>Cai</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Lenardo", 
+                    "collab": "<surname>Lenardo</surname><given-names>MJ</given-names>"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1419272111", 
+            "year": "2014", 
+            "title": "Transcriptional program of Kpna2/Importin-alpha2 regulates cellular differentiation-coupled circadian clock development in mammalian cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Umemura", 
+                    "collab": "<surname>Umemura</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Koike", 
+                    "collab": "<surname>Koike</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Matsumoto", 
+                    "collab": "<surname>Matsumoto</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Yoo", 
+                    "collab": "<surname>Yoo</surname><given-names>SH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Yasuhara", 
+                    "collab": "<surname>Yasuhara</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Takahashi", 
+                    "collab": "<surname>Takahashi</surname><given-names>JS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yagita", 
+                    "collab": "<surname>Yagita</surname><given-names>K</given-names>"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.274.11.7391", 
+            "year": "1999", 
+            "title": "Importin beta recognizes parathyroid hormone-related protein with high affinity and mediates its nuclear import in the absence of importin alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Lam", 
+                    "collab": "<surname>Lam</surname><given-names>MH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Briggs", 
+                    "collab": "<surname>Briggs</surname><given-names>LJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Hu", 
+                    "collab": "<surname>Hu</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Martin", 
+                    "collab": "<surname>Martin</surname><given-names>TJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Gillespie", 
+                    "collab": "<surname>Gillespie</surname><given-names>MT</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Jans", 
+                    "collab": "<surname>Jans</surname><given-names>DA</given-names>"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "ACS Chemical Biology", 
+            "doi": "10.1021/cb2000296", 
+            "year": "2011", 
+            "title": "Importazole, a small molecule inhibitor of the transport receptor importin-beta", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Soderholm", 
+                    "collab": "<surname>Soderholm</surname><given-names>JF</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Bird", 
+                    "collab": "<surname>Bird</surname><given-names>SL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kalab", 
+                    "collab": "<surname>Kalab</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sampathkumar", 
+                    "collab": "<surname>Sampathkumar</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hasegawa", 
+                    "collab": "<surname>Hasegawa</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Uehara-Bingen", 
+                    "collab": "<surname>Uehara-Bingen</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Weis", 
+                    "collab": "<surname>Weis</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Heald", 
+                    "collab": "<surname>Heald</surname><given-names>R</given-names>"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Biotechniques", 
+            "doi": "10.2144/000112036", 
+            "year": "2006", 
+            "title": "Identification of new fluorescent protein fragments for bimolecular fluorescence complementation analysis under physiological conditions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YJ", 
+                    "surname": "Shyu", 
+                    "collab": "<surname>Shyu</surname><given-names>YJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Liu", 
+                    "collab": "<surname>Liu</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Deng", 
+                    "collab": "<surname>Deng</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Hu", 
+                    "collab": "<surname>Hu</surname><given-names>CD</given-names>"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1019711108", 
+            "year": "2011", 
+            "title": "Dephosphorylation of the nuclear factor of activated T cells (NFAT) transcription factor is regulated by an RNA-protein scaffold complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sharma", 
+                    "collab": "<surname>Sharma</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Findlay", 
+                    "collab": "<surname>Findlay</surname><given-names>GM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Bandukwala", 
+                    "collab": "<surname>Bandukwala</surname><given-names>HS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Oberdoerffer", 
+                    "collab": "<surname>Oberdoerffer</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Baust", 
+                    "collab": "<surname>Baust</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Li", 
+                    "collab": "<surname>Li</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Schmidt", 
+                    "collab": "<surname>Schmidt</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Hogan", 
+                    "collab": "<surname>Hogan</surname><given-names>PG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Sacks", 
+                    "collab": "<surname>Sacks</surname><given-names>DB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rao", 
+                    "collab": "<surname>Rao</surname><given-names>A</given-names>"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Methods", 
+            "doi": "10.1016/j.ymeth.2009.03.001", 
+            "year": "2009", 
+            "title": "ChIP-seq: using high-throughput sequencing to discover protein-DNA interactions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Schmidt", 
+                    "collab": "<surname>Schmidt</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Wilson", 
+                    "collab": "<surname>Wilson</surname><given-names>MD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Spyrou", 
+                    "collab": "<surname>Spyrou</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Brown", 
+                    "collab": "<surname>Brown</surname><given-names>GD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hadfield", 
+                    "collab": "<surname>Hadfield</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DT", 
+                    "surname": "Odom", 
+                    "collab": "<surname>Odom</surname><given-names>DT</given-names>"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.20.13.4888-4899.2000", 
+            "year": "2000", 
+            "title": "Nuclear entry of the circadian regulator mPER1 is controlled by mammalian casein kinase I epsilon", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Vielhaber", 
+                    "collab": "<surname>Vielhaber</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Eide", 
+                    "collab": "<surname>Eide</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rivers", 
+                    "collab": "<surname>Rivers</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZH", 
+                    "surname": "Gao", 
+                    "collab": "<surname>Gao</surname><given-names>ZH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Virshup", 
+                    "collab": "<surname>Virshup</surname><given-names>DM</given-names>"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Critical Reviews in Eukaryotic Gene Expression", 
+            "doi": "10.1615/CritRevEukarGeneExpr.2013004845", 
+            "year": "2013", 
+            "title": "The nuclear import receptor Kpnbeta1 and its potential as an anticancer therapeutic target", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "van der Watt", 
+                    "collab": "<surname>van der Watt</surname><given-names>PJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Stowell", 
+                    "collab": "<surname>Stowell</surname><given-names>CL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VD", 
+                    "surname": "Leaner", 
+                    "collab": "<surname>Leaner</surname><given-names>VD</given-names>"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "KPNB1 regulates rhythmic spatio-temporal nuclear import of the PER/CRY complex and is required for negative feedback repression in mammalian and fly clock function.", 
+    "related-articles": [], 
+    "elocation-id": "e08647", 
+    "publish": "1", 
+    "article-version-id": "08647.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "KPNB1", 
+            "PER", 
+            "CRY", 
+            "nuclear entry", 
+            "circadian clock"
+        ], 
+        "research-organism": [
+            "<italic>D. melanogaster</italic>", 
+            "human", 
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.08647", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100004897", 
+                "award-id": "Penn Genome Frontiers Institute under a HRFF", 
+                "institution": "Pennsylvania Department of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000185", 
+                "award-id": "John Harer, Duke University, DARPA-D12AP00025", 
+                "institution": "Defense Advanced Research Projects Agency (DARPA)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000065", 
+                "award-id": "JBH, 1R01NS054794-06", 
+                "institution": "National Institute of Neurological Disorders and Stroke (NINDS)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Neuroscience", 
+                "email": null, 
+                "city": "Philadelphia", 
+                "institution": "Howard Hughes Medical Institute, University of Pennsylvania Perelman School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Systems Pharmacology and Translational Therapeutics, Institute for Translational Medicine and Therapeutics", 
+                "email": null, 
+                "city": "Philadelphia", 
+                "institution": "Perelman School of Medicine at the University of Pennsylvania", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "YL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con2": "ARJ, Conception and design, Acquisition of data, Analysis and interpretation of data, Contributed unpublished essential data or reagents", 
+            "con3": "LJF, Acquisition of data, Analysis and interpretation of data, Contributed unpublished essential data or reagents", 
+            "con4": "AS, Conception and design, Analysis and interpretation of data, Contributed unpublished essential data or reagents", 
+            "con5": "JBH, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents"
+        }, 
+        "email": {
+            "cor1": "hogenesc@mail.med.upenn.edu"
+        }
+    }, 
+    "path": "content/4/e08647", 
+    "fragments": [
+        {
+            "path": "content/4/e08647/abstract-1", 
+            "doi": "10.7554/eLife.08647.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e08647/abstract-2", 
+            "doi": "10.7554/eLife.08647.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e08647/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e08647/F1/F2", 
+                    "doi": "10.7554/eLife.08647.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08647/F1/F3", 
+                    "doi": "10.7554/eLife.08647.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.08647.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e08647/F4", 
+            "fragments": [
+                {
+                    "path": "content/4/e08647/F4/F5", 
+                    "doi": "10.7554/eLife.08647.007", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08647.006", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e08647/F6", 
+            "fragments": [
+                {
+                    "path": "content/4/e08647/F6/F7", 
+                    "doi": "10.7554/eLife.08647.009", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08647/F6/F8", 
+                    "doi": "10.7554/eLife.08647.010", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.08647.008", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e08647/F9", 
+            "fragments": [
+                {
+                    "path": "content/4/e08647/F9/F10", 
+                    "doi": "10.7554/eLife.08647.012", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08647/F9/F11", 
+                    "doi": "10.7554/eLife.08647.013", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e08647/F9/F12", 
+                    "doi": "10.7554/eLife.08647.014", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/4/e08647/F9/F13", 
+                    "doi": "10.7554/eLife.08647.015", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 4."
+                }
+            ], 
+            "doi": "10.7554/eLife.08647.011", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e08647/F14", 
+            "doi": "10.7554/eLife.08647.016", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e08647/F15", 
+            "doi": "10.7554/eLife.08647.017", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e08647/DC1", 
+            "doi": "10.7554/eLife.08647.018", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e08647/1", 
+            "doi": "10.7554/eLife.08647.019", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Kramer", 
+                    "given-names": "Achim", 
+                    "role": "Reviewing editor", 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e08647/2", 
+            "doi": "10.7554/eLife.08647.020", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.08647", 
+    "categories": {
+        "heading": [
+            "Cell biology", 
+            "Genomics and evolutionary biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

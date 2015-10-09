@@ -1,0 +1,2551 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "surname": "Fung", 
+            "given-names": "Ho Yee Joyce", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-6"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0002-0502-1957", 
+            "type": "author", 
+            "id": "author-37807"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Szu-Chin", 
+            "surname": "Fu", 
+            "id": "author-38431", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Chad A", 
+            "surname": "Brautigam", 
+            "id": "author-4337", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Chook", 
+            "corresp": "yes", 
+            "given-names": "Yuh Min", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3", 
+                    "par-4", 
+                    "par-5"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-1789"
+        }, 
+        {
+            "surname": "Zhang", 
+            "affiliations": [
+                {
+                    "country": "Hong Kong", 
+                    "institution": "Hong Kong University of Science and Technology"
+                }
+            ], 
+            "given-names": "Mingjie", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-4727"
+        }
+    ], 
+    "pub-date": "2015-09-08", 
+    "title": "Structural determinants of nuclear export signal orientation in binding to exportin CRM1", 
+    "citations": {
+        "bib34": {
+            "source": "Science", 
+            "doi": "10.1126/science.1173388", 
+            "year": "2009", 
+            "title": "Crystal structure of the nuclear export receptor CRM1 in complex with Snurportin1 and RanGTP", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Monecke", 
+                    "collab": "<surname>Monecke</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Guttler", 
+                    "collab": "<surname>Guttler</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Neumann", 
+                    "collab": "<surname>Neumann</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Dickmanns", 
+                    "collab": "<surname>Dickmanns</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gorlich", 
+                    "collab": "<surname>Gorlich</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ficner", 
+                    "collab": "<surname>Ficner</surname><given-names>R</given-names>"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)81419-1", 
+            "year": "1998", 
+            "title": "Crystallographic analysis of the recognition of a nuclear localization signal by the nuclear import factor karyopherin alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Conti", 
+                    "collab": "<surname>Conti</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Uy", 
+                    "collab": "<surname>Uy</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Leighton", 
+                    "collab": "<surname>Leighton</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Blobel", 
+                    "collab": "<surname>Blobel</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kuriyan", 
+                    "collab": "<surname>Kuriyan</surname><given-names>J</given-names>"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/20367", 
+            "year": "1999", 
+            "title": "Structure of importin-beta bound to the IBB domain of importin-alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Cingolani", 
+                    "collab": "<surname>Cingolani</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Petosa", 
+                    "collab": "<surname>Petosa</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Weis", 
+                    "collab": "<surname>Weis</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "Muller", 
+                    "collab": "<surname>Muller</surname><given-names>CW</given-names>"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkr493", 
+            "year": "2011", 
+            "title": "Prediction of leucine-rich nuclear export signal containing proteins with NESsential", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Fu", 
+                    "collab": "<surname>Fu</surname><given-names>SC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Imai", 
+                    "collab": "<surname>Imai</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Horton", 
+                    "collab": "<surname>Horton</surname><given-names>P</given-names>"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Acta Crystallographica. Section D, Biological Crystallography", 
+            "doi": "10.1107/S0907444909052925", 
+            "year": "2010", 
+            "title": "PHENIX: a comprehensive Python-based system for macromolecular structure solution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Adams", 
+                    "collab": "<surname>Adams</surname><given-names>PD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Afonine", 
+                    "collab": "<surname>Afonine</surname><given-names>PV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bunkoczi", 
+                    "collab": "<surname>Bunkoczi</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>VB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IW", 
+                    "surname": "Davis", 
+                    "collab": "<surname>Davis</surname><given-names>IW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Echols", 
+                    "collab": "<surname>Echols</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd", 
+                    "collab": "<surname>Headd</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Hung", 
+                    "collab": "<surname>Hung</surname><given-names>LW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kapral", 
+                    "collab": "<surname>Kapral</surname><given-names>GJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Grosse-Kunstleve", 
+                    "collab": "<surname>Grosse-Kunstleve</surname><given-names>RW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "McCoy", 
+                    "collab": "<surname>McCoy</surname><given-names>AJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Moriarty", 
+                    "collab": "<surname>Moriarty</surname><given-names>NW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Oeffner", 
+                    "collab": "<surname>Oeffner</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Read", 
+                    "collab": "<surname>Read</surname><given-names>RJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Richardson", 
+                    "collab": "<surname>Richardson</surname><given-names>DC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Richardson", 
+                    "collab": "<surname>Richardson</surname><given-names>JS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Terwilliger", 
+                    "collab": "<surname>Terwilliger</surname><given-names>TC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "Zwart", 
+                    "collab": "<surname>Zwart</surname><given-names>PH</given-names>"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev-biochem-072711-164732", 
+            "year": "2013", 
+            "title": "Signal recognition particle: an essential protein-targeting machine", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Akopian", 
+                    "collab": "<surname>Akopian</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shen", 
+                    "collab": "<surname>Shen</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SO", 
+                    "surname": "Shan", 
+                    "collab": "<surname>Shan</surname><given-names>SO</given-names>"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Acta Crystallographica. Section D, Biological Crystallography", 
+            "doi": "10.1107/S0907444912001308", 
+            "year": "2012", 
+            "title": "Towards automated crystallographic structure refinement with phenix.refine", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Afonine", 
+                    "collab": "<surname>Afonine</surname><given-names>PV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Grosse-Kunstleve", 
+                    "collab": "<surname>Grosse-Kunstleve</surname><given-names>RW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Echols", 
+                    "collab": "<surname>Echols</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd", 
+                    "collab": "<surname>Headd</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Moriarty", 
+                    "collab": "<surname>Moriarty</surname><given-names>NW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mustyakimov", 
+                    "collab": "<surname>Mustyakimov</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Terwilliger", 
+                    "collab": "<surname>Terwilliger</surname><given-names>TC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Urzhumtsev", 
+                    "collab": "<surname>Urzhumtsev</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "Zwart", 
+                    "collab": "<surname>Zwart</surname><given-names>PH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Adams", 
+                    "collab": "<surname>Adams</surname><given-names>PD</given-names>"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Methods in Enzymology", 
+            "doi": "10.1016/bs.mie.2015.05.001", 
+            "year": "2015", 
+            "title": "Calculations and publication-quality illustrations for analytical ultracentrifugation data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Brautigam", 
+                    "collab": "<surname>Brautigam</surname><given-names>CA</given-names>"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Data reduction and error analysis for the physical sciences", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Bevington", 
+                    "collab": "<surname>Bevington</surname><given-names>PR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DK", 
+                    "surname": "Robinson", 
+                    "collab": "<surname>Robinson</surname><given-names>DK</given-names>"
+                }
+            ], 
+            "year": "1992"
+        }, 
+        "bib7": {
+            "source": "Nature", 
+            "doi": "10.1038/20375", 
+            "year": "1999", 
+            "title": "Structure of the nuclear transport complex karyopherin-beta2-Ran x GppNHp", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Blobel", 
+                    "collab": "<surname>Blobel</surname><given-names>G</given-names>"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Acta Crystallographica. Section D, Biological Crystallography", 
+            "doi": "10.1107/S0907444909042073", 
+            "year": "2010", 
+            "title": "MolProbity: all-atom structure validation for macromolecular crystallography", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>VB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Arendall", 
+                    "suffix": "III", 
+                    "collab": "<surname>Arendall</surname><given-names>WB</given-names><suffix>III</suffix>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd", 
+                    "collab": "<surname>Headd</surname><given-names>JJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Keedy", 
+                    "collab": "<surname>Keedy</surname><given-names>DA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Immormino", 
+                    "collab": "<surname>Immormino</surname><given-names>RM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kapral", 
+                    "collab": "<surname>Kapral</surname><given-names>GJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Murray", 
+                    "collab": "<surname>Murray</surname><given-names>LW</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Richardson", 
+                    "collab": "<surname>Richardson</surname><given-names>JS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Richardson", 
+                    "collab": "<surname>Richardson</surname><given-names>DC</given-names>"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Protein Engineering, Design & Selection", 
+            "doi": "10.1093/protein/gzh062", 
+            "year": "2004", 
+            "title": "Analysis and prediction of leucine-rich nuclear export signals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "la Cour", 
+                    "collab": "<surname>la Cour</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Kiemer", 
+                    "collab": "<surname>Kiemer</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Molgaard", 
+                    "collab": "<surname>Molgaard</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Gupta", 
+                    "collab": "<surname>Gupta</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Skriver", 
+                    "collab": "<surname>Skriver</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brunak", 
+                    "collab": "<surname>Brunak</surname><given-names>S</given-names>"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Blood", 
+            "doi": "10.1182/blood-2012-05-429506", 
+            "year": "2012", 
+            "title": "Selective inhibitors of nuclear export show that CRM1/XPO1 is a target in chronic lymphocytic leukemia", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lapalombella", 
+                    "collab": "<surname>Lapalombella</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Sun", 
+                    "collab": "<surname>Sun</surname><given-names>Q</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Tangeman", 
+                    "collab": "<surname>Tangeman</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Jha", 
+                    "collab": "<surname>Jha</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhong", 
+                    "collab": "<surname>Zhong</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Goettl", 
+                    "collab": "<surname>Goettl</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mahoney", 
+                    "collab": "<surname>Mahoney</surname><given-names>E</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Berglund", 
+                    "collab": "<surname>Berglund</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gupta", 
+                    "collab": "<surname>Gupta</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Farmer", 
+                    "collab": "<surname>Farmer</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Mani", 
+                    "collab": "<surname>Mani</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Johnson", 
+                    "collab": "<surname>Johnson</surname><given-names>AJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lucas", 
+                    "collab": "<surname>Lucas</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Mo", 
+                    "collab": "<surname>Mo</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Daelemans", 
+                    "collab": "<surname>Daelemans</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Sandanayaka", 
+                    "collab": "<surname>Sandanayaka</surname><given-names>V</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shechter", 
+                    "collab": "<surname>Shechter</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "McCauley", 
+                    "collab": "<surname>McCauley</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shacham", 
+                    "collab": "<surname>Shacham</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kauffman", 
+                    "collab": "<surname>Kauffman</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Byrd", 
+                    "collab": "<surname>Byrd</surname><given-names>JC</given-names>"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1931", 
+            "year": "2010", 
+            "title": "NES consensus redefined by structures of PKI-type and Rev-type nuclear export signals bound to CRM1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "G\u00fcttler", 
+                    "collab": "<surname>G\u00fcttler</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Madl", 
+                    "collab": "<surname>Madl</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Neumann", 
+                    "collab": "<surname>Neumann</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Deichsel", 
+                    "collab": "<surname>Deichsel</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Corsini", 
+                    "collab": "<surname>Corsini</surname><given-names>L</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Monecke", 
+                    "collab": "<surname>Monecke</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ficner", 
+                    "collab": "<surname>Ficner</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sattler", 
+                    "collab": "<surname>Sattler</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "G\u00f6rlich", 
+                    "collab": "<surname>G\u00f6rlich</surname><given-names>D</given-names>"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature neuroscience", 
+            "doi": "10.1038/nn.3953", 
+            "year": "2015", 
+            "title": "Nuclear export inhibitors avert progression in preclinical models of inflammatory demyelination", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Haines", 
+                    "collab": "<surname>Haines</surname><given-names>JD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Herbin", 
+                    "collab": "<surname>Herbin</surname><given-names>O</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "de la Hera", 
+                    "collab": "<surname>de la Hera</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OG", 
+                    "surname": "Vidaurre", 
+                    "collab": "<surname>Vidaurre</surname><given-names>OG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "Moy", 
+                    "collab": "<surname>Moy</surname><given-names>GA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Sun", 
+                    "collab": "<surname>Sun</surname><given-names>Q</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Fung", 
+                    "collab": "<surname>Fung</surname><given-names>HY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Albrecht", 
+                    "collab": "<surname>Albrecht</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Alexandropoulos", 
+                    "collab": "<surname>Alexandropoulos</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "McCauley", 
+                    "collab": "<surname>McCauley</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kuhlmann", 
+                    "collab": "<surname>Kuhlmann</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kidd", 
+                    "collab": "<surname>Kidd</surname><given-names>GJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shacham", 
+                    "collab": "<surname>Shacham</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Casaccia", 
+                    "collab": "<surname>Casaccia</surname><given-names>P</given-names>"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08870", 
+            "year": "2010", 
+            "title": "Recognition of a signal peptide by the signal recognition particle", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CY", 
+                    "surname": "Janda", 
+                    "collab": "<surname>Janda</surname><given-names>CY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Li", 
+                    "collab": "<surname>Li</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Oubridge", 
+                    "collab": "<surname>Oubridge</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hernandez", 
+                    "collab": "<surname>Hernandez</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Robinson", 
+                    "collab": "<surname>Robinson</surname><given-names>CV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Nagai", 
+                    "collab": "<surname>Nagai</surname><given-names>K</given-names>"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Biochemical and Biophysical Research Communications", 
+            "doi": "10.1016/j.bbrc.2015.05.060", 
+            "year": "2015", 
+            "title": "Crystal structure of the karyopherin Kap121p bound to the extreme C-terminus of the protein phosphatase Cdc14p", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kobayashi", 
+                    "collab": "<surname>Kobayashi</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hirano", 
+                    "collab": "<surname>Hirano</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Matsuura", 
+                    "collab": "<surname>Matsuura</surname><given-names>Y</given-names>"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Traffic", 
+            "doi": "10.1111/j.1600-0854.2008.00825.x", 
+            "year": "2008", 
+            "title": "Nuclear export signal consensus sequences defined using a localization-based yeast selection system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kosugi", 
+                    "collab": "<surname>Kosugi</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hasebe", 
+                    "collab": "<surname>Hasebe</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomita", 
+                    "collab": "<surname>Tomita</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yanagawa", 
+                    "collab": "<surname>Yanagawa</surname><given-names>H</given-names>"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2010.89", 
+            "year": "2010", 
+            "title": "An allosteric mechanism to displace nuclear export cargo from CRM1 and RanGTP by RanBP1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koyama", 
+                    "collab": "<surname>Koyama</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Matsuura", 
+                    "collab": "<surname>Matsuura</surname><given-names>Y</given-names>"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2014.09.052", 
+            "year": "2014", 
+            "title": "Structural insights into how Yrb2p accelerates the assembly of the Xpo1p nuclear export complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koyama", 
+                    "collab": "<surname>Koyama</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Shirai", 
+                    "collab": "<surname>Shirai</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Matsuura", 
+                    "collab": "<surname>Matsuura</surname><given-names>Y</given-names>"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Trends in Cell Biology", 
+            "doi": "10.1016/j.tcb.2005.01.005", 
+            "year": "2005", 
+            "title": "Leucine-rich nuclear-export signals: born to be weak", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Kutay", 
+                    "collab": "<surname>Kutay</surname><given-names>U</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Guttinger", 
+                    "collab": "<surname>Guttinger</surname><given-names>S</given-names>"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E12-01-0045", 
+            "year": "2012b", 
+            "title": "NESdb: a database of NES-containing CRM1 cargoes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Grishin", 
+                    "collab": "<surname>Grishin</surname><given-names>NV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btu826", 
+            "year": "2015", 
+            "title": "LocNES: a computational tool for locating classical NESs in CRM1 cargo proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Marquis", 
+                    "collab": "<surname>Marquis</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Pei", 
+                    "collab": "<surname>Pei</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Fu", 
+                    "collab": "<surname>Fu</surname><given-names>SC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Cagatay", 
+                    "collab": "<surname>Cagatay</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Grishin", 
+                    "collab": "<surname>Grishin</surname><given-names>NV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Current Opinion in Structural Biology", 
+            "doi": "10.1016/j.sbi.2010.09.008", 
+            "year": "2010", 
+            "title": "Recognition of nuclear targeting signals by Karyopherin-beta proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Farmer", 
+                    "collab": "<surname>Farmer</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E12-01-0046", 
+            "year": "2012a", 
+            "title": "Sequence and structural analyses of nuclear export signals in the NESdb database", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Farmer", 
+                    "collab": "<surname>Farmer</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Collett", 
+                    "collab": "<surname>Collett</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Grishin", 
+                    "collab": "<surname>Grishin</surname><given-names>NV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1217203110", 
+            "year": "2013", 
+            "title": "Nuclear export inhibition through covalent conjugation and hydrolysis of Leptomycin B by CRM1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Sun", 
+                    "collab": "<surname>Sun</surname><given-names>Q</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YP", 
+                    "surname": "Carrasco", 
+                    "collab": "<surname>Carrasco</surname><given-names>YP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hu", 
+                    "collab": "<surname>Hu</surname><given-names>Y</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Guo", 
+                    "collab": "<surname>Guo</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Mirzaei", 
+                    "collab": "<surname>Mirzaei</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Macmillan", 
+                    "collab": "<surname>Macmillan</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb798", 
+            "year": "2004", 
+            "title": "HBP1 and Mad1 repressors bind the Sin3 corepressor PAH2 domain with opposite helical orientations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Swanson", 
+                    "collab": "<surname>Swanson</surname><given-names>KA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Knoepfler", 
+                    "collab": "<surname>Knoepfler</surname><given-names>PS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Huang", 
+                    "collab": "<surname>Huang</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Kang", 
+                    "collab": "<surname>Kang</surname><given-names>RS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Cowley", 
+                    "collab": "<surname>Cowley</surname><given-names>SM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Laherty", 
+                    "collab": "<surname>Laherty</surname><given-names>CD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RN", 
+                    "surname": "Eisenman", 
+                    "collab": "<surname>Eisenman</surname><given-names>RN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Radhakrishnan", 
+                    "collab": "<surname>Radhakrishnan</surname><given-names>I</given-names>"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "The Biochemical Journal", 
+            "doi": "10.1042/BJ20150368", 
+            "year": "2015", 
+            "title": "Nuclear localization signals for four distinct karyopherin-beta nuclear import systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Soniat", 
+                    "collab": "<surname>Soniat</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Journal of Structural and Functional Genomics", 
+            "doi": "10.1007/s10969-013-9150-1", 
+            "year": "2013", 
+            "title": "Crystal structure of human Karyopherin beta2 bound to the PY-NLS of Saccharomyces cerevisiae Nab2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Soniat", 
+                    "collab": "<surname>Soniat</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Sampathkumar", 
+                    "collab": "<surname>Sampathkumar</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Collett", 
+                    "collab": "<surname>Collett</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Gizzi", 
+                    "collab": "<surname>Gizzi</surname><given-names>AS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RN", 
+                    "surname": "Banu", 
+                    "collab": "<surname>Banu</surname><given-names>RN</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Bhosle", 
+                    "collab": "<surname>Bhosle</surname><given-names>RC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chamala", 
+                    "collab": "<surname>Chamala</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chowdhury", 
+                    "collab": "<surname>Chowdhury</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fiser", 
+                    "collab": "<surname>Fiser</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Glenn", 
+                    "collab": "<surname>Glenn</surname><given-names>AS</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hammonds", 
+                    "collab": "<surname>Hammonds</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Hillerich", 
+                    "collab": "<surname>Hillerich</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Khafizov", 
+                    "collab": "<surname>Khafizov</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Love", 
+                    "collab": "<surname>Love</surname><given-names>JD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Matikainen", 
+                    "collab": "<surname>Matikainen</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Seidel", 
+                    "collab": "<surname>Seidel</surname><given-names>RD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Toro", 
+                    "collab": "<surname>Toro</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Rajesh Kumar", 
+                    "collab": "<surname>Rajesh Kumar</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Bonanno", 
+                    "collab": "<surname>Bonanno</surname><given-names>JB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Almo", 
+                    "collab": "<surname>Almo</surname><given-names>SC</given-names>"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "The PyMOL molecular graphics system, version 1.7.0.1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LLC", 
+                    "surname": "Schrodinger", 
+                    "collab": "<surname>Schrodinger</surname><given-names>LLC</given-names>"
+                }
+            ], 
+            "year": "2010"
+        }, 
+        "bib41": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M507059200", 
+            "year": "2005", 
+            "title": "Small ubiquitin-like modifier (SUMO) recognition of a SUMO binding motif: a reversal of the bound orientation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Song", 
+                    "collab": "<surname>Song</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Hu", 
+                    "collab": "<surname>Hu</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>Y</given-names>"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Acta Crystallographica. Section D, Biological Crystallography", 
+            "doi": "10.1107/S0907444910007493", 
+            "year": "2010", 
+            "title": "Features and development of Coot", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Emsley", 
+                    "collab": "<surname>Emsley</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Lohkamp", 
+                    "collab": "<surname>Lohkamp</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WG", 
+                    "surname": "Scott", 
+                    "collab": "<surname>Scott</surname><given-names>WG</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cowtan", 
+                    "collab": "<surname>Cowtan</surname><given-names>K</given-names>"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Nature", 
+            "doi": "10.1038/nature07975", 
+            "year": "2009", 
+            "title": "Structural basis for leucine-rich nuclear export signal recognition by CRM1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Dong", 
+                    "collab": "<surname>Dong</surname><given-names>X</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Biswas", 
+                    "collab": "<surname>Biswas</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Suel", 
+                    "collab": "<surname>Suel</surname><given-names>KE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LK", 
+                    "surname": "Jackson", 
+                    "collab": "<surname>Jackson</surname><given-names>LK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Martinez", 
+                    "collab": "<surname>Martinez</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gu", 
+                    "collab": "<surname>Gu</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Science", 
+            "doi": "10.1126/science.7526465", 
+            "year": "1994", 
+            "title": "Two binding orientations for peptides to the Src SH3 domain: development of a general model for SH3-ligand interactions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Feng", 
+                    "collab": "<surname>Feng</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>JK</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yu", 
+                    "collab": "<surname>Yu</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Simon", 
+                    "collab": "<surname>Simon</surname><given-names>JA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Schreiber", 
+                    "collab": "<surname>Schreiber</surname><given-names>SL</given-names>"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Leukemia", 
+            "doi": "10.1038/leu.2012.219", 
+            "year": "2013", 
+            "title": "Antileukemic activity of nuclear export inhibitors that spare normal hematopoietic cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Etchin", 
+                    "collab": "<surname>Etchin</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Sun", 
+                    "collab": "<surname>Sun</surname><given-names>Q</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kentsis", 
+                    "collab": "<surname>Kentsis</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Farmer", 
+                    "collab": "<surname>Farmer</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZC", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>ZC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sanda", 
+                    "collab": "<surname>Sanda</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Mansour", 
+                    "collab": "<surname>Mansour</surname><given-names>MR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Barcelo", 
+                    "collab": "<surname>Barcelo</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "McCauley", 
+                    "collab": "<surname>McCauley</surname><given-names>D</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kauffman", 
+                    "collab": "<surname>Kauffman</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shacham", 
+                    "collab": "<surname>Shacham</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Christie", 
+                    "collab": "<surname>Christie</surname><given-names>AL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Kung", 
+                    "collab": "<surname>Kung</surname><given-names>AL</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Rodig", 
+                    "collab": "<surname>Rodig</surname><given-names>SJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Look", 
+                    "collab": "<surname>Look</surname><given-names>AT</given-names>"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)80371-2", 
+            "year": "1997", 
+            "title": "CRM1 is an export receptor for leucine-rich nuclear export signals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fornerod", 
+                    "collab": "<surname>Fornerod</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ohno", 
+                    "collab": "<surname>Ohno</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yoshida", 
+                    "collab": "<surname>Yoshida</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IW", 
+                    "surname": "Mattaj", 
+                    "collab": "<surname>Mattaj</surname><given-names>IW</given-names>"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1006/jmbi.2000.3642", 
+            "year": "2000", 
+            "title": "Structural basis of recognition of monopartite and bipartite nuclear localization sequences by mammalian importin-alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Fontes", 
+                    "collab": "<surname>Fontes</surname><given-names>MR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Teh", 
+                    "collab": "<surname>Teh</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Kobe", 
+                    "collab": "<surname>Kobe</surname><given-names>B</given-names>"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Acta Crystallographica. Section D, Biological Crystallography", 
+            "doi": "10.1107/S0907444909021933", 
+            "year": "2009", 
+            "title": "Averaged kick maps: less noise, more signal... and probably less bias", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Praznikar", 
+                    "collab": "<surname>Praznikar</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Afonine", 
+                    "collab": "<surname>Afonine</surname><given-names>PV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Guncar", 
+                    "collab": "<surname>Guncar</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Adams", 
+                    "collab": "<surname>Adams</surname><given-names>PD</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Turk", 
+                    "collab": "<surname>Turk</surname><given-names>D</given-names>"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Science", 
+            "doi": "10.1126/science.278.5335.141", 
+            "year": "1997", 
+            "title": "Evidence for a role of CRM1 in signal-mediated nuclear protein export", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Ossareh-Nazari", 
+                    "collab": "<surname>Ossareh-Nazari</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bachelerie", 
+                    "collab": "<surname>Bachelerie</surname><given-names>F</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Dargemont", 
+                    "collab": "<surname>Dargemont</surname><given-names>C</given-names>"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Seminars in Cancer Biology", 
+            "doi": "10.1016/j.semcancer.2014.03.002", 
+            "year": "2014", 
+            "title": "Atomic basis of CRM1-cargo recognition, release and inhibition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HY", 
+                    "surname": "Fung", 
+                    "collab": "<surname>Fung</surname><given-names>HY</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Nature", 
+            "doi": "10.1038/36894", 
+            "year": "1997", 
+            "title": "CRM1 is responsible for intracellular transport mediated by the nuclear export signal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fukuda", 
+                    "collab": "<surname>Fukuda</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Asano", 
+                    "collab": "<surname>Asano</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nakamura", 
+                    "collab": "<surname>Nakamura</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Adachi", 
+                    "collab": "<surname>Adachi</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yoshida", 
+                    "collab": "<surname>Yoshida</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yanagida", 
+                    "collab": "<surname>Yanagida</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Nishida", 
+                    "collab": "<surname>Nishida</surname><given-names>E</given-names>"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2009.7", 
+            "year": "2009", 
+            "title": "Structural basis for competitive interactions of Pex14 with the import receptors Pex5 and Pex19", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Neufeld", 
+                    "collab": "<surname>Neufeld</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FV", 
+                    "surname": "Filipp", 
+                    "collab": "<surname>Filipp</surname><given-names>FV</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Simon", 
+                    "collab": "<surname>Simon</surname><given-names>B</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Neuhaus", 
+                    "collab": "<surname>Neuhaus</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Schuller", 
+                    "collab": "<surname>Schuller</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "David", 
+                    "collab": "<surname>David</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kooshapur", 
+                    "collab": "<surname>Kooshapur</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Madl", 
+                    "collab": "<surname>Madl</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Erdmann", 
+                    "collab": "<surname>Erdmann</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Schliebs", 
+                    "collab": "<surname>Schliebs</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wilmanns", 
+                    "collab": "<surname>Wilmanns</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sattler", 
+                    "collab": "<surname>Sattler</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gks936", 
+            "year": "2013", 
+            "title": "ValidNESs: a database of validated leucine-rich nuclear export signals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Fu", 
+                    "collab": "<surname>Fu</surname><given-names>SC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Huang", 
+                    "collab": "<surname>Huang</surname><given-names>HC</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Horton", 
+                    "collab": "<surname>Horton</surname><given-names>P</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HF", 
+                    "surname": "Juan", 
+                    "collab": "<surname>Juan</surname><given-names>HF</given-names>"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Acta Crystallographica. Section D, Biological Crystallography", 
+            "doi": "10.1107/S0907444906019949", 
+            "year": "2006", 
+            "title": "HKL-3000: the integration of data reduction and structure solution\u2013from diffraction images to an initial model in minutes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Minor", 
+                    "collab": "<surname>Minor</surname><given-names>W</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Cymborowski", 
+                    "collab": "<surname>Cymborowski</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Otwinowski", 
+                    "collab": "<surname>Otwinowski</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Chruszcz", 
+                    "collab": "<surname>Chruszcz</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Structure", 
+            "doi": "10.1016/j.str.2008.08.007", 
+            "year": "2008", 
+            "title": "Structural analysis of the interactions between paxillin LD motifs and alpha-parvin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lorenz", 
+                    "collab": "<surname>Lorenz</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Vakonakis", 
+                    "collab": "<surname>Vakonakis</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Lowe", 
+                    "collab": "<surname>Lowe</surname><given-names>ED</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ID", 
+                    "surname": "Campbell", 
+                    "collab": "<surname>Campbell</surname><given-names>ID</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Noble", 
+                    "collab": "<surname>Noble</surname><given-names>ME</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Hoellerer", 
+                    "collab": "<surname>Hoellerer</surname><given-names>MK</given-names>"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Nature", 
+            "doi": "10.1038/372375a0", 
+            "year": "1994", 
+            "title": "Structural determinants of peptide-binding orientation and of sequence specificity in SH3 domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Lim", 
+                    "collab": "<surname>Lim</surname><given-names>WA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Richards", 
+                    "collab": "<surname>Richards</surname><given-names>FM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RO", 
+                    "surname": "Fox", 
+                    "collab": "<surname>Fox</surname><given-names>RO</given-names>"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2006.05.049", 
+            "year": "2006", 
+            "title": "Rules for nuclear localization sequence recognition by karyopherin beta 2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>BJ</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Cansizoglu", 
+                    "collab": "<surname>Cansizoglu</surname><given-names>AE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Suel", 
+                    "collab": "<surname>Suel</surname><given-names>KE</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TH", 
+                    "surname": "Louis", 
+                    "collab": "<surname>Louis</surname><given-names>TH</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>Z</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chook", 
+                    "collab": "<surname>Chook</surname><given-names>YM</given-names>"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Nature structural biology", 
+            "doi": "10.1038/12271", 
+            "year": "1999", 
+            "title": "A novel target recognition revealed by calmodulin in complex with Ca2+-calmodulin-dependent kinase kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Osawa", 
+                    "collab": "<surname>Osawa</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tokumitsu", 
+                    "collab": "<surname>Tokumitsu</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Swindells", 
+                    "collab": "<surname>Swindells</surname><given-names>MB</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kurihara", 
+                    "collab": "<surname>Kurihara</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Orita", 
+                    "collab": "<surname>Orita</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Shibanuma", 
+                    "collab": "<surname>Shibanuma</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Furuya", 
+                    "collab": "<surname>Furuya</surname><given-names>T</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ikura", 
+                    "collab": "<surname>Ikura</surname><given-names>M</given-names>"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2008.18", 
+            "year": "2008", 
+            "title": "Structural basis for a novel intrapeptidyl H-bond and reverse binding of c-Cbl-TKB domain substrates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ng", 
+                    "collab": "<surname>Ng</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Jackson", 
+                    "collab": "<surname>Jackson</surname><given-names>RA</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Buschdorf", 
+                    "collab": "<surname>Buschdorf</surname><given-names>JP</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Sun", 
+                    "collab": "<surname>Sun</surname><given-names>Q</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GR", 
+                    "surname": "Guy", 
+                    "collab": "<surname>Guy</surname><given-names>GR</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sivaraman", 
+                    "collab": "<surname>Sivaraman</surname><given-names>J</given-names>"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Some nuclear export signals (NESs) bind to the transport receptor CRM1 in the opposite orientation to those previously studied.", 
+    "related-articles": [], 
+    "elocation-id": "e10034", 
+    "publish": "1", 
+    "article-version-id": "10034.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "nuclear transport", 
+            "exportin-1", 
+            "CRM1", 
+            "nuclear export signal"
+        ], 
+        "research-organism": [
+            "human", 
+            "<italic>S. cerevisiae</italic>", 
+            "viruses"
+        ]
+    }, 
+    "doi": "10.7554/eLife.10034", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-6": {
+                "id": "http://dx.doi.org/10.13039/501100001692", 
+                "award-id": "Graduate Student Scholarship", 
+                "institution": "Croucher Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/100005189", 
+                "award-id": "Scholar Award", 
+                "institution": "Leukemia and Lymphoma Society (LLS)", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000928", 
+                "award-id": "I-1532", 
+                "institution": "Welch Foundation (Robert A. Welch Foundation)", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100007914", 
+                "award-id": "Endowed Scholars Program", 
+                "institution": "University of Texas Southwestern Medical Center (UT Southwestern)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM069909", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100004917", 
+                "award-id": "RP120352, RP150053", 
+                "institution": "Cancer Prevention and Research Institute of Texas (CPRIT)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}
+        }, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Biophysics", 
+                "email": null, 
+                "city": "Dallas", 
+                "institution": "University of Texas Southwestern Medical Center", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Pharmacology", 
+                "email": null, 
+                "city": "Dallas", 
+                "institution": "University of Texas Southwestern Medical Center", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "HYJF, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "S-F, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "CAB, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "YMC, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "yuhmin.chook@utsouthwestern.edu"
+        }
+    }, 
+    "path": "content/4/e10034", 
+    "fragments": [
+        {
+            "path": "content/4/e10034/abstract-1", 
+            "doi": "10.7554/eLife.10034.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e10034/abstract-2", 
+            "doi": "10.7554/eLife.10034.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e10034/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e10034/F1/F2", 
+                    "doi": "10.7554/eLife.10034.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.10034.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e10034/T1", 
+            "doi": "10.7554/eLife.10034.005", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/4/e10034/F3", 
+            "doi": "10.7554/eLife.10034.006", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e10034/F4", 
+            "doi": "10.7554/eLife.10034.007", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e10034/F5", 
+            "fragments": [
+                {
+                    "path": "content/4/e10034/F5/F6", 
+                    "doi": "10.7554/eLife.10034.009", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e10034/F5/F7", 
+                    "doi": "10.7554/eLife.10034.010", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.10034.008", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e10034/F8", 
+            "fragments": [
+                {
+                    "path": "content/4/e10034/F8/F9", 
+                    "doi": "10.7554/eLife.10034.012", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.10034.011", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e10034/F10", 
+            "fragments": [
+                {
+                    "path": "content/4/e10034/F10/F11", 
+                    "doi": "10.7554/eLife.10034.014", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.10034.013", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e10034/F12", 
+            "doi": "10.7554/eLife.10034.015", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e10034/F13", 
+            "doi": "10.7554/eLife.10034.016", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/4/e10034/1", 
+            "doi": "10.7554/eLife.10034.017", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Zhang", 
+                    "given-names": "Mingjie", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Hong Kong", 
+                            "institution": "Hong Kong University of Science and Technology"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e10034/2", 
+            "doi": "10.7554/eLife.10034.018", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.10034", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

@@ -96,17 +96,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "RA", 
-                    "surname": "Miettinen"
+                    "surname": "Miettinen", 
+                    "collab": "<surname>Miettinen</surname><given-names>RA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "Kalesnykas"
+                    "surname": "Kalesnykas", 
+                    "collab": "<surname>Kalesnykas</surname><given-names>G</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "EH", 
-                    "surname": "Koivisto"
+                    "surname": "Koivisto", 
+                    "collab": "<surname>Koivisto</surname><given-names>EH</given-names>"
                 }
             ]
         }, 
@@ -119,121 +122,144 @@
                 {
                     "group-type": "author", 
                     "given-names": "A", 
-                    "surname": "Burns"
+                    "surname": "Burns", 
+                    "collab": "<surname>Burns</surname><given-names>A</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "O'Brien"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Auriacombe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Ballard"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Broich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Bullock"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Feldman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Ford"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Knapp"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "McCaddon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Iliffe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Jacova"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Jones"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Lennon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "McKeith"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Orgogozo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Purandare"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Richardson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Ritchie"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Thomas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Warner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Wilcock"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Wilkinson"
+                    "surname": "O'Brien", 
+                    "collab": "<surname>O'Brien</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "collab": "BAP Dementia Consensus group"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Auriacombe", 
+                    "collab": "<surname>Auriacombe</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ballard", 
+                    "collab": "<surname>Ballard</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Broich", 
+                    "collab": "<surname>Broich</surname><given-names>K</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bullock", 
+                    "collab": "<surname>Bullock</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Feldman", 
+                    "collab": "<surname>Feldman</surname><given-names>H</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Ford", 
+                    "collab": "<surname>Ford</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Knapp", 
+                    "collab": "<surname>Knapp</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "McCaddon", 
+                    "collab": "<surname>McCaddon</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Iliffe", 
+                    "collab": "<surname>Iliffe</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Jacova", 
+                    "collab": "<surname>Jacova</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Jones", 
+                    "collab": "<surname>Jones</surname><given-names>R</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lennon", 
+                    "collab": "<surname>Lennon</surname><given-names>S</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "McKeith", 
+                    "collab": "<surname>McKeith</surname><given-names>I</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Orgogozo", 
+                    "collab": "<surname>Orgogozo</surname><given-names>JM</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Purandare", 
+                    "collab": "<surname>Purandare</surname><given-names>N</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Richardson", 
+                    "collab": "<surname>Richardson</surname><given-names>M</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ritchie", 
+                    "collab": "<surname>Ritchie</surname><given-names>C</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Thomas", 
+                    "collab": "<surname>Thomas</surname><given-names>A</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Warner", 
+                    "collab": "<surname>Warner</surname><given-names>J</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wilcock", 
+                    "collab": "<surname>Wilcock</surname><given-names>G</given-names>"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Wilkinson", 
+                    "collab": "<surname>Wilkinson</surname><given-names>D</given-names>"
                 }, 
                 {
                     "group-type": "author", 
@@ -249,67 +275,80 @@
                 {
                     "group-type": "author", 
                     "given-names": "S", 
-                    "surname": "Boncristiano"
+                    "surname": "Boncristiano", 
+                    "collab": "<surname>Boncristiano</surname><given-names>S</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "ME", 
-                    "surname": "Calhoun"
+                    "surname": "Calhoun", 
+                    "collab": "<surname>Calhoun</surname><given-names>ME</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PH", 
-                    "surname": "Kelly"
+                    "surname": "Kelly", 
+                    "collab": "<surname>Kelly</surname><given-names>PH</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Pfeifer"
+                    "surname": "Pfeifer", 
+                    "collab": "<surname>Pfeifer</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Bondolfi"
+                    "surname": "Bondolfi", 
+                    "collab": "<surname>Bondolfi</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Stalder"
+                    "surname": "Stalder", 
+                    "collab": "<surname>Stalder</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AL", 
-                    "surname": "Phinney"
+                    "surname": "Phinney", 
+                    "collab": "<surname>Phinney</surname><given-names>AL</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "D", 
-                    "surname": "Abramowski"
+                    "surname": "Abramowski", 
+                    "collab": "<surname>Abramowski</surname><given-names>D</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "C", 
-                    "surname": "Sturchler-Pierrat"
+                    "surname": "Sturchler-Pierrat", 
+                    "collab": "<surname>Sturchler-Pierrat</surname><given-names>C</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "A", 
-                    "surname": "Enz"
+                    "surname": "Enz", 
+                    "collab": "<surname>Enz</surname><given-names>A</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "B", 
-                    "surname": "Sommer"
+                    "surname": "Sommer", 
+                    "collab": "<surname>Sommer</surname><given-names>B</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Staufenbiel"
+                    "surname": "Staufenbiel", 
+                    "collab": "<surname>Staufenbiel</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Jucker"
+                    "surname": "Jucker", 
+                    "collab": "<surname>Jucker</surname><given-names>M</given-names>"
                 }
             ]
         }, 
@@ -322,27 +361,32 @@
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Ferraiuolo"
+                    "surname": "Ferraiuolo", 
+                    "collab": "<surname>Ferraiuolo</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Kirby"
+                    "surname": "Kirby", 
+                    "collab": "<surname>Kirby</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AJ", 
-                    "surname": "Grierson"
+                    "surname": "Grierson", 
+                    "collab": "<surname>Grierson</surname><given-names>AJ</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Sendtner"
+                    "surname": "Sendtner", 
+                    "collab": "<surname>Sendtner</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PJ", 
-                    "surname": "Shaw"
+                    "surname": "Shaw", 
+                    "collab": "<surname>Shaw</surname><given-names>PJ</given-names>"
                 }
             ]
         }, 
@@ -354,22 +398,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "N-E", 
-                    "surname": "Anden"
+                    "surname": "Anden", 
+                    "collab": "<surname>Anden</surname><given-names>N-E</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "K", 
-                    "surname": "Fuxe"
+                    "surname": "Fuxe", 
+                    "collab": "<surname>Fuxe</surname><given-names>K</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "B", 
-                    "surname": "Hamberger"
+                    "surname": "Hamberger", 
+                    "collab": "<surname>Hamberger</surname><given-names>B</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Hokfelt"
+                    "surname": "Hokfelt", 
+                    "collab": "<surname>Hokfelt</surname><given-names>T</given-names>"
                 }
             ]
         }, 
@@ -382,37 +430,44 @@
                 {
                     "group-type": "author", 
                     "given-names": "TC", 
-                    "surname": "Badea"
+                    "surname": "Badea", 
+                    "collab": "<surname>Badea</surname><given-names>TC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "LZ", 
-                    "surname": "Hua"
+                    "surname": "Hua", 
+                    "collab": "<surname>Hua</surname><given-names>LZ</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PM", 
-                    "surname": "Smallwood"
+                    "surname": "Smallwood", 
+                    "collab": "<surname>Smallwood</surname><given-names>PM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Williams"
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Rotolo"
+                    "surname": "Rotolo", 
+                    "collab": "<surname>Rotolo</surname><given-names>T</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "X", 
-                    "surname": "Ye"
+                    "surname": "Ye", 
+                    "collab": "<surname>Ye</surname><given-names>X</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Nathans"
+                    "surname": "Nathans", 
+                    "collab": "<surname>Nathans</surname><given-names>J</given-names>"
                 }
             ]
         }, 
@@ -425,17 +480,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "N", 
-                    "surname": "Aznavour"
+                    "surname": "Aznavour", 
+                    "collab": "<surname>Aznavour</surname><given-names>N</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KC", 
-                    "surname": "Watkins"
+                    "surname": "Watkins", 
+                    "collab": "<surname>Watkins</surname><given-names>KC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Descarries"
+                    "surname": "Descarries", 
+                    "collab": "<surname>Descarries</surname><given-names>L</given-names>"
                 }
             ]
         }, 
@@ -448,17 +506,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "KA", 
-                    "surname": "Baskerville"
+                    "surname": "Baskerville", 
+                    "collab": "<surname>Baskerville</surname><given-names>KA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "HT", 
-                    "surname": "Chang"
+                    "surname": "Chang", 
+                    "collab": "<surname>Chang</surname><given-names>HT</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "P", 
-                    "surname": "Herron"
+                    "surname": "Herron", 
+                    "collab": "<surname>Herron</surname><given-names>P</given-names>"
                 }
             ]
         }, 
@@ -471,32 +532,38 @@
                 {
                     "group-type": "author", 
                     "given-names": "KG", 
-                    "surname": "Baker"
+                    "surname": "Baker", 
+                    "collab": "<surname>Baker</surname><given-names>KG</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "GM", 
-                    "surname": "Halliday"
+                    "surname": "Halliday", 
+                    "collab": "<surname>Halliday</surname><given-names>GM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JP", 
-                    "surname": "Hornung"
+                    "surname": "Hornung", 
+                    "collab": "<surname>Hornung</surname><given-names>JP</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "LB", 
-                    "surname": "Geffen"
+                    "surname": "Geffen", 
+                    "collab": "<surname>Geffen</surname><given-names>LB</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "RG", 
-                    "surname": "Cotton"
+                    "surname": "Cotton", 
+                    "collab": "<surname>Cotton</surname><given-names>RG</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "I", 
-                    "surname": "T\u00f6rk"
+                    "surname": "T\u00f6rk", 
+                    "collab": "<surname>T\u00f6rk</surname><given-names>I</given-names>"
                 }
             ]
         }, 
@@ -509,22 +576,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "RW", 
-                    "surname": "Berg"
+                    "surname": "Berg", 
+                    "collab": "<surname>Berg</surname><given-names>RW</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "B", 
-                    "surname": "Friedman"
+                    "surname": "Friedman", 
+                    "collab": "<surname>Friedman</surname><given-names>B</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "LF", 
-                    "surname": "Schroeder"
+                    "surname": "Schroeder", 
+                    "collab": "<surname>Schroeder</surname><given-names>LF</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "D", 
-                    "surname": "Kleinfeld"
+                    "surname": "Kleinfeld", 
+                    "collab": "<surname>Kleinfeld</surname><given-names>D</given-names>"
                 }
             ]
         }, 
@@ -537,17 +608,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "KA", 
-                    "surname": "Baskerville"
+                    "surname": "Baskerville", 
+                    "collab": "<surname>Baskerville</surname><given-names>KA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JB", 
-                    "surname": "Schweitzer"
+                    "surname": "Schweitzer", 
+                    "collab": "<surname>Schweitzer</surname><given-names>JB</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "P", 
-                    "surname": "Herron"
+                    "surname": "Herron", 
+                    "collab": "<surname>Herron</surname><given-names>P</given-names>"
                 }
             ]
         }, 
@@ -560,37 +634,44 @@
                 {
                     "group-type": "author", 
                     "given-names": "W", 
-                    "surname": "Matsuda"
+                    "surname": "Matsuda", 
+                    "collab": "<surname>Matsuda</surname><given-names>W</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Furuta"
+                    "surname": "Furuta", 
+                    "collab": "<surname>Furuta</surname><given-names>T</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KC", 
-                    "surname": "Nakamura"
+                    "surname": "Nakamura", 
+                    "collab": "<surname>Nakamura</surname><given-names>KC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "H", 
-                    "surname": "Hioki"
+                    "surname": "Hioki", 
+                    "collab": "<surname>Hioki</surname><given-names>H</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "F", 
-                    "surname": "Fujiyama"
+                    "surname": "Fujiyama", 
+                    "collab": "<surname>Fujiyama</surname><given-names>F</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "R", 
-                    "surname": "Arai"
+                    "surname": "Arai", 
+                    "collab": "<surname>Arai</surname><given-names>R</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Kaneko"
+                    "surname": "Kaneko", 
+                    "collab": "<surname>Kaneko</surname><given-names>T</given-names>"
                 }
             ]
         }, 
@@ -603,17 +684,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "McKinney"
+                    "surname": "McKinney", 
+                    "collab": "<surname>McKinney</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JT", 
-                    "surname": "Coyle"
+                    "surname": "Coyle", 
+                    "collab": "<surname>Coyle</surname><given-names>JT</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JC", 
-                    "surname": "Hedreen"
+                    "surname": "Hedreen", 
+                    "collab": "<surname>Hedreen</surname><given-names>JC</given-names>"
                 }
             ]
         }, 
@@ -626,52 +710,62 @@
                 {
                     "group-type": "author", 
                     "given-names": "MN", 
-                    "surname": "Gordon"
+                    "surname": "Gordon", 
+                    "collab": "<surname>Gordon</surname><given-names>MN</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "LA", 
-                    "surname": "Holcomb"
+                    "surname": "Holcomb", 
+                    "collab": "<surname>Holcomb</surname><given-names>LA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PT", 
-                    "surname": "Jantzen"
+                    "surname": "Jantzen", 
+                    "collab": "<surname>Jantzen</surname><given-names>PT</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "DiCarlo"
+                    "surname": "DiCarlo", 
+                    "collab": "<surname>DiCarlo</surname><given-names>G</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "D", 
-                    "surname": "Wilcock"
+                    "surname": "Wilcock", 
+                    "collab": "<surname>Wilcock</surname><given-names>D</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KW", 
-                    "surname": "Boyett"
+                    "surname": "Boyett", 
+                    "collab": "<surname>Boyett</surname><given-names>KW</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "K", 
-                    "surname": "Connor"
+                    "surname": "Connor", 
+                    "collab": "<surname>Connor</surname><given-names>K</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Melachrino"
+                    "surname": "Melachrino", 
+                    "collab": "<surname>Melachrino</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JP", 
-                    "surname": "O'Callaghan"
+                    "surname": "O'Callaghan", 
+                    "collab": "<surname>O'Callaghan</surname><given-names>JP</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "D", 
-                    "surname": "Morgan"
+                    "surname": "Morgan", 
+                    "collab": "<surname>Morgan</surname><given-names>D</given-names>"
                 }
             ]
         }, 
@@ -684,7 +778,8 @@
                 {
                     "group-type": "author", 
                     "given-names": "E", 
-                    "surname": "Hamel"
+                    "surname": "Hamel", 
+                    "collab": "<surname>Hamel</surname><given-names>E</given-names>"
                 }
             ]
         }, 
@@ -697,27 +792,32 @@
                 {
                     "group-type": "author", 
                     "given-names": "TA", 
-                    "surname": "Jan"
+                    "surname": "Jan", 
+                    "collab": "<surname>Jan</surname><given-names>TA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Lu"
+                    "surname": "Lu", 
+                    "collab": "<surname>Lu</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CX", 
-                    "surname": "Li"
+                    "surname": "Li", 
+                    "collab": "<surname>Li</surname><given-names>CX</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "RW", 
-                    "surname": "Williams"
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>RW</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "RS", 
-                    "surname": "Waters"
+                    "surname": "Waters", 
+                    "collab": "<surname>Waters</surname><given-names>RS</given-names>"
                 }
             ]
         }, 
@@ -730,62 +830,74 @@
                 {
                     "group-type": "author", 
                     "given-names": "JL", 
-                    "surname": "Jankowsky"
+                    "surname": "Jankowsky", 
+                    "collab": "<surname>Jankowsky</surname><given-names>JL</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DJ", 
-                    "surname": "Fadale"
+                    "surname": "Fadale", 
+                    "collab": "<surname>Fadale</surname><given-names>DJ</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Anderson"
+                    "surname": "Anderson", 
+                    "collab": "<surname>Anderson</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "GM", 
-                    "surname": "Xu"
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>GM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "V", 
-                    "surname": "Gonzales"
+                    "surname": "Gonzales", 
+                    "collab": "<surname>Gonzales</surname><given-names>V</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "NA", 
-                    "surname": "Jenkins"
+                    "surname": "Jenkins", 
+                    "collab": "<surname>Jenkins</surname><given-names>NA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "NG", 
-                    "surname": "Copeland"
+                    "surname": "Copeland", 
+                    "collab": "<surname>Copeland</surname><given-names>NG</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "MK", 
-                    "surname": "Lee"
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>MK</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "LH", 
-                    "surname": "Younkin"
+                    "surname": "Younkin", 
+                    "collab": "<surname>Younkin</surname><given-names>LH</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "SL", 
-                    "surname": "Wagner"
+                    "surname": "Wagner", 
+                    "collab": "<surname>Wagner</surname><given-names>SL</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "SG", 
-                    "surname": "Younkin"
+                    "surname": "Younkin", 
+                    "collab": "<surname>Younkin</surname><given-names>SG</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DR", 
-                    "surname": "Borchelt"
+                    "surname": "Borchelt", 
+                    "collab": "<surname>Borchelt</surname><given-names>DR</given-names>"
                 }
             ]
         }, 
@@ -798,12 +910,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "MP", 
-                    "surname": "Kilgard"
+                    "surname": "Kilgard", 
+                    "collab": "<surname>Kilgard</surname><given-names>MP</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "MM", 
-                    "surname": "Merzenich"
+                    "surname": "Merzenich", 
+                    "collab": "<surname>Merzenich</surname><given-names>MM</given-names>"
                 }
             ]
         }, 
@@ -815,42 +929,50 @@
                 {
                     "group-type": "author", 
                     "given-names": "N", 
-                    "surname": "Kovacevi\u0107"
+                    "surname": "Kovacevi\u0107", 
+                    "collab": "<surname>Kovacevi\u0107</surname><given-names>N</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JT", 
-                    "surname": "Henderson"
+                    "surname": "Henderson", 
+                    "collab": "<surname>Henderson</surname><given-names>JT</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "E", 
-                    "surname": "Chan"
+                    "surname": "Chan", 
+                    "collab": "<surname>Chan</surname><given-names>E</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "N", 
-                    "surname": "Lifshitz"
+                    "surname": "Lifshitz", 
+                    "collab": "<surname>Lifshitz</surname><given-names>N</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Bishop"
+                    "surname": "Bishop", 
+                    "collab": "<surname>Bishop</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AC", 
-                    "surname": "Evans"
+                    "surname": "Evans", 
+                    "collab": "<surname>Evans</surname><given-names>AC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "RM", 
-                    "surname": "Henkelman"
+                    "surname": "Henkelman", 
+                    "collab": "<surname>Henkelman</surname><given-names>RM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "XJ", 
-                    "surname": "Chen"
+                    "surname": "Chen", 
+                    "collab": "<surname>Chen</surname><given-names>XJ</given-names>"
                 }
             ]
         }, 
@@ -862,37 +984,44 @@
                 {
                     "group-type": "author", 
                     "given-names": "GE", 
-                    "surname": "Landreth"
+                    "surname": "Landreth", 
+                    "collab": "<surname>Landreth</surname><given-names>GE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PE", 
-                    "surname": "Cramer"
+                    "surname": "Cramer", 
+                    "collab": "<surname>Cramer</surname><given-names>PE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "MM", 
-                    "surname": "Lakner"
+                    "surname": "Lakner", 
+                    "collab": "<surname>Lakner</surname><given-names>MM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JR", 
-                    "surname": "Cirrito"
+                    "surname": "Cirrito", 
+                    "collab": "<surname>Cirrito</surname><given-names>JR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DW", 
-                    "surname": "Wesson"
+                    "surname": "Wesson", 
+                    "collab": "<surname>Wesson</surname><given-names>DW</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KR", 
-                    "surname": "Brunden"
+                    "surname": "Brunden", 
+                    "collab": "<surname>Brunden</surname><given-names>KR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DA", 
-                    "surname": "Wilson"
+                    "surname": "Wilson", 
+                    "collab": "<surname>Wilson</surname><given-names>DA</given-names>"
                 }
             ]
         }, 
@@ -905,22 +1034,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "E", 
-                    "surname": "Lucas-Meunier"
+                    "surname": "Lucas-Meunier", 
+                    "collab": "<surname>Lucas-Meunier</surname><given-names>E</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "P", 
-                    "surname": "Fossier"
+                    "surname": "Fossier", 
+                    "collab": "<surname>Fossier</surname><given-names>P</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "Baux"
+                    "surname": "Baux", 
+                    "collab": "<surname>Baux</surname><given-names>G</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Amar"
+                    "surname": "Amar", 
+                    "collab": "<surname>Amar</surname><given-names>M</given-names>"
                 }
             ]
         }, 
@@ -933,7 +1066,8 @@
                 {
                     "group-type": "author", 
                     "given-names": "DH", 
-                    "surname": "Smith"
+                    "surname": "Smith", 
+                    "collab": "<surname>Smith</surname><given-names>DH</given-names>"
                 }
             ]
         }, 
@@ -945,62 +1079,74 @@
                 {
                     "group-type": "author", 
                     "given-names": "I", 
-                    "surname": "Tesseur"
+                    "surname": "Tesseur", 
+                    "collab": "<surname>Tesseur</surname><given-names>I</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AC", 
-                    "surname": "Lo"
+                    "surname": "Lo", 
+                    "collab": "<surname>Lo</surname><given-names>AC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "A", 
-                    "surname": "Roberfroid"
+                    "surname": "Roberfroid", 
+                    "collab": "<surname>Roberfroid</surname><given-names>A</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "S", 
-                    "surname": "Dietvorst"
+                    "surname": "Dietvorst", 
+                    "collab": "<surname>Dietvorst</surname><given-names>S</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "B", 
-                    "surname": "Van Broeck"
+                    "surname": "Van Broeck", 
+                    "collab": "<surname>Van Broeck</surname><given-names>B</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Borgers"
+                    "surname": "Borgers", 
+                    "collab": "<surname>Borgers</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "H", 
-                    "surname": "Gijsen"
+                    "surname": "Gijsen", 
+                    "collab": "<surname>Gijsen</surname><given-names>H</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "D", 
-                    "surname": "Moechars"
+                    "surname": "Moechars", 
+                    "collab": "<surname>Moechars</surname><given-names>D</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Mercken"
+                    "surname": "Mercken", 
+                    "collab": "<surname>Mercken</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Kemp"
+                    "surname": "Kemp", 
+                    "collab": "<surname>Kemp</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "R", 
-                    "surname": "D'Hooge"
+                    "surname": "D'Hooge", 
+                    "collab": "<surname>D'Hooge</surname><given-names>R</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "B", 
-                    "surname": "De Strooper"
+                    "surname": "De Strooper", 
+                    "collab": "<surname>De Strooper</surname><given-names>B</given-names>"
                 }
             ]
         }, 
@@ -1013,12 +1159,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "R", 
-                    "surname": "Schliebs"
+                    "surname": "Schliebs", 
+                    "collab": "<surname>Schliebs</surname><given-names>R</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Arendt"
+                    "surname": "Arendt", 
+                    "collab": "<surname>Arendt</surname><given-names>T</given-names>"
                 }
             ]
         }, 
@@ -1031,12 +1179,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "Schmitz"
+                    "surname": "Schmitz", 
+                    "collab": "<surname>Schmitz</surname><given-names>G</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Langmann"
+                    "surname": "Langmann", 
+                    "collab": "<surname>Langmann</surname><given-names>T</given-names>"
                 }
             ]
         }, 
@@ -1049,7 +1199,8 @@
                 {
                     "group-type": "author", 
                     "given-names": "CB", 
-                    "surname": "Saper"
+                    "surname": "Saper", 
+                    "collab": "<surname>Saper</surname><given-names>CB</given-names>"
                 }
             ]
         }, 
@@ -1061,22 +1212,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "H", 
-                    "surname": "Sato"
+                    "surname": "Sato", 
+                    "collab": "<surname>Sato</surname><given-names>H</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "Y", 
-                    "surname": "Hata"
+                    "surname": "Hata", 
+                    "collab": "<surname>Hata</surname><given-names>Y</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "H", 
-                    "surname": "Masui"
+                    "surname": "Masui", 
+                    "collab": "<surname>Masui</surname><given-names>H</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Tsumoto"
+                    "surname": "Tsumoto", 
+                    "collab": "<surname>Tsumoto</surname><given-names>T</given-names>"
                 }
             ]
         }, 
@@ -1089,12 +1244,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "JK", 
-                    "surname": "Rilling"
+                    "surname": "Rilling", 
+                    "collab": "<surname>Rilling</surname><given-names>JK</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "TR", 
-                    "surname": "Insel"
+                    "surname": "Insel", 
+                    "collab": "<surname>Insel</surname><given-names>TR</given-names>"
                 }
             ]
         }, 
@@ -1107,22 +1264,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "T", 
-                    "surname": "Rotolo"
+                    "surname": "Rotolo", 
+                    "collab": "<surname>Rotolo</surname><given-names>T</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PM", 
-                    "surname": "Smallwood"
+                    "surname": "Smallwood", 
+                    "collab": "<surname>Smallwood</surname><given-names>PM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Williams"
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Nathans"
+                    "surname": "Nathans", 
+                    "collab": "<surname>Nathans</surname><given-names>J</given-names>"
                 }
             ]
         }, 
@@ -1135,32 +1296,38 @@
                 {
                     "group-type": "author", 
                     "given-names": "MA", 
-                    "surname": "Raghanti"
+                    "surname": "Raghanti", 
+                    "collab": "<surname>Raghanti</surname><given-names>MA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CD", 
-                    "surname": "Stimpson"
+                    "surname": "Stimpson", 
+                    "collab": "<surname>Stimpson</surname><given-names>CD</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JL", 
-                    "surname": "Marcinkiewicz"
+                    "surname": "Marcinkiewicz", 
+                    "collab": "<surname>Marcinkiewicz</surname><given-names>JL</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JM", 
-                    "surname": "Erwin"
+                    "surname": "Erwin", 
+                    "collab": "<surname>Erwin</surname><given-names>JM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PR", 
-                    "surname": "Hof"
+                    "surname": "Hof", 
+                    "collab": "<surname>Hof</surname><given-names>PR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CC", 
-                    "surname": "Sherwood"
+                    "surname": "Sherwood", 
+                    "collab": "<surname>Sherwood</surname><given-names>CC</given-names>"
                 }
             ]
         }, 
@@ -1173,32 +1340,38 @@
                 {
                     "group-type": "author", 
                     "given-names": "MA", 
-                    "surname": "Raghanti"
+                    "surname": "Raghanti", 
+                    "collab": "<surname>Raghanti</surname><given-names>MA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CD", 
-                    "surname": "Stimpson"
+                    "surname": "Stimpson", 
+                    "collab": "<surname>Stimpson</surname><given-names>CD</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JL", 
-                    "surname": "Marcinkiewicz"
+                    "surname": "Marcinkiewicz", 
+                    "collab": "<surname>Marcinkiewicz</surname><given-names>JL</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JM", 
-                    "surname": "Erwin"
+                    "surname": "Erwin", 
+                    "collab": "<surname>Erwin</surname><given-names>JM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PR", 
-                    "surname": "Hof"
+                    "surname": "Hof", 
+                    "collab": "<surname>Hof</surname><given-names>PR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CC", 
-                    "surname": "Sherwood"
+                    "surname": "Sherwood", 
+                    "collab": "<surname>Sherwood</surname><given-names>CC</given-names>"
                 }
             ]
         }, 
@@ -1211,7 +1384,8 @@
                 {
                     "group-type": "author", 
                     "given-names": "JB", 
-                    "surname": "Cavanagh"
+                    "surname": "Cavanagh", 
+                    "collab": "<surname>Cavanagh</surname><given-names>JB</given-names>"
                 }
             ]
         }, 
@@ -1223,12 +1397,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "LL", 
-                    "surname": "Butcher"
+                    "surname": "Butcher", 
+                    "collab": "<surname>Butcher</surname><given-names>LL</given-names>"
                 }, 
                 {
                     "group-type": "editor", 
                     "given-names": "G", 
-                    "surname": "Paxinos"
+                    "surname": "Paxinos", 
+                    "collab": "<surname>Paxinos</surname><given-names>G</given-names>"
                 }
             ]
         }, 
@@ -1241,22 +1417,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "MG", 
-                    "surname": "Cunningham"
+                    "surname": "Cunningham", 
+                    "collab": "<surname>Cunningham</surname><given-names>MG</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CM", 
-                    "surname": "Connor"
+                    "surname": "Connor", 
+                    "collab": "<surname>Connor</surname><given-names>CM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "K", 
-                    "surname": "Zhang"
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>K</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "FM", 
-                    "surname": "Benes"
+                    "surname": "Benes", 
+                    "collab": "<surname>Benes</surname><given-names>FM</given-names>"
                 }
             ]
         }, 
@@ -1269,67 +1449,80 @@
                 {
                     "group-type": "author", 
                     "given-names": "PE", 
-                    "surname": "Cramer"
+                    "surname": "Cramer", 
+                    "collab": "<surname>Cramer</surname><given-names>PE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JR", 
-                    "surname": "Cirrito"
+                    "surname": "Cirrito", 
+                    "collab": "<surname>Cirrito</surname><given-names>JR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DW", 
-                    "surname": "Wesson"
+                    "surname": "Wesson", 
+                    "collab": "<surname>Wesson</surname><given-names>DW</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CY", 
-                    "surname": "Lee"
+                    "surname": "Lee", 
+                    "collab": "<surname>Lee</surname><given-names>CY</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JC", 
-                    "surname": "Karlo"
+                    "surname": "Karlo", 
+                    "collab": "<surname>Karlo</surname><given-names>JC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AE", 
-                    "surname": "Zinn"
+                    "surname": "Zinn", 
+                    "collab": "<surname>Zinn</surname><given-names>AE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "BT", 
-                    "surname": "Casali"
+                    "surname": "Casali", 
+                    "collab": "<surname>Casali</surname><given-names>BT</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JL", 
-                    "surname": "Restivo"
+                    "surname": "Restivo", 
+                    "collab": "<surname>Restivo</surname><given-names>JL</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "WD", 
-                    "surname": "Goebel"
+                    "surname": "Goebel", 
+                    "collab": "<surname>Goebel</surname><given-names>WD</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "MJ", 
-                    "surname": "James"
+                    "surname": "James", 
+                    "collab": "<surname>James</surname><given-names>MJ</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KR", 
-                    "surname": "Brunden"
+                    "surname": "Brunden", 
+                    "collab": "<surname>Brunden</surname><given-names>KR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DA", 
-                    "surname": "Wilson"
+                    "surname": "Wilson", 
+                    "collab": "<surname>Wilson</surname><given-names>DA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "GE", 
-                    "surname": "Landreth"
+                    "surname": "Landreth", 
+                    "collab": "<surname>Landreth</surname><given-names>GE</given-names>"
                 }
             ]
         }, 
@@ -1342,17 +1535,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Descarries"
+                    "surname": "Descarries", 
+                    "collab": "<surname>Descarries</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "N", 
-                    "surname": "Aznavour"
+                    "surname": "Aznavour", 
+                    "collab": "<surname>Aznavour</surname><given-names>N</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "E", 
-                    "surname": "Hamel"
+                    "surname": "Hamel", 
+                    "collab": "<surname>Hamel</surname><given-names>E</given-names>"
                 }
             ]
         }, 
@@ -1365,17 +1561,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Descarries"
+                    "surname": "Descarries", 
+                    "collab": "<surname>Descarries</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "V", 
-                    "surname": "Gisiger"
+                    "surname": "Gisiger", 
+                    "collab": "<surname>Gisiger</surname><given-names>V</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Steriade"
+                    "surname": "Steriade", 
+                    "collab": "<surname>Steriade</surname><given-names>M</given-names>"
                 }
             ]
         }, 
@@ -1388,32 +1587,38 @@
                 {
                     "group-type": "author", 
                     "given-names": "MA", 
-                    "surname": "Raghanti"
+                    "surname": "Raghanti", 
+                    "collab": "<surname>Raghanti</surname><given-names>MA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "Simic"
+                    "surname": "Simic", 
+                    "collab": "<surname>Simic</surname><given-names>G</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "S", 
-                    "surname": "Watson"
+                    "surname": "Watson", 
+                    "collab": "<surname>Watson</surname><given-names>S</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CD", 
-                    "surname": "Stimpson"
+                    "surname": "Stimpson", 
+                    "collab": "<surname>Stimpson</surname><given-names>CD</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PR", 
-                    "surname": "Hof"
+                    "surname": "Hof", 
+                    "collab": "<surname>Hof</surname><given-names>PR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "CC", 
-                    "surname": "Sherwood"
+                    "surname": "Sherwood", 
+                    "collab": "<surname>Sherwood</surname><given-names>CC</given-names>"
                 }
             ]
         }, 
@@ -1425,37 +1630,44 @@
                 {
                     "group-type": "author", 
                     "given-names": "AR", 
-                    "surname": "Price"
+                    "surname": "Price", 
+                    "collab": "<surname>Price</surname><given-names>AR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "Xu"
+                    "surname": "Xu", 
+                    "collab": "<surname>Xu</surname><given-names>G</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "ZB", 
-                    "surname": "Siemienski"
+                    "surname": "Siemienski", 
+                    "collab": "<surname>Siemienski</surname><given-names>ZB</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "LA", 
-                    "surname": "Smithson"
+                    "surname": "Smithson", 
+                    "collab": "<surname>Smithson</surname><given-names>LA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DR", 
-                    "surname": "Borchelt"
+                    "surname": "Borchelt", 
+                    "collab": "<surname>Borchelt</surname><given-names>DR</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "TE", 
-                    "surname": "Golde"
+                    "surname": "Golde", 
+                    "collab": "<surname>Golde</surname><given-names>TE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KM", 
-                    "surname": "Felsenstein"
+                    "surname": "Felsenstein", 
+                    "collab": "<surname>Felsenstein</surname><given-names>KM</given-names>"
                 }
             ]
         }, 
@@ -1468,12 +1680,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "C", 
-                    "surname": "Geula"
+                    "surname": "Geula", 
+                    "collab": "<surname>Geula</surname><given-names>C</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "MM", 
-                    "surname": "Mesulam"
+                    "surname": "Mesulam", 
+                    "collab": "<surname>Mesulam</surname><given-names>MM</given-names>"
                 }
             ]
         }, 
@@ -1485,22 +1699,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "NF", 
-                    "surname": "Fitz"
+                    "surname": "Fitz", 
+                    "collab": "<surname>Fitz</surname><given-names>NF</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AA", 
-                    "surname": "Cronican"
+                    "surname": "Cronican", 
+                    "collab": "<surname>Cronican</surname><given-names>AA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "I", 
-                    "surname": "Lefterov"
+                    "surname": "Lefterov", 
+                    "collab": "<surname>Lefterov</surname><given-names>I</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "R", 
-                    "surname": "Koldamova"
+                    "surname": "Koldamova", 
+                    "collab": "<surname>Koldamova</surname><given-names>R</given-names>"
                 }
             ]
         }, 
@@ -1510,12 +1728,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "Paxinos"
+                    "surname": "Paxinos", 
+                    "collab": "<surname>Paxinos</surname><given-names>G</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KBJ", 
-                    "surname": "Franklin"
+                    "surname": "Franklin", 
+                    "collab": "<surname>Franklin</surname><given-names>KBJ</given-names>"
                 }
             ], 
             "year": "2001"
@@ -1529,22 +1749,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Descarries"
+                    "surname": "Descarries", 
+                    "collab": "<surname>Descarries</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KC", 
-                    "surname": "Watkins"
+                    "surname": "Watkins", 
+                    "collab": "<surname>Watkins</surname><given-names>KC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "S", 
-                    "surname": "Garcia"
+                    "surname": "Garcia", 
+                    "collab": "<surname>Garcia</surname><given-names>S</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "A", 
-                    "surname": "Beaudet"
+                    "surname": "Beaudet", 
+                    "collab": "<surname>Beaudet</surname><given-names>A</given-names>"
                 }
             ]
         }, 
@@ -1557,7 +1781,8 @@
                 {
                     "group-type": "author", 
                     "given-names": "MM", 
-                    "surname": "Mesulam"
+                    "surname": "Mesulam", 
+                    "collab": "<surname>Mesulam</surname><given-names>MM</given-names>"
                 }
             ]
         }, 
@@ -1570,37 +1795,44 @@
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Mengler"
+                    "surname": "Mengler", 
+                    "collab": "<surname>Mengler</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "A", 
-                    "surname": "Khmelinskii"
+                    "surname": "Khmelinskii", 
+                    "collab": "<surname>Khmelinskii</surname><given-names>A</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Diedenhofen"
+                    "surname": "Diedenhofen", 
+                    "collab": "<surname>Diedenhofen</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "C", 
-                    "surname": "Po"
+                    "surname": "Po", 
+                    "collab": "<surname>Po</surname><given-names>C</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Staring"
+                    "surname": "Staring", 
+                    "collab": "<surname>Staring</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "BP", 
-                    "surname": "Lelieveldt"
+                    "surname": "Lelieveldt", 
+                    "collab": "<surname>Lelieveldt</surname><given-names>BP</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Hoehn"
+                    "surname": "Hoehn", 
+                    "collab": "<surname>Hoehn</surname><given-names>M</given-names>"
                 }
             ]
         }, 
@@ -1613,17 +1845,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "N", 
-                    "surname": "Mechawar"
+                    "surname": "Mechawar", 
+                    "collab": "<surname>Mechawar</surname><given-names>N</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "KC", 
-                    "surname": "Watkins"
+                    "surname": "Watkins", 
+                    "collab": "<surname>Watkins</surname><given-names>KC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Descarries"
+                    "surname": "Descarries", 
+                    "collab": "<surname>Descarries</surname><given-names>L</given-names>"
                 }
             ]
         }, 
@@ -1636,17 +1871,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "N", 
-                    "surname": "Mechawar"
+                    "surname": "Mechawar", 
+                    "collab": "<surname>Mechawar</surname><given-names>N</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "C", 
-                    "surname": "Cozzari"
+                    "surname": "Cozzari", 
+                    "collab": "<surname>Cozzari</surname><given-names>C</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Descarries"
+                    "surname": "Descarries", 
+                    "collab": "<surname>Descarries</surname><given-names>L</given-names>"
                 }
             ]
         }, 
@@ -1659,27 +1897,32 @@
                 {
                     "group-type": "author", 
                     "given-names": "JA", 
-                    "surname": "Perge"
+                    "surname": "Perge", 
+                    "collab": "<surname>Perge</surname><given-names>JA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JE", 
-                    "surname": "Niven"
+                    "surname": "Niven", 
+                    "collab": "<surname>Niven</surname><given-names>JE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "E", 
-                    "surname": "Mugnaini"
+                    "surname": "Mugnaini", 
+                    "collab": "<surname>Mugnaini</surname><given-names>E</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "V", 
-                    "surname": "Balasubramanian"
+                    "surname": "Balasubramanian", 
+                    "collab": "<surname>Balasubramanian</surname><given-names>V</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "P", 
-                    "surname": "Sterling"
+                    "surname": "Sterling", 
+                    "collab": "<surname>Sterling</surname><given-names>P</given-names>"
                 }
             ]
         }, 
@@ -1692,12 +1935,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "XO", 
-                    "surname": "Zhu"
+                    "surname": "Zhu", 
+                    "collab": "<surname>Zhu</surname><given-names>XO</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PM", 
-                    "surname": "Waite"
+                    "surname": "Waite", 
+                    "collab": "<surname>Waite</surname><given-names>PM</given-names>"
                 }
             ]
         }, 
@@ -1710,27 +1955,32 @@
                 {
                     "group-type": "author", 
                     "given-names": "SE", 
-                    "surname": "Perez"
+                    "surname": "Perez", 
+                    "collab": "<surname>Perez</surname><given-names>SE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "S", 
-                    "surname": "Dar"
+                    "surname": "Dar", 
+                    "collab": "<surname>Dar</surname><given-names>S</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "MD", 
-                    "surname": "Ikonomovic"
+                    "surname": "Ikonomovic", 
+                    "collab": "<surname>Ikonomovic</surname><given-names>MD</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "ST", 
-                    "surname": "DeKosky"
+                    "surname": "DeKosky", 
+                    "collab": "<surname>DeKosky</surname><given-names>ST</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "EJ", 
-                    "surname": "Mufson"
+                    "surname": "Mufson", 
+                    "collab": "<surname>Mufson</surname><given-names>EJ</given-names>"
                 }
             ]
         }, 
@@ -1743,22 +1993,26 @@
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Wittner"
+                    "surname": "Wittner", 
+                    "collab": "<surname>Wittner</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DA", 
-                    "surname": "Henze"
+                    "surname": "Henze", 
+                    "collab": "<surname>Henze</surname><given-names>DA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "L", 
-                    "surname": "Z\u00e1borszky"
+                    "surname": "Z\u00e1borszky", 
+                    "collab": "<surname>Z\u00e1borszky</surname><given-names>L</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "G", 
-                    "surname": "Buzs\u00e1ki"
+                    "surname": "Buzs\u00e1ki", 
+                    "collab": "<surname>Buzs\u00e1ki</surname><given-names>G</given-names>"
                 }
             ]
         }, 
@@ -1771,12 +2025,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "RP", 
-                    "surname": "Vertes"
+                    "surname": "Vertes", 
+                    "collab": "<surname>Vertes</surname><given-names>RP</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AM", 
-                    "surname": "Crane"
+                    "surname": "Crane", 
+                    "collab": "<surname>Crane</surname><given-names>AM</given-names>"
                 }
             ]
         }, 
@@ -1789,17 +2045,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "H", 
-                    "surname": "Wu"
+                    "surname": "Wu", 
+                    "collab": "<surname>Wu</surname><given-names>H</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Williams"
+                    "surname": "Williams", 
+                    "collab": "<surname>Williams</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Nathans"
+                    "surname": "Nathans", 
+                    "collab": "<surname>Nathans</surname><given-names>J</given-names>"
                 }
             ]
         }, 
@@ -1812,17 +2071,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "NJ", 
-                    "surname": "Woolf"
+                    "surname": "Woolf", 
+                    "collab": "<surname>Woolf</surname><given-names>NJ</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "MC", 
-                    "surname": "Hernit"
+                    "surname": "Hernit", 
+                    "collab": "<surname>Hernit</surname><given-names>MC</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "LL", 
-                    "surname": "Butcher"
+                    "surname": "Butcher", 
+                    "collab": "<surname>Butcher</surname><given-names>LL</given-names>"
                 }
             ]
         }, 
@@ -1835,17 +2097,20 @@
                 {
                     "group-type": "author", 
                     "given-names": "MD", 
-                    "surname": "Underwood"
+                    "surname": "Underwood", 
+                    "collab": "<surname>Underwood</surname><given-names>MD</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JJ", 
-                    "surname": "Mann"
+                    "surname": "Mann", 
+                    "collab": "<surname>Mann</surname><given-names>JJ</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "V", 
-                    "surname": "Arango"
+                    "surname": "Arango", 
+                    "collab": "<surname>Arango</surname><given-names>V</given-names>"
                 }
             ]
         }, 
@@ -1858,37 +2123,44 @@
                 {
                     "group-type": "author", 
                     "given-names": "MD", 
-                    "surname": "Underwood"
+                    "surname": "Underwood", 
+                    "collab": "<surname>Underwood</surname><given-names>MD</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "AA", 
-                    "surname": "Khaibulina"
+                    "surname": "Khaibulina", 
+                    "collab": "<surname>Khaibulina</surname><given-names>AA</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "SP", 
-                    "surname": "Ellis"
+                    "surname": "Ellis", 
+                    "collab": "<surname>Ellis</surname><given-names>SP</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "A", 
-                    "surname": "Moran"
+                    "surname": "Moran", 
+                    "collab": "<surname>Moran</surname><given-names>A</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "PM", 
-                    "surname": "Rice"
+                    "surname": "Rice", 
+                    "collab": "<surname>Rice</surname><given-names>PM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JJ", 
-                    "surname": "Mann"
+                    "surname": "Mann", 
+                    "collab": "<surname>Mann</surname><given-names>JJ</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "V", 
-                    "surname": "Arango"
+                    "surname": "Arango", 
+                    "collab": "<surname>Arango</surname><given-names>V</given-names>"
                 }
             ]
         }, 
@@ -1900,57 +2172,68 @@
                 {
                     "group-type": "author", 
                     "given-names": "K", 
-                    "surname": "Veeraraghavalu"
+                    "surname": "Veeraraghavalu", 
+                    "collab": "<surname>Veeraraghavalu</surname><given-names>K</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "C", 
-                    "surname": "Zhang"
+                    "surname": "Zhang", 
+                    "collab": "<surname>Zhang</surname><given-names>C</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "S", 
-                    "surname": "Miller"
+                    "surname": "Miller", 
+                    "collab": "<surname>Miller</surname><given-names>S</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "JK", 
-                    "surname": "Hefendehl"
+                    "surname": "Hefendehl", 
+                    "collab": "<surname>Hefendehl</surname><given-names>JK</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "TW", 
-                    "surname": "Rajapaksha"
+                    "surname": "Rajapaksha", 
+                    "collab": "<surname>Rajapaksha</surname><given-names>TW</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Ulrich"
+                    "surname": "Ulrich", 
+                    "collab": "<surname>Ulrich</surname><given-names>J</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "M", 
-                    "surname": "Jucker"
+                    "surname": "Jucker", 
+                    "collab": "<surname>Jucker</surname><given-names>M</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "DM", 
-                    "surname": "Holtzman"
+                    "surname": "Holtzman", 
+                    "collab": "<surname>Holtzman</surname><given-names>DM</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "RE", 
-                    "surname": "Tanzi"
+                    "surname": "Tanzi", 
+                    "collab": "<surname>Tanzi</surname><given-names>RE</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "R", 
-                    "surname": "Vassar"
+                    "surname": "Vassar", 
+                    "collab": "<surname>Vassar</surname><given-names>R</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "SS", 
-                    "surname": "Sisodia"
+                    "surname": "Sisodia", 
+                    "collab": "<surname>Sisodia</surname><given-names>SS</given-names>"
                 }
             ]
         }, 
@@ -1962,12 +2245,14 @@
                 {
                     "group-type": "author", 
                     "given-names": "E", 
-                    "surname": "Vaucher"
+                    "surname": "Vaucher", 
+                    "collab": "<surname>Vaucher</surname><given-names>E</given-names>"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "E", 
-                    "surname": "Hamel"
+                    "surname": "Hamel", 
+                    "collab": "<surname>Hamel</surname><given-names>E</given-names>"
                 }
             ]
         }
