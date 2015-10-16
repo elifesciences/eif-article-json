@@ -1,0 +1,2326 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Robert Alexander", 
+            "surname": "Wu", 
+            "id": "author-33557", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Yavuz S", 
+            "surname": "Dagdas", 
+            "id": "author-33744", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2", 
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "S Tunc", 
+            "surname": "Yilmaz", 
+            "id": "author-33743", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "surname": "Yildiz", 
+            "corresp": "yes", 
+            "given-names": "Ahmet", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2", 
+                    "par-3"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-3258"
+        }, 
+        {
+            "surname": "Collins", 
+            "corresp": "yes", 
+            "given-names": "Kathleen", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-2228"
+        }, 
+        {
+            "surname": "Greider", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Johns Hopkins University"
+                }
+            ], 
+            "given-names": "Carol", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1096"
+        }
+    ], 
+    "pub-date": "2015-10-12", 
+    "title": "Single-molecule imaging of telomerase reverse transcriptase in human telomerase holoenzyme and minimal RNP complexes", 
+    "citations": {
+        "bib34": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.22.7.2366-2374.2002", 
+            "year": "2002", 
+            "title": "Essential regions of <italic>Saccharomyces cerevisiae</italic> telomerase RNA: separate elements for Est1p and Est2p interaction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Livengood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Zaug"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Nature Medicine", 
+            "doi": "10.1038/nm1006-1133", 
+            "year": "2006", 
+            "title": "Telomeres and telomerase: the path from maize, <italic>Tetrahymena</italic> and yeast to human cancer and aging", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Blackburn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "Greider"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Szostak"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Cold Spring Harbor Perspectives in Biology", 
+            "doi": "10.1101/cshperspect.a003558", 
+            "year": "2011", 
+            "title": "Telomerase: an RNP enzyme synthesizes DNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Blackburn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.95.25.14723", 
+            "year": "1998", 
+            "title": "Dissociation among in vitro telomerase activity, telomere maintenance, and cellular immortalization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Counter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Hahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Caddle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Beijersbergen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Lansdorp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Sedivy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Weinberg"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature Chemical Biology", 
+            "doi": "10.1038/nchembio.82", 
+            "year": "2008", 
+            "title": "Single-molecule analysis of human telomerase monomer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Alves"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Codrington"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Orte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Ren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Klenerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Balasubramanian"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0508124102", 
+            "year": "2005", 
+            "title": "Haploinsufficiency of telomerase reverse transcriptase leads to anticipation in autosomal dominant dyskeratosis congenita", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Armanios"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YP", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Brodsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hawkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Griffin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Eshleman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Chakravarti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hamosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "Greider"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg3246", 
+            "year": "2012", 
+            "title": "The telomere syndromes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Armanios"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Blackburn"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Progress in Molecular Biology and Translational Science", 
+            "doi": "10.1016/B978-0-12-397898-1.00004-9", 
+            "year": "2014", 
+            "title": "Telomere dynamics and aging", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Aubert"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.21.22.7775-7786.2001", 
+            "year": "2001", 
+            "title": "N-terminal domains of the human telomerase catalytic subunit required for enzyme activity in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BN", 
+                    "surname": "Armbruster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SSR", 
+                    "surname": "Banik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Guo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Counter"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Science", 
+            "doi": "10.1126/science.284.5413.486", 
+            "year": "1999", 
+            "title": "Aminoacyl-CoAs as probes of condensation domain selectivity in nonribosomal peptide synthesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Belshaw"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Walsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Stachelhaus"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2015.06.045", 
+            "year": "2015", 
+            "title": "A single templating RNA in yeast telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Bajon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Laterreur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Wellinger"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Database", 
+            "doi": "10.1093/database/baq031", 
+            "year": "2011", 
+            "title": "LPS-annotate: complete annotation of compositionally biased regions in the protein knowledgebase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Harbi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Harrison"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.3083", 
+            "year": "2015", 
+            "title": "Control of human telomerase action at telomeres", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hockemeyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gku560", 
+            "year": "2014", 
+            "title": "Inventory of telomerase components in human cells reveals multiple subpopulations of hTR and hTERT", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Xi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Nature", 
+            "doi": "10.1038/nature05469", 
+            "year": "2007", 
+            "title": "TPP1 is a homologue of ciliate TEBP-beta and interacts with POT1 to recruit telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Xin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Safari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "O'Connor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Songyang"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2006.43", 
+            "year": "2006", 
+            "title": "Site-specific protein labeling by Sfp phosphopantetheinyl transferase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Golan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Walsh"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0507705102", 
+            "year": "2005", 
+            "title": "Genetically encoded short peptide tag for versatile protein labeling by Sfp phosphopantetheinyl transferase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Straight"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "McLoughlin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Golan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NL", 
+                    "surname": "Kelleher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kolter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Walsh"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00151-10", 
+            "year": "2010", 
+            "title": "Specificity and stoichiometry of subunit interactions in the human telomerase holoenzyme assembled in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Egan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "RNA", 
+            "doi": "10.1261/rna.034629.112", 
+            "year": "2012a", 
+            "title": "Biogenesis of telomerase ribonucleoproteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Egan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00286-12", 
+            "year": "2012b", 
+            "title": "An enhanced H/ACA RNP assembly mechanism for human telomerase RNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Egan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00777-08", 
+            "year": "2008", 
+            "title": "Disease-associated human telomerase RNA variants show loss of function for telomere synthesis without dominant-negative interference", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Errington"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/S1097-2765(03)00196-5", 
+            "year": "2003", 
+            "title": "Distinct biogenesis pathways for human telomerase RNA and H/ACA small nucleolar RNAs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2011.09.020", 
+            "year": "2011", 
+            "title": "Live cell imaging of telomerase RNA dynamics reveals cell cycle-dependent clustering of telomerase at elongating telomeres", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Gallardo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Laterreur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Cusanelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Ouenzar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Querido"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Wellinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Chartrand"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "JACS", 
+            "doi": "10.1021/ja048396s", 
+            "year": "2004", 
+            "title": "Specific labeling of cell surface proteins with chemically diverse compounds", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "George"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Pick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Vogel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Johnsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Johnsson"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nature", 
+            "doi": "10.1038/nature07283", 
+            "year": "2008", 
+            "title": "Structure of the <italic>Tribolium castaneum</italic> telomerase catalytic subunit TERT", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Gillis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Schuller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Skordalakes"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/26.13.3311", 
+            "year": "1998", 
+            "title": "One-step affinity purification protocol for human telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Schnapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HP", 
+                    "surname": "Rodi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Rettig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Schnapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Damm"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkp1160", 
+            "year": "2010", 
+            "title": "The N-terminus of hTERT contains a DNA-binding domain and is required for telomerase activity and cellular immortalization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Sealey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Taboski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Cruickshank"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ikura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Harrington"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.263863.115", 
+            "year": "2015", 
+            "title": "Human telomerase: biogenesis, trafficking, recruitment, and activation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Schmidt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.03563", 
+            "year": "2014", 
+            "title": "Identification of human TERT elements necessary for telomerase recruitment to telomeres", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Schmidt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AB", 
+                    "surname": "Dalby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2011.03.012", 
+            "year": "2011", 
+            "title": "Human telomerase domain interactions capture DNA for TEN domain-dependent processive elongation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Robart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2530", 
+            "year": "2013", 
+            "title": "Structure of active dimeric human telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sauerwald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sandin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Cristofari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Scheres"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lingner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rhodes"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkm700", 
+            "year": "2008", 
+            "title": "The telomerase database", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Podlevsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Bley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RV", 
+                    "surname": "Omana"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Qi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Mutation Research", 
+            "doi": "10.1016/j.mrfmmm.2011.11.002", 
+            "year": "2012", 
+            "title": "It all comes together at the ends: telomerase structure, function, and biogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Podlevsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm2848", 
+            "year": "2010", 
+            "title": "Telomeres: protecting chromosomes against genome instability", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "O'Sullivan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Karlseder"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Annual Review of Genetics", 
+            "doi": "10.1146/annurev.genet.41.110306.130350", 
+            "year": "2008", 
+            "title": "How shelterin protects mammalian telomeres", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Palm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "de Lange"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkt653", 
+            "year": "2013", 
+            "title": "Many disease-associated variants of hTERT retain high telomerase enzymatic activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Zaug"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Crary"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jesse Fioravanti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Campbell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "ACS Chemical Biology", 
+            "doi": "10.1021/cb700054k", 
+            "year": "2007", 
+            "title": "Genetically encoded short peptide tags for orthogonal protein labeling by Sfp and AcpS phosphopantetheinyl transferases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cironi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hrvatin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Golan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Silver"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Walsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yin"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E03-07-0474", 
+            "year": "2003", 
+            "title": "<italic>Tetrahymena</italic> telomerase is active as a monomer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Bryan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Goodrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1402531111", 
+            "year": "2014", 
+            "title": "A self-regulating template in human telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Podlevsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Qi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Chen"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "The Biochemical Journal", 
+            "doi": "10.1042/BJ20100462", 
+            "year": "2010", 
+            "title": "Current understanding of fatty acid biosynthesis and the acyl carrier protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DI", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Vogel"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Biochemistry and Cell Biology", 
+            "doi": "10.1139/O07-109", 
+            "year": "2007", 
+            "title": "Acyl carrier protein: structure-function relationships in a conserved multifunctional protein family", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Byers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gong"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Science", 
+            "doi": "10.1126/science.1138596", 
+            "year": "2007", 
+            "title": "Protein composition of catalytically active human telomerase from immortal cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Graham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GO", 
+                    "surname": "Lovrecz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bache"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Reddel"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/30.2.592", 
+            "year": "2002", 
+            "title": "A critical stem-loop structure in the CR4-CR5 domain of mammalian telomerase RNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KK", 
+                    "surname": "Opperman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "Greider"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M501211200", 
+            "year": "2005", 
+            "title": "Two purified domains of telomerase reverse transcriptase reconstitute sequence-specific interactions with RNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "O'Connor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CK", 
+                    "surname": "Lai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm3505", 
+            "year": "2013", 
+            "title": "Finding the end: recruitment of telomerase to telomeres", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nandakumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200601105", 
+            "year": "2006", 
+            "title": "Stepwise RNP assembly at the site of H/ACA RNA transcription in human cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Darzacq"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kittur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Roy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shav-Tal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Singer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "UT", 
+                    "surname": "Meier"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.25.11.4442-4454.2005", 
+            "year": "2005", 
+            "title": "Biological and biochemical functions of RNA in the <italic>Tetrahymena</italic> telomerase holoenzyme", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Cunningham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2483", 
+            "year": "2013", 
+            "title": "A popular engagement at the ends", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Lue"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EY", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lei"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "BMC Systems Biology", 
+            "doi": "10.1186/1752-0509-4-43", 
+            "year": "2010", 
+            "title": "Low-complexity regions within protein sequences have position-dependent roles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Coletta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Pinney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DY", 
+                    "surname": "Solis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Marsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Pettifer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TK", 
+                    "surname": "Attwood"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2012.04.017", 
+            "year": "2012", 
+            "title": "Cell-free formation of RNA granules: low complexity sequence domains form dynamic fibers within hydrogels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kato"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TW", 
+                    "surname": "Han"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Du"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Mirzaei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Goldsmith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Longgood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Pei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NV", 
+                    "surname": "Grishin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Frantz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Schneider"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Sawaya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Eisenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tycko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "McKnight"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkq1083", 
+            "year": "2010", 
+            "title": "Direct involvement of the TEN domain at the active site of human telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jurczyluk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Nouwens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Holien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Adams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GO", 
+                    "surname": "Lovrecz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Parker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Bryan"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12062", 
+            "year": "2013", 
+            "title": "The architecture of <italic>Tetrahymena</italic> telomerase holoenzyme", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Miracco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Eckert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Cash"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Min"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZH", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Feigon"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00792-13", 
+            "year": "2013", 
+            "title": "Tetrahymena telomerase holoenzyme assembly, activation, and inhibition by domains of the p50 central hub", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Upton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Miracco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZH", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Feigon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/S1097-2765(00)00036-8", 
+            "year": "2000", 
+            "title": "Human telomerase activation requires two independent interactions between telomerase RNA and telomerase reverse transcriptase in vivo and in vitro", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Mitchell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1411276111", 
+            "year": "2014b", 
+            "title": "Sequence specificity of human telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1002/embj.201387205", 
+            "year": "2014a", 
+            "title": "Human telomerase specialization for repeat synthesis by unique handling of primer-template duplex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Molecular and Cellular Biology", 
+            "year": "1999", 
+            "title": "A box H/ACA small nucleolar RNA-like domain at the human telomerase RNA 3' end", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Mitchell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1201704", 
+            "year": "2004", 
+            "title": "Holoenzyme proteins required for the physiological assembly and activity of telomerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Witkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/20.13.3526", 
+            "year": "2001", 
+            "title": "Human telomerase contains two cooperating telomerase RNA molecules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wenz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Enenkel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Amacker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kelleher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Damm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lingner"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Computers & Chemistry", 
+            "doi": "10.1016/0097-8485(93)85006-X", 
+            "year": "1993", 
+            "title": "Statistics of local complexity in amino acid sequences and sequence databases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Wootton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Federhen"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1476206", 
+            "year": "2006", 
+            "title": "Telomerase RNA level limits telomere maintenance in X-linked dyskeratosis congenita", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Mutation Research", 
+            "doi": "10.1016/j.mrfmmm.2011.08.011", 
+            "year": "2012", 
+            "title": "Maintaining the end: roles of telomere proteins in end-protection, telomere replication and length regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Stewart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Chaiken"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Price"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.246819.114", 
+            "year": "2014", 
+            "title": "Genetic and molecular identification of three human TPP1 functions in telomerase action: recruitment, activation, and homeostasis set point regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Sexton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Regalado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Lai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Cost"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "O'Neil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FD", 
+                    "surname": "Urnov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Gregory"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Jaenisch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hockemeyer"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng1297-498", 
+            "year": "1997", 
+            "title": "Reconstitution of human telomerase with the template RNA component hTR and the catalytic protein subunit hTRT", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Weinrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Pruzan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ouellette"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VM", 
+                    "surname": "Tesmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Holt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Bodnar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lichsteiner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Trager"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Carlos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WH", 
+                    "surname": "Andrews"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Wright"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Shay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Harley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GB", 
+                    "surname": "Morin"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi026914a", 
+            "year": "2003", 
+            "title": "Interaction of human telomerase with its primer substrate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wallweber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gryaznov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Pongracz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Pruzan"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "New labeling approaches for single-molecule fluorescence microscopy detect the monomeric catalytic subunit of human telomerase within cellular holoenzyme and minimal active recombinant enzyme.", 
+    "related-articles": [], 
+    "elocation-id": "e08363", 
+    "publish": "1", 
+    "article-version-id": "08363.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "fluorescence imaging", 
+            "telomerase", 
+            "telomeric repeat synthesis"
+        ], 
+        "research-organism": [
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.08363", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000001", 
+                "award-id": "DGE-1106400, MCB-1055017", 
+                "institution": "National Science Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000057", 
+                "award-id": "GM094522, GM054198", 
+                "institution": "National Institute of General Medical Sciences", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000050", 
+                "award-id": "HL079585", 
+                "institution": "National Heart, Lung, and Blood Institute", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff3": {
+                "dept": "Department of Physics", 
+                "email": null, 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Biophysics Graduate Group", 
+                "email": null, 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Molecular and Cell Biology", 
+                "email": null, 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "RAW, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "YSD, Performed and analyzed single-molecule imaging experiments, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "STY, Performed and analyzed single-molecule imaging experiments", 
+            "con4": "AY, Analysis and interpretation of data, Drafting or revising the article", 
+            "con5": "KC, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "yildiz@berkeley.edu", 
+            "cor2": "kcollins@berkeley.edu"
+        }
+    }, 
+    "path": "content/4/e08363", 
+    "fragments": [
+        {
+            "path": "content/4/e08363/abstract-1", 
+            "doi": "10.7554/eLife.08363.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e08363/abstract-2", 
+            "doi": "10.7554/eLife.08363.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e08363/F1", 
+            "fragments": [
+                {
+                    "path": "content/4/e08363/F1/F2", 
+                    "doi": "10.7554/eLife.08363.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08363.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e08363/F3", 
+            "fragments": [
+                {
+                    "path": "content/4/e08363/F3/F4", 
+                    "doi": "10.7554/eLife.08363.006", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08363.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e08363/F5", 
+            "doi": "10.7554/eLife.08363.007", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e08363/F6", 
+            "doi": "10.7554/eLife.08363.008", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e08363/F7", 
+            "doi": "10.7554/eLife.08363.009", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e08363/F8", 
+            "doi": "10.7554/eLife.08363.010", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e08363/F9", 
+            "doi": "10.7554/eLife.08363.011", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e08363/1", 
+            "doi": "10.7554/eLife.08363.012", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Greider", 
+                    "given-names": "Carol", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Johns Hopkins University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e08363/2", 
+            "doi": "10.7554/eLife.08363.013", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.08363", 
+    "categories": {
+        "heading": [
+            "Biophysics and structural biology", 
+            "Genes and chromosomes"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}
