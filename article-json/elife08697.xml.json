@@ -1,0 +1,1772 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "force": "1", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Reid C", 
+            "surname": "Van Lehn", 
+            "id": "author-33935", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Bin", 
+            "surname": "Zhang", 
+            "id": "author-34257", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Miller", 
+            "suffix": "III", 
+            "corresp": "yes", 
+            "given-names": "Thomas F", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-33941"
+        }, 
+        {
+            "surname": "Hummer", 
+            "affiliations": [
+                {
+                    "country": "Germany", 
+                    "institution": "The Max Planck Institute of Biophysics"
+                }
+            ], 
+            "given-names": "Gerhard", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-17066"
+        }
+    ], 
+    "pub-date": "2015-09-26", 
+    "title": "Regulation of multispanning membrane protein topology via post-translational annealing", 
+    "citations": {
+        "bib34": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2011.12.024", 
+            "year": "2012", 
+            "title": "Orientational preferences of neighboring helices can drive ER insertion of a marginally hydrophobic transmembrane helix", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "\u00d6jemalm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KK", 
+                    "surname": "Halling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Nilsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M409920200", 
+            "year": "2005", 
+            "title": "Differential stability of biogenesis intermediates reveals a common pathway for aquaporin-1 topological maturation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Buck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Skach"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Science", 
+            "doi": "10.1126/science.1228655", 
+            "year": "2013", 
+            "title": "Membrane protein twists and turns", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JU", 
+                    "surname": "Bowie"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2026", 
+            "year": "2011", 
+            "title": "Cryo-EM structure of the ribosome-SecYE complex in the membrane environment", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Frauenfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gumbart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EO", 
+                    "surname": "Sluis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Funes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gartmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Beatrix"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Mielke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Berninghausen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Becker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Schulten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Beckmann"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Current Opinion in Cell Biology", 
+            "doi": "10.1016/j.ceb.2014.02.004", 
+            "year": "2014", 
+            "title": "Embracing the void-how much do we really know about targeting and translocation to the endoplasmic reticulum?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Aviram"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schuldiner"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/0022-2836(92)90466-W", 
+            "year": "1992", 
+            "title": "Kinetic properties of <italic>Escherichia coli</italic> ribosomes with altered forms of S12", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bilgin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Claesens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Pahverk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ehrenberg"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkp363", 
+            "year": "2009", 
+            "title": "TOPCONS: consensus prediction of membrane protein topology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bernsel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Viklund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hennerdal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Elofsson"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200803097", 
+            "year": "2008", 
+            "title": "To flip or not to flip: lipid-protein charge interactions are a determinant of final membrane protein topology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bogdanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Heacock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Dowhan"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.77.3.1496", 
+            "year": "1980", 
+            "title": "Intracellular protein topogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Blobel"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi960950q", 
+            "year": "1996", 
+            "title": "Biogenesis of polytopic membrane proteins: membrane segments of P- glycoprotein sequentially translocate to span the ER membrane", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Borel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Simon"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Biochimica et Biophysica Acta", 
+            "doi": "10.1016/j.bbamcr.2013.12.007", 
+            "year": "2014", 
+            "title": "Lipids and topological rules governing membrane protein assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bogdanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Dowhan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Vitrac"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Journal of Cell Science", 
+            "doi": "10.1242/jcs.153650", 
+            "year": "2014", 
+            "title": "The Sec62-Sec63 translocon facilitates translocation of the C-terminus of membrane proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S-J", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JEH", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Reithinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi026619q", 
+            "year": "2002", 
+            "title": "The tenth membrane region of band 3 is initially exposed to the luminal side of the endoplasmic reticulum and then integrated into a partially folded band 3 intermediate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kanki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sakaguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kitamura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sato"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Mihara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Hamasaki"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/cdg361", 
+            "year": "2003", 
+            "title": "Molecular mechanism of signal sequence orientation in the endoplasmic reticulum", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Goder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spiess"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.E03-08-0599", 
+            "year": "2004", 
+            "title": "Sec61p contributes to signal sequence orientation according to the positive-inside rule", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Goder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Junne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spiess"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12950", 
+            "year": "2014", 
+            "title": "Structures of the Sec61 complex engaged in nascent peptide translocation or membrane insertion", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gogala"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Becker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Beatrix"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-P", 
+                    "surname": "Armache"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Barrio-Garcia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Berninghausen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Beckmann"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1012758108", 
+            "year": "2011", 
+            "title": "Free-energy cost for translocon-assisted insertion of membrane proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gumbart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Chipot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Schulten"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.86.15.5786", 
+            "year": "1989", 
+            "title": "Predicting the orientation of eukaryotic membrane-spanning proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hartmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Rapoport"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HF", 
+                    "surname": "Lodish"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Nature", 
+            "doi": "10.1038/nature03216", 
+            "year": "2005", 
+            "title": "Recognition of transmembrane helices by the endoplasmic reticulum translocon", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hessa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Bihlmaier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lundin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Boekel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Andersson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Nilsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "The Journal of Chemical Physics", 
+            "doi": "10.1063/1.2357118", 
+            "year": "2006", 
+            "title": "Langevin dynamics simulations of polymer translocation through nanopores", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Huopaniemi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ala-Nissila"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Ying"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Annual Review of Microbiology", 
+            "doi": "10.1146/annurev.micro.59.030804.121316", 
+            "year": "2005", 
+            "title": "Cellular functions, mechanism of action, and regulation of FtsH protease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Akiyama"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1304375110", 
+            "year": "2013", 
+            "title": "In vitro reconstitution of lipid-dependent dual topology and postassembly topological switching of a membrane protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Vitrac"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bogdanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Dowhan"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "The EMBO Journal", 
+            "year": "1986", 
+            "title": "The distribution of positively charged residues in bacterial inner membrane proteins correlates with the trans-membrane topology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Nature", 
+            "doi": "10.1038/nature02218", 
+            "year": "2004", 
+            "title": "X-ray structure of a protein-conducting channel", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Van den Berg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WM", 
+                    "surname": "Clemons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Collinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Modis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hartmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Harrison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Rapoport"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Protein Science", 
+            "doi": "10.1002/pro.2483", 
+            "year": "2014", 
+            "title": "Folding of aquaporin 1: multiple evidence that helix 3 can shift out of the membrane core", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Virkki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Agrawal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Edsb\u00e4cker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Cristobal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Elofsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kauko"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Biochimica et Biophysica Acta", 
+            "doi": "10.1016/j.bbamcr.2013.08.018", 
+            "year": "2013", 
+            "title": "TRAP assists membrane protein topogenesis at the mammalian ER membrane", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Sommer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Junne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KU", 
+                    "surname": "Kalies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spiess"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hartmann"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Physical Review Letters", 
+            "doi": "10.1103/PhysRevLett.101.248301", 
+            "year": "2008", 
+            "title": "Model for stretching and unfolding the giant multidomain muscle protein using single-molecule force spectroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Staple"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Payne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ALC", 
+                    "surname": "Reddin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Kreuzer"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Annual Review of Cell and Developmental Biology", 
+            "doi": "10.1146/annurev-cellbio-092910-154125", 
+            "year": "2011", 
+            "title": "Membrane protein insertion at the endoplasmic reticulum", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Hegde"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1600", 
+            "year": "2009", 
+            "title": "Cellular mechanisms of membrane protein folding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Skach"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Molecular Biology of the Cell", 
+            "year": "2006", 
+            "title": "Ribosome binding to and dissociation from translocation sites of the endoplasmic reticulum membrane", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schaltetzky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Rapoport"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Science", 
+            "doi": "10.1126/science.1188950", 
+            "year": "2010", 
+            "title": "Control of membrane protein topology by a single C-terminal residue", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sepp\u00e4l\u00e4"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Slusky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Lloris-Garcer\u00e1"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2014.09.014", 
+            "year": "2014", 
+            "title": "Mechanisms of integral membrane protein insertion and folding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Cymer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "White"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0709387104", 
+            "year": "2007", 
+            "title": "X-ray structure of EmrE supports dual topology model", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-J", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Pornillos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lieu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Chang"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.140216497", 
+            "year": "2000", 
+            "title": "Ordered membrane insertion of an archaeal opsin in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Dale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Angevine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Krebs"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev-biochem-060409-092524", 
+            "year": "2011", 
+            "title": "Assembly of bacterial inner membrane proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Dalbey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kuhn"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1012556107", 
+            "year": "2010", 
+            "title": "Lateral opening of a translocon upon entry of protein suggests the mechanism of insertion into membranes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PF", 
+                    "surname": "Egea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Stroud"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2011.06.004", 
+            "year": "2011", 
+            "title": "Stepwise insertion and inversion of a type II signal anchor sequence in the ribosome-Sec61 translocon complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PK", 
+                    "surname": "Devaraneni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Conti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Matsumura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Skach"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb994", 
+            "year": "2005", 
+            "title": "Sequential triage of transmembrane segments by Sec61<italic>\u03b1</italic> during biogenesis of a native multispanning membrane protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sadlish"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Pitonzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Skach"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1220361110", 
+            "year": "2013", 
+            "title": "Exploring the nature of the translocon-assisted protein insertion", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rychkova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Warshel"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "FEBS Letters", 
+            "doi": "10.1016/S0014-5793(01)02712-0", 
+            "year": "2001", 
+            "title": "Topogenesis of membrane proteins: determinants and dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Goder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spiess"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(94)90155-4", 
+            "year": "1994", 
+            "title": "Topological \u2018frustration\u2019 in multispanning <italic>E. coli</italic> inner membrane proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Gafvelin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M202559200", 
+            "year": "2002", 
+            "title": "Endoplasmic reticulum-bound ribosomes reside in stable association with the translocon following termination of protein synthesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Potter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Nicchitta"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2013.07.013", 
+            "year": "2013", 
+            "title": "Quality control of integral membrane proteins by assembly-dependent membrane integration", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Feige"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Hendershot"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.9.9.2681", 
+            "year": "1998", 
+            "title": "Coupled translocation events generate topological heterogeneity at the endoplasmic reticulum membrane", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Moss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Helm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bragin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Skach"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Molecular Biology of the Cell", 
+            "doi": "10.1091/mbc.11.9.2973", 
+            "year": "2000", 
+            "title": "Reorientation of aquaporin-1 topology during maturation in the endoplasmic reticulum", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IR", 
+                    "surname": "Turnbull"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Bragin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Carveth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Verkman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Skach"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M112.357590", 
+            "year": "2012", 
+            "title": "Antiparallel dimers of the small multidrug resistance protein EmrE are more stable than parallel dimers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Lloris-Garcer\u00e1"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bianchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JSG", 
+                    "surname": "Slusky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sepp\u00e4l\u00e4"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DO", 
+                    "surname": "Daley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M100956200", 
+            "year": "2001", 
+            "title": "Dual topology of the hepatitis B virus large envelope protein. Determinants influencing post-translational pre-S translocation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lambert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Prange"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Science", 
+            "doi": "10.1126/science.1135406", 
+            "year": "2007", 
+            "title": "Emulating membrane protein evolution by rational design", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sepp\u00e4l\u00e4"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Granseth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb1057", 
+            "year": "2006", 
+            "title": "Identification and evolution of dual-topology membrane proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rapp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Granseth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sepp\u00e4l\u00e4"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2012.08.039", 
+            "year": "2012a", 
+            "title": "Long-timescale dynamics and regulation of Sec-facilitated protein translocation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TF", 
+                    "surname": "Miller"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0914752107", 
+            "year": "2010", 
+            "title": "Hydrophobically stabilized open state for the lateral gate of the Sec translocon", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TF", 
+                    "surname": "Miller"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M113.491613", 
+            "year": "2013", 
+            "title": "YidC protein, a molecular chaperone for LacY protein folding via the SecYEG protein machinery", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HR", 
+                    "surname": "Kaback"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Dalbey"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Journal of the American Chemical Society", 
+            "doi": "10.1021/ja3034526", 
+            "year": "2012b", 
+            "title": "Direct simulation of early-stage Sec-facilitated protein translocation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TF", 
+                    "surname": "Miller"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Current Opinion in Structural Biology", 
+            "doi": "10.1016/j.sbi.2004.07.003", 
+            "year": "2004", 
+            "title": "The machinery of membrane protein assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "von Heijne"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Cell", 
+            "doi": "10.1016/0092-8674(88)90009-8", 
+            "year": "1988", 
+            "title": "Insertion of a multispanning membrane protein occurs sequentially and requires only one signal sequence", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HP", 
+                    "surname": "Wessels"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Spiess"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms9099", 
+            "year": "2015", 
+            "title": "Dual-topology insertion of a dual-topology membrane protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NB", 
+                    "surname": "Woodall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JU", 
+                    "surname": "Bowie"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi9600153", 
+            "year": "1996", 
+            "title": "Solvation energies of amino acid side chains and backbone in a family of host-guest pentapeptides", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Wimley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TP", 
+                    "surname": "Creamer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "White"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Coarse-grained modeling reveals a new mechanism for multispanning membrane protein topogenesis, in which misintegrated configurations of the proteins undergo post-translational annealing to reach final, fully integrated multispanning topologies.", 
+    "related-articles": [], 
+    "elocation-id": "e08697", 
+    "publish": "1", 
+    "article-version-id": "08697.1", 
+    "volume": "4", 
+    "keywords": {
+        "author-keywords": [
+            "membrane protein topology", 
+            "simulation", 
+            "dual-topology", 
+            "topogenesis"
+        ], 
+        "research-organism": [
+            "none"
+        ]
+    }, 
+    "doi": "10.7554/eLife.08697", 
+    "version": "1", 
+    "referenced": {
+        "present-address": {}, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000057", 
+                "award-id": "Ruth Kirschtein Postdoctoral Fellowship 1F32GM113334-01", 
+                "institution": "National Institute of General Medical Sciences (NIGMS)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {}, 
+        "foot-note": {}, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Division of Chemistry and Chemical Engineering", 
+                "email": null, 
+                "city": "Pasadena", 
+                "institution": "California Institute of Technology", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {}, 
+        "contribution": {
+            "con1": "RCVL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "BZ, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "TFM, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "tfm@caltech.edu"
+        }
+    }, 
+    "path": "content/4/e08697v1", 
+    "fragments": [
+        {
+            "path": "content/4/e08697v1/abstract", 
+            "doi": "10.7554/eLife.08697.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e08697v1/abstract2", 
+            "doi": "10.7554/eLife.08697.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e08697v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/4/e08697v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.08697.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08697v1/figure1/figure-supp2", 
+                    "doi": "10.7554/eLife.08697.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.08697.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e08697v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/4/e08697v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.08697.007", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08697v1/figure2/figure-supp2", 
+                    "doi": "10.7554/eLife.08697.008", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.08697.006", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e08697v1/figure3", 
+            "fragments": [
+                {
+                    "path": "content/4/e08697v1/figure3/figure-supp1", 
+                    "doi": "10.7554/eLife.08697.010", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08697v1/figure3/figure-supp2", 
+                    "doi": "10.7554/eLife.08697.011", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e08697v1/figure3/figure-supp3", 
+                    "doi": "10.7554/eLife.08697.012", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.08697.009", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e08697v1/figure4", 
+            "doi": "10.7554/eLife.08697.013", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e08697v1/figure5", 
+            "fragments": [
+                {
+                    "path": "content/4/e08697v1/figure5/figure-supp1", 
+                    "doi": "10.7554/eLife.08697.015", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08697.014", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e08697v1/figure6", 
+            "doi": "10.7554/eLife.08697.016", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e08697v1/figure7", 
+            "fragments": [
+                {
+                    "path": "content/4/e08697v1/figure7/figure-supp1", 
+                    "doi": "10.7554/eLife.08697.018", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08697.017", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e08697v1/figure8", 
+            "fragments": [
+                {
+                    "path": "content/4/e08697v1/figure8/figure-supp1", 
+                    "doi": "10.7554/eLife.08697.020", 
+                    "type": "fig", 
+                    "title": "Figure 8\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08697.019", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/4/e08697v1/table1", 
+            "doi": "10.7554/eLife.08697.021", 
+            "type": "table-wrap", 
+            "title": "Appendix table 1."
+        }, 
+        {
+            "path": "content/4/e08697v1/table2", 
+            "doi": "10.7554/eLife.08697.022", 
+            "type": "table-wrap", 
+            "title": "Appendix table 2."
+        }, 
+        {
+            "path": "content/4/e08697v1/decision", 
+            "doi": "10.7554/eLife.08697.023", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Hummer", 
+                    "given-names": "Gerhard", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Germany", 
+                            "institution": "The Max Planck Institute of Biophysics"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e08697v1/response", 
+            "doi": "10.7554/eLife.08697.024", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10.7554/eLife.08697", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}
