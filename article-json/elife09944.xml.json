@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Groen", 
@@ -36,7 +35,7 @@
     ], 
     "pub-date": "2015-07-23", 
     "title": "Science hackathons for developing interdisciplinary research and collaborations", 
-    "citations": {}, 
+    "citations": [], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e09944", 
@@ -60,32 +59,36 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Faculty of Natural Sciences and Department of Mathematics", 
-                "email": "b.calderhead@imperial.ac.uk", 
-                "city": "London", 
-                "institution": "Imperial College London", 
-                "country": "United Kingdom"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Centre for Computational Science", 
+                    "email": "d.groen@ucl.ac.uk", 
+                    "city": "London", 
+                    "institution": "University College London", 
+                    "country": "United Kingdom"
+                }
             }, 
-            "aff1": {
-                "dept": "Centre for Computational Science", 
-                "email": "d.groen@ucl.ac.uk", 
-                "city": "London", 
-                "institution": "University College London", 
-                "country": "United Kingdom"
+            {
+                "aff2": {
+                    "dept": "Faculty of Natural Sciences and Department of Mathematics", 
+                    "email": "b.calderhead@imperial.ac.uk", 
+                    "city": "London", 
+                    "institution": "Imperial College London", 
+                    "country": "United Kingdom"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e09944v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.09944", 
+    "article-id": "09944", 
     "categories": {
         "sub-display-channel": [
             "Cutting edge"

@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -151,969 +150,1003 @@
     ], 
     "pub-date": "2015-01-26", 
     "title": "Registered report: The CD47-signal regulated protein alpha (SIRPa) interaction is a therapeutic target for human solid tumors", 
-    "citations": {
-        "bib11": {
-            "source": "Science Translational Medicine", 
-            "doi": "10.1126/scitranslmed.3000139", 
-            "year": "2009", 
-            "title": "Radioprotection in normal tissue and delayed tumor growth by blockade of CD47 signaling", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JB", 
-                    "surname": "Maxhimer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Soto-Pantoja"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LA", 
-                    "surname": "Ridnour"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HB", 
-                    "surname": "Shih"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WG", 
-                    "surname": "Degraff"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tsokos"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DA", 
-                    "surname": "Wink"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Isenberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Roberts"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.0906549106", 
+                "year": "2009", 
+                "title": "Identification, molecular characterization, clinical prognosis, and therapeutic targeting of human bladder tumor-initiating cells", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KS", 
+                        "surname": "Chan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Espinosa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Chao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Wong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Ailles"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Diehn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Gill"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Presti", 
+                        "suffix": "Jr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HY", 
+                        "surname": "Chang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "van de Rijn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Shortliffe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2009.05.045", 
-            "year": "2009", 
-            "title": "CD47 is an adverse prognostic factor and therapeutic antibody target on human acute myeloid leukemia stem cells", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Majeti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MP", 
-                    "surname": "Chao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Alizadeh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WW", 
-                    "surname": "Pang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Jaiswal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KD", 
-                    "surname": "Gibbs", 
-                    "suffix": "Jr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "van Rooijen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Cancer Research", 
+                "doi": "10.1158/0008-5472.CAN-10-2238", 
+                "year": "2010a", 
+                "title": "Therapeutic antibody targeting of CD47 eliminates human acute lymphoblastic leukemia", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MP", 
+                        "surname": "Chao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AA", 
+                        "surname": "Alizadeh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Tang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Jan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Weissman-Tsukamoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Zhao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CY", 
+                        "surname": "Park"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Majeti"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "ISRN Hematology", 
-            "doi": "10.1155/2013/614619", 
-            "year": "2013", 
-            "title": "CD47: A Cell Surface Glycoprotein which Regulates Multiple Functions of Hematopoietic Cells in Health and Disease", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PA", 
-                    "surname": "Oldenborg"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2010.07.044", 
+                "year": "2010b", 
+                "title": "Anti-CD47 antibody synergizes with rituximab to promote phagocytosis and eradicate non-Hodgkin lymphoma", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MP", 
+                        "surname": "Chao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AA", 
+                        "surname": "Alizadeh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Tang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JH", 
+                        "surname": "Myklebust"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Varghese"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Gill"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Jan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AC", 
+                        "surname": "Cha"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CK", 
+                        "surname": "Chan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BT", 
+                        "surname": "Tan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CY", 
+                        "surname": "Park"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Zhao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HE", 
+                        "surname": "Kohrt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Malumbres"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Briones"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RD", 
+                        "surname": "Gascoyne"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IS", 
+                        "surname": "Lossos"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Levy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Majeti"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "Journal of Biochemistry", 
-            "doi": "10.1093/jb/mvu017", 
-            "year": "2014", 
-            "title": "The CD47-SIRPalpha signalling system: its physiological roles and therapeutic application", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Murata"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Kotani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Ohnishi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Matozaki"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Clinical Cancer Research", 
+                "year": "2001", 
+                "title": "Development of tumor-infiltrating lymphocytes in breast cancer after neoadjuvant paclitaxel chemotherapy", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Demaria"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MD", 
+                        "surname": "Volm"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RL", 
+                        "surname": "Shapiro"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HT", 
+                        "surname": "Yee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Oratz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SC", 
+                        "surname": "Formenti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Muggia"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WF", 
+                        "surname": "Symmans"
+                    }
+                ]
+            }
         }, 
-        "bib15": {
-            "comment": "URL", 
-            "source": "R Foundation for Statistical Computing", 
-            "year": "2014", 
-            "title": "R: a language and environment for statistical computing", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "collab": "R Core Team"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1121629109", 
+                "year": "2012", 
+                "title": "Antibody therapy targeting the CD47 protein is effective in a model of aggressive metastatic leiomyosarcoma", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Edris"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Weiskopf"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AK", 
+                        "surname": "Volkmer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JP", 
+                        "surname": "Volkmer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SB", 
+                        "surname": "Willingham"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Contreras-Trujillo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Liu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Majeti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RB", 
+                        "surname": "West"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Fletcher"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AH", 
+                        "surname": "Beck"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "van de Rijn"
+                    }
+                ]
+            }
         }, 
-        "bib14": {
-            "source": "Nature reviews. Immunology", 
-            "doi": "10.1038/nri3607", 
-            "year": "2014", 
-            "title": "Apoptotic cell clearance: basic biology and therapeutic potential", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "IK", 
-                    "surname": "Poon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CD", 
-                    "surname": "Lucas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AG", 
-                    "surname": "Rossi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KS", 
-                    "surname": "Ravichandran"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Behavior Research Methods", 
+                "doi": "10.3758/BF03193146", 
+                "year": "2007", 
+                "title": "G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Faul"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Erdfelder"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AG", 
+                        "surname": "Lang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Buchner"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1121623109", 
-            "year": "2012", 
-            "title": "The CD47-signal regulatory protein alpha (SIRPa) interaction is a therapeutic target for human solid tumors", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SB", 
-                    "surname": "Willingham"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JP", 
-                    "surname": "Volkmer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AJ", 
-                    "surname": "Gentles"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Sahoo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Dalerba"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SS", 
-                    "surname": "Mitra"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Contreras-Trujillo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Martin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JD", 
-                    "surname": "Cohen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Lovelace"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FA", 
-                    "surname": "Scheeren"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MP", 
-                    "surname": "Chao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Weiskopf"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Tang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AK", 
-                    "surname": "Volkmer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TJ", 
-                    "surname": "Naik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TA", 
-                    "surname": "Storm"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AR", 
-                    "surname": "Mosley"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Edris"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SM", 
-                    "surname": "Schmid"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CK", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Chua"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Murillo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Rajendran"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AC", 
-                    "surname": "Cha"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RK", 
-                    "surname": "Chin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Kim"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Adorno"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Raveh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Tseng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Jaiswal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PO", 
-                    "surname": "Enger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GK", 
-                    "surname": "Steinberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SK", 
-                    "surname": "So"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Majeti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GR", 
-                    "surname": "Harsh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "van de Rijn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NN", 
-                    "surname": "Teng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JB", 
-                    "surname": "Sunwoo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Alizadeh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MF", 
-                    "surname": "Clarke"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "European Journal of Cancer", 
+                "doi": "10.1016/j.ejca.2014.03.004", 
+                "year": "2014", 
+                "title": "Efficacy of anti-CD47 antibody-mediated phagocytosis with macrophages against primary effusion lymphoma", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Goto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Kojima"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Matsuda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Kariya"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Taura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Kuwahara"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Nagai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Katano"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Okada"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1205441109", 
-            "year": "2012", 
-            "title": "Inhibitory signaling through signal regulatory protein-a is not sufficient to explain the antitumor activities of CD47 antibodies", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Soto-Pantoja"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TW", 
-                    "surname": "Miller"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WA", 
-                    "surname": "Frazier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Roberts"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2009.05.046", 
+                "year": "2009", 
+                "title": "CD47 is upregulated on circulating hematopoietic stem cells and leukemia cells to avoid phagocytosis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Jaiswal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CH", 
+                        "surname": "Jamieson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WW", 
+                        "surname": "Pang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CY", 
+                        "surname": "Park"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MP", 
+                        "surname": "Chao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Majeti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Traver"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "van Rooijen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }
+                ]
+            }
         }, 
-        "bib9": {
-            "source": "Leukemia", 
-            "doi": "10.1038/leu.2012.141", 
-            "year": "2012", 
-            "title": "Anti-CD47 antibodies promote phagocytosis and inhibit the growth of human myeloma cells", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Kim"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SB", 
-                    "surname": "Willingham"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Martin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Wernig"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Leukemia", 
+                "doi": "10.1038/leu.2012.141", 
+                "year": "2012", 
+                "title": "Anti-CD47 antibodies promote phagocytosis and inhibit the growth of human myeloma cells", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Kim"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SB", 
+                        "surname": "Willingham"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Martin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Wernig"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2009.05.046", 
-            "year": "2009", 
-            "title": "CD47 is upregulated on circulating hematopoietic stem cells and leukemia cells to avoid phagocytosis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Jaiswal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CH", 
-                    "surname": "Jamieson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WW", 
-                    "surname": "Pang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CY", 
-                    "surname": "Park"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MP", 
-                    "surname": "Chao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Majeti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Traver"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "van Rooijen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2009.05.045", 
+                "year": "2009", 
+                "title": "CD47 is an adverse prognostic factor and therapeutic antibody target on human acute myeloid leukemia stem cells", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Majeti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MP", 
+                        "surname": "Chao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AA", 
+                        "surname": "Alizadeh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WW", 
+                        "surname": "Pang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Jaiswal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KD", 
+                        "surname": "Gibbs", 
+                        "suffix": "Jr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "van Rooijen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.0906549106", 
-            "year": "2009", 
-            "title": "Identification, molecular characterization, clinical prognosis, and therapeutic targeting of human bladder tumor-initiating cells", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KS", 
-                    "surname": "Chan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Espinosa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Chao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Wong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Ailles"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Diehn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Gill"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Presti", 
-                    "suffix": "Jr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HY", 
-                    "surname": "Chang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "van de Rijn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Shortliffe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Science Translational Medicine", 
+                "doi": "10.1126/scitranslmed.3000139", 
+                "year": "2009", 
+                "title": "Radioprotection in normal tissue and delayed tumor growth by blockade of CD47 signaling", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JB", 
+                        "surname": "Maxhimer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Soto-Pantoja"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LA", 
+                        "surname": "Ridnour"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HB", 
+                        "surname": "Shih"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WG", 
+                        "surname": "Degraff"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tsokos"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DA", 
+                        "surname": "Wink"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JS", 
+                        "surname": "Isenberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Roberts"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2010.07.044", 
-            "year": "2010b", 
-            "title": "Anti-CD47 antibody synergizes with rituximab to promote phagocytosis and eradicate non-Hodgkin lymphoma", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MP", 
-                    "surname": "Chao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Alizadeh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Tang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JH", 
-                    "surname": "Myklebust"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Varghese"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Gill"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Jan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AC", 
-                    "surname": "Cha"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CK", 
-                    "surname": "Chan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BT", 
-                    "surname": "Tan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CY", 
-                    "surname": "Park"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Zhao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HE", 
-                    "surname": "Kohrt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Malumbres"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Briones"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RD", 
-                    "surname": "Gascoyne"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IS", 
-                    "surname": "Lossos"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Levy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Majeti"
-                }
-            ]
+        {
+            "bib12": {
+                "source": "Journal of Biochemistry", 
+                "doi": "10.1093/jb/mvu017", 
+                "year": "2014", 
+                "title": "The CD47-SIRPalpha signalling system: its physiological roles and therapeutic application", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Murata"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Kotani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Ohnishi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Matozaki"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Cancer Research", 
-            "doi": "10.1158/0008-5472.CAN-10-2238", 
-            "year": "2010a", 
-            "title": "Therapeutic antibody targeting of CD47 eliminates human acute lymphoblastic leukemia", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MP", 
-                    "surname": "Chao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Alizadeh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Tang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Jan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Weissman-Tsukamoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Zhao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CY", 
-                    "surname": "Park"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Majeti"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "ISRN Hematology", 
+                "doi": "10.1155/2013/614619", 
+                "year": "2013", 
+                "title": "CD47: A Cell Surface Glycoprotein which Regulates Multiple Functions of Hematopoietic Cells in Health and Disease", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PA", 
+                        "surname": "Oldenborg"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1121629109", 
-            "year": "2012", 
-            "title": "Antibody therapy targeting the CD47 protein is effective in a model of aggressive metastatic leiomyosarcoma", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Edris"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Weiskopf"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AK", 
-                    "surname": "Volkmer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JP", 
-                    "surname": "Volkmer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SB", 
-                    "surname": "Willingham"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Contreras-Trujillo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Liu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Majeti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RB", 
-                    "surname": "West"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Fletcher"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AH", 
-                    "surname": "Beck"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IL", 
-                    "surname": "Weissman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "van de Rijn"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "Nature reviews. Immunology", 
+                "doi": "10.1038/nri3607", 
+                "year": "2014", 
+                "title": "Apoptotic cell clearance: basic biology and therapeutic potential", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "IK", 
+                        "surname": "Poon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CD", 
+                        "surname": "Lucas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AG", 
+                        "surname": "Rossi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KS", 
+                        "surname": "Ravichandran"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Clinical Cancer Research", 
-            "year": "2001", 
-            "title": "Development of tumor-infiltrating lymphocytes in breast cancer after neoadjuvant paclitaxel chemotherapy", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Demaria"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MD", 
-                    "surname": "Volm"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RL", 
-                    "surname": "Shapiro"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HT", 
-                    "surname": "Yee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Oratz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SC", 
-                    "surname": "Formenti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Muggia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WF", 
-                    "surname": "Symmans"
-                }
-            ]
+        {
+            "bib15": {
+                "comment": "URL", 
+                "source": "R Foundation for Statistical Computing", 
+                "year": "2014", 
+                "title": "R: a language and environment for statistical computing", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "collab": "R Core Team"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "European Journal of Cancer", 
-            "doi": "10.1016/j.ejca.2014.03.004", 
-            "year": "2014", 
-            "title": "Efficacy of anti-CD47 antibody-mediated phagocytosis with macrophages against primary effusion lymphoma", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Goto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Kojima"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Matsuda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Kariya"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Taura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Kuwahara"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Nagai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Katano"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Okada"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1205441109", 
+                "year": "2012", 
+                "title": "Inhibitory signaling through signal regulatory protein-a is not sufficient to explain the antitumor activities of CD47 antibodies", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Soto-Pantoja"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TW", 
+                        "surname": "Miller"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WA", 
+                        "surname": "Frazier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Roberts"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Behavior Research Methods", 
-            "doi": "10.3758/BF03193146", 
-            "year": "2007", 
-            "title": "G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Faul"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Erdfelder"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AG", 
-                    "surname": "Lang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Buchner"
-                }
-            ]
+        {
+            "bib17": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1121623109", 
+                "year": "2012", 
+                "title": "The CD47-signal regulatory protein alpha (SIRPa) interaction is a therapeutic target for human solid tumors", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SB", 
+                        "surname": "Willingham"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JP", 
+                        "surname": "Volkmer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AJ", 
+                        "surname": "Gentles"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Sahoo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Dalerba"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SS", 
+                        "surname": "Mitra"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Contreras-Trujillo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Martin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JD", 
+                        "surname": "Cohen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Lovelace"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FA", 
+                        "surname": "Scheeren"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MP", 
+                        "surname": "Chao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Weiskopf"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Tang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AK", 
+                        "surname": "Volkmer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TJ", 
+                        "surname": "Naik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TA", 
+                        "surname": "Storm"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AR", 
+                        "surname": "Mosley"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Edris"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SM", 
+                        "surname": "Schmid"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CK", 
+                        "surname": "Sun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Chua"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Murillo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Rajendran"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AC", 
+                        "surname": "Cha"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RK", 
+                        "surname": "Chin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Kim"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Adorno"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Raveh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Tseng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Jaiswal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PO", 
+                        "surname": "Enger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GK", 
+                        "surname": "Steinberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SK", 
+                        "surname": "So"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Majeti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GR", 
+                        "surname": "Harsh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "van de Rijn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NN", 
+                        "surname": "Teng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JB", 
+                        "surname": "Sunwoo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AA", 
+                        "surname": "Alizadeh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MF", 
+                        "surname": "Clarke"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IL", 
+                        "surname": "Weissman"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e04586", 
@@ -1140,36 +1173,38 @@
             "conf2": "RP:CB: EI, FT and JL are employed by and hold shares in Science Exchange Inc.", 
             "conf1": "DC: This is a Science Exchange Associated lab."
         }, 
-        "funding": {
-            "par-1": {
-                "institution": "Laura and John Arnold Foundation"
+        "funding": [
+            {
+                "par-1": {
+                    "institution": "Laura and John Arnold Foundation"
+                }
             }
-        }, 
+        ], 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff3": {
-                "dept": null, 
-                "email": null, 
-                "city": "Charlottesville", 
-                "institution": "University of Virginia", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "country": "United States", 
+                    "institution": "Noble Life Sciences", 
+                    "city": "Gaithersburg"
+                }
             }, 
-            "aff2": {
-                "dept": null, 
-                "email": null, 
-                "city": "Cambridge", 
-                "institution": "Harvard Stem Cell Institute", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "country": "United States", 
+                    "institution": "Harvard Stem Cell Institute", 
+                    "city": "Cambridge"
+                }
             }, 
-            "aff1": {
-                "dept": null, 
-                "email": null, 
-                "city": "Gaithersburg", 
-                "institution": "Noble Life Sciences", 
-                "country": "United States"
+            {
+                "aff3": {
+                    "country": "United States", 
+                    "institution": "University of Virginia", 
+                    "city": "Charlottesville"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {
             "con1": "DC, Drafting or revising the article", 
@@ -1215,7 +1250,7 @@
             "title": "Author response"
         }
     ], 
-    "article-id": "10.7554/eLife.04586", 
+    "article-id": "04586", 
     "categories": {
         "heading": [
             "Human biology and medicine"

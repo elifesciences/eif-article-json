@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Pewsey", 
@@ -29,56 +28,60 @@
     ], 
     "pub-date": "2013-03-12", 
     "title": "Hip, hip, hooray!", 
-    "citations": {
-        "bib1": {
-            "comment": "Available at:", 
-            "title": "Hip fracture", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "collab": "NHS Choices"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "comment": "Available at:", 
+                "title": "Hip fracture", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "collab": "NHS Choices"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "PLOS One", 
-            "doi": "10.1371/journal.pone.0038466", 
-            "year": "2012", 
-            "title": "Cortical thickness mapping to identify focal osteoporosis in patients with hip fracture", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KES", 
-                    "surname": "Poole"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GM", 
-                    "surname": "Treece"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PM", 
-                    "surname": "Mayhew"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Vaculik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Dungi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hor\u00e1k"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "PLOS One", 
+                "doi": "10.1371/journal.pone.0038466", 
+                "year": "2012", 
+                "title": "Cortical thickness mapping to identify focal osteoporosis in patients with hip fracture", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KES", 
+                        "surname": "Poole"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GM", 
+                        "surname": "Treece"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PM", 
+                        "surname": "Mayhew"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Vaculik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Dungi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hor\u00e1k"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e00646", 
@@ -99,25 +102,27 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Materials Science and Metallurgy", 
-                "email": "ep320@cam.ac.uk", 
-                "city": "Cambridge", 
-                "institution": "University of Cambridge", 
-                "country": "United Kingdom"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Materials Science and Metallurgy", 
+                    "email": "ep320@cam.ac.uk", 
+                    "city": "Cambridge", 
+                    "institution": "University of Cambridge", 
+                    "country": "United Kingdom"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/2/e00646v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.00646", 
+    "article-id": "00646", 
     "categories": {
         "sub-display-channel": [
             "Science writing competition"

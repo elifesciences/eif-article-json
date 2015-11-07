@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Boyd", 
@@ -28,34 +27,38 @@
     ], 
     "pub-date": "2013-07-02", 
     "title": "Making science count in government", 
-    "citations": {
-        "bib1": {
-            "source": "Nature", 
-            "doi": "10.1038/497433a", 
-            "year": "2013", 
-            "title": "Reproducibility: six red flags for suspect work", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CG", 
-                    "surname": "Begley"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Nature", 
+                "doi": "10.1038/497433a", 
+                "year": "2013", 
+                "title": "Reproducibility: six red flags for suspect work", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CG", 
+                        "surname": "Begley"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Nature", 
-            "doi": "10.1038/494283a", 
-            "year": "2013", 
-            "title": "Bees, lies and evidence-based policy", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Dicks"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Nature", 
+                "doi": "10.1038/494283a", 
+                "year": "2013", 
+                "title": "Bees, lies and evidence-based policy", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Dicks"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e01061", 
@@ -77,25 +80,26 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": null, 
-                "email": "ian.boyd@defra.gsi.gov.uk", 
-                "city": "London", 
-                "institution": "Department of Environment, Food and Rural Affairs", 
-                "country": "United Kingdom"
+        "affiliation": [
+            {
+                "aff1": {
+                    "country": "United Kingdom", 
+                    "city": "London", 
+                    "institution": "Department of Environment, Food and Rural Affairs", 
+                    "email": "ian.boyd@defra.gsi.gov.uk"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/2/e01061v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.01061", 
+    "article-id": "01061", 
     "categories": {
         "sub-display-channel": [
             "Point of view"

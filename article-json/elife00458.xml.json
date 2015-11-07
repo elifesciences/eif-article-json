@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -299,924 +298,988 @@
     ], 
     "pub-date": "2013-04-16", 
     "title": "Cohabiting family members share microbiota with one another and with their dogs", 
-    "citations": {
-        "bib9": {
-            "source": "Biol Conserv", 
-            "doi": "10.1016/0006-3207(92)91201-3", 
-            "year": "1992", 
-            "title": "Conservation evaluation and phylogenetic diversity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DP", 
-                    "surname": "Faith"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "PERMANOVA+ for PRIMER: guide to software and statistical methods", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Anderson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Gorley"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Clarke"
+                    }
+                ], 
+                "year": "2008"
+            }
         }, 
-        "bib8": {
-            "source": "Science", 
-            "doi": "10.1126/science.1177486", 
-            "year": "2009", 
-            "title": "Bacterial community variation in human body habitats across space and time", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "EK", 
-                    "surname": "Costello"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CL", 
-                    "surname": "Lauber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hamady"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Fierer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JI", 
-                    "surname": "Gordon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }
-            ]
+        {
+            "bib2": {
+                "title": "The lme4 package", 
+                "year": "2008", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Bates"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Maechler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Dai"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "PERMANOVA+ for PRIMER: guide to software and statistical methods", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Anderson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Gorley"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Clarke"
-                }
-            ], 
-            "year": "2008"
+        {
+            "bib3": {
+                "source": "Proc Natl Acad Sci USA", 
+                "doi": "10.1073/pnas.1200515109", 
+                "year": "2012", 
+                "title": "Anthropology of microbes", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Benezra"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "DeStefano"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JI", 
+                        "surname": "Gordon"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Proc Natl Acad Sci USA", 
-            "doi": "10.1073/pnas.1200515109", 
-            "year": "2012", 
-            "title": "Anthropology of microbes", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Benezra"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "DeStefano"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JI", 
-                    "surname": "Gordon"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Nat Meth", 
+                "doi": "10.1038/nmeth.f.303", 
+                "year": "2010", 
+                "title": "QIIME allows analysis of high-throughput community sequencing data", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JG", 
+                        "surname": "Caporaso"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Kuczynski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Stombaugh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Bittinger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FD", 
+                        "surname": "Bushman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EK", 
+                        "surname": "Costello"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "title": "The lme4 package", 
-            "year": "2008", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Bates"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Maechler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Dai"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Genome Biol", 
+                "doi": "10.1186/gb-2011-12-5-r50", 
+                "year": "2011", 
+                "title": "Moving pictures of the human microbiome", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JG", 
+                        "surname": "Caporaso"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CL", 
+                        "surname": "Lauber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EK", 
+                        "surname": "Costello"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Berg-Lyons"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Gonzalez"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Stombaugh"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Genome Biol", 
-            "doi": "10.1186/gb-2011-12-5-r50", 
-            "year": "2011", 
-            "title": "Moving pictures of the human microbiome", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JG", 
-                    "surname": "Caporaso"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CL", 
-                    "surname": "Lauber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EK", 
-                    "surname": "Costello"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Berg-Lyons"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Gonzalez"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Stombaugh"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "J Hyg", 
+                "doi": "10.1017/S0022172400064597", 
+                "year": "1984", 
+                "title": "Distribution of multilocus genotypes of <italic>Escherichia coli</italic> within and between host families", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DA", 
+                        "surname": "Caugant"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BR", 
+                        "surname": "Levin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RK", 
+                        "surname": "Selander"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Nat Meth", 
-            "doi": "10.1038/nmeth.f.303", 
-            "year": "2010", 
-            "title": "QIIME allows analysis of high-throughput community sequencing data", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JG", 
-                    "surname": "Caporaso"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Kuczynski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Stombaugh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Bittinger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FD", 
-                    "surname": "Bushman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EK", 
-                    "surname": "Costello"
-                }
-            ]
+        {
+            "bib7": {
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KR", 
+                        "surname": "Clarke"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RN", 
+                        "surname": "Gorley"
+                    }
+                ], 
+                "year": "2006"
+            }
         }, 
-        "bib7": {
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KR", 
-                    "surname": "Clarke"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RN", 
-                    "surname": "Gorley"
-                }
-            ], 
-            "year": "2006"
+        {
+            "bib8": {
+                "source": "Science", 
+                "doi": "10.1126/science.1177486", 
+                "year": "2009", 
+                "title": "Bacterial community variation in human body habitats across space and time", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "EK", 
+                        "surname": "Costello"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CL", 
+                        "surname": "Lauber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hamady"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Fierer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JI", 
+                        "surname": "Gordon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "J Hyg", 
-            "doi": "10.1017/S0022172400064597", 
-            "year": "1984", 
-            "title": "Distribution of multilocus genotypes of <italic>Escherichia coli</italic> within and between host families", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DA", 
-                    "surname": "Caugant"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BR", 
-                    "surname": "Levin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RK", 
-                    "surname": "Selander"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Biol Conserv", 
+                "doi": "10.1016/0006-3207(92)91201-3", 
+                "year": "1992", 
+                "title": "Conservation evaluation and phylogenetic diversity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DP", 
+                        "surname": "Faith"
+                    }
+                ]
+            }
         }, 
-        "bib28": {
-            "source": "Br J Dermatol", 
-            "doi": "10.1111/j.1365-2133.1969.tb13976.x", 
-            "year": "1969", 
-            "title": "The normal flora of the skin in different age groups", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DA", 
-                    "surname": "Somerville"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "Proc Natl Acad Sci USA", 
+                "doi": "10.1073/pnas.0807920105", 
+                "year": "2008", 
+                "title": "The influence of sex, handedness, and washing on the diversity of hand surface bacteria", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Fierer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hamady"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CL", 
+                        "surname": "Lauber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }
+                ]
+            }
         }, 
-        "bib29": {
-            "source": "J Med Microbiol", 
-            "doi": "10.1099/jmm.0.46189-0", 
-            "year": "2005", 
-            "title": "Investigations into the influence of host genetics on the predominant eubacteria in the faecal microflora of children", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Stewart"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VS", 
-                    "surname": "Chadwick"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Murray"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Proc Natl Acad Sci USA", 
+                "doi": "10.1073/pnas.1000162107", 
+                "year": "2010", 
+                "title": "Forensic identification using skin bacterial communities", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Fierer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CL", 
+                        "surname": "Lauber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Zhou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "McDonald"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EK", 
+                        "surname": "Costello"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }
+                ]
+            }
         }, 
-        "bib20": {
-            "source": "J Invest Dermatol", 
-            "doi": "10.1111/1523-1747.ep12607630", 
-            "year": "1975", 
-            "title": "Age-related changes in the resident bacterial flora of the human face", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JJ", 
-                    "surname": "Leyden"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KJ", 
-                    "surname": "McGinley"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "OH", 
-                    "surname": "Mills"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AM", 
-                    "surname": "Kligman"
-                }
-            ]
+        {
+            "bib12": {
+                "source": "PLoS One", 
+                "doi": "10.1371/journal.pone.0028132", 
+                "year": "2011", 
+                "title": "Microbial biogeography of public restroom surfaces", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "GE", 
+                        "surname": "Flores"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ST", 
+                        "surname": "Bates"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Knights"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CL", 
+                        "surname": "Lauber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Stombaugh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }
+                ]
+            }
         }, 
-        "bib21": {
-            "source": "Appl Environ Microbiol", 
-            "doi": "10.1128/AEM.71.12.8228-8235.2005", 
-            "year": "2005", 
-            "title": "UniFrac: a new phylogenetic method for comparing microbial communities", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Lozupone"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "Science", 
+                "doi": "10.1126/science.1171700", 
+                "year": "2009", 
+                "title": "Topographical and temporal diversity of the human skin microbiome", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "EA", 
+                        "surname": "Grice"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HH", 
+                        "surname": "Kong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Conlan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CB", 
+                        "surname": "Deming"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Davis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AC", 
+                        "surname": "Young"
+                    }
+                ]
+            }
         }, 
-        "bib22": {
-            "source": "J Clin Microbiol", 
-            "year": "1980", 
-            "title": "Regional variations in density of cutaneous propionibacteria: correlation of Propionibacterium acnes populations with sebaceous secretion", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KJ", 
-                    "surname": "McGinley"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GF", 
-                    "surname": "Webster"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Ruggieri"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JJ", 
-                    "surname": "Leyden"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "Nat Meth", 
+                "doi": "10.1038/nmeth.1184", 
+                "year": "2008", 
+                "title": "Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hamady"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JJ", 
+                        "surname": "Walker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JK", 
+                        "surname": "Harris"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NJ", 
+                        "surname": "Gold"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }
+                ]
+            }
         }, 
-        "bib23": {
-            "source": "Science", 
-            "doi": "10.1126/science.1225152", 
-            "year": "2012", 
-            "title": "Compartmentalized control of skin immunity by resident commensals", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Naik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Bouladoux"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Wilhelm"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "Molloy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Salcedo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Kastenmuller"
-                }
-            ]
+        {
+            "bib15": {
+                "source": "J Allergy Clin Immunol", 
+                "doi": "10.1016/j.jaci.2011.06.039", 
+                "year": "2011", 
+                "title": "Effect of prenatal indoor pet exposure on the trajectory of total IgE levels in early childhood", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Havstad"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Wegienka"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EM", 
+                        "surname": "Zoratti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SV", 
+                        "surname": "Lynch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HA", 
+                        "surname": "Boushey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Nicholas"
+                    }
+                ]
+            }
         }, 
-        "bib24": {
-            "source": "Genome Res", 
-            "doi": "10.1101/gr.084616.108", 
-            "year": "2009", 
-            "title": "Global diversity in the human salivary microbiome", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Nasidze"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Quinque"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Tang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Stoneking"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Nature", 
+                "doi": "10.1038/nature11234", 
+                "year": "2012", 
+                "title": "Structure, function and diversity of the healthy human microbiome", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "collab": "Human Microbiome Project Consortium"
+                    }
+                ]
+            }
         }, 
-        "bib25": {
-            "source": "PLoS Biol", 
-            "doi": "10.1371/journal.pbio.0050177", 
-            "year": "2007", 
-            "title": "Development of the human infant intestinal microbiota", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Palmer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EM", 
-                    "surname": "Bik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DB", 
-                    "surname": "Digiulio"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DA", 
-                    "surname": "Relman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PO", 
-                    "surname": "Brown"
-                }
-            ]
+        {
+            "bib17": {
+                "source": "Nat Meth", 
+                "doi": "10.1038/nmeth.1650", 
+                "year": "2011", 
+                "title": "Bayesian community-wide culture-independent microbial source tracking", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Knights"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Kuczynski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ES", 
+                        "surname": "Charlson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Zaneveld"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MC", 
+                        "surname": "Mozer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RG", 
+                        "surname": "Collman"
+                    }
+                ]
+            }
         }, 
-        "bib26": {
-            "comment": "R Foundation for Statistical Computing. http://www.R-project.org/", 
-            "title": "R: a language and environment for statistical computing", 
-            "doi": "10.1007/s10985-007-9065-x", 
-            "year": "2011", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "collab": "R Development Core Team"
-                }
-            ]
+        {
+            "bib18": {
+                "source": "Proc Natl Acad Sci USA", 
+                "doi": "10.1073/pnas.1000081107", 
+                "year": "2011", 
+                "title": "Succession of microbial consortia in the developing infant gut microbiome", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JE", 
+                        "surname": "Koenig"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Spor"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Scalfone"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AD", 
+                        "surname": "Fricker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Stombaugh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }
+                ]
+            }
         }, 
-        "bib27": {
-            "source": "Environ Microbiol", 
-            "doi": "10.1111/j.1462-2920.2007.01369.x", 
-            "year": "2007", 
-            "title": "Diversity of the human gastrointestinal tract microbiota revisited", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Rajili\u0107-Stojanovi\u0107"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Smidt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WM", 
-                    "surname": "de Vos"
-                }
-            ]
+        {
+            "bib19": {
+                "source": "Appl Environ Microbiol", 
+                "doi": "10.1128/AEM.00335-09", 
+                "year": "2009", 
+                "title": "Pyrosequencing-based assessment of soil ph as a predictor of soil bacterial community structure at the continental scale", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CL", 
+                        "surname": "Lauber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hamady"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Fierer"
+                    }
+                ]
+            }
         }, 
-        "bib11": {
-            "source": "Proc Natl Acad Sci USA", 
-            "doi": "10.1073/pnas.1000162107", 
-            "year": "2010", 
-            "title": "Forensic identification using skin bacterial communities", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Fierer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CL", 
-                    "surname": "Lauber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Zhou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "McDonald"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EK", 
-                    "surname": "Costello"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }
-            ]
+        {
+            "bib20": {
+                "source": "J Invest Dermatol", 
+                "doi": "10.1111/1523-1747.ep12607630", 
+                "year": "1975", 
+                "title": "Age-related changes in the resident bacterial flora of the human face", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JJ", 
+                        "surname": "Leyden"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KJ", 
+                        "surname": "McGinley"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "OH", 
+                        "surname": "Mills"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AM", 
+                        "surname": "Kligman"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "Proc Natl Acad Sci USA", 
-            "doi": "10.1073/pnas.0807920105", 
-            "year": "2008", 
-            "title": "The influence of sex, handedness, and washing on the diversity of hand surface bacteria", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Fierer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hamady"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CL", 
-                    "surname": "Lauber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }
-            ]
+        {
+            "bib21": {
+                "source": "Appl Environ Microbiol", 
+                "doi": "10.1128/AEM.71.12.8228-8235.2005", 
+                "year": "2005", 
+                "title": "UniFrac: a new phylogenetic method for comparing microbial communities", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Lozupone"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Knight"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "Science", 
-            "doi": "10.1126/science.1171700", 
-            "year": "2009", 
-            "title": "Topographical and temporal diversity of the human skin microbiome", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "EA", 
-                    "surname": "Grice"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HH", 
-                    "surname": "Kong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Conlan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CB", 
-                    "surname": "Deming"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Davis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AC", 
-                    "surname": "Young"
-                }
-            ]
+        {
+            "bib22": {
+                "source": "J Clin Microbiol", 
+                "year": "1980", 
+                "title": "Regional variations in density of cutaneous propionibacteria: correlation of Propionibacterium acnes populations with sebaceous secretion", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KJ", 
+                        "surname": "McGinley"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GF", 
+                        "surname": "Webster"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Ruggieri"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JJ", 
+                        "surname": "Leyden"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "PLoS One", 
-            "doi": "10.1371/journal.pone.0028132", 
-            "year": "2011", 
-            "title": "Microbial biogeography of public restroom surfaces", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "GE", 
-                    "surname": "Flores"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ST", 
-                    "surname": "Bates"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Knights"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CL", 
-                    "surname": "Lauber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Stombaugh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }
-            ]
+        {
+            "bib23": {
+                "source": "Science", 
+                "doi": "10.1126/science.1225152", 
+                "year": "2012", 
+                "title": "Compartmentalized control of skin immunity by resident commensals", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Naik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Bouladoux"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Wilhelm"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "Molloy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Salcedo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Kastenmuller"
+                    }
+                ]
+            }
         }, 
-        "bib15": {
-            "source": "J Allergy Clin Immunol", 
-            "doi": "10.1016/j.jaci.2011.06.039", 
-            "year": "2011", 
-            "title": "Effect of prenatal indoor pet exposure on the trajectory of total IgE levels in early childhood", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Havstad"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Wegienka"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EM", 
-                    "surname": "Zoratti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SV", 
-                    "surname": "Lynch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HA", 
-                    "surname": "Boushey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Nicholas"
-                }
-            ]
+        {
+            "bib24": {
+                "source": "Genome Res", 
+                "doi": "10.1101/gr.084616.108", 
+                "year": "2009", 
+                "title": "Global diversity in the human salivary microbiome", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Nasidze"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Quinque"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Tang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Stoneking"
+                    }
+                ]
+            }
         }, 
-        "bib14": {
-            "source": "Nat Meth", 
-            "doi": "10.1038/nmeth.1184", 
-            "year": "2008", 
-            "title": "Error-correcting barcoded primers for pyrosequencing hundreds of samples in multiplex", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hamady"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JJ", 
-                    "surname": "Walker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JK", 
-                    "surname": "Harris"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NJ", 
-                    "surname": "Gold"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }
-            ]
+        {
+            "bib25": {
+                "source": "PLoS Biol", 
+                "doi": "10.1371/journal.pbio.0050177", 
+                "year": "2007", 
+                "title": "Development of the human infant intestinal microbiota", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Palmer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EM", 
+                        "surname": "Bik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DB", 
+                        "surname": "Digiulio"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DA", 
+                        "surname": "Relman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PO", 
+                        "surname": "Brown"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Nat Meth", 
-            "doi": "10.1038/nmeth.1650", 
-            "year": "2011", 
-            "title": "Bayesian community-wide culture-independent microbial source tracking", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Knights"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Kuczynski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ES", 
-                    "surname": "Charlson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zaneveld"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MC", 
-                    "surname": "Mozer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RG", 
-                    "surname": "Collman"
-                }
-            ]
+        {
+            "bib26": {
+                "comment": "R Foundation for Statistical Computing. http://www.R-project.org/", 
+                "title": "R: a language and environment for statistical computing", 
+                "doi": "10.1007/s10985-007-9065-x", 
+                "year": "2011", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "collab": "R Development Core Team"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Nature", 
-            "doi": "10.1038/nature11234", 
-            "year": "2012", 
-            "title": "Structure, function and diversity of the healthy human microbiome", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "collab": "Human Microbiome Project Consortium"
-                }
-            ]
+        {
+            "bib27": {
+                "source": "Environ Microbiol", 
+                "doi": "10.1111/j.1462-2920.2007.01369.x", 
+                "year": "2007", 
+                "title": "Diversity of the human gastrointestinal tract microbiota revisited", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Rajili\u0107-Stojanovi\u0107"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Smidt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WM", 
+                        "surname": "de Vos"
+                    }
+                ]
+            }
         }, 
-        "bib19": {
-            "source": "Appl Environ Microbiol", 
-            "doi": "10.1128/AEM.00335-09", 
-            "year": "2009", 
-            "title": "Pyrosequencing-based assessment of soil ph as a predictor of soil bacterial community structure at the continental scale", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CL", 
-                    "surname": "Lauber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hamady"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Fierer"
-                }
-            ]
+        {
+            "bib28": {
+                "source": "Br J Dermatol", 
+                "doi": "10.1111/j.1365-2133.1969.tb13976.x", 
+                "year": "1969", 
+                "title": "The normal flora of the skin in different age groups", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DA", 
+                        "surname": "Somerville"
+                    }
+                ]
+            }
         }, 
-        "bib18": {
-            "source": "Proc Natl Acad Sci USA", 
-            "doi": "10.1073/pnas.1000081107", 
-            "year": "2011", 
-            "title": "Succession of microbial consortia in the developing infant gut microbiome", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JE", 
-                    "surname": "Koenig"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Spor"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Scalfone"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AD", 
-                    "surname": "Fricker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Stombaugh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Knight"
-                }
-            ]
+        {
+            "bib29": {
+                "source": "J Med Microbiol", 
+                "doi": "10.1099/jmm.0.46189-0", 
+                "year": "2005", 
+                "title": "Investigations into the influence of host genetics on the predominant eubacteria in the faecal microflora of children", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Stewart"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VS", 
+                        "surname": "Chadwick"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Murray"
+                    }
+                ]
+            }
         }, 
-        "bib32": {
-            "source": "Microbial Ecol Health Dis", 
-            "doi": "10.1080/089106001750462669", 
-            "year": "2001", 
-            "title": "The host genotype affects the bacterial community in the human gastrointestinal tract", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "EG", 
-                    "surname": "Zoetendal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ADL", 
-                    "surname": "Akkermans"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WM", 
-                    "surname": "Akkermans-van Vliet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "de Visser"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WM", 
-                    "surname": "de Vos"
-                }
-            ]
+        {
+            "bib30": {
+                "source": "Nature", 
+                "doi": "10.1038/nature07540", 
+                "year": "2008", 
+                "title": "A core gut microbiome in obese and lean twins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PJ", 
+                        "surname": "Turnbaugh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hamady"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Yatsunenko"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BL", 
+                        "surname": "Cantarel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Duncan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RE", 
+                        "surname": "Ley"
+                    }
+                ]
+            }
         }, 
-        "bib31": {
-            "source": "Nature", 
-            "doi": "10.1038/nature11053", 
-            "year": "2012", 
-            "title": "Human gut microbiome viewed across age and geography", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Yatsunenko"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FE", 
-                    "surname": "Rey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "Manary"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Trehan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MG", 
-                    "surname": "Dominguez-Bello"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Contreras"
-                }
-            ]
+        {
+            "bib31": {
+                "source": "Nature", 
+                "doi": "10.1038/nature11053", 
+                "year": "2012", 
+                "title": "Human gut microbiome viewed across age and geography", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Yatsunenko"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FE", 
+                        "surname": "Rey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "Manary"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Trehan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MG", 
+                        "surname": "Dominguez-Bello"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Contreras"
+                    }
+                ]
+            }
         }, 
-        "bib30": {
-            "source": "Nature", 
-            "doi": "10.1038/nature07540", 
-            "year": "2008", 
-            "title": "A core gut microbiome in obese and lean twins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PJ", 
-                    "surname": "Turnbaugh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hamady"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Yatsunenko"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BL", 
-                    "surname": "Cantarel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Duncan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RE", 
-                    "surname": "Ley"
-                }
-            ]
+        {
+            "bib32": {
+                "source": "Microbial Ecol Health Dis", 
+                "doi": "10.1080/089106001750462669", 
+                "year": "2001", 
+                "title": "The host genotype affects the bacterial community in the human gastrointestinal tract", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "EG", 
+                        "surname": "Zoetendal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ADL", 
+                        "surname": "Akkermans"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WM", 
+                        "surname": "Akkermans-van Vliet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "de Visser"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WM", 
+                        "surname": "de Vos"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "Research on humans and dogs reveals that the communities of microorganisms found on the skin, on the tongue and in the intestine are affected differently by age and cohabitation.", 
     "related-articles": [], 
     "elocation-id": "e00458", 
@@ -1245,108 +1308,124 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {
-            "par-3": {
-                "award-id": "HG4872, HG4866", 
-                "institution": "National Institutes of Health"
+        "funding": [
+            {
+                "par-1": {
+                    "institution": "Howard Hughes Medical Institute"
+                }
             }, 
-            "par-2": {
-                "institution": "Crohn's and Colitis Foundation of America"
+            {
+                "par-2": {
+                    "institution": "Crohn's and Colitis Foundation of America"
+                }
             }, 
-            "par-1": {
-                "institution": "Howard Hughes Medical Institute"
+            {
+                "par-3": {
+                    "award-id": "HG4872, HG4866", 
+                    "institution": "National Institutes of Health"
+                }
             }
-        }, 
+        ], 
         "related-object": {
             "dataro1": {}
         }, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff4": {
-                "dept": "Department of Chemistry and Biochemistry", 
-                "email": null, 
-                "city": "Boulder", 
-                "institution": "University of Colorado, Boulder", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Ecology and Evolutionary Biology", 
+                    "city": "Boulder", 
+                    "institution": "University of Colorado, Boulder", 
+                    "country": "United States"
+                }
             }, 
-            "aff9": {
-                "dept": "Department of Biochemistry and Biophysics", 
-                "email": null, 
-                "city": "San Francisco", 
-                "institution": "Howard Hughes Medical Institute, University of California, San Francisco", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "Cooperative Institute for Research in Environmental Sciences", 
+                    "city": "Boulder", 
+                    "institution": "University of Colorado, Boulder", 
+                    "country": "United States"
+                }
             }, 
-            "aff8": {
-                "dept": null, 
-                "email": null, 
-                "city": "Saint Paul", 
-                "institution": "BioTechnology Institute, University of Minnesota", 
-                "country": "United States"
+            {
+                "aff3": {
+                    "dept": "Department of Microbiology and Immunology", 
+                    "city": "Stanford", 
+                    "institution": "Stanford University School of Medicine", 
+                    "country": "United States"
+                }
             }, 
-            "aff7": {
-                "dept": "Department of Computer Science and Engineering", 
-                "email": null, 
-                "city": "Minneapolis", 
-                "institution": "University of Minnesota", 
-                "country": "United States"
+            {
+                "aff4": {
+                    "dept": "Department of Chemistry and Biochemistry", 
+                    "city": "Boulder", 
+                    "institution": "University of Colorado, Boulder", 
+                    "country": "United States"
+                }
             }, 
-            "aff6": {
-                "dept": "Argonne National Laboratory", 
-                "email": null, 
-                "city": "Argonne", 
-                "institution": "Institute for Genomics and Systems Biology", 
-                "country": "United States"
+            {
+                "aff5": {
+                    "dept": "Department of Computer Science", 
+                    "city": "Flagstaff", 
+                    "institution": "Northern Arizona University", 
+                    "country": "United States"
+                }
             }, 
-            "aff5": {
-                "dept": "Department of Computer Science", 
-                "email": null, 
-                "city": "Flagstaff", 
-                "institution": "Northern Arizona University", 
-                "country": "United States"
+            {
+                "aff6": {
+                    "dept": "Argonne National Laboratory", 
+                    "city": "Argonne", 
+                    "institution": "Institute for Genomics and Systems Biology", 
+                    "country": "United States"
+                }
             }, 
-            "aff10": {
-                "dept": "Center for Genome Sciences and Systems Biology", 
-                "email": null, 
-                "city": "St. Louis", 
-                "institution": "Washington University School of Medicine", 
-                "country": "United States"
+            {
+                "aff7": {
+                    "dept": "Department of Computer Science and Engineering", 
+                    "city": "Minneapolis", 
+                    "institution": "University of Minnesota", 
+                    "country": "United States"
+                }
             }, 
-            "aff3": {
-                "dept": "Department of Microbiology and Immunology", 
-                "email": null, 
-                "city": "Stanford", 
-                "institution": "Stanford University School of Medicine", 
-                "country": "United States"
+            {
+                "aff8": {
+                    "country": "United States", 
+                    "institution": "BioTechnology Institute, University of Minnesota", 
+                    "city": "Saint Paul"
+                }
             }, 
-            "aff2": {
-                "dept": "Cooperative Institute for Research in Environmental Sciences", 
-                "email": null, 
-                "city": "Boulder", 
-                "institution": "University of Colorado, Boulder", 
-                "country": "United States"
+            {
+                "aff9": {
+                    "dept": "Department of Biochemistry and Biophysics", 
+                    "city": "San Francisco", 
+                    "institution": "Howard Hughes Medical Institute, University of California, San Francisco", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Ecology and Evolutionary Biology", 
-                "email": null, 
-                "city": "Boulder", 
-                "institution": "University of Colorado, Boulder", 
-                "country": "United States"
+            {
+                "aff10": {
+                    "dept": "Center for Genome Sciences and Systems Biology", 
+                    "city": "St. Louis", 
+                    "institution": "Washington University School of Medicine", 
+                    "country": "United States"
+                }
             }, 
-            "aff12": {
-                "dept": null, 
-                "email": null, 
-                "city": "Boulder", 
-                "institution": "Biofrontiers Institute, University of Colorado, Boulder", 
-                "country": "United States"
+            {
+                "aff11": {
+                    "dept": "Department of Chemistry and Biochemistry", 
+                    "city": "Boulder", 
+                    "institution": "Howard Hughes Medical Institute, University of Colorado, Boulder", 
+                    "country": "United States"
+                }
             }, 
-            "aff11": {
-                "dept": "Department of Chemistry and Biochemistry", 
-                "email": null, 
-                "city": "Boulder", 
-                "institution": "Howard Hughes Medical Institute, University of Colorado, Boulder", 
-                "country": "United States"
+            {
+                "aff12": {
+                    "country": "United States", 
+                    "institution": "Biofrontiers Institute, University of Colorado, Boulder", 
+                    "city": "Boulder"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {
             "con1": "SS, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
@@ -1491,7 +1570,7 @@
             "title": "Author response"
         }
     ], 
-    "article-id": "10.7554/eLife.00458", 
+    "article-id": "00458", 
     "categories": {
         "heading": [
             "Microbiology and infectious disease"

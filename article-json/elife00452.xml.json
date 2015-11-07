@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Brand", 
@@ -27,90 +26,102 @@
     ], 
     "pub-date": "2013-01-08", 
     "title": "Faculty appointments and the record of scholarship", 
-    "citations": {
-        "bib1": {
-            "source": "Nature", 
-            "doi": "10.1038/465860a", 
-            "year": "2010", 
-            "title": "Do metrics matter?", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Abbott"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Nature", 
+                "doi": "10.1038/465860a", 
+                "year": "2010", 
+                "title": "Do metrics matter?", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Abbott"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "J Economic Perspectives", 
-            "doi": "10.1257/089533006776526085", 
-            "year": "2006", 
-            "title": "What's in a surname? The effects of surname initials on academic success", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Einav"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Yariv"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "D-Lib Magazine", 
+                "doi": "10.1045/march2007-altman", 
+                "year": "2007", 
+                "title": "A proposed standard for the citation of quantitative data", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Altman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "King"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "D-Lib Magazine", 
-            "doi": "10.1045/march2007-altman", 
-            "year": "2007", 
-            "title": "A proposed standard for the citation of quantitative data", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Altman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "King"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "J Economic Perspectives", 
+                "doi": "10.1257/089533006776526085", 
+                "year": "2006", 
+                "title": "What's in a surname? The effects of surname initials on academic success", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Einav"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Yariv"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "For Attribution \u2013 Developing Data Attribution and Citation Practices and Standards: Summary of an International Workshop", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "collab": "National Research Council"
-                }
-            ], 
-            "year": "2012"
+        {
+            "bib4": {
+                "source": "Report on the International Workshop on Contributorship and Scholarly Attribution, May 16, 2012", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "collab": "IWCSA Report"
+                    }
+                ], 
+                "year": "2012"
+            }
         }, 
-        "bib4": {
-            "source": "Report on the International Workshop on Contributorship and Scholarly Attribution, May 16, 2012", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "collab": "IWCSA Report"
-                }
-            ], 
-            "year": "2012"
+        {
+            "bib5": {
+                "source": "For Attribution \u2013 Developing Data Attribution and Citation Practices and Standards: Summary of an International Workshop", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "collab": "National Research Council"
+                    }
+                ], 
+                "year": "2012"
+            }
         }, 
-        "bib6": {
-            "source": "Angew Chemie Intl Edn", 
-            "doi": "10.1002/anie.201201011", 
-            "year": "2012", 
-            "title": "Assessing academic researchers", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RN", 
-                    "surname": "Zare"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Angew Chemie Intl Edn", 
+                "doi": "10.1002/anie.201201011", 
+                "year": "2012", 
+                "title": "Assessing academic researchers", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RN", 
+                        "surname": "Zare"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e00452", 
@@ -133,25 +144,24 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist"
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": null, 
-                "email": "amy_brand@harvard.edu", 
-                "city": null, 
-                "institution": "Harvard University", 
-                "country": null
+        "affiliation": [
+            {
+                "aff1": {
+                    "institution": "Harvard University", 
+                    "email": "amy_brand@harvard.edu"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/2/e00452v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.00452", 
+    "article-id": "00452", 
     "categories": {
         "sub-display-channel": [
             "Point of view"

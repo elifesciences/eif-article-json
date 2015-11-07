@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "editorial", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Malhotra", 
@@ -39,7 +38,7 @@
     ], 
     "pub-date": "2015-01-06", 
     "title": "The pleasure of publishing", 
-    "citations": {}, 
+    "citations": [], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e05770", 
@@ -62,32 +61,36 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Biology and the Volen National Center for Complex Systems", 
-                "email": "marder@brandeis.edu", 
-                "city": "Waltham", 
-                "institution": "Brandeis University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Cell and Developmental Biology Program", 
+                    "email": "vivek.malhotra@crg.eu", 
+                    "city": "Barcelona", 
+                    "institution": "Center for Genomic Regulation", 
+                    "country": "Spain"
+                }
             }, 
-            "aff1": {
-                "dept": "Cell and Developmental Biology Program", 
-                "email": "vivek.malhotra@crg.eu", 
-                "city": "Barcelona", 
-                "institution": "Center for Genomic Regulation", 
-                "country": "Spain"
+            {
+                "aff2": {
+                    "dept": "Department of Biology and the Volen National Center for Complex Systems", 
+                    "email": "marder@brandeis.edu", 
+                    "city": "Waltham", 
+                    "institution": "Brandeis University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e05770v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.05770", 
+    "article-id": "05770", 
     "categories": {
         "sub-display-channel": [
             "Peer review"

@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "article-commentary", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -35,521 +34,533 @@
     ], 
     "pub-date": "2015-07-08", 
     "title": "Structures to the people!", 
-    "citations": {
-        "bib1": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.07600", 
-            "year": "2015", 
-            "title": "Consistent global structures of complex RNA states through multidimensional chemical mapping", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CY", 
-                    "surname": "Cheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FC", 
-                    "surname": "Chou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Kladwang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Tian"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Cordero"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Das"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.07600", 
+                "year": "2015", 
+                "title": "Consistent global structures of complex RNA states through multidimensional chemical mapping", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CY", 
+                        "surname": "Cheng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FC", 
+                        "surname": "Chou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Kladwang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Tian"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Cordero"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Das"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Methods", 
-            "doi": "10.1016/j.ymeth.2015.02.003", 
-            "year": "2015", 
-            "title": "Computational analysis of RNA structures with chemical probing data", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Ge"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Zhang"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "RNA", 
+                "doi": "10.1261/rna.031054.111", 
+                "year": "2012", 
+                "title": "RNA-Puzzles: a CASP-like evaluation of RNA three-dimensional structure prediction", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Cruz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MF", 
+                        "surname": "Blanchet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Boniecki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Bujnicki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SJ", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Cao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Das"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Ding"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NV", 
+                        "surname": "Dokholyan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SC", 
+                        "surname": "Flores"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Huang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CA", 
+                        "surname": "Lavender"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Lisi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Major"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Mikolajczak"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Patel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Philips"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Puton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Santalucia"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Sijenyi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Hermann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Rother"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Rother"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Serganov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Skorupski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Soltysinski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Sripakdeevong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Tuszynska"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "Weeks"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Waldsich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Wildauer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NB", 
+                        "surname": "Leontis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Westhof"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "RNA", 
-            "doi": "10.1261/rna.031054.111", 
-            "year": "2012", 
-            "title": "RNA-Puzzles: a CASP-like evaluation of RNA three-dimensional structure prediction", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Cruz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MF", 
-                    "surname": "Blanchet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Boniecki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Bujnicki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SJ", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Cao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Das"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Ding"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NV", 
-                    "surname": "Dokholyan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SC", 
-                    "surname": "Flores"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Huang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CA", 
-                    "surname": "Lavender"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Lisi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Major"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Mikolajczak"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Patel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Philips"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Puton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Santalucia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Sijenyi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Hermann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Rother"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Rother"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Serganov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Skorupski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Soltysinski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Sripakdeevong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Tuszynska"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "Weeks"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Waldsich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Wildauer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NB", 
-                    "surname": "Leontis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Westhof"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Methods", 
+                "doi": "10.1016/j.ymeth.2015.02.003", 
+                "year": "2015", 
+                "title": "Computational analysis of RNA structures with chemical probing data", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Ge"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Zhang"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Nature Chemistry", 
-            "doi": "10.1038/nchem.1176", 
-            "year": "2011", 
-            "title": "A two-dimensional mutate-and-map strategy for non-coding RNA structure", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Kladwang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CC", 
-                    "surname": "VanLang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Cordero"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Das"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1407306111", 
+                "year": "2014", 
+                "title": "Single-molecule correlated chemical probing of RNA", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PJ", 
+                        "surname": "Homan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "OV", 
+                        "surname": "Favorov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CA", 
+                        "surname": "Lavender"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Kursun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Ge"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Busan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NV", 
+                        "surname": "Dokholyan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "Weeks"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1407306111", 
-            "year": "2014", 
-            "title": "Single-molecule correlated chemical probing of RNA", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PJ", 
-                    "surname": "Homan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "OV", 
-                    "surname": "Favorov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CA", 
-                    "surname": "Lavender"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Kursun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Ge"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Busan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NV", 
-                    "surname": "Dokholyan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "Weeks"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Nature Chemistry", 
+                "doi": "10.1038/nchem.1176", 
+                "year": "2011", 
+                "title": "A two-dimensional mutate-and-map strategy for non-coding RNA structure", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Kladwang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CC", 
+                        "surname": "VanLang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Cordero"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Das"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "RNA", 
-            "doi": "10.1261/rna.049502.114", 
-            "year": "2015", 
-            "title": "RNA-Puzzles Round II: assessment of RNA structure prediction programs applied to three large RNA structures", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Miao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RW", 
-                    "surname": "Adamiak"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MF", 
-                    "surname": "Blanchet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Boniecki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Bujnicki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SJ", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Cheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Chojnowski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FC", 
-                    "surname": "Chou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Cordero"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Cruz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AR", 
-                    "surname": "Ferr\u00e9-D'Amar\u00e9"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Das"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Ding"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NV", 
-                    "surname": "Dokholyan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Dunin-Horkawicz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Kladwang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Krokhotin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Lach"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Magnus"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Major"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TH", 
-                    "surname": "Mann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Masquida"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Matelska"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Meyer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Peselis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Popenda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KJ", 
-                    "surname": "Purzycka"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Serganov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Stasiewicz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Szachniuk"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Tandon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Tian"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Xiao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Xu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Zhao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Zok"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Westhof"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "RNA", 
+                "doi": "10.1261/rna.049502.114", 
+                "year": "2015", 
+                "title": "RNA-Puzzles Round II: assessment of RNA structure prediction programs applied to three large RNA structures", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Miao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RW", 
+                        "surname": "Adamiak"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MF", 
+                        "surname": "Blanchet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Boniecki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Bujnicki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SJ", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Cheng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Chojnowski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FC", 
+                        "surname": "Chou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Cordero"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Cruz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AR", 
+                        "surname": "Ferr\u00e9-D'Amar\u00e9"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Das"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Ding"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NV", 
+                        "surname": "Dokholyan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Dunin-Horkawicz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Kladwang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Krokhotin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Lach"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Magnus"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Major"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TH", 
+                        "surname": "Mann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Masquida"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Matelska"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Meyer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Peselis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Popenda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KJ", 
+                        "surname": "Purzycka"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Serganov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Stasiewicz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Szachniuk"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Tandon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Tian"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Xiao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Xu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Zhao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Zok"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Westhof"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [
         {
@@ -581,32 +592,35 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "RNA Biology Laboratory", 
-                "email": "sebastian.leidel@mpi-muenster.mpg.de", 
-                "city": "Muenster", 
-                "institution": "Max Planck Institute for Molecular Biomedicine", 
-                "country": "Germany"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Chemistry and Biochemistry", 
+                    "city": "Philadelphia", 
+                    "institution": "University of the Sciences", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Chemistry and Biochemistry", 
-                "email": null, 
-                "city": "Philadelphia", 
-                "institution": "University of the Sciences", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "RNA Biology Laboratory", 
+                    "email": "sebastian.leidel@mpi-muenster.mpg.de", 
+                    "city": "Muenster", 
+                    "institution": "Max Planck Institute for Molecular Biomedicine", 
+                    "country": "Germany"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e09249v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.09249", 
+    "article-id": "09249", 
     "categories": {
         "sub-display-channel": [
             "RNA biology"

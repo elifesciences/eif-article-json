@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -85,1641 +84,1709 @@
     ], 
     "pub-date": "2015-09-15", 
     "title": "Codon-level information improves predictions of inter-residue contacts in proteins by correlated mutation analysis", 
-    "citations": {
-        "bib15a": {
-            "comment": "http://www.ebi.ac.uk/ena", 
-            "source": "EBI ENA", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Leinonen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Akhtar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Birney"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Bower"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Cerdeno-T\u00e1rraga"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Cheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Cleland"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Faruque"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Goodgame"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Gibson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Hoad"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Jang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Pakseresht"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Plaister"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Radhakrishnan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Reddy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Sobhany"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Ten Hoopen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Vaughan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Zalunin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Cochrane"
-                }
-            ], 
-            "year": "2015"
+    "citations": [
+        {
+            "bib30": {
+                "comment": "http://www.rcsb.org/", 
+                "source": "RCSB Protein Data Bank", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "HM", 
+                        "surname": "Berman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Westbrook"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Feng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Gilliland"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TN", 
+                        "surname": "Bhat"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Weissig"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IN", 
+                        "surname": "Shindyalov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PE", 
+                        "surname": "Bourne"
+                    }
+                ], 
+                "year": "2015"
+            }
         }, 
-        "bib9": {
-            "source": "Proteins", 
-            "doi": "10.1002/prot.340180402", 
-            "year": "1994", 
-            "title": "Correlated mutations and residue contacts in proteins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "U", 
-                    "surname": "G\u00f6bel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Sander"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Schneider"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Valencia"
-                }
-            ]
+        {
+            "bib1": {
+                "source": "PLOS ONE", 
+                "doi": "10.1371/journal.pone.0018910", 
+                "year": "2011", 
+                "title": "Representative proteomes: a stable scalable and unbiased proteome set for sequence analysis and functional annotation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DA", 
+                        "surname": "Natale"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RD", 
+                        "surname": "Finn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Huang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CH", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Mazumder"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Biochemistry", 
-            "doi": "10.1021/bi050293e", 
-            "year": "2005", 
-            "title": "Mutual information in protein multiple sequence alignments reveals two classes of co-evolving positions", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "GB", 
-                    "surname": "Gloor"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LC", 
-                    "surname": "Martin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LM", 
-                    "surname": "Wahl"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SD", 
-                    "surname": "Dunn"
-                }
-            ]
+        {
+            "bib1a": {
+                "comment": "http://www.ensembl.org/", 
+                "source": "Ensembl", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Cunningham"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Ridwan Amode"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Barrell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Beal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Billis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Brent"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Carvalho-Silva"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Clapham"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Coates"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Fitzgerald"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Gil"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CG", 
+                        "surname": "Gir\u00f3n"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Gordon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Hourlier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SE", 
+                        "surname": "Hunt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SH", 
+                        "surname": "Janacek"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Johnson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Juettemann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AK", 
+                        "surname": "K\u00e4h\u00e4ri"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Keenan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FJ", 
+                        "surname": "Martin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Maurel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "McLaren"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DN", 
+                        "surname": "Murphy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Nag"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Overduin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Parker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Patricio"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Perry"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Pignatelli"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HS", 
+                        "surname": "Riat"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Sheppard"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Taylor"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Thormann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Vullo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SP", 
+                        "surname": "Wilder"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Zadissa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BL", 
+                        "surname": "Aken"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Birney"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Harrow"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Kinsella"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Muffato"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Ruffier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SMJ", 
+                        "surname": "Searle"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Spudich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SJ", 
+                        "surname": "Trevanion"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Yates"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Zerbino"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Flicek"
+                    }
+                ], 
+                "year": "2015"
+            }
         }, 
-        "bib1": {
-            "source": "PLOS ONE", 
-            "doi": "10.1371/journal.pone.0018910", 
-            "year": "2011", 
-            "title": "Representative proteomes: a stable scalable and unbiased proteome set for sequence analysis and functional annotation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DA", 
-                    "surname": "Natale"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RD", 
-                    "surname": "Finn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Huang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CH", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Mazumder"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Bioinformatics", 
+                "doi": "10.1093/bioinformatics/btm604", 
+                "year": "2008", 
+                "title": "Mutual information without the influence of phylogeny or entropy dramatically improves residue contact prediction", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SD", 
+                        "surname": "Dunn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LM", 
+                        "surname": "Wahl"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GB", 
+                        "surname": "Gloor"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Nature Reviews Genetics", 
-            "doi": "10.1038/nrg3414", 
-            "year": "2013", 
-            "title": "Emerging methods in protein co-evolution", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "de Juan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Pazos"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Valencia"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Nature Reviews Genetics", 
+                "doi": "10.1038/nrg3414", 
+                "year": "2013", 
+                "title": "Emerging methods in protein co-evolution", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "de Juan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Pazos"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Valencia"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Bioinformatics", 
-            "doi": "10.1093/bioinformatics/btm604", 
-            "year": "2008", 
-            "title": "Mutual information without the influence of phylogeny or entropy dramatically improves residue contact prediction", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SD", 
-                    "surname": "Dunn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LM", 
-                    "surname": "Wahl"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GB", 
-                    "surname": "Gloor"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Proteins", 
+                "doi": "10.1002/prot.22554", 
+                "year": "2009", 
+                "title": "Assessment of domain boundary predictions and the prediction of intramolecular contacts in CASP8", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Ezkurdia"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Gra\u00f1a"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Izarzugaza"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ML", 
+                        "surname": "Tress"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Biochimie", 
-            "doi": "10.1016/j.biochi.2007.11.007", 
-            "year": "2008", 
-            "title": "Protein contacts, inter-residue interactions and side-chain modelling", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Faure"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Bornot"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AG", 
-                    "surname": "de Brevern"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Biochimie", 
+                "doi": "10.1016/j.biochi.2007.11.007", 
+                "year": "2008", 
+                "title": "Protein contacts, inter-residue interactions and side-chain modelling", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Faure"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Bornot"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AG", 
+                        "surname": "de Brevern"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Proteins", 
-            "doi": "10.1002/prot.22554", 
-            "year": "2009", 
-            "title": "Assessment of domain boundary predictions and the prediction of intramolecular contacts in CASP8", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Ezkurdia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Gra\u00f1a"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Izarzugaza"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ML", 
-                    "surname": "Tress"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Nucleic Acids Research", 
+                "doi": "10.1093/nar/gkt1223", 
+                "year": "2014", 
+                "title": "Pfam: the protein families database", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RD", 
+                        "surname": "Finn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Bateman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Clements"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Coggill"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RY", 
+                        "surname": "Eberhardt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SR", 
+                        "surname": "Eddy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Heger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Hetherington"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Holm"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Mistry"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EL", 
+                        "surname": "Sonnhammer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Tate"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Punta"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Proteins", 
-            "doi": "10.1002/prot.20098", 
-            "year": "2004", 
-            "title": "Influence of conservation on calculations of amino acid covariance in multiple sequence alignments", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Fodor"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RW", 
-                    "surname": "Aldrich"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Proteins", 
+                "doi": "10.1002/prot.20098", 
+                "year": "2004", 
+                "title": "Influence of conservation on calculations of amino acid covariance in multiple sequence alignments", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AA", 
+                        "surname": "Fodor"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RW", 
+                        "surname": "Aldrich"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Nucleic Acids Research", 
-            "doi": "10.1093/nar/gkt1223", 
-            "year": "2014", 
-            "title": "Pfam: the protein families database", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RD", 
-                    "surname": "Finn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Bateman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Clements"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Coggill"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RY", 
-                    "surname": "Eberhardt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SR", 
-                    "surname": "Eddy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Heger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Hetherington"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Holm"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Mistry"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EL", 
-                    "surname": "Sonnhammer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Tate"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Punta"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Biochemistry", 
+                "doi": "10.1021/bi050293e", 
+                "year": "2005", 
+                "title": "Mutual information in protein multiple sequence alignments reveals two classes of co-evolving positions", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "GB", 
+                        "surname": "Gloor"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LC", 
+                        "surname": "Martin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LM", 
+                        "surname": "Wahl"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SD", 
+                        "surname": "Dunn"
+                    }
+                ]
+            }
         }, 
-        "bib28": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.070154797", 
-            "year": "2000", 
-            "title": "Separation of phylogenetic and functional associations in biological sequences by using the parametric bootstrap", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KR", 
-                    "surname": "Wollenberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WR", 
-                    "surname": "Atchley"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Proteins", 
+                "doi": "10.1002/prot.340180402", 
+                "year": "1994", 
+                "title": "Correlated mutations and residue contacts in proteins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "U", 
+                        "surname": "G\u00f6bel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Sander"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Schneider"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Valencia"
+                    }
+                ]
+            }
         }, 
-        "bib29": {
-            "source": "Bioinformatics", 
-            "doi": "10.1093/bioinformatics/btu613", 
-            "year": "2015", 
-            "title": "The Ensembl REST API: ensembl data for any language", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Yates"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Beal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Keenan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "McLaren"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Pignatelli"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GR", 
-                    "surname": "Ritchie"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Ruffier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Taylor"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Vullo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Flicek"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "Bioinformatics", 
+                "doi": "10.1093/bioinformatics/btl461", 
+                "year": "2006", 
+                "title": "Bio3d: an R package for the comparative analysis of protein structures", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "BJ", 
+                        "surname": "Grant"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AP", 
+                        "surname": "Rodrigues"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "ElSawy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "McCammon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LS", 
+                        "surname": "Caves"
+                    }
+                ]
+            }
         }, 
-        "bib20": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1111471108", 
-            "year": "2011", 
-            "title": "Direct-coupling analysis of residue coevolution captures native contacts across many protein families", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Morcos"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Pagnani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Lunt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Bertolino"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DS", 
-                    "surname": "Marks"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Sander"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Zecchina"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JN", 
-                    "surname": "Onuchic"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Hwa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Weigt"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Journal of Molecular Biology", 
+                "doi": "10.1006/jmbi.1994.1275", 
+                "year": "1994", 
+                "title": "Prediction of an inter-residue interaction in the chaperonin GroEL from multiple sequence alignment is confirmed by double-mutant cycle analysis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Horovitz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ES", 
+                        "surname": "Bochkareva"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Yifrach"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AS", 
+                        "surname": "Girshovich"
+                    }
+                ]
+            }
         }, 
-        "bib21": {
-            "source": "Protein Engineering, Design & Selection", 
-            "doi": "10.1093/protein/gzi029", 
-            "year": "2005", 
-            "title": "Detection and reduction of evolutionary noise in correlated mutation analysis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Noivirt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Eisenstein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Horovitz"
-                }
-            ]
+        {
+            "bib12": {
+                "source": "Bioinformatics", 
+                "doi": "10.1093/bioinformatics/btr638", 
+                "year": "2012", 
+                "title": "PSICOV: precise structural contact prediction using sparse inverse covariance estimation on large multiple sequence alignments", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DT", 
+                        "surname": "Jones"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DW", 
+                        "surname": "Buchan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Cozzetto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Pontil"
+                    }
+                ]
+            }
         }, 
-        "bib22": {
-            "source": "Journal of Molecular Biology", 
-            "doi": "10.1006/jmbi.1998.2601", 
-            "year": "1999", 
-            "title": "Co-evolving protein residues: maximum likelihood identification and relationship to structure", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Pollock"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WR", 
-                    "surname": "Taylor"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Goldman"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1314045110", 
+                "year": "2013", 
+                "title": "Assessing the utility of coevolution-based residue-residue contact predictions in a sequence- and structure-rich era", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Kamisetty"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Ovchinnikov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Baker"
+                    }
+                ]
+            }
         }, 
-        "bib23": {
-            "source": "Trends in Genetics", 
-            "doi": "10.1016/S0168-9525(00)02024-2", 
-            "year": "2000", 
-            "title": "EMBOSS: the European molecular biology open software suite", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Rice"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Longden"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Bleasby"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "Proteins", 
+                "doi": "10.1002/prot.10180", 
+                "year": "2002", 
+                "title": "Mapping pathways of allosteric communication in GroEL by analysis of correlated mutations", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Kass"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Horovitz"
+                    }
+                ]
+            }
         }, 
-        "bib24": {
-            "source": "Biochemistry", 
-            "doi": "10.1021/bi970433n", 
-            "year": "1997", 
-            "title": "Crystal structure of Kex1\u0394p, a prohormone-processing carboxypeptidase from <italic>Saccharomyces cerevisiae</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "BH", 
-                    "surname": "Shilton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DY", 
-                    "surname": "Thomas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Cygler"
-                }
-            ]
+        {
+            "bib14a": {
+                "comment": "http://ensemblgenomes.org/", 
+                "source": "Ensemblegeneomes", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PJ", 
+                        "surname": "Kersey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JE", 
+                        "surname": "Allen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Christensen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Davis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LJ", 
+                        "surname": "Falin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Grabmueller"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DS", 
+                        "surname": "Hughes"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Humphrey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Kerhornou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Khobova"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Langridge"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MD", 
+                        "surname": "McDowall"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "U", 
+                        "surname": "Maheswari"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Maslen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Nuhn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CK", 
+                        "surname": "Ong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Paulini"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Pedro"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Toneva"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MA", 
+                        "surname": "Tuli"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Walts"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Williams"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Wilson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Youens-Clark"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MK", 
+                        "surname": "Monaco"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Stein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Wei"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Ware"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DM", 
+                        "surname": "Bolser"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KL", 
+                        "surname": "Howe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Kulesha"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Lawson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DM", 
+                        "surname": "Staines"
+                    }
+                ], 
+                "year": "2015"
+            }
         }, 
-        "bib25": {
-            "source": "PLOS Computational Biology", 
-            "doi": "10.1371/journal.pcbi.1003889", 
-            "year": "2014", 
-            "title": "Improved contact predictions using the recognition of protein like contact patterns", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "Skwark"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Raimondi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Michel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Elofsson"
-                }
-            ]
+        {
+            "bib15": {
+                "source": "Science", 
+                "doi": "10.1126/science.1159052", 
+                "year": "2008", 
+                "title": "Surface sites for engineering allosteric control in proteins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Natarajan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VC", 
+                        "surname": "Nashine"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Socolich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Vo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WP", 
+                        "surname": "Russ"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SJ", 
+                        "surname": "Benkovic"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Ranganathan"
+                    }
+                ]
+            }
         }, 
-        "bib26": {
-            "source": "Bioinformatics", 
-            "doi": "10.1093/bioinformatics/btg224", 
-            "year": "2003", 
-            "title": "PISCES: a protein sequence culling server", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RL", 
-                    "surname": "Dunbrack", 
-                    "suffix": "Jr"
-                }
-            ]
+        {
+            "bib15a": {
+                "comment": "http://www.ebi.ac.uk/ena", 
+                "source": "EBI ENA", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Leinonen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Akhtar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Birney"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Bower"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Cerdeno-T\u00e1rraga"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Cheng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Cleland"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Faruque"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Goodgame"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Gibson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Hoad"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Jang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Pakseresht"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Plaister"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Radhakrishnan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Reddy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Sobhany"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Ten Hoopen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Vaughan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Zalunin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Cochrane"
+                    }
+                ], 
+                "year": "2015"
+            }
         }, 
-        "bib27": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.0805923106", 
-            "year": "2009", 
-            "title": "Identification of direct residue contacts in protein-protein interaction by message passing", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Weigt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RA", 
-                    "surname": "White"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Szurmant"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Hoch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Hwa"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Methods in Molecular Biology", 
+                "doi": "10.1007/978-1-61779-334-9_21", 
+                "year": "2012", 
+                "title": "A critical evaluation of correlated mutation algorithms and coevolution within allosteric mechanisms", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Livesay"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KE", 
+                        "surname": "Kreth"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AA", 
+                        "surname": "Fodor"
+                    }
+                ]
+            }
         }, 
-        "bib1a": {
-            "comment": "http://www.ensembl.org/", 
-            "source": "Ensembl", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Cunningham"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Ridwan Amode"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Barrell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Beal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Billis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Brent"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Carvalho-Silva"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Clapham"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Coates"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Fitzgerald"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Gil"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CG", 
-                    "surname": "Gir\u00f3n"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Gordon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Hourlier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SE", 
-                    "surname": "Hunt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SH", 
-                    "surname": "Janacek"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Johnson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Juettemann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AK", 
-                    "surname": "K\u00e4h\u00e4ri"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Keenan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FJ", 
-                    "surname": "Martin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Maurel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "McLaren"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DN", 
-                    "surname": "Murphy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Nag"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Overduin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Parker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Patricio"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Perry"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Pignatelli"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HS", 
-                    "surname": "Riat"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Sheppard"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Taylor"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Thormann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Vullo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SP", 
-                    "surname": "Wilder"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Zadissa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BL", 
-                    "surname": "Aken"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Birney"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Harrow"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Kinsella"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Muffato"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Ruffier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SMJ", 
-                    "surname": "Searle"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Spudich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SJ", 
-                    "surname": "Trevanion"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Yates"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Zerbino"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Flicek"
-                }
-            ], 
-            "year": "2015"
+        {
+            "bib17": {
+                "source": "Bioinformatics", 
+                "doi": "10.1093/bioinformatics/btv103", 
+                "year": "2015", 
+                "title": "Comparative study of the effectiveness and limitations of current methods for detecting sequence coevolution", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Mao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Kaya"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Dutta"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Horovitz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Bahar"
+                    }
+                ]
+            }
         }, 
-        "bib14a": {
-            "comment": "http://ensemblgenomes.org/", 
-            "source": "Ensemblegeneomes", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PJ", 
-                    "surname": "Kersey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JE", 
-                    "surname": "Allen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Christensen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Davis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LJ", 
-                    "surname": "Falin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Grabmueller"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DS", 
-                    "surname": "Hughes"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Humphrey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Kerhornou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Khobova"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Langridge"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MD", 
-                    "surname": "McDowall"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "U", 
-                    "surname": "Maheswari"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Maslen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Nuhn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CK", 
-                    "surname": "Ong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Paulini"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Pedro"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Toneva"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Tuli"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Walts"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Williams"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Wilson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Youens-Clark"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MK", 
-                    "surname": "Monaco"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Stein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Wei"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Ware"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DM", 
-                    "surname": "Bolser"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KL", 
-                    "surname": "Howe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Kulesha"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Lawson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DM", 
-                    "surname": "Staines"
-                }
-            ], 
-            "year": "2015"
+        {
+            "bib18": {
+                "source": "Nature Biotechnology", 
+                "doi": "10.1038/nbt.2419", 
+                "year": "2012", 
+                "title": "Protein structure prediction from sequence variation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DS", 
+                        "surname": "Marks"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TA", 
+                        "surname": "Hopf"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Sander"
+                    }
+                ]
+            }
         }, 
-        "bib11": {
-            "source": "Journal of Molecular Biology", 
-            "doi": "10.1006/jmbi.1994.1275", 
-            "year": "1994", 
-            "title": "Prediction of an inter-residue interaction in the chaperonin GroEL from multiple sequence alignment is confirmed by double-mutant cycle analysis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Horovitz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ES", 
-                    "surname": "Bochkareva"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Yifrach"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AS", 
-                    "surname": "Girshovich"
-                }
-            ]
+        {
+            "bib19": {
+                "source": "Nucleic Acids Research", 
+                "doi": "10.1093/nar/gkp302", 
+                "year": "2009", 
+                "title": "Web services at the European Bioinformatics Institute-2009", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "McWilliam"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Valentin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Goujon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Narayanasamy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Martin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Miyar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Lopez"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "Bioinformatics", 
-            "doi": "10.1093/bioinformatics/btl461", 
-            "year": "2006", 
-            "title": "Bio3d: an R package for the comparative analysis of protein structures", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "BJ", 
-                    "surname": "Grant"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AP", 
-                    "surname": "Rodrigues"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "ElSawy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "McCammon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LS", 
-                    "surname": "Caves"
-                }
-            ]
+        {
+            "bib20": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1111471108", 
+                "year": "2011", 
+                "title": "Direct-coupling analysis of residue coevolution captures native contacts across many protein families", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Morcos"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Pagnani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Lunt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Bertolino"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DS", 
+                        "surname": "Marks"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Sander"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Zecchina"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JN", 
+                        "surname": "Onuchic"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Hwa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Weigt"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1314045110", 
-            "year": "2013", 
-            "title": "Assessing the utility of coevolution-based residue-residue contact predictions in a sequence- and structure-rich era", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Kamisetty"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Ovchinnikov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Baker"
-                }
-            ]
+        {
+            "bib21": {
+                "source": "Protein Engineering, Design & Selection", 
+                "doi": "10.1093/protein/gzi029", 
+                "year": "2005", 
+                "title": "Detection and reduction of evolutionary noise in correlated mutation analysis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Noivirt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Eisenstein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Horovitz"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "Bioinformatics", 
-            "doi": "10.1093/bioinformatics/btr638", 
-            "year": "2012", 
-            "title": "PSICOV: precise structural contact prediction using sparse inverse covariance estimation on large multiple sequence alignments", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DT", 
-                    "surname": "Jones"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DW", 
-                    "surname": "Buchan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Cozzetto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Pontil"
-                }
-            ]
+        {
+            "bib22": {
+                "source": "Journal of Molecular Biology", 
+                "doi": "10.1006/jmbi.1998.2601", 
+                "year": "1999", 
+                "title": "Co-evolving protein residues: maximum likelihood identification and relationship to structure", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Pollock"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WR", 
+                        "surname": "Taylor"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Goldman"
+                    }
+                ]
+            }
         }, 
-        "bib15": {
-            "source": "Science", 
-            "doi": "10.1126/science.1159052", 
-            "year": "2008", 
-            "title": "Surface sites for engineering allosteric control in proteins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Natarajan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VC", 
-                    "surname": "Nashine"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Socolich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Vo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WP", 
-                    "surname": "Russ"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SJ", 
-                    "surname": "Benkovic"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Ranganathan"
-                }
-            ]
+        {
+            "bib22a": {
+                "comment": "http://www.ncbi.nlm.nih.gov/refseq", 
+                "source": "NCBI Reference sequence database", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KD", 
+                        "surname": "Pruitt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GR", 
+                        "surname": "Brown"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SM", 
+                        "surname": "Hiatt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Thibaud-Nissen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Astashyn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Ermolaeva"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Farrell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Hart"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "Landrum"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "McGarvey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Murphy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NA", 
+                        "surname": "O'Leary"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Pujar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Rajput"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SH", 
+                        "surname": "Rangwala"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LD", 
+                        "surname": "Riddick"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Shkeda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Sun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Tamez"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RE", 
+                        "surname": "Tully"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Wallin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Webb"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Weber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Dicuccio"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Kitts"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Maglott"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TD", 
+                        "surname": "Murphy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Ostell"
+                    }
+                ], 
+                "year": "2015"
+            }
         }, 
-        "bib14": {
-            "source": "Proteins", 
-            "doi": "10.1002/prot.10180", 
-            "year": "2002", 
-            "title": "Mapping pathways of allosteric communication in GroEL by analysis of correlated mutations", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Kass"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Horovitz"
-                }
-            ]
+        {
+            "bib23": {
+                "source": "Trends in Genetics", 
+                "doi": "10.1016/S0168-9525(00)02024-2", 
+                "year": "2000", 
+                "title": "EMBOSS: the European molecular biology open software suite", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Rice"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Longden"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Bleasby"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Bioinformatics", 
-            "doi": "10.1093/bioinformatics/btv103", 
-            "year": "2015", 
-            "title": "Comparative study of the effectiveness and limitations of current methods for detecting sequence coevolution", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Mao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Kaya"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Dutta"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Horovitz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Bahar"
-                }
-            ]
+        {
+            "bib24": {
+                "source": "Biochemistry", 
+                "doi": "10.1021/bi970433n", 
+                "year": "1997", 
+                "title": "Crystal structure of Kex1\u0394p, a prohormone-processing carboxypeptidase from <italic>Saccharomyces cerevisiae</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "BH", 
+                        "surname": "Shilton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DY", 
+                        "surname": "Thomas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Cygler"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Methods in Molecular Biology", 
-            "doi": "10.1007/978-1-61779-334-9_21", 
-            "year": "2012", 
-            "title": "A critical evaluation of correlated mutation algorithms and coevolution within allosteric mechanisms", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Livesay"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KE", 
-                    "surname": "Kreth"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Fodor"
-                }
-            ]
+        {
+            "bib25": {
+                "source": "PLOS Computational Biology", 
+                "doi": "10.1371/journal.pcbi.1003889", 
+                "year": "2014", 
+                "title": "Improved contact predictions using the recognition of protein like contact patterns", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "Skwark"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Raimondi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Michel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Elofsson"
+                    }
+                ]
+            }
         }, 
-        "bib19": {
-            "source": "Nucleic Acids Research", 
-            "doi": "10.1093/nar/gkp302", 
-            "year": "2009", 
-            "title": "Web services at the European Bioinformatics Institute-2009", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "McWilliam"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Valentin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Goujon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Narayanasamy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Martin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Miyar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Lopez"
-                }
-            ]
+        {
+            "bib26": {
+                "source": "Bioinformatics", 
+                "doi": "10.1093/bioinformatics/btg224", 
+                "year": "2003", 
+                "title": "PISCES: a protein sequence culling server", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RL", 
+                        "surname": "Dunbrack", 
+                        "suffix": "Jr"
+                    }
+                ]
+            }
         }, 
-        "bib18": {
-            "source": "Nature Biotechnology", 
-            "doi": "10.1038/nbt.2419", 
-            "year": "2012", 
-            "title": "Protein structure prediction from sequence variation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DS", 
-                    "surname": "Marks"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TA", 
-                    "surname": "Hopf"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Sander"
-                }
-            ]
+        {
+            "bib27": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.0805923106", 
+                "year": "2009", 
+                "title": "Identification of direct residue contacts in protein-protein interaction by message passing", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Weigt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RA", 
+                        "surname": "White"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Szurmant"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Hoch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Hwa"
+                    }
+                ]
+            }
         }, 
-        "bib30": {
-            "comment": "http://www.rcsb.org/", 
-            "source": "RCSB Protein Data Bank", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "HM", 
-                    "surname": "Berman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Westbrook"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Feng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Gilliland"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TN", 
-                    "surname": "Bhat"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Weissig"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IN", 
-                    "surname": "Shindyalov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PE", 
-                    "surname": "Bourne"
-                }
-            ], 
-            "year": "2015"
+        {
+            "bib28": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.070154797", 
+                "year": "2000", 
+                "title": "Separation of phylogenetic and functional associations in biological sequences by using the parametric bootstrap", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KR", 
+                        "surname": "Wollenberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WR", 
+                        "surname": "Atchley"
+                    }
+                ]
+            }
         }, 
-        "bib22a": {
-            "comment": "http://www.ncbi.nlm.nih.gov/refseq", 
-            "source": "NCBI Reference sequence database", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KD", 
-                    "surname": "Pruitt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GR", 
-                    "surname": "Brown"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SM", 
-                    "surname": "Hiatt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Thibaud-Nissen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Astashyn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Ermolaeva"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Farrell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Hart"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "Landrum"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "McGarvey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Murphy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NA", 
-                    "surname": "O'Leary"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Pujar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Rajput"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SH", 
-                    "surname": "Rangwala"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LD", 
-                    "surname": "Riddick"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Shkeda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Tamez"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RE", 
-                    "surname": "Tully"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Wallin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Webb"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Weber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Dicuccio"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Kitts"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Maglott"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TD", 
-                    "surname": "Murphy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Ostell"
-                }
-            ], 
-            "year": "2015"
+        {
+            "bib29": {
+                "source": "Bioinformatics", 
+                "doi": "10.1093/bioinformatics/btu613", 
+                "year": "2015", 
+                "title": "The Ensembl REST API: ensembl data for any language", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Yates"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Beal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Keenan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "McLaren"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Pignatelli"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GR", 
+                        "surname": "Ritchie"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Ruffier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Taylor"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Vullo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Flicek"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "Correlated mutation analysis using a combination of amino acid and codon sequence alignments improves predictions of amino acid residue contacts in proteins.", 
     "related-articles": [], 
     "elocation-id": "e08932", 
@@ -1743,20 +1810,24 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {
-            "par-2": {
-                "id": "http://dx.doi.org/10.13039/501100003977", 
-                "award-id": "158/12", 
-                "institution": "Israel Science Foundation (ISF)", 
-                "id-type": "FundRef"
+        "funding": [
+            {
+                "par-1": {
+                    "id": "http://dx.doi.org/10.13039/501100003977", 
+                    "award-id": "772/13", 
+                    "institution": "Israel Science Foundation (ISF)", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/501100003977", 
-                "award-id": "772/13", 
-                "institution": "Israel Science Foundation (ISF)", 
-                "id-type": "FundRef"
+            {
+                "par-2": {
+                    "id": "http://dx.doi.org/10.13039/501100003977", 
+                    "award-id": "158/12", 
+                    "institution": "Israel Science Foundation (ISF)", 
+                    "id-type": "FundRef"
+                }
             }
-        }, 
+        ], 
         "related-object": {
             "dataro4": {}, 
             "dataro5": {}, 
@@ -1769,22 +1840,24 @@
             "dataro9": {}
         }, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Structural Biology", 
-                "email": null, 
-                "city": "Rehovot", 
-                "institution": "Weizmann Institute of Science", 
-                "country": "Israel"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "The Mina and Everard Goodman Faculty of Life Sciences", 
+                    "city": "Ramat-Gan", 
+                    "institution": "Bar-Ilan University", 
+                    "country": "Israel"
+                }
             }, 
-            "aff1": {
-                "dept": "The Mina and Everard Goodman Faculty of Life Sciences", 
-                "email": null, 
-                "city": "Ramat-Gan", 
-                "institution": "Bar-Ilan University", 
-                "country": "Israel"
+            {
+                "aff2": {
+                    "dept": "Department of Structural Biology", 
+                    "city": "Rehovot", 
+                    "institution": "Weizmann Institute of Science", 
+                    "country": "Israel"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {
             "con1": "EJ, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
@@ -1896,7 +1969,7 @@
             "title": "Author response"
         }
     ], 
-    "article-id": "10.7554/eLife.08932", 
+    "article-id": "08932", 
     "categories": {
         "heading": [
             "Biophysics and structural biology", 

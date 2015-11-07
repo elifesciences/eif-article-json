@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Pelham", 
@@ -28,7 +27,7 @@
     ], 
     "pub-date": "2013-05-28", 
     "title": "Building for the future", 
-    "citations": {}, 
+    "citations": [], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e00856", 
@@ -52,25 +51,26 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": null, 
-                "email": "hp@mrc-lmb.cam.ac.uk", 
-                "city": "Cambridge", 
-                "institution": "MRC Laboratory of Molecular Biology", 
-                "country": "United Kingdom"
+        "affiliation": [
+            {
+                "aff1": {
+                    "country": "United Kingdom", 
+                    "city": "Cambridge", 
+                    "institution": "MRC Laboratory of Molecular Biology", 
+                    "email": "hp@mrc-lmb.cam.ac.uk"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/2/e00856v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.00856", 
+    "article-id": "00856", 
     "categories": {
         "sub-display-channel": [
             "Point of view"

@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -159,1216 +158,1300 @@
     ], 
     "pub-date": "2015-08-25", 
     "title": "Cdc6 ATPase activity disengages Cdc6 from the pre-replicative complex to promote DNA replication", 
-    "citations": {
-        "bib34": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M700399200", 
-            "year": "2007", 
-            "title": "Cdc6 ATPase activity regulates ORC x Cdc6 stability and the selection of specific DNA sequences as origins of DNA replication", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Speck"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Cold Spring Harbor Perspectives in Biology", 
+                "doi": "10.1101/cshperspect.a012914", 
+                "year": "2013", 
+                "title": "Genomic instability in cancer", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Abbas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MA", 
+                        "surname": "Keaton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Dutta"
+                    }
+                ]
+            }
         }, 
-        "bib9": {
-            "source": "Current Opinion in Structural Biology", 
-            "doi": "10.1016/j.sbi.2012.11.012", 
-            "year": "2013", 
-            "title": "A structural framework for replication origin opening by AAA+ initiation factors", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KE", 
-                    "surname": "Duderstadt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Berger"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2013.03.006", 
+                "year": "2013", 
+                "title": "The bacterial DnaC helicase loader is a DnaB ring breaker", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Arias-Palomo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VL", 
+                        "surname": "O'shea"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IV", 
+                        "surname": "Hood"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Berger"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "The EMBO Journal", 
-            "doi": "10.1093/emboj/cdf308", 
-            "year": "2002", 
-            "title": "The DnaC helicase loader is a dual ATP/ADP switch protein", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "Davey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Fang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Mcinerney"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RE", 
-                    "surname": "Georgescu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "O'donnell"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Structure", 
+                "doi": "10.1016/j.str.2008.11.010", 
+                "year": "2009", 
+                "title": "Insights into the architecture of the replicative helicase from the structure of an archaeal MCM homolog", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Bae"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YH", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Costa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Onesti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JS", 
+                        "surname": "Brunzelle"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Lin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IK", 
+                        "surname": "Cann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SK", 
+                        "surname": "Nair"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Cell", 
-            "doi": "10.1016/S0092-8674(00)81889-9", 
-            "year": "1997", 
-            "title": "Coordinate binding of ATP and origin DNA regulates the ATPase activity of the origin recognition complex", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RD", 
-                    "surname": "Klemm"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RJ", 
-                    "surname": "Austin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SP", 
-                    "surname": "Bell"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Nucleic Acids Research", 
+                "doi": "10.1093/nar/gkq422", 
+                "year": "2010", 
+                "title": "The <italic>Saccharomyces cerevisiae</italic> Mcm6/2 and Mcm5/3 ATPase active sites contribute to the function of the putative Mcm2-7 'gate'", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "ML", 
+                        "surname": "Bochman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Schwacha"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "Cold Spring Harbor Perspectives in Biology", 
-            "doi": "10.1101/cshperspect.a012914", 
-            "year": "2013", 
-            "title": "Genomic instability in cancer", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Abbas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Keaton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Dutta"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Nature", 
+                "doi": "10.1038/379180a0", 
+                "year": "1996", 
+                "title": "An essential role for the Cdc6 protein in forming the pre-replicative complexes of budding yeast", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JH", 
+                        "surname": "Cocker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Piatti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Santocanale"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Nasmyth"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JF", 
+                        "surname": "Diffley"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Structure", 
-            "doi": "10.1016/j.str.2008.11.010", 
-            "year": "2009", 
-            "title": "Insights into the architecture of the replicative helicase from the structure of an archaeal MCM homolog", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Bae"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YH", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Costa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Onesti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Brunzelle"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Lin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IK", 
-                    "surname": "Cann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SK", 
-                    "surname": "Nair"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Nature Structural & Molecular Biology", 
+                "doi": "10.1038/nsmb.2004", 
+                "year": "2011", 
+                "title": "The structural basis for MCM2-7 helicase activation by GINS and Cdc45", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Costa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Ilves"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Tamberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Petojevic"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Nogales"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Botchan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Berger"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2013.03.006", 
-            "year": "2013", 
-            "title": "The bacterial DnaC helicase loader is a DnaB ring breaker", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Arias-Palomo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VL", 
-                    "surname": "O'shea"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IV", 
-                    "surname": "Hood"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Berger"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/j.molcel.2014.06.034", 
+                "year": "2014", 
+                "title": "Origin licensing requires ATP binding and hydrolysis by the MCM replicative helicase", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Coster"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Frigola"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Beuron"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EP", 
+                        "surname": "Morris"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JF", 
+                        "surname": "Diffley"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Nature", 
-            "doi": "10.1038/379180a0", 
-            "year": "1996", 
-            "title": "An essential role for the Cdc6 protein in forming the pre-replicative complexes of budding yeast", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JH", 
-                    "surname": "Cocker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Piatti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Santocanale"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Nasmyth"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JF", 
-                    "surname": "Diffley"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "The EMBO Journal", 
+                "doi": "10.1093/emboj/cdf308", 
+                "year": "2002", 
+                "title": "The DnaC helicase loader is a dual ATP/ADP switch protein", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "Davey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Fang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Mcinerney"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RE", 
+                        "surname": "Georgescu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "O'donnell"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Nucleic Acids Research", 
-            "doi": "10.1093/nar/gkq422", 
-            "year": "2010", 
-            "title": "The <italic>Saccharomyces cerevisiae</italic> Mcm6/2 and Mcm5/3 ATPase active sites contribute to the function of the putative Mcm2-7 'gate'", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "ML", 
-                    "surname": "Bochman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Schwacha"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Current Opinion in Structural Biology", 
+                "doi": "10.1016/j.sbi.2012.11.012", 
+                "year": "2013", 
+                "title": "A structural framework for replication origin opening by AAA+ initiation factors", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KE", 
+                        "surname": "Duderstadt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Berger"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/j.molcel.2014.06.034", 
-            "year": "2014", 
-            "title": "Origin licensing requires ATP binding and hydrolysis by the MCM replicative helicase", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Coster"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Frigola"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Beuron"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EP", 
-                    "surname": "Morris"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JF", 
-                    "surname": "Diffley"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.1913210", 
+                "year": "2010", 
+                "title": "Conserved nucleosome positioning defines replication origins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "ML", 
+                        "surname": "Eaton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Galani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Kang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SP", 
+                        "surname": "Bell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DM", 
+                        "surname": "Macalpine"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Nature Structural & Molecular Biology", 
-            "doi": "10.1038/nsmb.2004", 
-            "year": "2011", 
-            "title": "The structural basis for MCM2-7 helicase activation by GINS and Cdc45", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Costa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Ilves"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Tamberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Petojevic"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Nogales"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Botchan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Berger"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.0911500106", 
+                "year": "2009", 
+                "title": "A double-hexameric MCM2-7 complex is loaded onto origin DNA during licensing of eukaryotic DNA replication", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Evrin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Clarke"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Zech"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Lurz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Sun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Uhle"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Speck"
+                    }
+                ]
+            }
         }, 
-        "bib28": {
-            "source": "Methods in yeast genetics: a laboratory course manual", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Rose"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Winston"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Hieter"
-                }
-            ], 
-            "year": "1990"
+        {
+            "bib12": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/j.molcel.2013.03.026", 
+                "year": "2013", 
+                "title": "An ORC/Cdc6/MCM2-7 complex is formed in a multistep reaction to serve as a platform for MCM double-hexamer assembly", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Fernandez-Cid"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Riera"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Tognetti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MC", 
+                        "surname": "Herrera"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Samel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Evrin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Winkler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Gardenal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Uhle"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Speck"
+                    }
+                ]
+            }
         }, 
-        "bib29": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.242404.114", 
-            "year": "2014", 
-            "title": "A unique DNA entry gate serves for regulated loading of the eukaryotic replicative helicase MCM2-7 onto DNA", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SA", 
-                    "surname": "Samel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Fernandez-Cid"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Riera"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Tognetti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MC", 
-                    "surname": "Herrera"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Speck"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "Microbiology and Molecular Biology Reviews", 
+                "doi": "10.1128/MMBR.68.1.109-131.2004", 
+                "year": "2004", 
+                "title": "Eukaryotic MCM proteins: beyond replication initiation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SL", 
+                        "surname": "Forsburg"
+                    }
+                ]
+            }
         }, 
-        "bib20": {
-            "source": "Cell", 
-            "doi": "10.1016/0092-8674(95)90528-6", 
-            "year": "1995", 
-            "title": "ORC and Cdc6p interact and determine the frequency of initiation of DNA replication in the genome", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Liang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Weinreich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "Cell Cycle", 
+                "doi": "10.4161/cc.1.2.114", 
+                "year": "2002", 
+                "title": "Improved flow cytometric analysis of the budding yeast cell cycle", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SB", 
+                        "surname": "Haase"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SI", 
+                        "surname": "Reed"
+                    }
+                ]
+            }
         }, 
-        "bib21": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/S1097-2765(00)00062-9", 
-            "year": "2000", 
-            "title": "Structure and function of Cdc6/Cdc18: implications for origin recognition and checkpoint control", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Liu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CL", 
-                    "surname": "Smith"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Deryckere"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Deangelis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GS", 
-                    "surname": "Martin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Berger"
-                }
-            ]
+        {
+            "bib15": {
+                "source": "Nature reviews. Molecular Cell Biology", 
+                "doi": "10.1038/nrm1684", 
+                "year": "2005", 
+                "title": "AAA+ proteins: have engine, will work", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PI", 
+                        "surname": "Hanson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SW", 
+                        "surname": "Whiteheart"
+                    }
+                ]
+            }
         }, 
-        "bib22": {
-            "source": "Genome Research", 
-            "year": "1999", 
-            "title": "AAA+: a class of chaperone-like ATPases associated with the assembly, operation, and disassembly of protein complexes", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AF", 
-                    "surname": "Neuwald"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Aravind"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JL", 
-                    "surname": "Spouge"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EV", 
-                    "surname": "Koonin"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/j.molcel.2014.06.033", 
+                "year": "2014", 
+                "title": "Multiple functions for Mcm2-7 ATPase motifs during replication initiation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Kang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MD", 
+                        "surname": "Warner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SP", 
+                        "surname": "Bell"
+                    }
+                ]
+            }
         }, 
-        "bib23": {
-            "source": "Journal of Structural Biology", 
-            "doi": "10.1016/j.jsb.2003.11.008", 
-            "year": "2004", 
-            "title": "Conserved arginine residues implicated in ATP hydrolysis, nucleotide-sensing, and inter-subunit interactions in AAA and AAA+ ATPases", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Ogura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SW", 
-                    "surname": "Whiteheart"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AJ", 
-                    "surname": "Wilkinson"
-                }
-            ]
+        {
+            "bib17": {
+                "source": "Cell", 
+                "doi": "10.1016/S0092-8674(00)81889-9", 
+                "year": "1997", 
+                "title": "Coordinate binding of ATP and origin DNA regulates the ATPase activity of the origin recognition complex", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RD", 
+                        "surname": "Klemm"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RJ", 
+                        "surname": "Austin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SP", 
+                        "surname": "Bell"
+                    }
+                ]
+            }
         }, 
-        "bib24": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.1173204", 
-            "year": "2004", 
-            "title": "The NAD(+)-dependent Sir2p histone deacetylase is a negative regulator of chromosomal DNA replication", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DL", 
-                    "surname": "Pappas", 
-                    "suffix": "Jr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Frisch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Weinreich"
-                }
-            ]
+        {
+            "bib18": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.1933010", 
+                "year": "2010", 
+                "title": "How do Cdc7 and cyclin-dependent kinases trigger the initiation of chromosome replication in eukaryotic cells?", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Labib"
+                    }
+                ]
+            }
         }, 
-        "bib25": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/S1097-2765(00)80110-0", 
-            "year": "1998", 
-            "title": "Nucleotide-dependent prereplicative complex assembly by Cdc6p, a homolog of eukaryotic and prokaryotic clamp-loaders", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Perkins"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JF", 
-                    "surname": "Diffley"
-                }
-            ]
+        {
+            "bib19": {
+                "source": "Genes to Cells", 
+                "doi": "10.1111/gtc.12040", 
+                "year": "2013", 
+                "title": "Loading and activation of DNA replicative helicases: the key step of initiation of DNA replication", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Araki"
+                    }
+                ]
+            }
         }, 
-        "bib26": {
-            "source": "The EMBO Journal", 
-            "year": "1995", 
-            "title": "Cdc6 is an unstable protein whose de novo synthesis in G1 is important for the onset of S phase and for preventing a 'reductional' anaphase in the budding yeast <italic>Saccharomyces cerevisiae</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Piatti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Lengauer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Nasmyth"
-                }
-            ]
+        {
+            "bib20": {
+                "source": "Cell", 
+                "doi": "10.1016/0092-8674(95)90528-6", 
+                "year": "1995", 
+                "title": "ORC and Cdc6p interact and determine the frequency of initiation of DNA replication in the genome", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Liang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Weinreich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }
+                ]
+            }
         }, 
-        "bib27": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/j.molcel.2005.11.023", 
-            "year": "2006", 
-            "title": "Sequential ATP hydrolysis by Cdc6 and ORC directs loading of the Mcm2-7 helicase", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JC", 
-                    "surname": "Randell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JL", 
-                    "surname": "Bowers"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HK", 
-                    "surname": "Rodriguez"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SP", 
-                    "surname": "Bell"
-                }
-            ]
+        {
+            "bib21": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/S1097-2765(00)00062-9", 
+                "year": "2000", 
+                "title": "Structure and function of Cdc6/Cdc18: implications for origin recognition and checkpoint control", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Liu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CL", 
+                        "surname": "Smith"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Deryckere"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Deangelis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GS", 
+                        "surname": "Martin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Berger"
+                    }
+                ]
+            }
         }, 
-        "bib42": {
-            "source": "Nature Structural & Molecular Biology", 
-            "doi": "10.1038/nsmb.2738", 
-            "year": "2014", 
-            "title": "Prereplication-complex formation: a molecular double take?", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Yardimci"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JC", 
-                    "surname": "Walter"
-                }
-            ]
+        {
+            "bib22": {
+                "source": "Genome Research", 
+                "year": "1999", 
+                "title": "AAA+: a class of chaperone-like ATPases associated with the assembly, operation, and disassembly of protein complexes", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AF", 
+                        "surname": "Neuwald"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Aravind"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JL", 
+                        "surname": "Spouge"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EV", 
+                        "surname": "Koonin"
+                    }
+                ]
+            }
         }, 
-        "bib40": {
-            "source": "Biochimica Et Biophysica Acta", 
-            "doi": "10.1016/j.bbamcr.2011.06.014", 
-            "year": "2012", 
-            "title": "Structure and function of the AAA+ nucleotide binding pocket", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Wendler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Ciniawsky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Kock"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Kube"
-                }
-            ]
+        {
+            "bib23": {
+                "source": "Journal of Structural Biology", 
+                "doi": "10.1016/j.jsb.2003.11.008", 
+                "year": "2004", 
+                "title": "Conserved arginine residues implicated in ATP hydrolysis, nucleotide-sensing, and inter-subunit interactions in AAA and AAA+ ATPases", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Ogura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SW", 
+                        "surname": "Whiteheart"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AJ", 
+                        "surname": "Wilkinson"
+                    }
+                ]
+            }
         }, 
-        "bib41": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.94.1.142", 
-            "year": "1997", 
-            "title": "A human protein related to yeast Cdc6p", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RS", 
-                    "surname": "Williams"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RV", 
-                    "surname": "Shohet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }
-            ]
+        {
+            "bib24": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.1173204", 
+                "year": "2004", 
+                "title": "The NAD(+)-dependent Sir2p histone deacetylase is a negative regulator of chromosomal DNA replication", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DL", 
+                        "surname": "Pappas", 
+                        "suffix": "Jr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Frisch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Weinreich"
+                    }
+                ]
+            }
         }, 
-        "bib11": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.0911500106", 
-            "year": "2009", 
-            "title": "A double-hexameric MCM2-7 complex is loaded onto origin DNA during licensing of eukaryotic DNA replication", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Evrin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Clarke"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zech"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Lurz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Uhle"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Speck"
-                }
-            ]
+        {
+            "bib25": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/S1097-2765(00)80110-0", 
+                "year": "1998", 
+                "title": "Nucleotide-dependent prereplicative complex assembly by Cdc6p, a homolog of eukaryotic and prokaryotic clamp-loaders", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Perkins"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JF", 
+                        "surname": "Diffley"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.1913210", 
-            "year": "2010", 
-            "title": "Conserved nucleosome positioning defines replication origins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "ML", 
-                    "surname": "Eaton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Galani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Kang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SP", 
-                    "surname": "Bell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DM", 
-                    "surname": "Macalpine"
-                }
-            ]
+        {
+            "bib26": {
+                "source": "The EMBO Journal", 
+                "year": "1995", 
+                "title": "Cdc6 is an unstable protein whose de novo synthesis in G1 is important for the onset of S phase and for preventing a 'reductional' anaphase in the budding yeast <italic>Saccharomyces cerevisiae</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Piatti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Lengauer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Nasmyth"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "Microbiology and Molecular Biology Reviews", 
-            "doi": "10.1128/MMBR.68.1.109-131.2004", 
-            "year": "2004", 
-            "title": "Eukaryotic MCM proteins: beyond replication initiation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SL", 
-                    "surname": "Forsburg"
-                }
-            ]
+        {
+            "bib27": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/j.molcel.2005.11.023", 
+                "year": "2006", 
+                "title": "Sequential ATP hydrolysis by Cdc6 and ORC directs loading of the Mcm2-7 helicase", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JC", 
+                        "surname": "Randell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JL", 
+                        "surname": "Bowers"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HK", 
+                        "surname": "Rodriguez"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SP", 
+                        "surname": "Bell"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/j.molcel.2013.03.026", 
-            "year": "2013", 
-            "title": "An ORC/Cdc6/MCM2-7 complex is formed in a multistep reaction to serve as a platform for MCM double-hexamer assembly", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Fernandez-Cid"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Riera"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Tognetti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MC", 
-                    "surname": "Herrera"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Samel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Evrin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Winkler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Gardenal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Uhle"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Speck"
-                }
-            ]
+        {
+            "bib28": {
+                "source": "Methods in yeast genetics: a laboratory course manual", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Rose"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Winston"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Hieter"
+                    }
+                ], 
+                "year": "1990"
+            }
         }, 
-        "bib15": {
-            "source": "Nature reviews. Molecular Cell Biology", 
-            "doi": "10.1038/nrm1684", 
-            "year": "2005", 
-            "title": "AAA+ proteins: have engine, will work", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PI", 
-                    "surname": "Hanson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SW", 
-                    "surname": "Whiteheart"
-                }
-            ]
+        {
+            "bib29": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.242404.114", 
+                "year": "2014", 
+                "title": "A unique DNA entry gate serves for regulated loading of the eukaryotic replicative helicase MCM2-7 onto DNA", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SA", 
+                        "surname": "Samel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Fernandez-Cid"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Sun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Riera"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Tognetti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MC", 
+                        "surname": "Herrera"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Speck"
+                    }
+                ]
+            }
         }, 
-        "bib14": {
-            "source": "Cell Cycle", 
-            "doi": "10.4161/cc.1.2.114", 
-            "year": "2002", 
-            "title": "Improved flow cytometric analysis of the budding yeast cell cycle", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SB", 
-                    "surname": "Haase"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SI", 
-                    "surname": "Reed"
-                }
-            ]
+        {
+            "bib30": {
+                "source": "Science", 
+                "doi": "10.1126/science.277.5324.333", 
+                "year": "1997", 
+                "title": "The Ras-RasGAP complex: structural basis for GTPase activation and its loss in oncogenic Ras mutants", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Scheffzek"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Ahmadian"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Kabsch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Wiesmuller"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Lautwein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Schmitz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Wittinghofer"
+                    }
+                ]
+            }
         }, 
-        "bib39": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.96.2.441", 
-            "year": "1999", 
-            "title": "The Cdc6p nucleotide-binding motif is required for loading mcm proteins onto chromatin", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Weinreich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Liang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }
-            ]
+        {
+            "bib31": {
+                "source": "Journal of Molecular Biology", 
+                "doi": "10.1006/jmbi.2001.4637", 
+                "year": "2001", 
+                "title": "Mutational analysis of conserved sequence motifs in the budding yeast Cdc6 protein", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Schepers"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JF", 
+                        "surname": "Diffley"
+                    }
+                ]
+            }
         }, 
-        "bib38": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.274.12.8291", 
-            "year": "1999", 
-            "title": "The essential role of Saccharomyces cerevisiae CDC6 nucleotide-binding site in cell growth, DNA synthesis, and Orc1 association", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Feng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Hu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SH", 
-                    "surname": "Huang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CP", 
-                    "surname": "Reynolds"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AY", 
-                    "surname": "Jong"
-                }
-            ]
+        {
+            "bib32": {
+                "source": "Sub-cellular Biochemistry", 
+                "doi": "10.1007/978-94-007-4572-8_6", 
+                "year": "2012", 
+                "title": "MCM structure and mechanics: what we have learned from archaeal MCM", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "IM", 
+                        "surname": "Slaymaker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "XS", 
+                        "surname": "Chen"
+                    }
+                ]
+            }
         }, 
-        "bib19": {
-            "source": "Genes to Cells", 
-            "doi": "10.1111/gtc.12040", 
-            "year": "2013", 
-            "title": "Loading and activation of DNA replicative helicases: the key step of initiation of DNA replication", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Araki"
-                }
-            ]
+        {
+            "bib33": {
+                "source": "Nature Structural & Molecular Biology", 
+                "doi": "10.1038/nsmb1002", 
+                "year": "2005", 
+                "title": "ATPase-dependent cooperative binding of ORC and Cdc6 to origin DNA", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Speck"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }
+                ]
+            }
         }, 
-        "bib18": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.1933010", 
-            "year": "2010", 
-            "title": "How do Cdc7 and cyclin-dependent kinases trigger the initiation of chromosome replication in eukaryotic cells?", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Labib"
-                }
-            ]
+        {
+            "bib34": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M700399200", 
+                "year": "2007", 
+                "title": "Cdc6 ATPase activity regulates ORC x Cdc6 stability and the selection of specific DNA sequences as origins of DNA replication", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Speck"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }
+                ]
+            }
         }, 
-        "bib35": {
-            "source": "Nature Structural & Molecular Biology", 
-            "doi": "10.1038/nsmb.2629", 
-            "year": "2013", 
-            "title": "Cryo-EM structure of a helicase loading intermediate containing ORC-Cdc6-Cdt1-MCM2-7 bound to DNA", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Evrin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SA", 
-                    "surname": "Samel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Fernandez-Cid"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Riera"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Kawakami"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Speck"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Li"
-                }
-            ]
+        {
+            "bib35": {
+                "source": "Nature Structural & Molecular Biology", 
+                "doi": "10.1038/nsmb.2629", 
+                "year": "2013", 
+                "title": "Cryo-EM structure of a helicase loading intermediate containing ORC-Cdc6-Cdt1-MCM2-7 bound to DNA", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Sun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Evrin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SA", 
+                        "surname": "Samel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Fernandez-Cid"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Riera"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Kawakami"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Speck"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Li"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/j.molcel.2014.06.033", 
-            "year": "2014", 
-            "title": "Multiple functions for Mcm2-7 ATPase motifs during replication initiation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Kang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MD", 
-                    "surname": "Warner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SP", 
-                    "surname": "Bell"
-                }
-            ]
+        {
+            "bib36": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M108615200", 
+                "year": "2002", 
+                "title": "Functions of sensor 1 and sensor 2 regions of <italic>Saccharomyces cerevisiae</italic> Cdc6p in vivo and in vitro", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Takahashi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Tsutsumi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Tsuchiya"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Mizushima"
+                    }
+                ]
+            }
         }, 
-        "bib33": {
-            "source": "Nature Structural & Molecular Biology", 
-            "doi": "10.1038/nsmb1002", 
-            "year": "2005", 
-            "title": "ATPase-dependent cooperative binding of ORC and Cdc6 to origin DNA", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Speck"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }
-            ]
+        {
+            "bib37": {
+                "source": "Journal of Structural Biology", 
+                "doi": "10.1016/j.jsb.2006.05.009", 
+                "year": "2007", 
+                "title": "EMAN2: an extensible image processing suite for electron microscopy", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Tang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Peng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PR", 
+                        "surname": "Baldwin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DS", 
+                        "surname": "Mann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Jiang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Rees"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SJ", 
+                        "surname": "Ludtke"
+                    }
+                ]
+            }
         }, 
-        "bib32": {
-            "source": "Sub-cellular Biochemistry", 
-            "doi": "10.1007/978-94-007-4572-8_6", 
-            "year": "2012", 
-            "title": "MCM structure and mechanics: what we have learned from archaeal MCM", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "IM", 
-                    "surname": "Slaymaker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XS", 
-                    "surname": "Chen"
-                }
-            ]
+        {
+            "bib38": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.274.12.8291", 
+                "year": "1999", 
+                "title": "The essential role of Saccharomyces cerevisiae CDC6 nucleotide-binding site in cell growth, DNA synthesis, and Orc1 association", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Feng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Hu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SH", 
+                        "surname": "Huang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CP", 
+                        "surname": "Reynolds"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AY", 
+                        "surname": "Jong"
+                    }
+                ]
+            }
         }, 
-        "bib31": {
-            "source": "Journal of Molecular Biology", 
-            "doi": "10.1006/jmbi.2001.4637", 
-            "year": "2001", 
-            "title": "Mutational analysis of conserved sequence motifs in the budding yeast Cdc6 protein", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Schepers"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JF", 
-                    "surname": "Diffley"
-                }
-            ]
+        {
+            "bib39": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.96.2.441", 
+                "year": "1999", 
+                "title": "The Cdc6p nucleotide-binding motif is required for loading mcm proteins onto chromatin", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Weinreich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Liang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }
+                ]
+            }
         }, 
-        "bib30": {
-            "source": "Science", 
-            "doi": "10.1126/science.277.5324.333", 
-            "year": "1997", 
-            "title": "The Ras-RasGAP complex: structural basis for GTPase activation and its loss in oncogenic Ras mutants", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Scheffzek"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Ahmadian"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Kabsch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Wiesmuller"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Lautwein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Schmitz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Wittinghofer"
-                }
-            ]
+        {
+            "bib40": {
+                "source": "Biochimica Et Biophysica Acta", 
+                "doi": "10.1016/j.bbamcr.2011.06.014", 
+                "year": "2012", 
+                "title": "Structure and function of the AAA+ nucleotide binding pocket", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Wendler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Ciniawsky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Kock"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Kube"
+                    }
+                ]
+            }
         }, 
-        "bib37": {
-            "source": "Journal of Structural Biology", 
-            "doi": "10.1016/j.jsb.2006.05.009", 
-            "year": "2007", 
-            "title": "EMAN2: an extensible image processing suite for electron microscopy", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Tang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Peng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PR", 
-                    "surname": "Baldwin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DS", 
-                    "surname": "Mann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Jiang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Rees"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SJ", 
-                    "surname": "Ludtke"
-                }
-            ]
+        {
+            "bib41": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.94.1.142", 
+                "year": "1997", 
+                "title": "A human protein related to yeast Cdc6p", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RS", 
+                        "surname": "Williams"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RV", 
+                        "surname": "Shohet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Stillman"
+                    }
+                ]
+            }
         }, 
-        "bib36": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M108615200", 
-            "year": "2002", 
-            "title": "Functions of sensor 1 and sensor 2 regions of <italic>Saccharomyces cerevisiae</italic> Cdc6p in vivo and in vitro", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Takahashi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Tsutsumi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Tsuchiya"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Stillman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Mizushima"
-                }
-            ]
+        {
+            "bib42": {
+                "source": "Nature Structural & Molecular Biology", 
+                "doi": "10.1038/nsmb.2738", 
+                "year": "2014", 
+                "title": "Prereplication-complex formation: a molecular double take?", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Yardimci"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JC", 
+                        "surname": "Walter"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "Biochemical and genetic characterization of the Cdc6 replication initiator reveals similarities in the helicase loading reaction between bacteria and eukaryotes.", 
     "related-articles": [], 
     "elocation-id": "e05795", 
@@ -1395,57 +1478,66 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {
-            "par-3": {
-                "id": "http://dx.doi.org/10.13039/501100000265", 
-                "institution": "Medical Research Council (MRC)", 
-                "id-type": "FundRef"
+        "funding": [
+            {
+                "par-1": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "R01-GM74985", 
+                    "institution": "National Institutes of Health (NIH)", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-2": {
-                "id": "http://dx.doi.org/10.13039/100000001", 
-                "award-id": "MCB-0950464", 
-                "institution": "National Science Foundation (NSF)", 
-                "id-type": "FundRef"
+            {
+                "par-2": {
+                    "id": "http://dx.doi.org/10.13039/100000001", 
+                    "award-id": "MCB-0950464", 
+                    "institution": "National Science Foundation (NSF)", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "R01-GM74985", 
-                "institution": "National Institutes of Health (NIH)", 
-                "id-type": "FundRef"
+            {
+                "par-3": {
+                    "id": "http://dx.doi.org/10.13039/501100000265", 
+                    "institution": "Medical Research Council (MRC)", 
+                    "id-type": "FundRef"
+                }
             }
-        }, 
+        ], 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff4": {
-                "dept": "Department of Biochemistry and Cell Biology", 
-                "email": null, 
-                "city": "New York", 
-                "institution": "Stony Brook University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "country": "United States", 
+                    "institution": "Van Andel Research Institute", 
+                    "city": "Grand Rapids"
+                }
             }, 
-            "aff3": {
-                "dept": "Biosciences Department", 
-                "email": null, 
-                "city": "New York", 
-                "institution": "Brookhaven National Laboratory", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "Faculty of Medicine, Hammersmith Hospital Campus", 
+                    "city": "London", 
+                    "institution": "Imperial College London", 
+                    "country": "United Kingdom"
+                }
             }, 
-            "aff2": {
-                "dept": "Faculty of Medicine, Hammersmith Hospital Campus", 
-                "email": null, 
-                "city": "London", 
-                "institution": "Imperial College London", 
-                "country": "United Kingdom"
+            {
+                "aff3": {
+                    "dept": "Biosciences Department", 
+                    "city": "New York", 
+                    "institution": "Brookhaven National Laboratory", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": null, 
-                "email": null, 
-                "city": "Grand Rapids", 
-                "institution": "Van Andel Research Institute", 
-                "country": "United States"
+            {
+                "aff4": {
+                    "dept": "Department of Biochemistry and Cell Biology", 
+                    "city": "New York", 
+                    "institution": "Stony Brook University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {
             "con1": "FJC, Acquisition of data, Analysis and interpretation of data", 
@@ -1555,7 +1647,7 @@
             "title": "Supplementary file 2."
         }
     ], 
-    "article-id": "10.7554/eLife.05795", 
+    "article-id": "05795", 
     "categories": {
         "heading": [
             "Genes and chromosomes"

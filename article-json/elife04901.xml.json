@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Marder", 
@@ -31,49 +30,53 @@
     ], 
     "pub-date": "2014-10-07", 
     "title": "Looking out for future scientists", 
-    "citations": {
-        "bib1": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1404402111", 
-            "year": "2014", 
-            "title": "Rescuing US biomedical research from its systemic flaws", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Alberts"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MW", 
-                    "surname": "Kirschner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Tilghman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Varmus"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1404402111", 
+                "year": "2014", 
+                "title": "Rescuing US biomedical research from its systemic flaws", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Alberts"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MW", 
+                        "surname": "Kirschner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Tilghman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Varmus"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.01139", 
-            "year": "2013", 
-            "title": "A fair deal for PhD students and postdocs", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "HR", 
-                    "surname": "Bourne"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.01139", 
+                "year": "2013", 
+                "title": "A fair deal for PhD students and postdocs", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "HR", 
+                        "surname": "Bourne"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e04901", 
@@ -95,25 +98,27 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Biology and the Volen National Center for Complex Systems", 
-                "email": "marder@brandeis.edu", 
-                "city": "Waltham", 
-                "institution": "Brandeis University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Biology and the Volen National Center for Complex Systems", 
+                    "email": "marder@brandeis.edu", 
+                    "city": "Waltham", 
+                    "institution": "Brandeis University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/3/e04901v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.04901", 
+    "article-id": "04901", 
     "categories": {
         "sub-display-channel": [
             "Living science"

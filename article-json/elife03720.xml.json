@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Gelfand", 
@@ -230,1578 +229,1646 @@
     ], 
     "pub-date": "2014-09-22", 
     "title": "Neuropilin-1 functions as a VEGFR2 co-receptor to guide developmental angiogenesis independent of ligand binding", 
-    "citations": {
-        "bib9": {
-            "source": "Nature Medicine", 
-            "doi": "10.1038/nm0603-669", 
-            "year": "2003", 
-            "title": "The biology of VEGF and its receptors", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Ferrara"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HP", 
-                    "surname": "Gerber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "LeCouter"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Blood", 
+                "doi": "10.1182/blood-2011-01-328773", 
+                "year": "2011", 
+                "title": "Neuropilin-1 promotes VEGFR-2 trafficking through Rab11 vesicles thereby specifying signal output", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Ballmer-Hofer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AE", 
+                        "surname": "Andersson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LE", 
+                        "surname": "Ratcliffe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Berger"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Nature", 
-            "doi": "10.1038/380439a0", 
-            "year": "1996", 
-            "title": "Heterozygous embryonic lethality induced by targeted inactivation of the VEGF gene", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Ferrara"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Carver-Moore"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Dowd"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Lu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KS", 
-                    "surname": "O'Shea"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Powell-Braxton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KJ", 
-                    "surname": "Hillan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MW", 
-                    "surname": "Moore"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Nature", 
+                "doi": "10.1038/380435a0", 
+                "year": "1996", 
+                "title": "Abnormal blood vessel development and lethality in embryos lacking a single VEGF allele", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Carmeliet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Ferreira"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Breier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Pollefeyt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Kieckens"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Gertsenstein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Fahrig"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Vandenhoeck"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Harpal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Eberhardt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Declercq"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Pawling"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Moons"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Collen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Risau"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Nagy"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "Blood", 
-            "doi": "10.1182/blood-2011-01-328773", 
-            "year": "2011", 
-            "title": "Neuropilin-1 promotes VEGFR-2 trafficking through Rab11 vesicles thereby specifying signal output", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Ballmer-Hofer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AE", 
-                    "surname": "Andersson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LE", 
-                    "surname": "Ratcliffe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Berger"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Nature Medicine", 
+                "doi": "10.1038/8379", 
+                "year": "1999", 
+                "title": "Impaired myocardial angiogenesis and ischemic cardiomyopathy in mice lacking the vascular endothelial growth factor isoforms VEGF164 and VEGF188", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Carmeliet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YS", 
+                        "surname": "Ng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Nuyens"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Theilmeier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Brusselmans"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Cornelissen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Ehler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VV", 
+                        "surname": "Kakkar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Stalmans"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Mattot"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JC", 
+                        "surname": "Perriard"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Dewerchin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Flameng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Nagy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Lupu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Moons"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Collen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PA", 
+                        "surname": "D'Amore"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DT", 
+                        "surname": "Shima"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Nature Medicine", 
-            "doi": "10.1038/8379", 
-            "year": "1999", 
-            "title": "Impaired myocardial angiogenesis and ischemic cardiomyopathy in mice lacking the vascular endothelial growth factor isoforms VEGF164 and VEGF188", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Carmeliet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YS", 
-                    "surname": "Ng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Nuyens"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Theilmeier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Brusselmans"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Cornelissen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Ehler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VV", 
-                    "surname": "Kakkar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Stalmans"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Mattot"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JC", 
-                    "surname": "Perriard"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Dewerchin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Flameng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Nagy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Lupu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Moons"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Collen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PA", 
-                    "surname": "D'Amore"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DT", 
-                    "surname": "Shima"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Annual Review of Cell and Developmental Biology", 
+                "doi": "10.1146/annurev-cellbio-092910-154002", 
+                "year": "2011", 
+                "title": "Developmental and pathological angiogenesis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AS", 
+                        "surname": "Chung"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Ferrara"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Nature", 
-            "doi": "10.1038/380435a0", 
-            "year": "1996", 
-            "title": "Abnormal blood vessel development and lethality in embryos lacking a single VEGF allele", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Carmeliet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Ferreira"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Breier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Pollefeyt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Kieckens"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Gertsenstein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Fahrig"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Vandenhoeck"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Harpal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Eberhardt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Declercq"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Pawling"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Moons"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Collen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Risau"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Nagy"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Nature", 
+                "doi": "10.1038/nature04479", 
+                "year": "2005", 
+                "title": "Endothelial cells and VEGF in vascular development", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Coultas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Chawengsaksophak"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Rossant"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Nature", 
-            "doi": "10.1038/nature04479", 
-            "year": "2005", 
-            "title": "Endothelial cells and VEGF in vascular development", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Coultas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Chawengsaksophak"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Rossant"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Development", 
+                "doi": "10.1242/dev.103028", 
+                "year": "2014", 
+                "title": "Neuropilin 1 (NRP1) hypomorphism combined with defective VEGF-A binding reveals novel roles for NRP1 in developmental and pathological angiogenesis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Fantin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Herzog"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Mahmoud"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Yamaji"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Plein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Denti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Ruhrberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Zachary"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Annual Review of Cell and Developmental Biology", 
-            "doi": "10.1146/annurev-cellbio-092910-154002", 
-            "year": "2011", 
-            "title": "Developmental and pathological angiogenesis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AS", 
-                    "surname": "Chung"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Ferrara"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Development", 
+                "doi": "10.1242/dev.070037", 
+                "year": "2011", 
+                "title": "The cytoplasmic domain of neuropilin 1 is dispensable for angiogenesis, but promotes the spatial separation of retinal arteries and veins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Fantin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Q", 
+                        "surname": "Schwarz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Davidson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EM", 
+                        "surname": "Normando"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Denti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Ruhrberg"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Development", 
-            "doi": "10.1242/dev.070037", 
-            "year": "2011", 
-            "title": "The cytoplasmic domain of neuropilin 1 is dispensable for angiogenesis, but promotes the spatial separation of retinal arteries and veins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Fantin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Q", 
-                    "surname": "Schwarz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Davidson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EM", 
-                    "surname": "Normando"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Denti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Ruhrberg"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Nature", 
+                "doi": "10.1038/380439a0", 
+                "year": "1996", 
+                "title": "Heterozygous embryonic lethality induced by targeted inactivation of the VEGF gene", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Ferrara"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Carver-Moore"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Dowd"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Lu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KS", 
+                        "surname": "O'Shea"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Powell-Braxton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KJ", 
+                        "surname": "Hillan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MW", 
+                        "surname": "Moore"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Development", 
-            "doi": "10.1242/dev.103028", 
-            "year": "2014", 
-            "title": "Neuropilin 1 (NRP1) hypomorphism combined with defective VEGF-A binding reveals novel roles for NRP1 in developmental and pathological angiogenesis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Fantin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Herzog"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Mahmoud"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Yamaji"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Plein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Denti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Ruhrberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Zachary"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Nature Medicine", 
+                "doi": "10.1038/nm0603-669", 
+                "year": "2003", 
+                "title": "The biology of VEGF and its receptors", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Ferrara"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HP", 
+                        "surname": "Gerber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "LeCouter"
+                    }
+                ]
+            }
         }, 
-        "bib28": {
-            "source": "Cancer Cell", 
-            "doi": "10.1016/j.ccr.2006.10.018", 
-            "year": "2007", 
-            "title": "Blocking neuropilin-1 function has an additive effect with anti-VEGF to inhibit tumor growth", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Q", 
-                    "surname": "Pan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Chanthery"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WC", 
-                    "surname": "Liang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Stawicki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Mak"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Rathore"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RK", 
-                    "surname": "Tong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Kowalski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SF", 
-                    "surname": "Yee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Pacheco"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Ross"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Cheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Le Couter"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Plowman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Peale"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AW", 
-                    "surname": "Koch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Bagri"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tessier-Lavigne"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RJ", 
-                    "surname": "Watts"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "The Journal of Cell Biology", 
+                "doi": "10.1083/jcb.200903030", 
+                "year": "2009", 
+                "title": "The binding of NCAM to FGFR1 induces a specific cellular response mediated by receptor trafficking", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Francavilla"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Cattaneo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Berezin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Bock"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Ami"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "de Marco"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Christofori"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "U", 
+                        "surname": "Cavallaro"
+                    }
+                ]
+            }
         }, 
-        "bib29": {
-            "source": "Current Opinion in Genetics & Development", 
-            "doi": "10.1016/S0959-437X(03)00080-7", 
-            "year": "2003", 
-            "title": "Vascular development and patterning: making the right choices", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Rossant"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hirashima"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Science", 
+                "doi": "10.1126/science.8097062", 
+                "year": "1993", 
+                "title": "Regulation of CREB phosphorylation in the suprachiasmatic nucleus by light and a circadian clock", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Ginty"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Kornhauser"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MA", 
+                        "surname": "Thompson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Bading"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KE", 
+                        "surname": "Mayo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JS", 
+                        "surname": "Takahashi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ME", 
+                        "surname": "Greenberg"
+                    }
+                ]
+            }
         }, 
-        "bib20": {
-            "source": "Development", 
-            "year": "1999", 
-            "title": "A requirement for neuropilin-1 in embryonic vessel formation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Kawasaki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Kitsukawa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Bekku"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Matsuda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Sanbo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Yagi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Fujisawa"
-                }
-            ]
+        {
+            "bib12": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M201681200", 
+                "year": "2002", 
+                "title": "Characterization of neuropilin-1 structural features that confer binding to semaphorin 3A and vascular endothelial growth factor 165", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Gu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BJ", 
+                        "surname": "Limberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GB", 
+                        "surname": "Whitaker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Perman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Leahy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JS", 
+                        "surname": "Rosenbaum"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Ginty"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AL", 
+                        "surname": "Kolodkin"
+                    }
+                ]
+            }
         }, 
-        "bib21": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.2042011", 
-            "year": "2011", 
-            "title": "Semaphorin 3E-Plexin-D1 signaling regulates VEGF function in developmental angiogenesis via a feedback mechanism", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Kim"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WJ", 
-                    "surname": "Oh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Gaiano"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Yoshida"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Gu"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "Developmental Cell", 
+                "doi": "10.1016/S1534-5807(03)00169-2", 
+                "year": "2003", 
+                "title": "Neuropilin-1 conveys semaphorin and VEGF signaling during neural and cardiovascular development", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Gu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ER", 
+                        "surname": "Rodriguez"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DV", 
+                        "surname": "Reimert"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Shu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Fritzsch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LJ", 
+                        "surname": "Richards"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AL", 
+                        "surname": "Kolodkin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Ginty"
+                    }
+                ]
+            }
         }, 
-        "bib22": {
-            "source": "Neuron", 
-            "doi": "10.1016/S0896-6273(00)80392-X", 
-            "year": "1997", 
-            "title": "Neuropilin-semaphorin III/D-mediated chemorepulsive signals play a crucial role in peripheral nerve projection in mice", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Kitsukawa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Shimizu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Sanbo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Hirata"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Taniguchi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Bekku"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Yagi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Fujisawa"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "The Journal of Experimental Medicine", 
+                "doi": "10.1084/jem.20111424", 
+                "year": "2012", 
+                "title": "Autocrine VEGF-VEGFR2-Neuropilin-1 signaling promotes glioma stem-like cell viability and tumor growth", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Hamerlik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JD", 
+                        "surname": "Lathia"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Rasmussen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Q", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Bartkova"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MH", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Moudry"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Bartek", 
+                        "suffix": "Jnr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Fischer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Lukas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JN", 
+                        "surname": "Rich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Bartek"
+                    }
+                ]
+            }
         }, 
-        "bib23": {
-            "source": "Cell", 
-            "doi": "10.1016/S0092-8674(00)80535-8", 
-            "year": "1997", 
-            "title": "Neuropilin is a semaphorin III receptor", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AL", 
-                    "surname": "Kolodkin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DV", 
-                    "surname": "Levengood"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EG", 
-                    "surname": "Rowe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YT", 
-                    "surname": "Tai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RJ", 
-                    "surname": "Giger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Ginty"
-                }
-            ]
+        {
+            "bib15": {
+                "source": "Cell", 
+                "doi": "10.1016/S0092-8674(00)80534-6", 
+                "year": "1997", 
+                "title": "Neuropilin is a receptor for the axonal chemorepellent Semaphorin III", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "He"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tessier-Lavigne"
+                    }
+                ]
+            }
         }, 
-        "bib24": {
-            "source": "Developmental Cell", 
-            "doi": "10.1016/j.devcel.2013.03.019", 
-            "year": "2013", 
-            "title": "The neuropilin 1 cytoplasmic domain is required for VEGF-A-dependent arteriogenesis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Lanahan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Fantin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Zhuang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Rivera-Molina"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Speichinger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Prahst"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Davis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Toomre"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Ruhrberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Simons"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Molecular Biology of the Cell", 
+                "doi": "10.1091/mbc.E09-12-1061", 
+                "year": "2011", 
+                "title": "VEGF binding to NRP1 is essential for VEGF stimulation of endothelial cell migration, complex formation between NRP1 and VEGFR2, and signaling via FAK Tyr407 phosphorylation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Herzog"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Pellet-Many"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Britton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Hartzoulakis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IC", 
+                        "surname": "Zachary"
+                    }
+                ]
+            }
         }, 
-        "bib25": {
-            "source": "The Journal of Clinical Investigation", 
-            "doi": "10.1172/JCI200419383", 
-            "year": "2004", 
-            "title": "Soluble VEGF isoforms are essential for establishing epiphyseal vascularization and regulating chondrocyte development and survival", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Maes"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Stockmans"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Moermans"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Van Looveren"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Smets"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Carmeliet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Bouillon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Carmeliet"
-                }
-            ]
+        {
+            "bib17": {
+                "source": "Cellular Signalling", 
+                "doi": "10.1016/j.cellsig.2007.11.009", 
+                "year": "2008", 
+                "title": "Vascular endothelial growth factor regulates stanniocalcin-1 expression via neuropilin-1-dependent regulation of KDR and synergism with fibroblast growth factor-2", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DIR", 
+                        "surname": "Holmes"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IC", 
+                        "surname": "Zachary"
+                    }
+                ]
+            }
         }, 
-        "bib26": {
-            "source": "Developmental Biology", 
-            "doi": "10.1006/dbio.1999.9355", 
-            "year": "1999", 
-            "title": "Multiple developmental roles of VEGF suggested by a LacZ-tagged allele", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Miquerol"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Gertsenstein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Harpal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Rossant"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Nagy"
-                }
-            ]
+        {
+            "bib18": {
+                "source": "Thrombosis and Haemostasis", 
+                "year": "1997", 
+                "title": "Angiogenesis: a dynamic balance of stimulators and inhibitors", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "ML", 
+                        "surname": "Iruela-Arispe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HF", 
+                        "surname": "Dvorak"
+                    }
+                ]
+            }
         }, 
-        "bib27": {
-            "source": "Nature Reviews Molecular Cell Biology", 
-            "doi": "10.1038/nrm1911", 
-            "year": "2006", 
-            "title": "VEGF receptor signalling - in control of vascular function", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AK", 
-                    "surname": "Olsson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Dimberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Kreuger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Claesson-Welsh"
-                }
-            ]
+        {
+            "bib19": {
+                "source": "Cancer Research", 
+                "doi": "10.1158/0008-5472.CAN-07-2737", 
+                "year": "2007", 
+                "title": "The original Pathologische Anatomie Leiden-Endothelium monoclonal antibody recognizes a vascular endothelial growth factor binding site within neuropilin-1", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DE", 
+                        "surname": "Jaalouk"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MG", 
+                        "surname": "Ozawa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Sun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Lahdenranta"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RO", 
+                        "surname": "Schlingemann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Pasqualini"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Arap"
+                    }
+                ]
+            }
         }, 
-        "bib11": {
-            "source": "Science", 
-            "doi": "10.1126/science.8097062", 
-            "year": "1993", 
-            "title": "Regulation of CREB phosphorylation in the suprachiasmatic nucleus by light and a circadian clock", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Ginty"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Kornhauser"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Thompson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Bading"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KE", 
-                    "surname": "Mayo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Takahashi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ME", 
-                    "surname": "Greenberg"
-                }
-            ]
+        {
+            "bib20": {
+                "source": "Development", 
+                "year": "1999", 
+                "title": "A requirement for neuropilin-1 in embryonic vessel formation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Kawasaki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Kitsukawa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Bekku"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Matsuda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Sanbo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Yagi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Fujisawa"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "The Journal of Cell Biology", 
-            "doi": "10.1083/jcb.200903030", 
-            "year": "2009", 
-            "title": "The binding of NCAM to FGFR1 induces a specific cellular response mediated by receptor trafficking", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Francavilla"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Cattaneo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Berezin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Bock"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Ami"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "de Marco"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Christofori"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "U", 
-                    "surname": "Cavallaro"
-                }
-            ]
+        {
+            "bib21": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.2042011", 
+                "year": "2011", 
+                "title": "Semaphorin 3E-Plexin-D1 signaling regulates VEGF function in developmental angiogenesis via a feedback mechanism", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Kim"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WJ", 
+                        "surname": "Oh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Gaiano"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Yoshida"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Gu"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "Developmental Cell", 
-            "doi": "10.1016/S1534-5807(03)00169-2", 
-            "year": "2003", 
-            "title": "Neuropilin-1 conveys semaphorin and VEGF signaling during neural and cardiovascular development", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Gu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ER", 
-                    "surname": "Rodriguez"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DV", 
-                    "surname": "Reimert"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Shu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Fritzsch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LJ", 
-                    "surname": "Richards"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AL", 
-                    "surname": "Kolodkin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Ginty"
-                }
-            ]
+        {
+            "bib22": {
+                "source": "Neuron", 
+                "doi": "10.1016/S0896-6273(00)80392-X", 
+                "year": "1997", 
+                "title": "Neuropilin-semaphorin III/D-mediated chemorepulsive signals play a crucial role in peripheral nerve projection in mice", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Kitsukawa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Shimizu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Sanbo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Hirata"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Taniguchi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Bekku"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Yagi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Fujisawa"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M201681200", 
-            "year": "2002", 
-            "title": "Characterization of neuropilin-1 structural features that confer binding to semaphorin 3A and vascular endothelial growth factor 165", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Gu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BJ", 
-                    "surname": "Limberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GB", 
-                    "surname": "Whitaker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Perman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Leahy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Rosenbaum"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Ginty"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AL", 
-                    "surname": "Kolodkin"
-                }
-            ]
+        {
+            "bib23": {
+                "source": "Cell", 
+                "doi": "10.1016/S0092-8674(00)80535-8", 
+                "year": "1997", 
+                "title": "Neuropilin is a semaphorin III receptor", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AL", 
+                        "surname": "Kolodkin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DV", 
+                        "surname": "Levengood"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EG", 
+                        "surname": "Rowe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YT", 
+                        "surname": "Tai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RJ", 
+                        "surname": "Giger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Ginty"
+                    }
+                ]
+            }
         }, 
-        "bib15": {
-            "source": "Cell", 
-            "doi": "10.1016/S0092-8674(00)80534-6", 
-            "year": "1997", 
-            "title": "Neuropilin is a receptor for the axonal chemorepellent Semaphorin III", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "He"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tessier-Lavigne"
-                }
-            ]
+        {
+            "bib24": {
+                "source": "Developmental Cell", 
+                "doi": "10.1016/j.devcel.2013.03.019", 
+                "year": "2013", 
+                "title": "The neuropilin 1 cytoplasmic domain is required for VEGF-A-dependent arteriogenesis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Lanahan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Fantin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Zhuang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Rivera-Molina"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Speichinger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Prahst"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Davis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Toomre"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Ruhrberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Simons"
+                    }
+                ]
+            }
         }, 
-        "bib14": {
-            "source": "The Journal of Experimental Medicine", 
-            "doi": "10.1084/jem.20111424", 
-            "year": "2012", 
-            "title": "Autocrine VEGF-VEGFR2-Neuropilin-1 signaling promotes glioma stem-like cell viability and tumor growth", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Hamerlik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JD", 
-                    "surname": "Lathia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Rasmussen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Q", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Bartkova"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MH", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Moudry"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Bartek", 
-                    "suffix": "Jnr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Fischer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Lukas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JN", 
-                    "surname": "Rich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Bartek"
-                }
-            ]
+        {
+            "bib25": {
+                "source": "The Journal of Clinical Investigation", 
+                "doi": "10.1172/JCI200419383", 
+                "year": "2004", 
+                "title": "Soluble VEGF isoforms are essential for establishing epiphyseal vascularization and regulating chondrocyte development and survival", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Maes"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Stockmans"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Moermans"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Van Looveren"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Smets"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Carmeliet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Bouillon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Carmeliet"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Cellular Signalling", 
-            "doi": "10.1016/j.cellsig.2007.11.009", 
-            "year": "2008", 
-            "title": "Vascular endothelial growth factor regulates stanniocalcin-1 expression via neuropilin-1-dependent regulation of KDR and synergism with fibroblast growth factor-2", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DIR", 
-                    "surname": "Holmes"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IC", 
-                    "surname": "Zachary"
-                }
-            ]
+        {
+            "bib26": {
+                "source": "Developmental Biology", 
+                "doi": "10.1006/dbio.1999.9355", 
+                "year": "1999", 
+                "title": "Multiple developmental roles of VEGF suggested by a LacZ-tagged allele", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Miquerol"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Gertsenstein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Harpal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Rossant"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Nagy"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Molecular Biology of the Cell", 
-            "doi": "10.1091/mbc.E09-12-1061", 
-            "year": "2011", 
-            "title": "VEGF binding to NRP1 is essential for VEGF stimulation of endothelial cell migration, complex formation between NRP1 and VEGFR2, and signaling via FAK Tyr407 phosphorylation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Herzog"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Pellet-Many"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Britton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Hartzoulakis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IC", 
-                    "surname": "Zachary"
-                }
-            ]
+        {
+            "bib27": {
+                "source": "Nature Reviews Molecular Cell Biology", 
+                "doi": "10.1038/nrm1911", 
+                "year": "2006", 
+                "title": "VEGF receptor signalling - in control of vascular function", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AK", 
+                        "surname": "Olsson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Dimberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Kreuger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Claesson-Welsh"
+                    }
+                ]
+            }
         }, 
-        "bib19": {
-            "source": "Cancer Research", 
-            "doi": "10.1158/0008-5472.CAN-07-2737", 
-            "year": "2007", 
-            "title": "The original Pathologische Anatomie Leiden-Endothelium monoclonal antibody recognizes a vascular endothelial growth factor binding site within neuropilin-1", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DE", 
-                    "surname": "Jaalouk"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MG", 
-                    "surname": "Ozawa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Lahdenranta"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RO", 
-                    "surname": "Schlingemann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Pasqualini"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Arap"
-                }
-            ]
+        {
+            "bib28": {
+                "source": "Cancer Cell", 
+                "doi": "10.1016/j.ccr.2006.10.018", 
+                "year": "2007", 
+                "title": "Blocking neuropilin-1 function has an additive effect with anti-VEGF to inhibit tumor growth", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Q", 
+                        "surname": "Pan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Chanthery"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WC", 
+                        "surname": "Liang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Stawicki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Mak"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Rathore"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RK", 
+                        "surname": "Tong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Kowalski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SF", 
+                        "surname": "Yee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Pacheco"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Ross"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Cheng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Le Couter"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Plowman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Peale"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AW", 
+                        "surname": "Koch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Bagri"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tessier-Lavigne"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RJ", 
+                        "surname": "Watts"
+                    }
+                ]
+            }
         }, 
-        "bib18": {
-            "source": "Thrombosis and Haemostasis", 
-            "year": "1997", 
-            "title": "Angiogenesis: a dynamic balance of stimulators and inhibitors", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "ML", 
-                    "surname": "Iruela-Arispe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HF", 
-                    "surname": "Dvorak"
-                }
-            ]
+        {
+            "bib29": {
+                "source": "Current Opinion in Genetics & Development", 
+                "doi": "10.1016/S0959-437X(03)00080-7", 
+                "year": "2003", 
+                "title": "Vascular development and patterning: making the right choices", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Rossant"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hirashima"
+                    }
+                ]
+            }
         }, 
-        "bib34": {
-            "source": "Proceedings of the National Academy of Sciences of the USA", 
-            "year": "2007", 
-            "title": "Structural basis for ligand and heparin binding to neuropilin B domains", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CW", 
-                    "surname": "Vander Kooi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Jusino"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Perman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DB", 
-                    "surname": "Neau"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HD", 
-                    "surname": "Bellamy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Leahy"
-                }
-            ]
+        {
+            "bib30": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.242002", 
+                "year": "2002", 
+                "title": "Spatially restricted patterning cues provided by heparin-binding VEGF-A control blood vessel branching morphogenesis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Ruhrberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Gerhardt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Golding"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Watson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Ioannidou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Fujisawa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Betsholtz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DT", 
+                        "surname": "Shima"
+                    }
+                ]
+            }
         }, 
-        "bib33": {
-            "source": "The Journal of Clinical Investigation", 
-            "doi": "10.1172/JCI0214362", 
-            "year": "2002", 
-            "title": "Arteriolar and venular patterning in retinas of mice selectively expressing VEGF isoforms", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Stalmans"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YS", 
-                    "surname": "Ng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Rohan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Fruttiger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Bouch\u00e9"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Yuce"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Fujisawa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Hermans"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Shani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Jansen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Hicklin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Anderson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Gardiner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HP", 
-                    "surname": "Hammes"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Moons"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Dewerchin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Collen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Carmeliet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PA", 
-                    "surname": "D'Amore"
-                }
-            ]
+        {
+            "bib31": {
+                "source": "The EMBO Journal", 
+                "doi": "10.1038/sj.emboj.7601188", 
+                "year": "2006", 
+                "title": "Glycosaminoglycan modification of neuropilin-1 modulates VEGFR2 signaling", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shintani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Takashima"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Asano"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Kato"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Liao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Yamazaki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Tsukamoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Seguchi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Yamamoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Fukushima"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Sugahara"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Kitakaze"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hori"
+                    }
+                ]
+            }
         }, 
-        "bib32": {
-            "source": "Cell", 
-            "doi": "10.1016/S0092-8674(00)81402-6", 
-            "year": "1998", 
-            "title": "Neuropilin-1 is expressed by endothelial and tumor cells as an isoform-specific receptor for vascular endothelial growth factor", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Soker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Takashima"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HQ", 
-                    "surname": "Miao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Neufeld"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Klagsbrun"
-                }
-            ]
+        {
+            "bib32": {
+                "source": "Cell", 
+                "doi": "10.1016/S0092-8674(00)81402-6", 
+                "year": "1998", 
+                "title": "Neuropilin-1 is expressed by endothelial and tumor cells as an isoform-specific receptor for vascular endothelial growth factor", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Soker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Takashima"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HQ", 
+                        "surname": "Miao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Neufeld"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Klagsbrun"
+                    }
+                ]
+            }
         }, 
-        "bib31": {
-            "source": "The EMBO Journal", 
-            "doi": "10.1038/sj.emboj.7601188", 
-            "year": "2006", 
-            "title": "Glycosaminoglycan modification of neuropilin-1 modulates VEGFR2 signaling", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shintani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Takashima"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Asano"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Kato"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Liao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Yamazaki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Tsukamoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Seguchi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Yamamoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Fukushima"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Sugahara"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Kitakaze"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hori"
-                }
-            ]
+        {
+            "bib33": {
+                "source": "The Journal of Clinical Investigation", 
+                "doi": "10.1172/JCI0214362", 
+                "year": "2002", 
+                "title": "Arteriolar and venular patterning in retinas of mice selectively expressing VEGF isoforms", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Stalmans"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YS", 
+                        "surname": "Ng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Rohan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Fruttiger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Bouch\u00e9"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Yuce"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Fujisawa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Hermans"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Shani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Jansen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Hicklin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Anderson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Gardiner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HP", 
+                        "surname": "Hammes"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Moons"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Dewerchin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Collen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Carmeliet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PA", 
+                        "surname": "D'Amore"
+                    }
+                ]
+            }
         }, 
-        "bib30": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.242002", 
-            "year": "2002", 
-            "title": "Spatially restricted patterning cues provided by heparin-binding VEGF-A control blood vessel branching morphogenesis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Ruhrberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Gerhardt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Golding"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Watson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Ioannidou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Fujisawa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Betsholtz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DT", 
-                    "surname": "Shima"
-                }
-            ]
+        {
+            "bib34": {
+                "source": "Proceedings of the National Academy of Sciences of the USA", 
+                "year": "2007", 
+                "title": "Structural basis for ligand and heparin binding to neuropilin B domains", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CW", 
+                        "surname": "Vander Kooi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MA", 
+                        "surname": "Jusino"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Perman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DB", 
+                        "surname": "Neau"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HD", 
+                        "surname": "Bellamy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Leahy"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "Interactions between Neuropilin-1 and VEGFR2, rather than VEGF-Neuropilin-1 binding, underlie Neuropilin-1's critical function in VEGF-mediated vascular development.", 
     "related-articles": [], 
     "elocation-id": "e03720", 
@@ -1827,109 +1894,131 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {
-            "par-8": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "T32 NS007484-12", 
-                "institution": "National Institutes of Health", 
-                "id-type": "FundRef"
+        "funding": [
+            {
+                "par-1": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "R01 NS064583", 
+                    "institution": "National Institutes of Health", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-7": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "R01 HL096384", 
-                "institution": "National Institutes of Health", 
-                "id-type": "FundRef"
+            {
+                "par-2": {
+                    "id": "http://dx.doi.org/10.13039/100006691", 
+                    "award-id": "Alice and Joseph Brooks Fund Postdoctoral Fellowship", 
+                    "institution": "Harvard Medical School", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-6": {
-                "id": "http://dx.doi.org/10.13039/100006691", 
-                "award-id": "Genise Goldenson Research Fund", 
-                "institution": "Harvard Medical School", 
-                "id-type": "FundRef"
+            {
+                "par-3": {
+                    "id": "http://dx.doi.org/10.13039/100006691", 
+                    "award-id": "Harvard Mahoney Neuroscience Institute Fund Postdoctoral Fellowship", 
+                    "institution": "Harvard Medical School", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-5": {
-                "id": "http://dx.doi.org/10.13039/100006781", 
-                "award-id": "Armenise Junior Faculty Award", 
-                "institution": "Giovanni Armenise-Harvard Foundation", 
-                "id-type": "FundRef"
+            {
+                "par-4": {
+                    "id": "http://dx.doi.org/10.13039/100000879", 
+                    "award-id": "Sloan Research Fellowships", 
+                    "institution": "Alfred P. Sloan Foundation", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-4": {
-                "id": "http://dx.doi.org/10.13039/100000879", 
-                "award-id": "Sloan Research Fellowships", 
-                "institution": "Alfred P. Sloan Foundation", 
-                "id-type": "FundRef"
+            {
+                "par-5": {
+                    "id": "http://dx.doi.org/10.13039/100006781", 
+                    "award-id": "Armenise Junior Faculty Award", 
+                    "institution": "Giovanni Armenise-Harvard Foundation", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-3": {
-                "id": "http://dx.doi.org/10.13039/100006691", 
-                "award-id": "Harvard Mahoney Neuroscience Institute Fund Postdoctoral Fellowship", 
-                "institution": "Harvard Medical School", 
-                "id-type": "FundRef"
+            {
+                "par-6": {
+                    "id": "http://dx.doi.org/10.13039/100006691", 
+                    "award-id": "Genise Goldenson Research Fund", 
+                    "institution": "Harvard Medical School", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-2": {
-                "id": "http://dx.doi.org/10.13039/100006691", 
-                "award-id": "Alice and Joseph Brooks Fund Postdoctoral Fellowship", 
-                "institution": "Harvard Medical School", 
-                "id-type": "FundRef"
+            {
+                "par-7": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "R01 HL096384", 
+                    "institution": "National Institutes of Health", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "R01 NS064583", 
-                "institution": "National Institutes of Health", 
-                "id-type": "FundRef"
+            {
+                "par-8": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "T32 NS007484-12", 
+                    "institution": "National Institutes of Health", 
+                    "id-type": "FundRef"
+                }
             }
-        }, 
+        ], 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff7": {
-                "dept": "College of Pharmacy", 
-                "email": null, 
-                "city": "Seoul", 
-                "institution": "Duksung Women's University", 
-                "country": "Republic of Korea"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Neurobiology", 
+                    "city": "Boston", 
+                    "institution": "Harvard Medical School", 
+                    "country": "United States"
+                }
             }, 
-            "aff6": {
-                "dept": "Department of Cancer Biology", 
-                "email": null, 
-                "city": "Boston", 
-                "institution": "Dana-Farber Cancer Institute, Harvard Medical School", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "country": "Republic of Korea", 
+                    "institution": "Korea Brain Research Institute", 
+                    "city": "Daegu"
+                }
             }, 
-            "aff5": {
-                "dept": "Department of Medical Oncology", 
-                "email": null, 
-                "city": "Boston", 
-                "institution": "Dana-Farber Cancer Institute, Harvard Medical School", 
-                "country": "United States"
+            {
+                "aff3": {
+                    "dept": "Vascular Biology Program", 
+                    "city": "Boston", 
+                    "institution": "Boston Children's Hospital, Harvard Medical School", 
+                    "country": "United States"
+                }
             }, 
-            "aff4": {
-                "dept": "Department of Surgery", 
-                "email": null, 
-                "city": "Boston", 
-                "institution": "Boston Children's Hospital, Harvard Medical School", 
-                "country": "United States"
+            {
+                "aff4": {
+                    "dept": "Department of Surgery", 
+                    "city": "Boston", 
+                    "institution": "Boston Children's Hospital, Harvard Medical School", 
+                    "country": "United States"
+                }
             }, 
-            "aff3": {
-                "dept": "Vascular Biology Program", 
-                "email": null, 
-                "city": "Boston", 
-                "institution": "Boston Children's Hospital, Harvard Medical School", 
-                "country": "United States"
+            {
+                "aff5": {
+                    "dept": "Department of Medical Oncology", 
+                    "city": "Boston", 
+                    "institution": "Dana-Farber Cancer Institute, Harvard Medical School", 
+                    "country": "United States"
+                }
             }, 
-            "aff2": {
-                "dept": null, 
-                "email": null, 
-                "city": "Daegu", 
-                "institution": "Korea Brain Research Institute", 
-                "country": "Republic of Korea"
+            {
+                "aff6": {
+                    "dept": "Department of Cancer Biology", 
+                    "city": "Boston", 
+                    "institution": "Dana-Farber Cancer Institute, Harvard Medical School", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Neurobiology", 
-                "email": null, 
-                "city": "Boston", 
-                "institution": "Harvard Medical School", 
-                "country": "United States"
+            {
+                "aff7": {
+                    "dept": "College of Pharmacy", 
+                    "city": "Seoul", 
+                    "institution": "Duksung Women's University", 
+                    "country": "Republic of Korea"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {
             "equal-contrib": "These authors contributed equally to this work"
         }, 
@@ -2091,7 +2180,7 @@
             "title": "Author response"
         }
     ], 
-    "article-id": "10.7554/eLife.03720", 
+    "article-id": "03720", 
     "categories": {
         "heading": [
             "Developmental biology and stem cells"

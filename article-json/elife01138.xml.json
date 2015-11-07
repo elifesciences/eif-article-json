@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Bourne", 
@@ -29,78 +28,88 @@
     ], 
     "pub-date": "2013-07-16", 
     "title": "A recipe for mediocrity and disaster, in five axioms", 
-    "citations": {
-        "bib1": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.00642", 
-            "year": "2013", 
-            "title": "The writing on the wall", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "HR", 
-                    "surname": "Bourne"
-                }
-            ]
+    "citations": [
+        {
+            "bib3": {
+                "source": "Nature", 
+                "doi": "10.1038/489203a", 
+                "year": "2012", 
+                "title": "Well-funded investigators should receive extra scrutiny", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Berg"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Nature", 
-            "doi": "10.1038/489203a", 
-            "year": "2012", 
-            "title": "Well-funded investigators should receive extra scrutiny", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Berg"
-                }
-            ]
+        {
+            "bib1": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.00642", 
+                "year": "2013", 
+                "title": "The writing on the wall", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "HR", 
+                        "surname": "Bourne"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Neuron", 
-            "doi": "10.1016/j.neuron.2009.09.022", 
-            "year": "2009", 
-            "title": "The way biomedical research is organized has dramatically changed over the past half-century: are the changes for the better?", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DH", 
-                    "surname": "Hubel"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "PLOS ONE", 
+                "doi": "10.1371/journal.pone.0065263", 
+                "year": "2013", 
+                "title": "Big science vs. little science: how scientific impact scales with funding", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J-M", 
+                        "surname": "Fortin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Currie"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Science", 
-            "doi": "10.1126/science.340.6139.1394", 
-            "year": "2013", 
-            "title": "How long can the US stay on top?", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Mervis"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Neuron", 
+                "doi": "10.1016/j.neuron.2009.09.022", 
+                "year": "2009", 
+                "title": "The way biomedical research is organized has dramatically changed over the past half-century: are the changes for the better?", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DH", 
+                        "surname": "Hubel"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "PLOS ONE", 
-            "doi": "10.1371/journal.pone.0065263", 
-            "year": "2013", 
-            "title": "Big science vs. little science: how scientific impact scales with funding", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J-M", 
-                    "surname": "Fortin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Currie"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Science", 
+                "doi": "10.1126/science.340.6139.1394", 
+                "year": "2013", 
+                "title": "How long can the US stay on top?", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Mervis"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e01138", 
@@ -124,25 +133,27 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Cellular and Molecular Pharmacology", 
-                "email": "henry.bourne@ucsf.edu", 
-                "city": "San Francisco", 
-                "institution": "University of California at San Francisco", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Cellular and Molecular Pharmacology", 
+                    "email": "henry.bourne@ucsf.edu", 
+                    "city": "San Francisco", 
+                    "institution": "University of California at San Francisco", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/2/e01138v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.01138", 
+    "article-id": "01138", 
     "categories": {
         "sub-display-channel": [
             "Point of view"

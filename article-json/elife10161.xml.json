@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "article-commentary", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -35,313 +34,333 @@
     ], 
     "pub-date": "2015-08-19", 
     "title": "Stressing about misplaced fat is a key to longevity", 
-    "citations": {
-        "bib10": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.07836", 
-            "year": "2015", 
-            "title": "Lipid-mediated regulation of SKN-1/Nrf in response to germ cell absence", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "Steinbaugh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SD", 
-                    "surname": "Narasimhan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Robida-Stubbs"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LE", 
-                    "surname": "Mazzeo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Dreyfuss"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Hourihan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Raghavan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TN", 
-                    "surname": "Opera\u00f1a"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Esmaillie"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TK", 
-                    "surname": "Blackwell"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Bioessays", 
+                "doi": "10.1002/bies.201100189", 
+                "year": "2012", 
+                "title": "The mystery of <italic>C. elegans</italic> aging: an emerging role for fat", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Ackerman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Gems"
+                    }
+                ]
+            }
         }, 
-        "bib9": {
-            "source": "PLOS Genetics", 
-            "doi": "10.1371/journal.pgen.1004829", 
-            "year": "2014", 
-            "title": "Germline signals deploy NHR-49 to modulate fatty-acid \u03b2-Oxidation and desaturation in somatic tissues of <italic>C. elegans</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Ratnappan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FR", 
-                    "surname": "Amrit"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SW", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Gill"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Holden"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ward"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KR", 
-                    "surname": "Yamamoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CP", 
-                    "surname": "Olsen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Ghazi"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Science", 
+                "doi": "10.1126/science.1258857", 
+                "year": "2015", 
+                "title": "Lysosomal signaling molecules regulate longevity in <italic>Caenorhabditis elegans</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Folick"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HD", 
+                        "surname": "Oakley"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Yu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EH", 
+                        "surname": "Armstrong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Kumari"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Sanor"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DD", 
+                        "surname": "Moore"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EA", 
+                        "surname": "Ortlund"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Zechner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MC", 
+                        "surname": "Wang"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Trends in Endocrinology and Metabolism", 
-            "doi": "10.1016/j.tem.2012.07.007", 
-            "year": "2012", 
-            "title": "Lessons from <italic>C. elegans</italic>: signaling pathways for longevity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "LR", 
-                    "surname": "Lapierre"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hansen"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "PLOS Biology", 
+                "doi": "10.1371/journal.pbio.1000599", 
+                "year": "2011", 
+                "title": "Fatty acid desaturation links germ cell loss to longevity through NHR-80/HNF4 in <italic>C. elegans</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Goudeau"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Bellemin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Toselli-Mollereau"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Shamalnasab"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Aguilaniu"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "Bioessays", 
-            "doi": "10.1002/bies.201100189", 
-            "year": "2012", 
-            "title": "The mystery of <italic>C. elegans</italic> aging: an emerging role for fat", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Ackerman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Gems"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Molecular Biology of the Cell", 
+                "doi": "10.1091/mbc.10.12.4311", 
+                "year": "1999", 
+                "title": "Receptor-mediated endocytosis in the <italic>Caenorhabditis elegans</italic> oocyte", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Grant"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Hirsh"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "PLOS Biology", 
-            "doi": "10.1371/journal.pbio.1000599", 
-            "year": "2011", 
-            "title": "Fatty acid desaturation links germ cell loss to longevity through NHR-80/HNF4 in <italic>C. elegans</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Goudeau"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Bellemin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Toselli-Mollereau"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Shamalnasab"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Aguilaniu"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Nature", 
+                "doi": "10.1038/20694", 
+                "year": "1999", 
+                "title": "Signals from the reproductive system regulate the lifespan of <italic>C. elegans</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Hsin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Kenyon"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Science", 
-            "doi": "10.1126/science.1258857", 
-            "year": "2015", 
-            "title": "Lysosomal signaling molecules regulate longevity in <italic>Caenorhabditis elegans</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Folick"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HD", 
-                    "surname": "Oakley"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Yu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EH", 
-                    "surname": "Armstrong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Kumari"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Sanor"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DD", 
-                    "surname": "Moore"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EA", 
-                    "surname": "Ortlund"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Zechner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MC", 
-                    "surname": "Wang"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Developmental Dynamics", 
+                "doi": "10.1002/dvdy.21335", 
+                "year": "2007", 
+                "title": "<italic>Caenorhabditis elegans</italic> germ line: a model for stem cell biology", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "EJ", 
+                        "surname": "Hubbard"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Nature", 
-            "doi": "10.1038/20694", 
-            "year": "1999", 
-            "title": "Signals from the reproductive system regulate the lifespan of <italic>C. elegans</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Hsin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Kenyon"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Nature", 
+                "doi": "10.1038/nature08980", 
+                "year": "2010", 
+                "title": "The genetics of ageing", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CJ", 
+                        "surname": "Kenyon"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Molecular Biology of the Cell", 
-            "doi": "10.1091/mbc.10.12.4311", 
-            "year": "1999", 
-            "title": "Receptor-mediated endocytosis in the <italic>Caenorhabditis elegans</italic> oocyte", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Grant"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Hirsh"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Trends in Endocrinology and Metabolism", 
+                "doi": "10.1016/j.tem.2012.07.007", 
+                "year": "2012", 
+                "title": "Lessons from <italic>C. elegans</italic>: signaling pathways for longevity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "LR", 
+                        "surname": "Lapierre"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hansen"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Nature", 
-            "doi": "10.1038/nature08980", 
-            "year": "2010", 
-            "title": "The genetics of ageing", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CJ", 
-                    "surname": "Kenyon"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "PLOS Genetics", 
+                "doi": "10.1371/journal.pgen.1004829", 
+                "year": "2014", 
+                "title": "Germline signals deploy NHR-49 to modulate fatty-acid \u03b2-Oxidation and desaturation in somatic tissues of <italic>C. elegans</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Ratnappan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FR", 
+                        "surname": "Amrit"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SW", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Gill"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Holden"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ward"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KR", 
+                        "surname": "Yamamoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CP", 
+                        "surname": "Olsen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Ghazi"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Developmental Dynamics", 
-            "doi": "10.1002/dvdy.21335", 
-            "year": "2007", 
-            "title": "<italic>Caenorhabditis elegans</italic> germ line: a model for stem cell biology", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "EJ", 
-                    "surname": "Hubbard"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.07836", 
+                "year": "2015", 
+                "title": "Lipid-mediated regulation of SKN-1/Nrf in response to germ cell absence", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "Steinbaugh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SD", 
+                        "surname": "Narasimhan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Robida-Stubbs"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LE", 
+                        "surname": "Mazzeo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Dreyfuss"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Hourihan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Raghavan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TN", 
+                        "surname": "Opera\u00f1a"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Esmaillie"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TK", 
+                        "surname": "Blackwell"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [
         {
@@ -373,32 +392,35 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Physiology", 
-                "email": "kaveh.ashrafi@ucsf.edu", 
-                "city": "San Francisco", 
-                "institution": "University of California", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Physiology", 
+                    "city": "San Francisco", 
+                    "institution": "University of California", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Physiology", 
-                "email": null, 
-                "city": "San Francisco", 
-                "institution": "University of California", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "Department of Physiology", 
+                    "email": "kaveh.ashrafi@ucsf.edu", 
+                    "city": "San Francisco", 
+                    "institution": "University of California", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e10161v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.10161", 
+    "article-id": "10161", 
     "categories": {
         "sub-display-channel": [
             "Aging"

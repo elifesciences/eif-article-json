@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Vivanco", 
@@ -198,1725 +197,1773 @@
     ], 
     "pub-date": "2014-12-31", 
     "title": "A kinase-independent function of AKT promotes cancer cell survival", 
-    "citations": {
-        "bib9": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.0914018107", 
-            "year": "2010", 
-            "title": "Genetic inactivation of AKT1, AKT2, and PDPK1 in human colorectal cancer cells clarifies their roles in tumor growth regulation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Ericson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Gan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Cheong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Rago"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Samuels"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VE", 
-                    "surname": "Velculescu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KW", 
-                    "surname": "Kinzler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DL", 
-                    "surname": "Huso"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Vogelstein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Papadopoulos"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Cancer Research", 
+                "year": "1992", 
+                "title": "Growth of human melanocyte cultures supported by 12-O-tetradecanoylphorbol-13-acetate is mediated through protein kinase C activation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Arita"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KR", 
+                        "surname": "O'Driscoll"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IB", 
+                        "surname": "Weinstein"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Nature Reviews Cancer", 
-            "doi": "10.1038/nrc2664", 
-            "year": "2009", 
-            "title": "Targeting PI3K signalling in cancer: opportunities, challenges and limitations", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Engelman"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Nature", 
+                "doi": "10.1038/nature11003", 
+                "year": "2012", 
+                "title": "The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Barretina"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Caponigro"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Stransky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Venkatesan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AA", 
+                        "surname": "Margolin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Kim"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CJ", 
+                        "surname": "Wilson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Leh\u00e1r"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GV", 
+                        "surname": "Kryukov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Sonkin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Reddy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Liu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Murray"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MF", 
+                        "surname": "Berger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JE", 
+                        "surname": "Monahan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Morais"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Meltzer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Korejwa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Jan\u00e9-Valbuena"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FA", 
+                        "surname": "Mapa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Thibault"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Bric-Furlong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Raman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Shipway"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IH", 
+                        "surname": "Engels"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Cheng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GK", 
+                        "surname": "Yu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Yu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Aspesi", 
+                        "suffix": "Jr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "de Silva"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Jagtap"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MD", 
+                        "surname": "Jones"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Hatton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Palescandolo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Gupta"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Mahan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Sougnez"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RC", 
+                        "surname": "Onofrio"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Liefeld"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "MacConaill"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Winckler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Reich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JP", 
+                        "surname": "Mesirov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SB", 
+                        "surname": "Gabriel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Getz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Ardlie"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Chan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VE", 
+                        "surname": "Myer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BL", 
+                        "surname": "Weber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Porter"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Warmuth"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Finan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JL", 
+                        "surname": "Harris"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Meyerson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TR", 
+                        "surname": "Golub"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MP", 
+                        "surname": "Morrissey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WR", 
+                        "surname": "Sellers"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Schlegel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LA", 
+                        "surname": "Garraway"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "Cancer Research", 
-            "year": "1992", 
-            "title": "Growth of human melanocyte cultures supported by 12-O-tetradecanoylphorbol-13-acetate is mediated through protein kinase C activation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Arita"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KR", 
-                    "surname": "O'Driscoll"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IB", 
-                    "surname": "Weinstein"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "PLOS Biology", 
+                "doi": "10.1371/journal.pbio.1000017", 
+                "year": "2009", 
+                "title": "Role of a novel PH-kinase domain interface in PKB/Akt regulation: structural mechanism for allosteric inhibition", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Calleja"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Laguerre"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PJ", 
+                        "surname": "Parker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Larijani"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "PLOS Biology", 
-            "doi": "10.1371/journal.pbio.1000017", 
-            "year": "2009", 
-            "title": "Role of a novel PH-kinase domain interface in PKB/Akt regulation: structural mechanism for allosteric inhibition", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Calleja"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Laguerre"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PJ", 
-                    "surname": "Parker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Larijani"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Nature", 
+                "doi": "10.1038/nature05933", 
+                "year": "2007", 
+                "title": "A transforming mutation in the pleckstrin homology domain of AKT1 in cancer", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JD", 
+                        "surname": "Carpten"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AL", 
+                        "surname": "Faber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Horn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GP", 
+                        "surname": "Donoho"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SL", 
+                        "surname": "Briggs"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Robbins"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Hostetter"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Boguslawski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TY", 
+                        "surname": "Moses"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Savage"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Uhlik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Lin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Du"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YW", 
+                        "surname": "Qian"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Zeckner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Tucker-Kellogg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Touchman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Patel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Mousses"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Bittner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Schevitz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MH", 
+                        "surname": "Lai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KL", 
+                        "surname": "Blanchard"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JE", 
+                        "surname": "Thomas"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Nature", 
-            "doi": "10.1038/nature11003", 
-            "year": "2012", 
-            "title": "The Cancer Cell Line Encyclopedia enables predictive modelling of anticancer drug sensitivity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Barretina"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Caponigro"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Stransky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Venkatesan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AA", 
-                    "surname": "Margolin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Kim"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CJ", 
-                    "surname": "Wilson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Leh\u00e1r"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GV", 
-                    "surname": "Kryukov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Sonkin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Reddy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Liu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Murray"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MF", 
-                    "surname": "Berger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JE", 
-                    "surname": "Monahan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Morais"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Meltzer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Korejwa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Jan\u00e9-Valbuena"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FA", 
-                    "surname": "Mapa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Thibault"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Bric-Furlong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Raman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Shipway"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IH", 
-                    "surname": "Engels"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Cheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GK", 
-                    "surname": "Yu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Yu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Aspesi", 
-                    "suffix": "Jr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "de Silva"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Jagtap"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MD", 
-                    "surname": "Jones"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Hatton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Palescandolo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Gupta"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Mahan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Sougnez"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RC", 
-                    "surname": "Onofrio"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Liefeld"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "MacConaill"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Winckler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Reich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JP", 
-                    "surname": "Mesirov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SB", 
-                    "surname": "Gabriel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Getz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Ardlie"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Chan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VE", 
-                    "surname": "Myer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BL", 
-                    "surname": "Weber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Porter"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Warmuth"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Finan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JL", 
-                    "surname": "Harris"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Meyerson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TR", 
-                    "surname": "Golub"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MP", 
-                    "surname": "Morrissey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WR", 
-                    "surname": "Sellers"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Schlegel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LA", 
-                    "surname": "Garraway"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1109879108", 
+                "year": "2011", 
+                "title": "Resistance of Akt kinases to dephosphorylation through ATP-dependent conformational plasticity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "TO", 
+                        "surname": "Chan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "U", 
+                        "surname": "Rodeck"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Pascal"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RS", 
+                        "surname": "Armen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Spring"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CD", 
+                        "surname": "Dumitru"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Myers"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JY", 
+                        "surname": "Cheung"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AM", 
+                        "surname": "Feldman"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1109879108", 
-            "year": "2011", 
-            "title": "Resistance of Akt kinases to dephosphorylation through ATP-dependent conformational plasticity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "TO", 
-                    "surname": "Chan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "U", 
-                    "surname": "Rodeck"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Pascal"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RS", 
-                    "surname": "Armen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Spring"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CD", 
-                    "surname": "Dumitru"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Myers"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JY", 
-                    "surname": "Cheung"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AM", 
-                    "surname": "Feldman"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Cancer Cell", 
+                "doi": "10.1016/j.ccr.2010.10.031", 
+                "year": "2011", 
+                "title": "AKT inhibition relieves feedback suppression of receptor tyrosine kinase expression and activity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Chandarlapaty"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Sawai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Scaltriti"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Rodrik-Outmezguine"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Grbovic-Huezo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Serra"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PK", 
+                        "surname": "Majumder"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Baselga"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Rosen"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Nature", 
-            "doi": "10.1038/nature05933", 
-            "year": "2007", 
-            "title": "A transforming mutation in the pleckstrin homology domain of AKT1 in cancer", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JD", 
-                    "surname": "Carpten"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AL", 
-                    "surname": "Faber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Horn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GP", 
-                    "surname": "Donoho"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SL", 
-                    "surname": "Briggs"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Robbins"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Hostetter"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Boguslawski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TY", 
-                    "surname": "Moses"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Savage"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Uhlik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Lin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Du"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YW", 
-                    "surname": "Qian"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Zeckner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Tucker-Kellogg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Touchman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Patel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Mousses"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Bittner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Schevitz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MH", 
-                    "surname": "Lai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KL", 
-                    "surname": "Blanchard"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JE", 
-                    "surname": "Thomas"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.0409773102", 
+                "year": "2005", 
+                "title": "ErbB-3 mediates phosphoinositide 3-kinase activity in gefitinib-sensitive non-small cell lung cancer cell lines", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Engelman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PA", 
+                        "surname": "J\u00e4nne"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Mermel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Pearlberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Mukohara"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Fleet"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Cichowski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BE", 
+                        "surname": "Johnson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LC", 
+                        "surname": "Cantley"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.0409773102", 
-            "year": "2005", 
-            "title": "ErbB-3 mediates phosphoinositide 3-kinase activity in gefitinib-sensitive non-small cell lung cancer cell lines", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Engelman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PA", 
-                    "surname": "J\u00e4nne"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Mermel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Pearlberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Mukohara"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Fleet"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Cichowski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BE", 
-                    "surname": "Johnson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LC", 
-                    "surname": "Cantley"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Nature Reviews Cancer", 
+                "doi": "10.1038/nrc2664", 
+                "year": "2009", 
+                "title": "Targeting PI3K signalling in cancer: opportunities, challenges and limitations", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Engelman"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Cancer Cell", 
-            "doi": "10.1016/j.ccr.2010.10.031", 
-            "year": "2011", 
-            "title": "AKT inhibition relieves feedback suppression of receptor tyrosine kinase expression and activity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Chandarlapaty"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Sawai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Scaltriti"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Rodrik-Outmezguine"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Grbovic-Huezo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Serra"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PK", 
-                    "surname": "Majumder"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Baselga"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Rosen"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.0914018107", 
+                "year": "2010", 
+                "title": "Genetic inactivation of AKT1, AKT2, and PDPK1 in human colorectal cancer cells clarifies their roles in tumor growth regulation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Ericson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Gan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Cheong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Rago"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Samuels"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VE", 
+                        "surname": "Velculescu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KW", 
+                        "surname": "Kinzler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DL", 
+                        "surname": "Huso"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Vogelstein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Papadopoulos"
+                    }
+                ]
+            }
         }, 
-        "bib20": {
-            "source": "Cancer Research", 
-            "doi": "10.1158/0008-5472.CAN-07-5783", 
-            "year": "2008", 
-            "title": "Characterization of an Akt kinase inhibitor with potent pharmacodynamic and antitumor activity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Rhodes"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DA", 
-                    "surname": "Heerding"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Duckett"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Eberwein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VB", 
-                    "surname": "Knick"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TJ", 
-                    "surname": "Lansing"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RT", 
-                    "surname": "McConnell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TM", 
-                    "surname": "Gilmer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SY", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Robell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Kahana"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RS", 
-                    "surname": "Geske"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EV", 
-                    "surname": "Kleymenova"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AE", 
-                    "surname": "Choudhry"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Lai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JD", 
-                    "surname": "Leber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EA", 
-                    "surname": "Minthorn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SL", 
-                    "surname": "Strum"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ER", 
-                    "surname": "Wood"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PS", 
-                    "surname": "Huang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RA", 
-                    "surname": "Copeland"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Kumar"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "Cell", 
+                "doi": "10.1016/0092-8674(95)90534-0", 
+                "year": "1995", 
+                "title": "The protein kinase encoded by the Akt proto-oncogene is a target of the PDGF-activated phosphatidylinositol 3-kinase", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "TF", 
+                        "surname": "Franke"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SI", 
+                        "surname": "Yang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TO", 
+                        "surname": "Chan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Datta"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Kazlauskas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DK", 
+                        "surname": "Morrison"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Kaplan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PN", 
+                        "surname": "Tsichlis"
+                    }
+                ]
+            }
         }, 
-        "bib21": {
-            "source": "PLOS ONE", 
-            "doi": "10.1371/journal.pone.0003065", 
-            "year": "2008", 
-            "title": "Breast tumor cells with PI3K mutation or HER2 amplification are selectively addicted to Akt signaling", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "QB", 
-                    "surname": "She"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Chandarlapaty"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Q", 
-                    "surname": "Ye"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Lobo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "Haskell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KR", 
-                    "surname": "Leander"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "DeFeo-Jones"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HE", 
-                    "surname": "Huber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Rosen"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Nature Reviews Cancer", 
+                "doi": "10.1038/nrc3205", 
+                "year": "2012", 
+                "title": "Targeting MET in cancer: rationale and progress", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Gherardi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Birchmeier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Birchmeier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Vande Woude"
+                    }
+                ]
+            }
         }, 
-        "bib22": {
-            "source": "Science", 
-            "doi": "10.1126/science.279.5351.710", 
-            "year": "1998", 
-            "title": "Protein kinase B kinases that mediate phosphatidylinositol 3,4,5-trisphosphate-dependent activation of protein kinase B", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Stephens"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Anderson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Stokoe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Erdjument-Bromage"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GF", 
-                    "surname": "Painter"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AB", 
-                    "surname": "Holmes"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PR", 
-                    "surname": "Gaffney"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CB", 
-                    "surname": "Reese"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "McCormick"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Tempst"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Coadwell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PT", 
-                    "surname": "Hawkins"
-                }
-            ]
+        {
+            "bib12": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M802623200", 
+                "year": "2008", 
+                "title": "Use of Akt inhibitor and a drug-resistant mutant validates a critical role for protein kinase B/Akt in the insulin-dependent regulation of glucose and system A amino acid uptake", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CJ", 
+                        "surname": "Green"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "G\u00f6ransson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GS", 
+                        "surname": "Kular"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NR", 
+                        "surname": "Leslie"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Gray"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Alessi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Sakamoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HS", 
+                        "surname": "Hundal"
+                    }
+                ]
+            }
         }, 
-        "bib23": {
-            "source": "Current Biology", 
-            "doi": "10.1016/S0960-9822(02)00972-7", 
-            "year": "2002", 
-            "title": "High-resolution structure of the pleckstrin homology domain of protein kinase b/akt bound to phosphatidylinositol (3,4,5)-trisphosphate", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CC", 
-                    "surname": "Thomas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Deak"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Alessi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DM", 
-                    "surname": "van Aalten"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "Journal of Medicinal Chemistry", 
+                "doi": "10.1021/jm8004527", 
+                "year": "2008", 
+                "title": "Identification of 4-(2-(4-amino-1,2,5-oxadiazol-3-yl)-1-ethyl-7-{[(3S)-3-piperidinylmethyl]oxy}-1H- imidazo[4,5-c]pyridin-4-yl)-2-methyl-3-butyn-2-ol (GSK690693), a novel inhibitor of AKT kinase", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DA", 
+                        "surname": "Heerding"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Rhodes"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JD", 
+                        "surname": "Leber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TJ", 
+                        "surname": "Clark"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RM", 
+                        "surname": "Keenan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LV", 
+                        "surname": "Lafrance"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "IG", 
+                        "surname": "Safonov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DT", 
+                        "surname": "Takata"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JW", 
+                        "surname": "Venslavsky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DS", 
+                        "surname": "Yamashita"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AE", 
+                        "surname": "Choudhry"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RA", 
+                        "surname": "Copeland"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Lai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MD", 
+                        "surname": "Schaber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PJ", 
+                        "surname": "Tummino"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SL", 
+                        "surname": "Strum"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ER", 
+                        "surname": "Wood"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Duckett"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Eberwein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VB", 
+                        "surname": "Knick"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TJ", 
+                        "surname": "Lansing"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RT", 
+                        "surname": "McConnell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EA", 
+                        "surname": "Minthorn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NO", 
+                        "surname": "Concha"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GL", 
+                        "surname": "Warren"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Kumar"
+                    }
+                ]
+            }
         }, 
-        "bib24": {
-            "source": "PLOS ONE", 
-            "doi": "10.1371/journal.pone.0012913", 
-            "year": "2010", 
-            "title": "Crystal structure of human AKT1 with an allosteric inhibitor reveals a new mode of kinase inhibition", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "WI", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WC", 
-                    "surname": "Voegtli"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HL", 
-                    "surname": "Sturgis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FP", 
-                    "surname": "Dizon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GP", 
-                    "surname": "Vigers"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BJ", 
-                    "surname": "Brandhuber"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "Molecular Cancer Therapeutics", 
+                "doi": "10.1158/1535-7163.MCT-09-1012", 
+                "year": "2010", 
+                "title": "MK-2206, an allosteric Akt inhibitor, enhances antitumor efficacy by standard chemotherapeutic agents or molecular targeted drugs in vitro and in vivo", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Hirai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Sootome"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Nakatsuru"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Miyama"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Taguchi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Tsujioka"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Ueno"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Hatch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PK", 
+                        "surname": "Majumder"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BS", 
+                        "surname": "Pan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Kotani"
+                    }
+                ]
+            }
         }, 
-        "bib11": {
-            "source": "Nature Reviews Cancer", 
-            "doi": "10.1038/nrc3205", 
-            "year": "2012", 
-            "title": "Targeting MET in cancer: rationale and progress", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Gherardi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Birchmeier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Birchmeier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Vande Woude"
-                }
-            ]
+        {
+            "bib15": {
+                "source": "Biochemistry", 
+                "doi": "10.1021/bi801683k", 
+                "year": "2008", 
+                "title": "Molecular mechanism of an oncogenic mutation that alters membrane targeting: Glu17Lys modifies the PIP lipid specificity of the AKT1 PH domain", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KE", 
+                        "surname": "Landgraf"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Pilling"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JJ", 
+                        "surname": "Falke"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "Cell", 
-            "doi": "10.1016/0092-8674(95)90534-0", 
-            "year": "1995", 
-            "title": "The protein kinase encoded by the Akt proto-oncogene is a target of the PDGF-activated phosphatidylinositol 3-kinase", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "TF", 
-                    "surname": "Franke"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SI", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TO", 
-                    "surname": "Chan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Datta"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Kazlauskas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DK", 
-                    "surname": "Morrison"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Kaplan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PN", 
-                    "surname": "Tsichlis"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Clinical Cancer Research", 
+                "doi": "10.1158/1078-0432.CCR-12-3072", 
+                "year": "2013", 
+                "title": "Targeting activated Akt with GDC-0068, a novel selective Akt inhibitor that is efficacious in multiple tumor models", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Lin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Sampath"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MA", 
+                        "surname": "Nannini"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BB", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Degtyarev"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Oeh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Savage"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Guan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Hong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Kassees"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LB", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Risom"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Gross"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BM", 
+                        "surname": "Liederer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Koeppen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NJ", 
+                        "surname": "Skelton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JJ", 
+                        "surname": "Wallin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Belvin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Punnoose"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LS", 
+                        "surname": "Friedman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Lin"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "Journal of Medicinal Chemistry", 
-            "doi": "10.1021/jm8004527", 
-            "year": "2008", 
-            "title": "Identification of 4-(2-(4-amino-1,2,5-oxadiazol-3-yl)-1-ethyl-7-{[(3S)-3-piperidinylmethyl]oxy}-1H- imidazo[4,5-c]pyridin-4-yl)-2-methyl-3-butyn-2-ol (GSK690693), a novel inhibitor of AKT kinase", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DA", 
-                    "surname": "Heerding"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Rhodes"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JD", 
-                    "surname": "Leber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TJ", 
-                    "surname": "Clark"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RM", 
-                    "surname": "Keenan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LV", 
-                    "surname": "Lafrance"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "IG", 
-                    "surname": "Safonov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DT", 
-                    "surname": "Takata"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JW", 
-                    "surname": "Venslavsky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DS", 
-                    "surname": "Yamashita"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AE", 
-                    "surname": "Choudhry"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RA", 
-                    "surname": "Copeland"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Lai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MD", 
-                    "surname": "Schaber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PJ", 
-                    "surname": "Tummino"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SL", 
-                    "surname": "Strum"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ER", 
-                    "surname": "Wood"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Duckett"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Eberwein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VB", 
-                    "surname": "Knick"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TJ", 
-                    "surname": "Lansing"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RT", 
-                    "surname": "McConnell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EA", 
-                    "surname": "Minthorn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NO", 
-                    "surname": "Concha"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GL", 
-                    "surname": "Warren"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Kumar"
-                }
-            ]
+        {
+            "bib17": {
+                "source": "Nature Chemical Biology", 
+                "doi": "10.1038/nchembio.183", 
+                "year": "2009", 
+                "title": "Inhibitor hijacking of Akt activation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Okuzumi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Fiedler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DC", 
+                        "surname": "Gray"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Aizenstein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Hoffman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "Shokat"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M802623200", 
-            "year": "2008", 
-            "title": "Use of Akt inhibitor and a drug-resistant mutant validates a critical role for protein kinase B/Akt in the insulin-dependent regulation of glucose and system A amino acid uptake", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CJ", 
-                    "surname": "Green"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "G\u00f6ransson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GS", 
-                    "surname": "Kular"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NR", 
-                    "surname": "Leslie"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Gray"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Alessi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Sakamoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HS", 
-                    "surname": "Hundal"
-                }
-            ]
+        {
+            "bib18": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.1204384109", 
+                "year": "2012", 
+                "title": "Disruption of PH-kinase domain interactions leads to oncogenic activation of AKT in human cancers", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Parikh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Janakiraman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WI", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CK", 
+                        "surname": "Foo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NM", 
+                        "surname": "Kljavin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Chaudhuri"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Stawiski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Lin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MN", 
+                        "surname": "Lorenzo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Yuan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Guillory"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Jackson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Rondon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Franke"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KK", 
+                        "surname": "Bowman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Sagolla"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Stinson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TD", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Stokoe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HM", 
+                        "surname": "Stern"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BJ", 
+                        "surname": "Brandhuber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Lin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NJ", 
+                        "surname": "Skelton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Seshagiri"
+                    }
+                ]
+            }
         }, 
-        "bib15": {
-            "source": "Biochemistry", 
-            "doi": "10.1021/bi801683k", 
-            "year": "2008", 
-            "title": "Molecular mechanism of an oncogenic mutation that alters membrane targeting: Glu17Lys modifies the PIP lipid specificity of the AKT1 PH domain", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KE", 
-                    "surname": "Landgraf"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Pilling"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JJ", 
-                    "surname": "Falke"
-                }
-            ]
+        {
+            "bib19": {
+                "source": "Nature Reviews Molecular Cell Biology", 
+                "doi": "10.1038/nrm2822", 
+                "year": "2010", 
+                "title": "The nuts and bolts of AGC protein kinases", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "LR", 
+                        "surname": "Pearce"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Komander"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Alessi"
+                    }
+                ]
+            }
         }, 
-        "bib14": {
-            "source": "Molecular Cancer Therapeutics", 
-            "doi": "10.1158/1535-7163.MCT-09-1012", 
-            "year": "2010", 
-            "title": "MK-2206, an allosteric Akt inhibitor, enhances antitumor efficacy by standard chemotherapeutic agents or molecular targeted drugs in vitro and in vivo", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Hirai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Sootome"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Nakatsuru"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Miyama"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Taguchi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Tsujioka"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Ueno"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Hatch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PK", 
-                    "surname": "Majumder"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BS", 
-                    "surname": "Pan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Kotani"
-                }
-            ]
+        {
+            "bib20": {
+                "source": "Cancer Research", 
+                "doi": "10.1158/0008-5472.CAN-07-5783", 
+                "year": "2008", 
+                "title": "Characterization of an Akt kinase inhibitor with potent pharmacodynamic and antitumor activity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Rhodes"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DA", 
+                        "surname": "Heerding"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Duckett"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Eberwein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VB", 
+                        "surname": "Knick"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TJ", 
+                        "surname": "Lansing"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RT", 
+                        "surname": "McConnell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TM", 
+                        "surname": "Gilmer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SY", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Robell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Kahana"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RS", 
+                        "surname": "Geske"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EV", 
+                        "surname": "Kleymenova"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AE", 
+                        "surname": "Choudhry"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Lai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JD", 
+                        "surname": "Leber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EA", 
+                        "surname": "Minthorn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SL", 
+                        "surname": "Strum"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ER", 
+                        "surname": "Wood"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PS", 
+                        "surname": "Huang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RA", 
+                        "surname": "Copeland"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Kumar"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Nature Chemical Biology", 
-            "doi": "10.1038/nchembio.183", 
-            "year": "2009", 
-            "title": "Inhibitor hijacking of Akt activation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Okuzumi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Fiedler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DC", 
-                    "surname": "Gray"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Aizenstein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Hoffman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "Shokat"
-                }
-            ]
+        {
+            "bib21": {
+                "source": "PLOS ONE", 
+                "doi": "10.1371/journal.pone.0003065", 
+                "year": "2008", 
+                "title": "Breast tumor cells with PI3K mutation or HER2 amplification are selectively addicted to Akt signaling", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "QB", 
+                        "surname": "She"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Chandarlapaty"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Q", 
+                        "surname": "Ye"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Lobo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "Haskell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KR", 
+                        "surname": "Leander"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "DeFeo-Jones"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HE", 
+                        "surname": "Huber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Rosen"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Clinical Cancer Research", 
-            "doi": "10.1158/1078-0432.CCR-12-3072", 
-            "year": "2013", 
-            "title": "Targeting activated Akt with GDC-0068, a novel selective Akt inhibitor that is efficacious in multiple tumor models", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Lin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Sampath"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Nannini"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BB", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Degtyarev"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Oeh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Savage"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Guan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Hong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Kassees"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LB", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Risom"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Gross"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BM", 
-                    "surname": "Liederer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Koeppen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NJ", 
-                    "surname": "Skelton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JJ", 
-                    "surname": "Wallin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Belvin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Punnoose"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LS", 
-                    "surname": "Friedman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Lin"
-                }
-            ]
+        {
+            "bib22": {
+                "source": "Science", 
+                "doi": "10.1126/science.279.5351.710", 
+                "year": "1998", 
+                "title": "Protein kinase B kinases that mediate phosphatidylinositol 3,4,5-trisphosphate-dependent activation of protein kinase B", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Stephens"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Anderson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Stokoe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Erdjument-Bromage"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GF", 
+                        "surname": "Painter"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AB", 
+                        "surname": "Holmes"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PR", 
+                        "surname": "Gaffney"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CB", 
+                        "surname": "Reese"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "McCormick"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Tempst"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Coadwell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PT", 
+                        "surname": "Hawkins"
+                    }
+                ]
+            }
         }, 
-        "bib19": {
-            "source": "Nature Reviews Molecular Cell Biology", 
-            "doi": "10.1038/nrm2822", 
-            "year": "2010", 
-            "title": "The nuts and bolts of AGC protein kinases", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "LR", 
-                    "surname": "Pearce"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Komander"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "Alessi"
-                }
-            ]
+        {
+            "bib23": {
+                "source": "Current Biology", 
+                "doi": "10.1016/S0960-9822(02)00972-7", 
+                "year": "2002", 
+                "title": "High-resolution structure of the pleckstrin homology domain of protein kinase b/akt bound to phosphatidylinositol (3,4,5)-trisphosphate", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CC", 
+                        "surname": "Thomas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Deak"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "Alessi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DM", 
+                        "surname": "van Aalten"
+                    }
+                ]
+            }
         }, 
-        "bib18": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.1204384109", 
-            "year": "2012", 
-            "title": "Disruption of PH-kinase domain interactions leads to oncogenic activation of AKT in human cancers", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Parikh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Janakiraman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WI", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CK", 
-                    "surname": "Foo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NM", 
-                    "surname": "Kljavin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Chaudhuri"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Stawiski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Lin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MN", 
-                    "surname": "Lorenzo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Yuan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Guillory"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Jackson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Rondon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Franke"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KK", 
-                    "surname": "Bowman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Sagolla"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Stinson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TD", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Stokoe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HM", 
-                    "surname": "Stern"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BJ", 
-                    "surname": "Brandhuber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Lin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NJ", 
-                    "surname": "Skelton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Seshagiri"
-                }
-            ]
+        {
+            "bib24": {
+                "source": "PLOS ONE", 
+                "doi": "10.1371/journal.pone.0012913", 
+                "year": "2010", 
+                "title": "Crystal structure of human AKT1 with an allosteric inhibitor reveals a new mode of kinase inhibition", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "WI", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WC", 
+                        "surname": "Voegtli"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HL", 
+                        "surname": "Sturgis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FP", 
+                        "surname": "Dizon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GP", 
+                        "surname": "Vigers"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BJ", 
+                        "surname": "Brandhuber"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "The oncogenic potential of the serine threonine kinase AKT is not exclusively dependent on catalytic activity, but also involves the non-catalytic function of the pleckstrin homology domain.", 
     "related-articles": [], 
     "elocation-id": "e03751", 
@@ -1946,69 +1993,82 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {
-            "par-4": {
-                "id": "http://dx.doi.org/10.13039/100001512", 
-                "institution": "National Brain Tumor Society", 
-                "id-type": "FundRef"
+        "funding": [
+            {
+                "par-1": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "1R01NS080944\u201301, U54CA143798", 
+                    "institution": "National Institutes of Health", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-3": {
-                "id": "http://dx.doi.org/10.13039/100000913", 
-                "institution": "James S. McDonnell Foundation", 
-                "id-type": "FundRef"
+            {
+                "par-2": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "F32 GM096558", 
+                    "institution": "National Institutes of Health", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-2": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "F32 GM096558", 
-                "institution": "National Institutes of Health", 
-                "id-type": "FundRef"
+            {
+                "par-3": {
+                    "id": "http://dx.doi.org/10.13039/100000913", 
+                    "institution": "James S. McDonnell Foundation", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "1R01NS080944\u201301, U54CA143798", 
-                "institution": "National Institutes of Health", 
-                "id-type": "FundRef"
+            {
+                "par-4": {
+                    "id": "http://dx.doi.org/10.13039/100001512", 
+                    "institution": "National Brain Tumor Society", 
+                    "id-type": "FundRef"
+                }
             }
-        }, 
+        ], 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff5": {
-                "dept": "Department of Neurology", 
-                "email": null, 
-                "city": "New York", 
-                "institution": "Memorial Sloan-Kettering Cancer", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Human Oncology and Pathogenesis Program", 
+                    "city": "New York", 
+                    "institution": "Memorial Sloan-Kettering Cancer Center", 
+                    "country": "United States"
+                }
             }, 
-            "aff4": {
-                "dept": "Department of Pharmacology", 
-                "email": null, 
-                "city": "New York", 
-                "institution": "Weill-Cornell Graduate School of Biomedical Sciences", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "Cell Biology Program", 
+                    "city": "New York", 
+                    "institution": "Memorial Sloan-Kettering Cancer Center", 
+                    "country": "United States"
+                }
             }, 
-            "aff3": {
-                "dept": "Seve Ballesteros Foundation Brain Tumor Group", 
-                "email": null, 
-                "city": "Madrid", 
-                "institution": "Spanish National Cancer Research Centre", 
-                "country": "Spain"
+            {
+                "aff3": {
+                    "dept": "Seve Ballesteros Foundation Brain Tumor Group", 
+                    "city": "Madrid", 
+                    "institution": "Spanish National Cancer Research Centre", 
+                    "country": "Spain"
+                }
             }, 
-            "aff2": {
-                "dept": "Cell Biology Program", 
-                "email": null, 
-                "city": "New York", 
-                "institution": "Memorial Sloan-Kettering Cancer Center", 
-                "country": "United States"
+            {
+                "aff4": {
+                    "dept": "Department of Pharmacology", 
+                    "city": "New York", 
+                    "institution": "Weill-Cornell Graduate School of Biomedical Sciences", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Human Oncology and Pathogenesis Program", 
-                "email": null, 
-                "city": "New York", 
-                "institution": "Memorial Sloan-Kettering Cancer Center", 
-                "country": "United States"
+            {
+                "aff5": {
+                    "dept": "Department of Neurology", 
+                    "city": "New York", 
+                    "institution": "Memorial Sloan-Kettering Cancer", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {
             "equal-contrib": "These authors contributed equally to this work"
         }, 
@@ -2221,7 +2281,7 @@
             "title": "Author response"
         }
     ], 
-    "article-id": "10.7554/eLife.03751", 
+    "article-id": "03751", 
     "categories": {
         "heading": [
             "Cell biology", 

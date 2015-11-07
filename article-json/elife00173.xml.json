@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -69,1247 +68,1341 @@
     ], 
     "pub-date": "2012-11-13", 
     "title": "Membrane immersion allows rhomboid proteases to achieve specificity by reading transmembrane segment dynamics", 
-    "citations": {
-        "bib34": {
-            "source": "Proc Natl Acad Sci USA", 
-            "year": "2007", 
-            "title": "Rhomboid protease AarA mediates quorum-sensing in <italic>Providencia stuartii</italic> by activating TatA of the twin-arginine translocase", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "LG", 
-                    "surname": "Stevenson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Strisovsky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "Clemmer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Bhatt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PN", 
-                    "surname": "Rather"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "EMBO Rep", 
+                "year": "2011", 
+                "title": "Mammalian EGF receptor activation by the rhomboid protease RHBDL2", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Adrain"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Strisovsky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Zettl"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Hu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MK", 
+                        "surname": "Lemberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib9": {
-            "source": "Cell", 
-            "year": "2000", 
-            "title": "Regulated intramembrane proteolysis: a control mechanism conserved from bacteria to humans", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Brown"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ye"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RB", 
-                    "surname": "Rawson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JL", 
-                    "surname": "Goldstein"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Mol Microbiol", 
+                "year": "2007", 
+                "title": "Sequence features of substrates required for cleavage by GlpG, an <italic>Escherichia coli</italic> rhomboid protease", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Akiyama"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Maegawa"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Structure", 
-            "year": "2009", 
-            "title": "Rhomboid protease dynamics and lipid interactions", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AN", 
-                    "surname": "Bondar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "del Val"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SH", 
-                    "surname": "White"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Biochem J", 
+                "year": "2010", 
+                "title": "The cutting edge: membrane-anchored serine protease activities in the pericellular microenvironment", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "TM", 
+                        "surname": "Antalis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Buzza"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "Hodge"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JD", 
+                        "surname": "Hooper"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Netzel-Arnett"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Nat Cell Biol", 
-            "year": "2006", 
-            "title": "SPPL2a and SPPL2b promote intramembrane proteolysis of TNFalpha in activated dendritic cells to trigger IL-12 production", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Friedmann"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Hauben"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Maylandt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Schleeger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Vreugde"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SF", 
-                    "surname": "Lichtenthaler"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Nat Chem Biol", 
+                "year": "2012", 
+                "title": "Architectural and thermodynamic principles underlying intramembrane protease function", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RP", 
+                        "surname": "Baker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "EMBO Rep", 
-            "year": "2011", 
-            "title": "Mammalian EGF receptor activation by the rhomboid protease RHBDL2", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Adrain"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Strisovsky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Zettl"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Hu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MK", 
-                    "surname": "Lemberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "PLoS Pathog", 
+                "year": "2006", 
+                "title": "Two plasmodium rhomboid proteases preferentially cleave different adhesins implicated in all invasive stages of malaria", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RP", 
+                        "surname": "Baker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Wijetilaka"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Biochem J", 
-            "year": "2010", 
-            "title": "The cutting edge: membrane-anchored serine protease activities in the pericellular microenvironment", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "TM", 
-                    "surname": "Antalis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Buzza"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KM", 
-                    "surname": "Hodge"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JD", 
-                    "surname": "Hooper"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Netzel-Arnett"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Proc Natl Acad Sci USA", 
+                "year": "2007", 
+                "title": "Enzymatic analysis of a rhomboid intramembrane protease implicates transmembrane helix 5 as the lateral substrate gate", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RP", 
+                        "surname": "Baker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Young"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Feng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Mol Microbiol", 
-            "year": "2007", 
-            "title": "Sequence features of substrates required for cleavage by GlpG, an <italic>Escherichia coli</italic> rhomboid protease", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Akiyama"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Maegawa"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Exp Cell Res", 
+                "year": "2009", 
+                "title": "The role of protease activity in ErbB biology", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CP", 
+                        "surname": "Blobel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Carpenter"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "PLoS Pathog", 
-            "year": "2006", 
-            "title": "Two plasmodium rhomboid proteases preferentially cleave different adhesins implicated in all invasive stages of malaria", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RP", 
-                    "surname": "Baker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Wijetilaka"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Structure", 
+                "year": "2009", 
+                "title": "Rhomboid protease dynamics and lipid interactions", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AN", 
+                        "surname": "Bondar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "del Val"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SH", 
+                        "surname": "White"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Nat Chem Biol", 
-            "year": "2012", 
-            "title": "Architectural and thermodynamic principles underlying intramembrane protease function", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RP", 
-                    "surname": "Baker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Cell", 
+                "year": "2000", 
+                "title": "Regulated intramembrane proteolysis: a control mechanism conserved from bacteria to humans", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Brown"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ye"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RB", 
+                        "surname": "Rawson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JL", 
+                        "surname": "Goldstein"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Exp Cell Res", 
-            "year": "2009", 
-            "title": "The role of protease activity in ErbB biology", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CP", 
-                    "surname": "Blobel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Carpenter"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "Nature", 
+                "year": "1999", 
+                "title": "A presenilin-1-dependent gamma-secretase-like protease mediates release of Notch intracellular domain", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "De Strooper"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Annaert"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Cupers"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Saftig"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Craessaerts"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JS", 
+                        "surname": "Mumm"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Proc Natl Acad Sci USA", 
-            "year": "2007", 
-            "title": "Enzymatic analysis of a rhomboid intramembrane protease implicates transmembrane helix 5 as the lateral substrate gate", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RP", 
-                    "surname": "Baker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Young"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Feng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Nature", 
+                "year": "1998", 
+                "title": "Deficiency of presenilin-1 inhibits the normal cleavage of amyloid precursor protein", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "De Strooper"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Saftig"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Craessaerts"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Vanderstichele"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Guhde"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Annaert"
+                    }
+                ]
+            }
         }, 
-        "bib28": {
-            "source": "Biol Chem", 
-            "year": "2009", 
-            "title": "Subsite cooperativity in protease specificity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "NM", 
-                    "surname": "Ng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RN", 
-                    "surname": "Pike"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SE", 
-                    "surname": "Boyd"
-                }
-            ]
+        {
+            "bib12": {
+                "source": "Quantitative EPR", 
+                "year": "2010", 
+                "title": "Chapter 3: important principles for quantitative EPR", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "GR", 
+                        "surname": "Eaton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SS", 
+                        "surname": "Eaton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DP", 
+                        "surname": "Barr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RT", 
+                        "surname": "Weber"
+                    }
+                ]
+            }
         }, 
-        "bib29": {
-            "source": "Science", 
-            "year": "1998", 
-            "title": "An essential role for ectodomain shedding in mammalian development", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JJ", 
-                    "surname": "Peschon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JL", 
-                    "surname": "Slack"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Reddy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KL", 
-                    "surname": "Stocking"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SW", 
-                    "surname": "Sunnarborg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DC", 
-                    "surname": "Lee"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "Nature", 
+                "year": "2009", 
+                "title": "How intramembrane proteases bury hydrolytic reactions in the membrane", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Erez"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Fass"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Bibi"
+                    }
+                ]
+            }
         }, 
-        "bib20": {
-            "source": "Cell Death Differ", 
-            "year": "2007", 
-            "title": "The Fas ligand intracellular domain is released by ADAM10 and SPPL2a cleavage in T-cells", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Kirkin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Cahuzac"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Guardiola-Serrano"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Huault"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Luckerath"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Friedmann"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "Lipids", 
+                "year": "1966", 
+                "title": "A comparative study of the phospholipids and fatty acids of some insects", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PG", 
+                        "surname": "Fast"
+                    }
+                ]
+            }
         }, 
-        "bib21": {
-            "source": "Genome Res", 
-            "year": "2007", 
-            "title": "Functional and evolutionary implications of enhanced genomic analysis of rhomboid intramembrane proteases", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MK", 
-                    "surname": "Lemberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib15": {
+                "source": "Nat Cell Biol", 
+                "year": "2006", 
+                "title": "A gamma-secretase-like intramembrane cleavage of TNFalpha by the GxGD aspartyl protease SPPL2b", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Fluhrer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Grammer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Israel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MM", 
+                        "surname": "Condron"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Haffner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Friedmann"
+                    }
+                ]
+            }
         }, 
-        "bib22": {
-            "source": "EMBO J", 
-            "year": "2005", 
-            "title": "Mechanism of intramembrane proteolysis investigated with purified rhomboid proteases", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MK", 
-                    "surname": "Lemberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Menendez"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Misik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Garcia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Koth"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Biochemistry", 
+                "year": "2004", 
+                "title": "Purification and characterization of the human gamma-secretase complex", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PC", 
+                        "surname": "Fraering"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Ye"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Strub"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Dolios"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "LaVoie"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BL", 
+                        "surname": "Ostaszewski"
+                    }
+                ]
+            }
         }, 
-        "bib23": {
-            "source": "Proc Natl Acad Sci USA", 
-            "year": "1996", 
-            "title": "Alpha-helical, but not beta-sheet, propensity of proline is determined by peptide environment", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SC", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NK", 
-                    "surname": "Goto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KA", 
-                    "surname": "Williams"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Deber"
-                }
-            ]
+        {
+            "bib17": {
+                "source": "Nat Cell Biol", 
+                "year": "2006", 
+                "title": "SPPL2a and SPPL2b promote intramembrane proteolysis of TNFalpha in activated dendritic cells to trigger IL-12 production", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Friedmann"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Hauben"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Maylandt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Schleeger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Vreugde"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SF", 
+                        "surname": "Lichtenthaler"
+                    }
+                ]
+            }
         }, 
-        "bib24": {
-            "source": "J Biol Chem", 
-            "year": "2008", 
-            "title": "Proteases: multifunctional enzymes in life and disease", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "L\u00f3pez-Ot\u00edn"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Bond"
-                }
-            ]
+        {
+            "bib18": {
+                "source": "Semin Cell Dev Biol", 
+                "year": "2009", 
+                "title": "Structure and mechanism of intramembrane protease", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Ha"
+                    }
+                ]
+            }
         }, 
-        "bib25": {
-            "source": "Nature", 
-            "year": "2005", 
-            "title": "Regulation of <italic>Mycobacterium tuberculosis</italic> cell envelope composition and virulence by intramembrane proteolysis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Makinoshima"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Glickman"
-                }
-            ]
+        {
+            "bib19": {
+                "source": "Protein Sci", 
+                "year": "2006", 
+                "title": "Site-2 protease regulated intramembrane proteolysis: sequence homologs suggest an ancient signaling cascade", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "LN", 
+                        "surname": "Kinch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Ginalski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NV", 
+                        "surname": "Grishin"
+                    }
+                ]
+            }
         }, 
-        "bib26": {
-            "source": "J Mol Biol", 
-            "year": "1999a", 
-            "title": "A turn propensity scale for transmembrane helices", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Monn\u00e9"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hermansson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "von Heijne"
-                }
-            ]
+        {
+            "bib20": {
+                "source": "Cell Death Differ", 
+                "year": "2007", 
+                "title": "The Fas ligand intracellular domain is released by ADAM10 and SPPL2a cleavage in T-cells", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Kirkin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Cahuzac"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Guardiola-Serrano"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Huault"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Luckerath"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Friedmann"
+                    }
+                ]
+            }
         }, 
-        "bib27": {
-            "source": "J Mol Biol", 
-            "year": "1999b", 
-            "title": "Turns in transmembrane helices: determination of the minimal length of a \u201chelical hairpin\u201d and derivation of a fine-grained turn propensity scale", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Monn\u00e9"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Nilsson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Elofsson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "von Heijne"
-                }
-            ]
+        {
+            "bib21": {
+                "source": "Genome Res", 
+                "year": "2007", 
+                "title": "Functional and evolutionary implications of enhanced genomic analysis of rhomboid intramembrane proteases", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MK", 
+                        "surname": "Lemberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib46": {
-            "source": "Protein Sci", 
-            "year": "1997", 
-            "title": "The role of context on alpha-helix stabilization: host-guest analysis in a mixed background peptide model", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EJ", 
-                    "surname": "Spek"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Gong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Zhou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NR", 
-                    "surname": "Kallenbach"
-                }
-            ]
+        {
+            "bib22": {
+                "source": "EMBO J", 
+                "year": "2005", 
+                "title": "Mechanism of intramembrane proteolysis investigated with purified rhomboid proteases", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MK", 
+                        "surname": "Lemberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Menendez"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Misik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Garcia"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Koth"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib47": {
-            "source": "Structure", 
-            "year": "2012", 
-            "title": "An internal water-retention site in the rhomboid intramembrane protease GlpG ensures catalytic efficiency", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Zhou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SM", 
-                    "surname": "Moin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Zhang"
-                }
-            ]
+        {
+            "bib23": {
+                "source": "Proc Natl Acad Sci USA", 
+                "year": "1996", 
+                "title": "Alpha-helical, but not beta-sheet, propensity of proline is determined by peptide environment", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SC", 
+                        "surname": "Li"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NK", 
+                        "surname": "Goto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KA", 
+                        "surname": "Williams"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Deber"
+                    }
+                ]
+            }
         }, 
-        "bib44": {
-            "source": "Nature", 
-            "year": "1999", 
-            "title": "Two transmembrane aspartates in presenilin-1 required for presenilin endoproteolysis and gamma-secretase activity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Wolfe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Xia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BL", 
-                    "surname": "Ostaszewski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TS", 
-                    "surname": "Diehl"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WT", 
-                    "surname": "Kimberly"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Selkoe"
-                }
-            ]
+        {
+            "bib24": {
+                "source": "J Biol Chem", 
+                "year": "2008", 
+                "title": "Proteases: multifunctional enzymes in life and disease", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "L\u00f3pez-Ot\u00edn"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JS", 
+                        "surname": "Bond"
+                    }
+                ]
+            }
         }, 
-        "bib45": {
-            "source": "Nat Struct Mol Biol", 
-            "year": "2006", 
-            "title": "Structural analysis of a rhomboid family intramembrane protease reveals a gating mechanism for substrate entry", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Yan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Feng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Oberstein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Yan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RP", 
-                    "surname": "Baker"
-                }
-            ]
+        {
+            "bib25": {
+                "source": "Nature", 
+                "year": "2005", 
+                "title": "Regulation of <italic>Mycobacterium tuberculosis</italic> cell envelope composition and virulence by intramembrane proteolysis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Makinoshima"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Glickman"
+                    }
+                ]
+            }
         }, 
-        "bib42": {
-            "source": "Proc Natl Acad Sci USA", 
-            "year": "2005", 
-            "title": "Reconstitution of intramembrane proteolysis in vitro reveals that pure rhomboid is sufficient for catalysis and specificity", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Wolfe"
-                }
-            ]
+        {
+            "bib26": {
+                "source": "J Mol Biol", 
+                "year": "1999a", 
+                "title": "A turn propensity scale for transmembrane helices", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Monn\u00e9"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hermansson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "von Heijne"
+                    }
+                ]
+            }
         }, 
-        "bib43": {
-            "source": "EMBO J", 
-            "year": "2010", 
-            "title": "The structural basis for catalysis and substrate specificity of a rhomboid protease", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KR", 
-                    "surname": "Vinothkumar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Strisovsky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Andreeva"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Christova"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Verhelst"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib27": {
+                "source": "J Mol Biol", 
+                "year": "1999b", 
+                "title": "Turns in transmembrane helices: determination of the minimal length of a \u201chelical hairpin\u201d and derivation of a fine-grained turn propensity scale", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Monn\u00e9"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Nilsson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Elofsson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "von Heijne"
+                    }
+                ]
+            }
         }, 
-        "bib40": {
-            "source": "Cell", 
-            "year": "2001", 
-            "title": "<italic>Drosophila</italic> rhomboid-1 defines a family of putative intramembrane serine proteases", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JR", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib28": {
+                "source": "Biol Chem", 
+                "year": "2009", 
+                "title": "Subsite cooperativity in protease specificity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "NM", 
+                        "surname": "Ng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RN", 
+                        "surname": "Pike"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SE", 
+                        "surname": "Boyd"
+                    }
+                ]
+            }
         }, 
-        "bib41": {
-            "source": "EMBO J", 
-            "year": "2002", 
-            "title": "A family of rhomboid intramembrane proteases activates all membrane-tether EGF ligands in <italic>Drosophila</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JR", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib29": {
+                "source": "Science", 
+                "year": "1998", 
+                "title": "An essential role for ectodomain shedding in mammalian development", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JJ", 
+                        "surname": "Peschon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JL", 
+                        "surname": "Slack"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Reddy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KL", 
+                        "surname": "Stocking"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SW", 
+                        "surname": "Sunnarborg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DC", 
+                        "surname": "Lee"
+                    }
+                ]
+            }
         }, 
-        "bib11": {
-            "source": "Nature", 
-            "year": "1998", 
-            "title": "Deficiency of presenilin-1 inhibits the normal cleavage of amyloid precursor protein", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "De Strooper"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Saftig"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Craessaerts"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Vanderstichele"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Guhde"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Annaert"
-                }
-            ]
+        {
+            "bib30": {
+                "source": "Mol Cell", 
+                "year": "1997", 
+                "title": "Complementation cloning of S2P, a gene encoding a putative metalloprotease required for intramembrane cleavage of SREBPs", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RB", 
+                        "surname": "Rawson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NG", 
+                        "surname": "Zelenski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Nijhawan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ye"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Sakai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MT", 
+                        "surname": "Hasan"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "Nature", 
-            "year": "1999", 
-            "title": "A presenilin-1-dependent gamma-secretase-like protease mediates release of Notch intracellular domain", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "De Strooper"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Annaert"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Cupers"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Saftig"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Craessaerts"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Mumm"
-                }
-            ]
+        {
+            "bib31": {
+                "source": "Biochemistry", 
+                "year": "2006", 
+                "title": "Signal peptide peptidase: biochemical properties and modulation by nonsteroidal antiinflammatory drugs", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Sato"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AC", 
+                        "surname": "Nyborg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Iwata"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TS", 
+                        "surname": "Diehl"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TC", 
+                        "surname": "Saido"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TE", 
+                        "surname": "Golde"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "Nature", 
-            "year": "2009", 
-            "title": "How intramembrane proteases bury hydrolytic reactions in the membrane", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Erez"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Fass"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Bibi"
-                }
-            ]
+        {
+            "bib32": {
+                "source": "Curr Protein Pept Sci", 
+                "year": "2005", 
+                "title": "Mapping of the active site of proteases in the 1960s and rational design of inhibitors/drugs in the 1990s", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Schechter"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "Quantitative EPR", 
-            "year": "2010", 
-            "title": "Chapter 3: important principles for quantitative EPR", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "GR", 
-                    "surname": "Eaton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SS", 
-                    "surname": "Eaton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DP", 
-                    "surname": "Barr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RT", 
-                    "surname": "Weber"
-                }
-            ]
+        {
+            "bib33": {
+                "source": "Structure", 
+                "year": "2012", 
+                "title": "Knowledge-based potential for positioning membrane-associated structures and assessing residue-specific energetic contributions", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CA", 
+                        "surname": "Schramm"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BT", 
+                        "surname": "Hannigan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JE", 
+                        "surname": "Donald"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Keasar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JG", 
+                        "surname": "Saven"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WF", 
+                        "surname": "Degrado"
+                    }
+                ]
+            }
         }, 
-        "bib15": {
-            "source": "Nat Cell Biol", 
-            "year": "2006", 
-            "title": "A gamma-secretase-like intramembrane cleavage of TNFalpha by the GxGD aspartyl protease SPPL2b", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Fluhrer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Grammer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Israel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MM", 
-                    "surname": "Condron"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Haffner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Friedmann"
-                }
-            ]
+        {
+            "bib34": {
+                "source": "Proc Natl Acad Sci USA", 
+                "year": "2007", 
+                "title": "Rhomboid protease AarA mediates quorum-sensing in <italic>Providencia stuartii</italic> by activating TatA of the twin-arginine translocase", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "LG", 
+                        "surname": "Stevenson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Strisovsky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KM", 
+                        "surname": "Clemmer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Bhatt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PN", 
+                        "surname": "Rather"
+                    }
+                ]
+            }
         }, 
-        "bib14": {
-            "source": "Lipids", 
-            "year": "1966", 
-            "title": "A comparative study of the phospholipids and fatty acids of some insects", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PG", 
-                    "surname": "Fast"
-                }
-            ]
+        {
+            "bib35": {
+                "source": "Mol Cell", 
+                "year": "2009", 
+                "title": "Sequence-specific intramembrane proteolysis: identification of a recognition motif in rhomboid substrates", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Strisovsky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HJ", 
+                        "surname": "Sharpe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib39": {
-            "source": "Mol Cell", 
-            "year": "2003", 
-            "title": "Substrate specificity of rhomboid intramembrane proteases is governed by helix-breaking residues in the substrate transmembrane domain", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib36": {
+                "source": "Nat Rev Microbiol", 
+                "year": "2009", 
+                "title": "Making the cut: central roles of intramembrane proteolysis in pathogenic microorganisms", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }
+                ]
+            }
         }, 
-        "bib38": {
-            "source": "Biol Chem", 
-            "year": "2008", 
-            "title": "In vivo analysis reveals substrate-gating mutants of a rhomboid intramembrane protease display increased activity in living cells", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RP", 
-                    "surname": "Baker"
-                }
-            ]
+        {
+            "bib37": {
+                "source": "Biochem J", 
+                "year": "2010", 
+                "title": "Taking the plunge: integrating structural, enzymatic and computational insights into a unified model for membrane-immersed rhomboid proteolysis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }
+                ]
+            }
         }, 
-        "bib19": {
-            "source": "Protein Sci", 
-            "year": "2006", 
-            "title": "Site-2 protease regulated intramembrane proteolysis: sequence homologs suggest an ancient signaling cascade", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "LN", 
-                    "surname": "Kinch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Ginalski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NV", 
-                    "surname": "Grishin"
-                }
-            ]
+        {
+            "bib38": {
+                "source": "Biol Chem", 
+                "year": "2008", 
+                "title": "In vivo analysis reveals substrate-gating mutants of a rhomboid intramembrane protease display increased activity in living cells", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RP", 
+                        "surname": "Baker"
+                    }
+                ]
+            }
         }, 
-        "bib18": {
-            "source": "Semin Cell Dev Biol", 
-            "year": "2009", 
-            "title": "Structure and mechanism of intramembrane protease", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Ha"
-                }
-            ]
+        {
+            "bib39": {
+                "source": "Mol Cell", 
+                "year": "2003", 
+                "title": "Substrate specificity of rhomboid intramembrane proteases is governed by helix-breaking residues in the substrate transmembrane domain", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib35": {
-            "source": "Mol Cell", 
-            "year": "2009", 
-            "title": "Sequence-specific intramembrane proteolysis: identification of a recognition motif in rhomboid substrates", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Strisovsky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HJ", 
-                    "surname": "Sharpe"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Freeman"
-                }
-            ]
+        {
+            "bib40": {
+                "source": "Cell", 
+                "year": "2001", 
+                "title": "<italic>Drosophila</italic> rhomboid-1 defines a family of putative intramembrane serine proteases", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JR", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Biochemistry", 
-            "year": "2004", 
-            "title": "Purification and characterization of the human gamma-secretase complex", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PC", 
-                    "surname": "Fraering"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Ye"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Strub"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Dolios"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "LaVoie"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BL", 
-                    "surname": "Ostaszewski"
-                }
-            ]
+        {
+            "bib41": {
+                "source": "EMBO J", 
+                "year": "2002", 
+                "title": "A family of rhomboid intramembrane proteases activates all membrane-tether EGF ligands in <italic>Drosophila</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JR", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib33": {
-            "source": "Structure", 
-            "year": "2012", 
-            "title": "Knowledge-based potential for positioning membrane-associated structures and assessing residue-specific energetic contributions", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CA", 
-                    "surname": "Schramm"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BT", 
-                    "surname": "Hannigan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JE", 
-                    "surname": "Donald"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Keasar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JG", 
-                    "surname": "Saven"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WF", 
-                    "surname": "Degrado"
-                }
-            ]
+        {
+            "bib42": {
+                "source": "Proc Natl Acad Sci USA", 
+                "year": "2005", 
+                "title": "Reconstitution of intramembrane proteolysis in vitro reveals that pure rhomboid is sufficient for catalysis and specificity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Wolfe"
+                    }
+                ]
+            }
         }, 
-        "bib32": {
-            "source": "Curr Protein Pept Sci", 
-            "year": "2005", 
-            "title": "Mapping of the active site of proteases in the 1960s and rational design of inhibitors/drugs in the 1990s", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Schechter"
-                }
-            ]
+        {
+            "bib43": {
+                "source": "EMBO J", 
+                "year": "2010", 
+                "title": "The structural basis for catalysis and substrate specificity of a rhomboid protease", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KR", 
+                        "surname": "Vinothkumar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Strisovsky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Andreeva"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Christova"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Verhelst"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Freeman"
+                    }
+                ]
+            }
         }, 
-        "bib31": {
-            "source": "Biochemistry", 
-            "year": "2006", 
-            "title": "Signal peptide peptidase: biochemical properties and modulation by nonsteroidal antiinflammatory drugs", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Sato"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AC", 
-                    "surname": "Nyborg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Iwata"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TS", 
-                    "surname": "Diehl"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TC", 
-                    "surname": "Saido"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TE", 
-                    "surname": "Golde"
-                }
-            ]
+        {
+            "bib44": {
+                "source": "Nature", 
+                "year": "1999", 
+                "title": "Two transmembrane aspartates in presenilin-1 required for presenilin endoproteolysis and gamma-secretase activity", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Wolfe"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "W", 
+                        "surname": "Xia"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BL", 
+                        "surname": "Ostaszewski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TS", 
+                        "surname": "Diehl"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WT", 
+                        "surname": "Kimberly"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Selkoe"
+                    }
+                ]
+            }
         }, 
-        "bib30": {
-            "source": "Mol Cell", 
-            "year": "1997", 
-            "title": "Complementation cloning of S2P, a gene encoding a putative metalloprotease required for intramembrane cleavage of SREBPs", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RB", 
-                    "surname": "Rawson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "NG", 
-                    "surname": "Zelenski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Nijhawan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ye"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Sakai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MT", 
-                    "surname": "Hasan"
-                }
-            ]
+        {
+            "bib45": {
+                "source": "Nat Struct Mol Biol", 
+                "year": "2006", 
+                "title": "Structural analysis of a rhomboid family intramembrane protease reveals a gating mechanism for substrate entry", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Yan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Feng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Oberstein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Yan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RP", 
+                        "surname": "Baker"
+                    }
+                ]
+            }
         }, 
-        "bib37": {
-            "source": "Biochem J", 
-            "year": "2010", 
-            "title": "Taking the plunge: integrating structural, enzymatic and computational insights into a unified model for membrane-immersed rhomboid proteolysis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }
-            ]
+        {
+            "bib46": {
+                "source": "Protein Sci", 
+                "year": "1997", 
+                "title": "The role of context on alpha-helix stabilization: host-guest analysis in a mixed background peptide model", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Yang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EJ", 
+                        "surname": "Spek"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Gong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Zhou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "NR", 
+                        "surname": "Kallenbach"
+                    }
+                ]
+            }
         }, 
-        "bib36": {
-            "source": "Nat Rev Microbiol", 
-            "year": "2009", 
-            "title": "Making the cut: central roles of intramembrane proteolysis in pathogenic microorganisms", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Urban"
-                }
-            ]
+        {
+            "bib47": {
+                "source": "Structure", 
+                "year": "2012", 
+                "title": "An internal water-retention site in the rhomboid intramembrane protease GlpG ensures catalytic efficiency", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Zhou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SM", 
+                        "surname": "Moin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Urban"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Zhang"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "Intramembrane proteases identify target proteins in a different way from other proteases.", 
     "related-articles": [], 
     "elocation-id": "e00173", 
@@ -1337,31 +1430,38 @@
         "competing-interest": {
             "conf1": "The authors have declared that no competing interests exist"
         }, 
-        "funding": {
-            "par-3": {
-                "award-id": "2007-31766", 
-                "institution": "Packard Foundation"
+        "funding": [
+            {
+                "par-1": {
+                    "award-id": "002137", 
+                    "institution": "Howard Hughes Medical Institute"
+                }
             }, 
-            "par-2": {
-                "award-id": "AI066025", 
-                "institution": "National Institutes of Health"
+            {
+                "par-2": {
+                    "award-id": "AI066025", 
+                    "institution": "National Institutes of Health"
+                }
             }, 
-            "par-1": {
-                "award-id": "002137", 
-                "institution": "Howard Hughes Medical Institute"
+            {
+                "par-3": {
+                    "award-id": "2007-31766", 
+                    "institution": "Packard Foundation"
+                }
             }
-        }, 
+        ], 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Molecular Biology and Genetics", 
-                "email": null, 
-                "city": "Baltimore", 
-                "institution": "Howard Hughes Medical Institute, Johns Hopkins University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Molecular Biology and Genetics", 
+                    "city": "Baltimore", 
+                    "institution": "Howard Hughes Medical Institute, Johns Hopkins University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {
             "con1": "SM: conducted in vitro proteolysis, bacterial culture and mass spectrometry experiments", 
@@ -1505,7 +1605,7 @@
             "title": "Author response"
         }
     ], 
-    "article-id": "10.7554/eLife.00173", 
+    "article-id": "00173", 
     "categories": {
         "heading": [
             "Biochemistry"

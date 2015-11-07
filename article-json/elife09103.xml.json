@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "article-commentary", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -35,373 +34,393 @@
     ], 
     "pub-date": "2015-07-02", 
     "title": "Using proteomics to probe neurons", 
-    "citations": {
-        "bib10": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.07794", 
-            "year": "2015", 
-            "title": "Quantitative isoform-profiling of highly diversified recognition molecules", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Schreiner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Simicevic"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Ahrn\u00e9"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Schmidt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Scheiffele"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2013.05.060", 
+                "year": "2013", 
+                "title": "Presynaptic neurexin-3 alternative splicing trans-synaptically controls postsynaptic AMPA receptor trafficking", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Aoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DC", 
+                        "surname": "Martinelli"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RC", 
+                        "surname": "Malenka"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Tabuchi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TC", 
+                        "surname": "Sudhof"
+                    }
+                ]
+            }
         }, 
-        "bib9": {
-            "source": "Neuron", 
-            "doi": "10.1016/j.neuron.2010.04.008", 
-            "year": "2010", 
-            "title": "Neurexins physically and functionally interact with GABA(A) receptors", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Atasoy"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Ara\u00e7"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MV", 
-                    "surname": "Fucillo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AJ", 
-                    "surname": "Robison"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ko"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AT", 
-                    "surname": "Brunger"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TC", 
-                    "surname": "S\u00fcdhof"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Clinical Chemistry", 
+                "year": "1996", 
+                "title": "Isotope dilution\u2013mass spectrometric quantification of specific proteins: model application with apolipoprotein A-I", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JR", 
+                        "surname": "Barr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "VL", 
+                        "surname": "Maggio"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DG", 
+                        "surname": "Patterson", 
+                        "suffix": "Jr"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GR", 
+                        "surname": "Cooper"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LO", 
+                        "surname": "Henderson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WE", 
+                        "surname": "Turner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SJ", 
+                        "surname": "Smith"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "WH", 
+                        "surname": "Hannon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LL", 
+                        "surname": "Needham"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EJ", 
+                        "surname": "Sampson"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Nature Methods", 
-            "doi": "10.1038/nmeth.1770", 
-            "year": "2011", 
-            "title": "Rapid empirical discovery of optimal peptides for targeted proteomics", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AB", 
-                    "surname": "Stergachis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "MacLean"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Stamatoyannopoulos"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "MacCoss"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Molecular & Cellular Proteomics", 
+                "doi": "10.1074/mcp.M700163-MCP200", 
+                "year": "2007", 
+                "title": "Isotope-labeled protein standards: toward absolute quantitative proteomics", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Brun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Dupuis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Adrait"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Marcellin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Thomas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Court"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Vandenesch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Garin"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2013.05.060", 
-            "year": "2013", 
-            "title": "Presynaptic neurexin-3 alternative splicing trans-synaptically controls postsynaptic AMPA receptor trafficking", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Aoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DC", 
-                    "surname": "Martinelli"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RC", 
-                    "surname": "Malenka"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Tabuchi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TC", 
-                    "surname": "Sudhof"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Neuron", 
+                "doi": "10.1016/j.neuron.2006.06.005", 
+                "year": "2006", 
+                "title": "Alternative splicing controls selective trans-synaptic interactions of the neuroligin-neurexin complex", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Chih"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Gollan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Scheiffele"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Molecular & Cellular Proteomics", 
-            "doi": "10.1074/mcp.M700163-MCP200", 
-            "year": "2007", 
-            "title": "Isotope-labeled protein standards: toward absolute quantitative proteomics", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Brun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Dupuis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Adrait"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Marcellin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Thomas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Court"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Vandenesch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Garin"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Methods", 
+                "doi": "10.1016/j.ymeth.2013.04.008", 
+                "year": "2013", 
+                "title": "Recent advances in quantitative neuroproteomics", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "GE", 
+                        "surname": "Craft"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AC", 
+                        "surname": "Nairn"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Clinical Chemistry", 
-            "year": "1996", 
-            "title": "Isotope dilution\u2013mass spectrometric quantification of specific proteins: model application with apolipoprotein A-I", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JR", 
-                    "surname": "Barr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "VL", 
-                    "surname": "Maggio"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DG", 
-                    "surname": "Patterson", 
-                    "suffix": "Jr"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GR", 
-                    "surname": "Cooper"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LO", 
-                    "surname": "Henderson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WE", 
-                    "surname": "Turner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SJ", 
-                    "surname": "Smith"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WH", 
-                    "surname": "Hannon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LL", 
-                    "surname": "Needham"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EJ", 
-                    "surname": "Sampson"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Molecular Biosystems", 
+                "doi": "10.1039/c0mb00159g", 
+                "year": "2011", 
+                "title": "Targeted proteomics by selected reaction monitoring mass spectrometry: applications to systems biology and biomarker discovery", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Elschenbroich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Kislinger"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Methods", 
-            "doi": "10.1016/j.ymeth.2013.04.008", 
-            "year": "2013", 
-            "title": "Recent advances in quantitative neuroproteomics", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "GE", 
-                    "surname": "Craft"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AC", 
-                    "surname": "Nairn"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Neuron", 
+                "doi": "10.1016/j.neuron.2014.09.011", 
+                "year": "2014", 
+                "title": "Targeted combinatorial alternative splicing generates brain region-specific repertoires of neurexins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Schreiner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TM", 
+                        "surname": "Nguyen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Russo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Heber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Patrignani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Ahrn\u00e9"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Scheiffele"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Neuron", 
-            "doi": "10.1016/j.neuron.2006.06.005", 
-            "year": "2006", 
-            "title": "Alternative splicing controls selective trans-synaptic interactions of the neuroligin-neurexin complex", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Chih"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Gollan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Scheiffele"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.07794", 
+                "year": "2015", 
+                "title": "Quantitative isoform-profiling of highly diversified recognition molecules", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Schreiner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Simicevic"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Ahrn\u00e9"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Schmidt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Scheiffele"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Neuron", 
-            "doi": "10.1016/j.neuron.2014.09.011", 
-            "year": "2014", 
-            "title": "Targeted combinatorial alternative splicing generates brain region-specific repertoires of neurexins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Schreiner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TM", 
-                    "surname": "Nguyen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Russo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Heber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Patrignani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Ahrn\u00e9"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Scheiffele"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Nature Methods", 
+                "doi": "10.1038/nmeth.1770", 
+                "year": "2011", 
+                "title": "Rapid empirical discovery of optimal peptides for targeted proteomics", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AB", 
+                        "surname": "Stergachis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "MacLean"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Stamatoyannopoulos"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "MacCoss"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Molecular Biosystems", 
-            "doi": "10.1039/c0mb00159g", 
-            "year": "2011", 
-            "title": "Targeted proteomics by selected reaction monitoring mass spectrometry: applications to systems biology and biomarker discovery", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Elschenbroich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Kislinger"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Neuron", 
+                "doi": "10.1016/j.neuron.2010.04.008", 
+                "year": "2010", 
+                "title": "Neurexins physically and functionally interact with GABA(A) receptors", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Atasoy"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Ara\u00e7"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Yang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MV", 
+                        "surname": "Fucillo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AJ", 
+                        "surname": "Robison"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ko"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AT", 
+                        "surname": "Brunger"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TC", 
+                        "surname": "S\u00fcdhof"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [
         {
@@ -433,32 +452,35 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Medical Biophysics", 
-                "email": "thomas.kislinger@utoronto.ca", 
-                "city": "Toronto", 
-                "institution": "University of Toronto", 
-                "country": "Canada"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Medical Biophysics", 
+                    "city": "Toronto", 
+                    "institution": "University of Toronto", 
+                    "country": "Canada"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Medical Biophysics", 
-                "email": null, 
-                "city": "Toronto", 
-                "institution": "University of Toronto", 
-                "country": "Canada"
+            {
+                "aff2": {
+                    "dept": "Department of Medical Biophysics", 
+                    "email": "thomas.kislinger@utoronto.ca", 
+                    "city": "Toronto", 
+                    "institution": "University of Toronto", 
+                    "country": "Canada"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e09103v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.09103", 
+    "article-id": "09103", 
     "categories": {
         "sub-display-channel": [
             "Mass spectrometry"

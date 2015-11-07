@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "editorial", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Harrison", 
@@ -29,7 +28,7 @@
     ], 
     "pub-date": "2014-04-29", 
     "title": "Coming soon to a screen near you", 
-    "citations": {}, 
+    "citations": [], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e02619", 
@@ -52,25 +51,26 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": null, 
-                "email": "production@elifesciences.org", 
-                "city": "Cambridge", 
-                "institution": "<italic>eLife</italic>", 
-                "country": "United Kingdom"
+        "affiliation": [
+            {
+                "aff1": {
+                    "country": "United Kingdom", 
+                    "city": "Cambridge", 
+                    "institution": "<italic>eLife</italic>", 
+                    "email": "production@elifesciences.org"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/3/e02619v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.02619", 
+    "article-id": "02619", 
     "categories": {
         "sub-display-channel": [
             "Scientific publishing"

@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Marder", 
@@ -31,21 +30,23 @@
     ], 
     "pub-date": "2015-10-22", 
     "title": "Owning your mistakes", 
-    "citations": {
-        "bib1": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.05787", 
-            "year": "2015", 
-            "title": "Bars and medals", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Marder"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.05787", 
+                "year": "2015", 
+                "title": "Bars and medals", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Marder"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e11628", 
@@ -68,25 +69,27 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Biology and the Volen National Center for Complex Systems", 
-                "email": "marder@brandeis.edu", 
-                "city": "Waltham", 
-                "institution": "Brandeis University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Biology and the Volen National Center for Complex Systems", 
+                    "email": "marder@brandeis.edu", 
+                    "city": "Waltham", 
+                    "institution": "Brandeis University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e11628v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.11628", 
+    "article-id": "11628", 
     "categories": {
         "sub-display-channel": [
             "Living science"

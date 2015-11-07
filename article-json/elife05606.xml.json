@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "research-article", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Bian", 
@@ -94,1639 +93,1713 @@
     ], 
     "pub-date": "2015-03-19", 
     "title": "The zinc finger proteins ZNF644 and WIZ regulate the G9a/GLP complex for gene repression", 
-    "citations": {
-        "bib9": {
-            "source": "Genome Biology", 
-            "doi": "10.1186/gb-2005-6-8-227", 
-            "year": "2005", 
-            "title": "The SET-domain protein superfamily: protein lysine methyltransferases", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SC", 
-                    "surname": "Dillon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RC", 
-                    "surname": "Trievel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Cheng"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Nature", 
+                "doi": "10.1038/35065138", 
+                "year": "2001", 
+                "title": "Selective recognition of methylated lysine 9 on histone H3 by the HP1 chromo domain", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AJ", 
+                        "surname": "Bannister"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Zegerman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JF", 
+                        "surname": "Partridge"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EA", 
+                        "surname": "Miska"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JO", 
+                        "surname": "Thomas"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RC", 
+                        "surname": "Allshire"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Kouzarides"
+                    }
+                ]
+            }
         }, 
-        "bib8": {
-            "source": "Nature Structural & Molecular Biology", 
-            "doi": "10.1038/nsmb.1384", 
-            "year": "2008", 
-            "title": "The ankyrin repeats of G9a and GLP histone methyltransferases are mono- and dimethyllysine binding modules", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RE", 
-                    "surname": "Collins"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JP", 
-                    "surname": "Northrop"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JR", 
-                    "surname": "Horton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DY", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Stallcup"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Cheng"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2007.05.009", 
+                "year": "2007", 
+                "title": "High-resolution profiling of histone methylations in the human genome", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Barski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Cuddapah"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Cui"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TY", 
+                        "surname": "Roh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DE", 
+                        "surname": "Schones"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Z", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Wei"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Chepelev"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Zhao"
+                    }
+                ]
+            }
         }, 
-        "bib1": {
-            "source": "Nature", 
-            "doi": "10.1038/35065138", 
-            "year": "2001", 
-            "title": "Selective recognition of methylated lysine 9 on histone H3 by the HP1 chromo domain", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AJ", 
-                    "surname": "Bannister"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Zegerman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JF", 
-                    "surname": "Partridge"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EA", 
-                    "surname": "Miska"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JO", 
-                    "surname": "Thomas"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RC", 
-                    "surname": "Allshire"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Kouzarides"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+                "doi": "10.1073/pnas.1211803109", 
+                "year": "2012", 
+                "title": "G9a functions as a molecular scaffold for assembly of transcriptional coactivators on a subset of glucocorticoid receptor target genes", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Bittencourt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DY", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KW", 
+                        "surname": "Jeong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DS", 
+                        "surname": "Gerke"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Herviou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Ianculescu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Chodankar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KD", 
+                        "surname": "Siegmund"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Stallcup"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
-            "doi": "10.1073/pnas.1211803109", 
-            "year": "2012", 
-            "title": "G9a functions as a molecular scaffold for assembly of transcriptional coactivators on a subset of glucocorticoid receptor target genes", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Bittencourt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DY", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KW", 
-                    "surname": "Jeong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DS", 
-                    "surname": "Gerke"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Herviou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Ianculescu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Chodankar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KD", 
-                    "surname": "Siegmund"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Stallcup"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Nature Communications", 
+                "doi": "10.1038/ncomms1549", 
+                "year": "2011", 
+                "title": "MPP8 mediates the interactions between DNA methyltransferase Dnmt3a and H3K9 methyltransferase GLP/G9a", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Chang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Sun"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Kokura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JR", 
+                        "surname": "Horton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Fukuda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Espejo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Izumi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Koomen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MT", 
+                        "surname": "Bedford"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Fang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Cheng"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2007.05.009", 
-            "year": "2007", 
-            "title": "High-resolution profiling of histone methylations in the human genome", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Barski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Cuddapah"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Cui"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TY", 
-                    "surname": "Roh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DE", 
-                    "surname": "Schones"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Wei"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Chepelev"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Zhao"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Cancer Research", 
+                "doi": "10.1158/0008-5472.CAN-10-0833", 
+                "year": "2010", 
+                "title": "H3K9 histone methyltransferase G9a promotes lung cancer invasion and metastasis by silencing the cell adhesion molecule Ep-CAM", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MW", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KT", 
+                        "surname": "Hua"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HJ", 
+                        "surname": "Kao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CC", 
+                        "surname": "Chi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LH", 
+                        "surname": "Wei"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Johansson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SG", 
+                        "surname": "Shiah"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PS", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YM", 
+                        "surname": "Jeng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TY", 
+                        "surname": "Cheng"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TC", 
+                        "surname": "Lai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JS", 
+                        "surname": "Chang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YH", 
+                        "surname": "Jan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MH", 
+                        "surname": "Chien"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CJ", 
+                        "surname": "Yang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Huang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Hsiao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ML", 
+                        "surname": "Kuo"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Cancer Research", 
-            "doi": "10.1158/0008-5472.CAN-10-0833", 
-            "year": "2010", 
-            "title": "H3K9 histone methyltransferase G9a promotes lung cancer invasion and metastasis by silencing the cell adhesion molecule Ep-CAM", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MW", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KT", 
-                    "surname": "Hua"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HJ", 
-                    "surname": "Kao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CC", 
-                    "surname": "Chi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LH", 
-                    "surname": "Wei"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Johansson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SG", 
-                    "surname": "Shiah"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PS", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YM", 
-                    "surname": "Jeng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TY", 
-                    "surname": "Cheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TC", 
-                    "surname": "Lai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Chang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YH", 
-                    "surname": "Jan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MH", 
-                    "surname": "Chien"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CJ", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Huang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Hsiao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ML", 
-                    "surname": "Kuo"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Nature", 
+                "doi": "10.1038/nature11742", 
+                "year": "2013", 
+                "title": "TET2 promotes histone O-GlcNAcylation during gene transcription", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Q", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Bian"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Fujiki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Yu"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Nature Communications", 
-            "doi": "10.1038/ncomms1549", 
-            "year": "2011", 
-            "title": "MPP8 mediates the interactions between DNA methyltransferase Dnmt3a and H3K9 methyltransferase GLP/G9a", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Chang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Kokura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JR", 
-                    "surname": "Horton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Fukuda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Espejo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Izumi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Koomen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MT", 
-                    "surname": "Bedford"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Fang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Cheng"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.200329.112", 
+                "year": "2012", 
+                "title": "G9a/GLP-dependent histone H3K9me2 patterning during human hematopoietic stem cell lineage commitment", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Skutt-Kakaria"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Davison"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "YL", 
+                        "surname": "Ou"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Choi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Malik"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Loeb"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Wood"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Georges"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Torok-Storb"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "PJ", 
+                        "surname": "Paddison"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.200329.112", 
-            "year": "2012", 
-            "title": "G9a/GLP-dependent histone H3K9me2 patterning during human hematopoietic stem cell lineage commitment", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Skutt-Kakaria"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Davison"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YL", 
-                    "surname": "Ou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Choi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Malik"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Loeb"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Wood"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Georges"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Torok-Storb"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PJ", 
-                    "surname": "Paddison"
-                }
-            ]
+        {
+            "bib8": {
+                "source": "Nature Structural & Molecular Biology", 
+                "doi": "10.1038/nsmb.1384", 
+                "year": "2008", 
+                "title": "The ankyrin repeats of G9a and GLP histone methyltransferases are mono- and dimethyllysine binding modules", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RE", 
+                        "surname": "Collins"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JP", 
+                        "surname": "Northrop"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JR", 
+                        "surname": "Horton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DY", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Stallcup"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Cheng"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Nature", 
-            "doi": "10.1038/nature11742", 
-            "year": "2013", 
-            "title": "TET2 promotes histone O-GlcNAcylation during gene transcription", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Q", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Bian"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Fujiki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Yu"
-                }
-            ]
+        {
+            "bib9": {
+                "source": "Genome Biology", 
+                "doi": "10.1186/gb-2005-6-8-227", 
+                "year": "2005", 
+                "title": "The SET-domain protein superfamily: protein lysine methyltransferases", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SC", 
+                        "surname": "Dillon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RC", 
+                        "surname": "Trievel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Cheng"
+                    }
+                ]
+            }
         }, 
-        "bib28": {
-            "source": "Nature Genetics", 
-            "doi": "10.1038/ng1351", 
-            "year": "2004", 
-            "title": "Dynamic assembly of silent chromatin during thymocyte maturation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RC", 
-                    "surname": "Su"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KE", 
-                    "surname": "Brown"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Saaber"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AG", 
-                    "surname": "Fisher"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Merkenschlager"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ST", 
-                    "surname": "Smale"
-                }
-            ]
+        {
+            "bib10": {
+                "source": "Nature Structural & Molecular Biology", 
+                "doi": "10.1038/nsmb.1476", 
+                "year": "2008", 
+                "title": "De novo DNA methylation promoted by G9a prevents reprogramming of embryonically silenced genes", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Epsztejn-Litman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Feldman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Abu-Remaileh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shufaro"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Gerson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ueda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Deplus"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Fuks"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Cedar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Bergman"
+                    }
+                ]
+            }
         }, 
-        "bib29": {
-            "source": "The EMBO Journal", 
-            "doi": "10.1038/emboj.2008.192", 
-            "year": "2008", 
-            "title": "G9a/GLP complexes independently mediate H3K9 and DNA methylation to silence transcription", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tachibana"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Matsumura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Fukuda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Kimura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }
-            ]
+        {
+            "bib11": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.1463706", 
+                "year": "2006", 
+                "title": "Direct interaction between DNMT1 and G9a coordinates DNA and histone methylation during replication", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "PO", 
+                        "surname": "Esteve"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HG", 
+                        "surname": "Chin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Smallwood"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "GR", 
+                        "surname": "Feehery"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Gangisetty"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AR", 
+                        "surname": "Karpf"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MF", 
+                        "surname": "Carey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Pradhan"
+                    }
+                ]
+            }
         }, 
-        "bib20": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/S1097-2765(01)00218-0", 
-            "year": "2001", 
-            "title": "Heterochromatin formation in mammalian cells: interaction between histones and HP1 proteins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AL", 
-                    "surname": "Nielsen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Oulad-Abdelghani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Ortiz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Remboutsika"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Chambon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Losson"
-                }
-            ]
+        {
+            "bib12": {
+                "source": "The Journal of Experimental Medicine", 
+                "doi": "10.1084/jem.20112343", 
+                "year": "2012", 
+                "title": "Histone H3 lysine 9 di-methylation as an epigenetic signature of the interferon response", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "TC", 
+                        "surname": "Fang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "U", 
+                        "surname": "Schaefer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Mecklenbrauker"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Stienen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Dewell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Chen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Rioja"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Parravicini"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RK", 
+                        "surname": "Prinjha"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Chandwani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "MacDonald"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Rice"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Tarakhovsky"
+                    }
+                ]
+            }
         }, 
-        "bib21": {
-            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
-            "doi": "10.1073/pnas.0401343101", 
-            "year": "2004", 
-            "title": "CCAAT displacement protein/cut homolog recruits G9a histone lysine methyltransferase to repress transcription", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Nishio"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MJ", 
-                    "surname": "Walsh"
-                }
-            ]
+        {
+            "bib13": {
+                "source": "Nature Immunology", 
+                "doi": "10.1038/ni1046", 
+                "year": "2004", 
+                "title": "PRDI-BF1 recruits the histone H3 methyltransferase G9a in transcriptional silencing", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Gyory"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Fejer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Seto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KL", 
+                        "surname": "Wright"
+                    }
+                ]
+            }
         }, 
-        "bib22": {
-            "source": "Science", 
-            "doi": "10.1126/science.1069861", 
-            "year": "2002", 
-            "title": "A complex with chromatin modifiers that occupies E2F- and Myc-responsive genes in G0 cells", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Ogawa"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Ishiguro"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Gaubatz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DM", 
-                    "surname": "Livingston"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Nakatani"
-                }
-            ]
+        {
+            "bib14": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M109.062588", 
+                "year": "2010", 
+                "title": "G9a and Glp methylate lysine 373 in the tumor suppressor p53", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Huang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Dorsey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Chuikov"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Perez-Burgos"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Jenuwein"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Reinberg"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SL", 
+                        "surname": "Berger"
+                    }
+                ]
+            }
         }, 
-        "bib23": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M111.298463", 
-            "year": "2011", 
-            "title": "A distinct mechanism for coactivator versus corepressor function by histone methyltransferase G9a in transcriptional regulation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Purcell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KW", 
-                    "surname": "Jeong"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Bittencourt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DS", 
-                    "surname": "Gerke"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Stallcup"
-                }
-            ]
+        {
+            "bib15": {
+                "source": "Cold Spring Harbor Symposia on Quantitative Biology", 
+                "doi": "10.1101/SQB.1987.052.01.054", 
+                "year": "1987", 
+                "title": "Zinc fingers: a novel protein fold for nucleic acid recognition", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Klug"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Rhodes"
+                    }
+                ]
+            }
         }, 
-        "bib24": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/j.molcel.2004.05.026", 
-            "year": "2004", 
-            "title": "Localized domains of G9a-mediated histone methylation are required for silencing of neuronal genes", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Roopra"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Qazi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Schoenike"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TJ", 
-                    "surname": "Daley"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JF", 
-                    "surname": "Morrison"
-                }
-            ]
+        {
+            "bib16": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/j.molcel.2007.01.017", 
+                "year": "2007", 
+                "title": "Reversal of H3K9me2 by a small-molecule inhibitor for the G9a histone methyltransferase", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Kubicek"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RJ", 
+                        "surname": "O'Sullivan"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EM", 
+                        "surname": "August"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ER", 
+                        "surname": "Hickey"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Q", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ML", 
+                        "surname": "Teodoro"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Rea"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Mechtler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Kowalski"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CA", 
+                        "surname": "Homon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TA", 
+                        "surname": "Kelly"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Jenuwein"
+                    }
+                ]
+            }
         }, 
-        "bib25": {
-            "source": "Neuron", 
-            "doi": "10.1016/j.neuron.2009.11.019", 
-            "year": "2009", 
-            "title": "Control of cognition and adaptive behavior by the GLP/G9a epigenetic suppressor complex", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Schaefer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SC", 
-                    "surname": "Sampath"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Intrator"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Min"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TS", 
-                    "surname": "Gertler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DJ", 
-                    "surname": "Surmeier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Tarakhovsky"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Greengard"
-                }
-            ]
+        {
+            "bib17": {
+                "source": "Nature", 
+                "doi": "10.1038/35065132", 
+                "year": "2001", 
+                "title": "Methylation of histone H3 lysine 9 creates a binding site for HP1 proteins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Lachner"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "O'Carroll"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Rea"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Mechtler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Jenuwein"
+                    }
+                ]
+            }
         }, 
-        "bib26": {
-            "source": "Immunity", 
-            "doi": "10.1016/S1074-7613(02)00335-7", 
-            "year": "2002", 
-            "title": "Blimp-1 orchestrates plasma cell differentiation by extinguishing the mature B cell gene expression program", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AL", 
-                    "surname": "Shaffer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KI", 
-                    "surname": "Lin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TC", 
-                    "surname": "Kuo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Yu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EM", 
-                    "surname": "Hurt"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Rosenwald"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Giltnane"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Zhao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Calame"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LM", 
-                    "surname": "Staudt"
-                }
-            ]
+        {
+            "bib18": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M511093200", 
+                "year": "2006", 
+                "title": "Histone H3 lysine 9 methyltransferase G9a is a transcriptional coactivator for nuclear receptors", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DY", 
+                        "surname": "Lee"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JP", 
+                        "surname": "Northrop"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MH", 
+                        "surname": "Kuo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Stallcup"
+                    }
+                ]
+            }
         }, 
-        "bib27": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.2027411", 
-            "year": "2011", 
-            "title": "H3K9 methyltransferase G9a and the related molecule GLP", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tachibana"
-                }
-            ]
+        {
+            "bib19": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/j.molcel.2013.12.005", 
+                "year": "2014", 
+                "title": "The histone H3 lysine 9 methyltransferases G9a and GLP regulate polycomb repressive complex 2-mediated gene silencing", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Mozzetta"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Pontis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Fritsch"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Robin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Portoso"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Proux"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Margueron"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Ait-Si-Ali"
+                    }
+                ]
+            }
         }, 
-        "bib11": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.1463706", 
-            "year": "2006", 
-            "title": "Direct interaction between DNMT1 and G9a coordinates DNA and histone methylation during replication", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PO", 
-                    "surname": "Esteve"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HG", 
-                    "surname": "Chin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Smallwood"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GR", 
-                    "surname": "Feehery"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Gangisetty"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AR", 
-                    "surname": "Karpf"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MF", 
-                    "surname": "Carey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Pradhan"
-                }
-            ]
+        {
+            "bib20": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/S1097-2765(01)00218-0", 
+                "year": "2001", 
+                "title": "Heterochromatin formation in mammalian cells: interaction between histones and HP1 proteins", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AL", 
+                        "surname": "Nielsen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Oulad-Abdelghani"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Ortiz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Remboutsika"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Chambon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Losson"
+                    }
+                ]
+            }
         }, 
-        "bib10": {
-            "source": "Nature Structural & Molecular Biology", 
-            "doi": "10.1038/nsmb.1476", 
-            "year": "2008", 
-            "title": "De novo DNA methylation promoted by G9a prevents reprogramming of embryonically silenced genes", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Epsztejn-Litman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Feldman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Abu-Remaileh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shufaro"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Gerson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ueda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Deplus"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Fuks"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Cedar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Bergman"
-                }
-            ]
+        {
+            "bib21": {
+                "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+                "doi": "10.1073/pnas.0401343101", 
+                "year": "2004", 
+                "title": "CCAAT displacement protein/cut homolog recruits G9a histone lysine methyltransferase to repress transcription", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Nishio"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MJ", 
+                        "surname": "Walsh"
+                    }
+                ]
+            }
         }, 
-        "bib13": {
-            "source": "Nature Immunology", 
-            "doi": "10.1038/ni1046", 
-            "year": "2004", 
-            "title": "PRDI-BF1 recruits the histone H3 methyltransferase G9a in transcriptional silencing", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Gyory"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Fejer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Seto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KL", 
-                    "surname": "Wright"
-                }
-            ]
+        {
+            "bib22": {
+                "source": "Science", 
+                "doi": "10.1126/science.1069861", 
+                "year": "2002", 
+                "title": "A complex with chromatin modifiers that occupies E2F- and Myc-responsive genes in G0 cells", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Ogawa"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Ishiguro"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Gaubatz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DM", 
+                        "surname": "Livingston"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Nakatani"
+                    }
+                ]
+            }
         }, 
-        "bib12": {
-            "source": "The Journal of Experimental Medicine", 
-            "doi": "10.1084/jem.20112343", 
-            "year": "2012", 
-            "title": "Histone H3 lysine 9 di-methylation as an epigenetic signature of the interferon response", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "TC", 
-                    "surname": "Fang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "U", 
-                    "surname": "Schaefer"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Mecklenbrauker"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Stienen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Dewell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Rioja"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Parravicini"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RK", 
-                    "surname": "Prinjha"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Chandwani"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "MacDonald"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Rice"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Tarakhovsky"
-                }
-            ]
+        {
+            "bib23": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M111.298463", 
+                "year": "2011", 
+                "title": "A distinct mechanism for coactivator versus corepressor function by histone methyltransferase G9a in transcriptional regulation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Purcell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KW", 
+                        "surname": "Jeong"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Bittencourt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DS", 
+                        "surname": "Gerke"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MR", 
+                        "surname": "Stallcup"
+                    }
+                ]
+            }
         }, 
-        "bib15": {
-            "source": "Cold Spring Harbor Symposia on Quantitative Biology", 
-            "doi": "10.1101/SQB.1987.052.01.054", 
-            "year": "1987", 
-            "title": "Zinc fingers: a novel protein fold for nucleic acid recognition", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Klug"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Rhodes"
-                }
-            ]
+        {
+            "bib24": {
+                "source": "Molecular Cell", 
+                "doi": "10.1016/j.molcel.2004.05.026", 
+                "year": "2004", 
+                "title": "Localized domains of G9a-mediated histone methylation are required for silencing of neuronal genes", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Roopra"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Qazi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Schoenike"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TJ", 
+                        "surname": "Daley"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JF", 
+                        "surname": "Morrison"
+                    }
+                ]
+            }
         }, 
-        "bib14": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M109.062588", 
-            "year": "2010", 
-            "title": "G9a and Glp methylate lysine 373 in the tumor suppressor p53", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Huang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Dorsey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Chuikov"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Perez-Burgos"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Jenuwein"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Reinberg"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SL", 
-                    "surname": "Berger"
-                }
-            ]
+        {
+            "bib25": {
+                "source": "Neuron", 
+                "doi": "10.1016/j.neuron.2009.11.019", 
+                "year": "2009", 
+                "title": "Control of cognition and adaptive behavior by the GLP/G9a epigenetic suppressor complex", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Schaefer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SC", 
+                        "surname": "Sampath"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Intrator"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Min"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TS", 
+                        "surname": "Gertler"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DJ", 
+                        "surname": "Surmeier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Tarakhovsky"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Greengard"
+                    }
+                ]
+            }
         }, 
-        "bib17": {
-            "source": "Nature", 
-            "doi": "10.1038/35065132", 
-            "year": "2001", 
-            "title": "Methylation of histone H3 lysine 9 creates a binding site for HP1 proteins", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Lachner"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "O'Carroll"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Rea"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Mechtler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Jenuwein"
-                }
-            ]
+        {
+            "bib26": {
+                "source": "Immunity", 
+                "doi": "10.1016/S1074-7613(02)00335-7", 
+                "year": "2002", 
+                "title": "Blimp-1 orchestrates plasma cell differentiation by extinguishing the mature B cell gene expression program", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AL", 
+                        "surname": "Shaffer"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KI", 
+                        "surname": "Lin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "TC", 
+                        "surname": "Kuo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Yu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "EM", 
+                        "surname": "Hurt"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Rosenwald"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Giltnane"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Yang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Zhao"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Calame"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "LM", 
+                        "surname": "Staudt"
+                    }
+                ]
+            }
         }, 
-        "bib16": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/j.molcel.2007.01.017", 
-            "year": "2007", 
-            "title": "Reversal of H3K9me2 by a small-molecule inhibitor for the G9a histone methyltransferase", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Kubicek"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RJ", 
-                    "surname": "O'Sullivan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "EM", 
-                    "surname": "August"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ER", 
-                    "surname": "Hickey"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Q", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ML", 
-                    "surname": "Teodoro"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Rea"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Mechtler"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Kowalski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CA", 
-                    "surname": "Homon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TA", 
-                    "surname": "Kelly"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Jenuwein"
-                }
-            ]
+        {
+            "bib27": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.2027411", 
+                "year": "2011", 
+                "title": "H3K9 methyltransferase G9a and the related molecule GLP", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tachibana"
+                    }
+                ]
+            }
         }, 
-        "bib19": {
-            "source": "Molecular Cell", 
-            "doi": "10.1016/j.molcel.2013.12.005", 
-            "year": "2014", 
-            "title": "The histone H3 lysine 9 methyltransferases G9a and GLP regulate polycomb repressive complex 2-mediated gene silencing", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Mozzetta"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Pontis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Fritsch"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Robin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Portoso"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Proux"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Margueron"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Ait-Si-Ali"
-                }
-            ]
+        {
+            "bib28": {
+                "source": "Nature Genetics", 
+                "doi": "10.1038/ng1351", 
+                "year": "2004", 
+                "title": "Dynamic assembly of silent chromatin during thymocyte maturation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "RC", 
+                        "surname": "Su"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KE", 
+                        "surname": "Brown"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Saaber"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AG", 
+                        "surname": "Fisher"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Merkenschlager"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "ST", 
+                        "surname": "Smale"
+                    }
+                ]
+            }
         }, 
-        "bib18": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M511093200", 
-            "year": "2006", 
-            "title": "Histone H3 lysine 9 methyltransferase G9a is a transcriptional coactivator for nuclear receptors", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "DY", 
-                    "surname": "Lee"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JP", 
-                    "surname": "Northrop"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MH", 
-                    "surname": "Kuo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MR", 
-                    "surname": "Stallcup"
-                }
-            ]
+        {
+            "bib29": {
+                "source": "The EMBO Journal", 
+                "doi": "10.1038/emboj.2008.192", 
+                "year": "2008", 
+                "title": "G9a/GLP complexes independently mediate H3K9 and DNA methylation to silence transcription", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tachibana"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Matsumura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Fukuda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Kimura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }
+                ]
+            }
         }, 
-        "bib35": {
-            "source": "Nature Genetics", 
-            "doi": "10.1038/ng.297", 
-            "year": "2009", 
-            "title": "Large histone H3 lysine 9 dimethylated chromatin blocks distinguish differentiated from embryonic stem cells", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Wen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RA", 
-                    "surname": "Irizarry"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AP", 
-                    "surname": "Feinberg"
-                }
-            ]
+        {
+            "bib30": {
+                "source": "The EMBO Journal", 
+                "doi": "10.1038/sj.emboj.7601767", 
+                "year": "2007", 
+                "title": "Functional dynamics of H3K9 methylation during meiotic prophase progression", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tachibana"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Nozaki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Takeda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }
+                ]
+            }
         }, 
-        "bib34": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M603087200", 
-            "year": "2006", 
-            "title": "Zinc finger protein Wiz links G9a/GLP histone methyltransferases to the co-repressor molecule CtBP", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ueda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tachibana"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Ikura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }
-            ]
+        {
+            "bib31": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M101914200", 
+                "year": "2001", 
+                "title": "Set domain-containing protein, G9a, is a novel lysine-preferring mammalian histone methyltransferase with hyperactivity and specific selectivity to lysines 9 and 27 of histone H3", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tachibana"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Sugimoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Fukushima"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }
+                ]
+            }
         }, 
-        "bib33": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.1284005", 
-            "year": "2005", 
-            "title": "Histone methyltransferases G9a and GLP form heteromeric complexes and are both crucial for methylation of euchromatin at H3-K9", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tachibana"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ueda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Fukuda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Takeda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Ohta"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Iwanari"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Sakihama"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Kodama"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Hamakubo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }
-            ]
+        {
+            "bib32": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.989402", 
+                "year": "2002", 
+                "title": "G9a histone methyltransferase plays a dominant role in euchromatic histone H3 lysine 9 methylation and is essential for early embryogenesis", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tachibana"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Sugimoto"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Nozaki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ueda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Ohta"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Ohki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Fukuda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Takeda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Niida"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Kato"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }
+                ]
+            }
         }, 
-        "bib32": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.989402", 
-            "year": "2002", 
-            "title": "G9a histone methyltransferase plays a dominant role in euchromatic histone H3 lysine 9 methylation and is essential for early embryogenesis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tachibana"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Sugimoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Nozaki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ueda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Ohta"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Ohki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Fukuda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Takeda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Niida"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Kato"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }
-            ]
+        {
+            "bib33": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.1284005", 
+                "year": "2005", 
+                "title": "Histone methyltransferases G9a and GLP form heteromeric complexes and are both crucial for methylation of euchromatin at H3-K9", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tachibana"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ueda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Fukuda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "N", 
+                        "surname": "Takeda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Ohta"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Iwanari"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Sakihama"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Kodama"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Hamakubo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }
+                ]
+            }
         }, 
-        "bib31": {
-            "source": "The Journal of Biological Chemistry", 
-            "doi": "10.1074/jbc.M101914200", 
-            "year": "2001", 
-            "title": "Set domain-containing protein, G9a, is a novel lysine-preferring mammalian histone methyltransferase with hyperactivity and specific selectivity to lysines 9 and 27 of histone H3", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tachibana"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Sugimoto"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Fukushima"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }
-            ]
+        {
+            "bib34": {
+                "source": "The Journal of Biological Chemistry", 
+                "doi": "10.1074/jbc.M603087200", 
+                "year": "2006", 
+                "title": "Zinc finger protein Wiz links G9a/GLP histone methyltransferases to the co-repressor molecule CtBP", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ueda"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Tachibana"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Ikura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }
+                ]
+            }
         }, 
-        "bib30": {
-            "source": "The EMBO Journal", 
-            "doi": "10.1038/sj.emboj.7601767", 
-            "year": "2007", 
-            "title": "Functional dynamics of H3K9 methylation during meiotic prophase progression", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Tachibana"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Nozaki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "N", 
-                    "surname": "Takeda"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Shinkai"
-                }
-            ]
+        {
+            "bib35": {
+                "source": "Nature Genetics", 
+                "doi": "10.1038/ng.297", 
+                "year": "2009", 
+                "title": "Large histone H3 lysine 9 dimethylated chromatin blocks distinguish differentiated from embryonic stem cells", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Wen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Shinkai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RA", 
+                        "surname": "Irizarry"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AP", 
+                        "surname": "Feinberg"
+                    }
+                ]
+            }
         }, 
-        "bib37": {
-            "source": "Current Biology", 
-            "doi": "10.1016/j.cub.2009.02.018", 
-            "year": "2009", 
-            "title": "PALB2 links BRCA1 and BRCA2 in the DNA-damage response", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ma"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Ye"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Cai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Xia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Yu"
-                }
-            ]
+        {
+            "bib36": {
+                "source": "Nucleic Acids Research", 
+                "doi": "10.1093/nar/gkq1287", 
+                "year": "2011", 
+                "title": "seqMINER: an integrated ChIP-seq data interpretation platform", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Ye"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AR", 
+                        "surname": "Krebs"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MA", 
+                        "surname": "Choukrallah"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Keime"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Plewniak"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Davidson"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Tora"
+                    }
+                ]
+            }
         }, 
-        "bib36": {
-            "source": "Nucleic Acids Research", 
-            "doi": "10.1093/nar/gkq1287", 
-            "year": "2011", 
-            "title": "seqMINER: an integrated ChIP-seq data interpretation platform", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Ye"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AR", 
-                    "surname": "Krebs"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Choukrallah"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Keime"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "F", 
-                    "surname": "Plewniak"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Davidson"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Tora"
-                }
-            ]
+        {
+            "bib37": {
+                "source": "Current Biology", 
+                "doi": "10.1016/j.cub.2009.02.018", 
+                "year": "2009", 
+                "title": "PALB2 links BRCA1 and BRCA2 in the DNA-damage response", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "F", 
+                        "surname": "Zhang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ma"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Wu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Ye"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Cai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "B", 
+                        "surname": "Xia"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "X", 
+                        "surname": "Yu"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "Repression of gene expression by the histone methyltransferase G9a is guided by two zinc finger proteins that can recognize consensus sequences in DNA.", 
     "related-articles": [], 
     "elocation-id": "e05606", 
@@ -1751,45 +1824,54 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {
-            "par-4": {
-                "id": "http://dx.doi.org/10.13039/100000005", 
-                "award-id": "Era of Hope Scholar Award", 
-                "institution": "U.S. Department of Defense", 
-                "id-type": "FundRef"
+        "funding": [
+            {
+                "par-1": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "CA132755", 
+                    "institution": "National Institutes of Health (NIH)", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-3": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "CA187209", 
-                "institution": "National Institutes of Health (NIH)", 
-                "id-type": "FundRef"
+            {
+                "par-2": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "CA130899", 
+                    "institution": "National Institutes of Health (NIH)", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-2": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "CA130899", 
-                "institution": "National Institutes of Health (NIH)", 
-                "id-type": "FundRef"
+            {
+                "par-3": {
+                    "id": "http://dx.doi.org/10.13039/100000002", 
+                    "award-id": "CA187209", 
+                    "institution": "National Institutes of Health (NIH)", 
+                    "id-type": "FundRef"
+                }
             }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "CA132755", 
-                "institution": "National Institutes of Health (NIH)", 
-                "id-type": "FundRef"
+            {
+                "par-4": {
+                    "id": "http://dx.doi.org/10.13039/100000005", 
+                    "award-id": "Era of Hope Scholar Award", 
+                    "institution": "U.S. Department of Defense", 
+                    "id-type": "FundRef"
+                }
             }
-        }, 
+        ], 
         "related-object": {
             "dataro1": {}
         }, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Division of Molecular Medicine and Genetics, Department of Internal Medicine", 
-                "email": null, 
-                "city": "Ann Arbor", 
-                "institution": "University of Michigan Medical School", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Division of Molecular Medicine and Genetics, Department of Internal Medicine", 
+                    "city": "Ann Arbor", 
+                    "institution": "University of Michigan Medical School", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {
             "equal-contrib": "These authors contributed equally to this work"
         }, 
@@ -1946,7 +2028,7 @@
             "title": "Author response"
         }
     ], 
-    "article-id": "10.7554/eLife.05606", 
+    "article-id": "05606", 
     "categories": {
         "heading": [
             "Biochemistry"

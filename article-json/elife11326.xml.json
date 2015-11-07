@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "editorial", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Jit", 
@@ -54,26 +53,28 @@
     ], 
     "pub-date": "2015-10-07", 
     "title": "What makes an eLife paper in epidemiology and global health?", 
-    "citations": {
-        "bib1": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.05770", 
-            "year": "2015", 
-            "title": "The pleasure of publishing", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "Malhotra"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Marder"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.05770", 
+                "year": "2015", 
+                "title": "The pleasure of publishing", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "V", 
+                        "surname": "Malhotra"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Marder"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e11326", 
@@ -94,39 +95,45 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff3": {
-                "dept": "Center for Global Health Research", 
-                "email": "jhap@smh.ca", 
-                "city": "Toronto", 
-                "institution": "Saint Michael's Hospital", 
-                "country": "Canada"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Infectious Disease Epidemiology", 
+                    "email": "Mark.Jit@lshtm.ac.uk", 
+                    "city": "London", 
+                    "institution": "London School of Hygiene and Tropical Medicine", 
+                    "country": "United Kingdom"
+                }
             }, 
-            "aff2": {
-                "dept": "Division of Cancer Epidemiology", 
-                "email": "eduardo.franco@mcgill.ca", 
-                "city": "Montreal", 
-                "institution": "McGill University", 
-                "country": "Canada"
+            {
+                "aff2": {
+                    "dept": "Division of Cancer Epidemiology", 
+                    "email": "eduardo.franco@mcgill.ca", 
+                    "city": "Montreal", 
+                    "institution": "McGill University", 
+                    "country": "Canada"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Infectious Disease Epidemiology", 
-                "email": "Mark.Jit@lshtm.ac.uk", 
-                "city": "London", 
-                "institution": "London School of Hygiene and Tropical Medicine", 
-                "country": "United Kingdom"
+            {
+                "aff3": {
+                    "dept": "Center for Global Health Research", 
+                    "email": "jhap@smh.ca", 
+                    "city": "Toronto", 
+                    "institution": "Saint Michael's Hospital", 
+                    "country": "Canada"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e11326v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.11326", 
+    "article-id": "11326", 
     "categories": {
         "sub-display-channel": [
             "Research"

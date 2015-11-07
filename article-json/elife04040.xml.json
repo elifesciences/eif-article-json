@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "article-commentary", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Yang", 
@@ -37,134 +36,146 @@
     ], 
     "pub-date": "2014-08-19", 
     "title": "What can fruit flies teach us about karate?", 
-    "citations": {
-        "bib1": {
-            "source": "Psychological Bulletin", 
-            "doi": "10.1037/0033-2909.96.1.3", 
-            "year": "1984", 
-            "title": "Learning of movement sequences", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JA", 
-                    "surname": "Adams"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Psychological Bulletin", 
+                "doi": "10.1037/0033-2909.96.1.3", 
+                "year": "1984", 
+                "title": "Learning of movement sequences", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JA", 
+                        "surname": "Adams"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Cerebral mechanisms in behavior, the Hixon Symposium", 
-            "year": "1951", 
-            "title": "The problem of serial order in behavior", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KS", 
-                    "surname": "Lashley"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "LloydA", 
-                    "surname": "Jeffress"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Psyche", 
+                "year": "1995", 
+                "title": "Parallel models of serial behavior: Lashley revisited", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "G", 
+                        "surname": "Houghton"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Hartley"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Psyche", 
-            "year": "1995", 
-            "title": "Parallel models of serial behavior: Lashley revisited", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Houghton"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Hartley"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Cerebral mechanisms in behavior, the Hixon Symposium", 
+                "year": "1951", 
+                "title": "The problem of serial order in behavior", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KS", 
+                        "surname": "Lashley"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "LloydA", 
+                        "surname": "Jeffress"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.02951", 
-            "year": "2014", 
-            "title": "A suppression hierarchy among competing motor programs drives sequential grooming in <italic>Drosophila</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AM", 
-                    "surname": "Seeds"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Ravbar"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Chung"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Hampel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FM", 
-                    "surname": "Midgley"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BD", 
-                    "surname": "Mensh"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JH", 
-                    "surname": "Simpson"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Nature", 
+                "doi": "10.1038/nature09514", 
+                "year": "2010", 
+                "title": "Support for a synaptic chain model of neuronal sequence generation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "MA", 
+                        "surname": "Long"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DZ", 
+                        "surname": "Jin"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "MS", 
+                        "surname": "Fee"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Nature", 
-            "doi": "10.1038/nature09514", 
-            "year": "2010", 
-            "title": "Support for a synaptic chain model of neuronal sequence generation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "MA", 
-                    "surname": "Long"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DZ", 
-                    "surname": "Jin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "MS", 
-                    "surname": "Fee"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.02951", 
+                "year": "2014", 
+                "title": "A suppression hierarchy among competing motor programs drives sequential grooming in <italic>Drosophila</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AM", 
+                        "surname": "Seeds"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Ravbar"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "P", 
+                        "surname": "Chung"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Hampel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "FM", 
+                        "surname": "Midgley"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BD", 
+                        "surname": "Mensh"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JH", 
+                        "surname": "Simpson"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Animal Behaviour", 
-            "doi": "10.1016/S0003-3472(69)80006-0", 
-            "year": "1969", 
-            "title": "Cleaning behaviour in <italic>Drosophila Melanogaster</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "AL", 
-                    "surname": "Szebenyi"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Animal Behaviour", 
+                "doi": "10.1016/S0003-3472(69)80006-0", 
+                "year": "1969", 
+                "title": "Cleaning behaviour in <italic>Drosophila Melanogaster</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "AL", 
+                        "surname": "Szebenyi"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [
         {
@@ -196,32 +207,35 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Neurobiology", 
-                "email": "trc@stanford.edu", 
-                "city": "Stanford", 
-                "institution": "Stanford University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Neurobiology", 
+                    "city": "Stanford", 
+                    "institution": "Stanford University", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Neurobiology", 
-                "email": null, 
-                "city": "Stanford", 
-                "institution": "Stanford University", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "Department of Neurobiology", 
+                    "email": "trc@stanford.edu", 
+                    "city": "Stanford", 
+                    "institution": "Stanford University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/3/e04040v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.04040", 
+    "article-id": "04040", 
     "categories": {
         "sub-display-channel": [
             "Serial behaviour"

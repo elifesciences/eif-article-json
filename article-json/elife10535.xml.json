@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "article-commentary", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -36,150 +35,160 @@
     ], 
     "pub-date": "2015-09-09", 
     "title": "Catching more flies with vinegar", 
-    "citations": {
-        "bib1": {
-            "title": "xkcd: Flies", 
-            "year": "2007", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "collab": "xkcd"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "title": "xkcd: Flies", 
+                "year": "2007", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "collab": "xkcd"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Nature", 
-            "doi": "10.1038/nature07983", 
-            "year": "2009", 
-            "title": "Select Drosophila glomeruli mediate innate olfactory attraction and aversion", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JL", 
-                    "surname": "Semmelhack"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JW", 
-                    "surname": "Wang"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.08298", 
+                "year": "2015", 
+                "title": "Starvation promotes concerted modulation of appetitive olfactory behavior via parallel neuromodulatory circuits", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KI", 
+                        "surname": "Ko"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Root"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SA", 
+                        "surname": "Lindsay"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "OA", 
+                        "surname": "Zaninovich"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AK", 
+                        "surname": "Shepherd"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SA", 
+                        "surname": "Wasserman"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "SM", 
+                        "surname": "Kim"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JW", 
+                        "surname": "Wang"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.08298", 
-            "year": "2015", 
-            "title": "Starvation promotes concerted modulation of appetitive olfactory behavior via parallel neuromodulatory circuits", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KI", 
-                    "surname": "Ko"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Root"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SA", 
-                    "surname": "Lindsay"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "OA", 
-                    "surname": "Zaninovich"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AK", 
-                    "surname": "Shepherd"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SA", 
-                    "surname": "Wasserman"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SM", 
-                    "surname": "Kim"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JW", 
-                    "surname": "Wang"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Nature", 
+                "doi": "10.1038/nature07983", 
+                "year": "2009", 
+                "title": "Select Drosophila glomeruli mediate innate olfactory attraction and aversion", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "JL", 
+                        "surname": "Semmelhack"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JW", 
+                        "surname": "Wang"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Proceedings of the National Academy of Sciences of USA", 
-            "doi": "10.1073/pnas.0813004106", 
-            "year": "2009", 
-            "title": "Presynaptic peptidergic modulation of olfactory receptor neurons in Drosophila", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Ignell"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Root"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RT", 
-                    "surname": "Birse"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JW", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "DR", 
-                    "surname": "N\u00e4ssel"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "AM", 
-                    "surname": "Winther"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2011.02.008", 
+                "year": "2011", 
+                "title": "Presynaptic facilitation by neuropeptide signaling mediates odor-driven food search", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Root"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "KI", 
+                        "surname": "Ko"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Jafari"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JW", 
+                        "surname": "Wang"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2011.02.008", 
-            "year": "2011", 
-            "title": "Presynaptic facilitation by neuropeptide signaling mediates odor-driven food search", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "CM", 
-                    "surname": "Root"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "KI", 
-                    "surname": "Ko"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Jafari"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JW", 
-                    "surname": "Wang"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Proceedings of the National Academy of Sciences of USA", 
+                "doi": "10.1073/pnas.0813004106", 
+                "year": "2009", 
+                "title": "Presynaptic peptidergic modulation of olfactory receptor neurons in Drosophila", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Ignell"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CM", 
+                        "surname": "Root"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RT", 
+                        "surname": "Birse"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JW", 
+                        "surname": "Wang"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "DR", 
+                        "surname": "N\u00e4ssel"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "AM", 
+                        "surname": "Winther"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [
         {
@@ -211,32 +220,35 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Neurobiology", 
-                "email": "marco@northwestern.edu", 
-                "city": "Evanston", 
-                "institution": "Northwestern University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Neurobiology", 
+                    "city": "Evanston", 
+                    "institution": "Northwestern University", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Neurobiology", 
-                "email": null, 
-                "city": "Evanston", 
-                "institution": "Northwestern University", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "Department of Neurobiology", 
+                    "email": "marco@northwestern.edu", 
+                    "city": "Evanston", 
+                    "institution": "Northwestern University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/4/e10535v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.10535", 
+    "article-id": "10535", 
     "categories": {
         "sub-display-channel": [
             "Olfaction"

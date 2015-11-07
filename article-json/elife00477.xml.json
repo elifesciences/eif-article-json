@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "article-commentary", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Marder", 
@@ -22,7 +21,7 @@
     ], 
     "pub-date": "2013-01-22", 
     "title": "Crossing oceans", 
-    "citations": {}, 
+    "citations": [], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e00477", 
@@ -44,25 +43,27 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist"
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Biology and the Volen National Center for Complex Systems", 
-                "email": "marder@brandeis.edu", 
-                "city": "Waltham", 
-                "institution": "Brandeis University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Biology and the Volen National Center for Complex Systems", 
+                    "email": "marder@brandeis.edu", 
+                    "city": "Waltham", 
+                    "institution": "Brandeis University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/2/e00477v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.00477", 
+    "article-id": "00477", 
     "categories": {
         "sub-display-channel": [
             "Living science"

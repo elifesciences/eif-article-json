@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "article-commentary", 
-    "force": "1", 
     "contributors": [
         {
             "type": "author", 
@@ -36,303 +35,317 @@
     ], 
     "pub-date": "2014-09-24", 
     "title": "How the immune system spots tumors", 
-    "citations": {
-        "bib1": {
-            "source": "Nature Reviews Immunology", 
-            "doi": "10.1038/nri1745", 
-            "year": "2006", 
-            "title": "Dectin-1: a signalling non-TLR pattern-recognition receptor", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "GD", 
-                    "surname": "Brown"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Nature Reviews Immunology", 
+                "doi": "10.1038/nri1745", 
+                "year": "2006", 
+                "title": "Dectin-1: a signalling non-TLR pattern-recognition receptor", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "GD", 
+                        "surname": "Brown"
+                    }
+                ]
+            }
         }, 
-        "bib3": {
-            "source": "Immunity", 
-            "doi": "10.1016/j.immuni.2013.05.010", 
-            "year": "2013", 
-            "title": "Interferon-beta production via Dectin-1-Syk-IRF5 signaling in dendritic cells is crucial for immunity to <italic>C. albicans</italic>", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "del Fresno"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Soulat"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Roth"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Blazek"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "I", 
-                    "surname": "Udalova"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Sancho"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Ruland"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Ardavin"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "eLife", 
+                "doi": "10.7554/eLife.04177", 
+                "year": "2014", 
+                "title": "Recognition of tumor cells by Dectin-1 orchestrates innate immune cells for anti-tumor responses", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Chiba"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Ikushima"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Ueki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Yanai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Kimura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Hangai"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Nishio"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "H", 
+                        "surname": "Negishi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Tamura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Saijo"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "Y", 
+                        "surname": "Iwakura"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "T", 
+                        "surname": "Taniguchi"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "eLife", 
-            "doi": "10.7554/eLife.04177", 
-            "year": "2014", 
-            "title": "Recognition of tumor cells by Dectin-1 orchestrates innate immune cells for anti-tumor responses", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Chiba"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Ikushima"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Ueki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Yanai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Kimura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Hangai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Nishio"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Negishi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Tamura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Saijo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Iwakura"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Taniguchi"
-                }
-            ]
+        {
+            "bib3": {
+                "source": "Immunity", 
+                "doi": "10.1016/j.immuni.2013.05.010", 
+                "year": "2013", 
+                "title": "Interferon-beta production via Dectin-1-Syk-IRF5 signaling in dendritic cells is crucial for immunity to <italic>C. albicans</italic>", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "del Fresno"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Soulat"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Roth"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "K", 
+                        "surname": "Blazek"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "I", 
+                        "surname": "Udalova"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Sancho"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "J", 
+                        "surname": "Ruland"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Ardavin"
+                    }
+                ]
+            }
         }, 
-        "bib5": {
-            "source": "Essentials of Glycobiology", 
-            "year": "2009", 
-            "title": "Glycosylation changes in cancer", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Varki"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "R", 
-                    "surname": "Kannagi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BP", 
-                    "surname": "Toole"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "A", 
-                    "surname": "Varki"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "RD", 
-                    "surname": "Cummings"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "JD", 
-                    "surname": "Esko"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "HH", 
-                    "surname": "Freeze"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "P", 
-                    "surname": "Stanley"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "CR", 
-                    "surname": "Bertozzi"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "GW", 
-                    "surname": "Hart"
-                }, 
-                {
-                    "group-type": "editor", 
-                    "given-names": "ME", 
-                    "surname": "Etzler"
-                }
-            ]
+        {
+            "bib4": {
+                "source": "Cell", 
+                "doi": "10.1016/j.cell.2010.01.022", 
+                "year": "2010", 
+                "title": "Pattern recognition receptors and inflammation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "O", 
+                        "surname": "Takeuchi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Akira"
+                    }
+                ]
+            }
         }, 
-        "bib4": {
-            "source": "Cell", 
-            "doi": "10.1016/j.cell.2010.01.022", 
-            "year": "2010", 
-            "title": "Pattern recognition receptors and inflammation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "O", 
-                    "surname": "Takeuchi"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Akira"
-                }
-            ]
+        {
+            "bib5": {
+                "source": "Essentials of Glycobiology", 
+                "year": "2009", 
+                "title": "Glycosylation changes in cancer", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Varki"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "R", 
+                        "surname": "Kannagi"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "BP", 
+                        "surname": "Toole"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "A", 
+                        "surname": "Varki"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "RD", 
+                        "surname": "Cummings"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "JD", 
+                        "surname": "Esko"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "HH", 
+                        "surname": "Freeze"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "P", 
+                        "surname": "Stanley"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "CR", 
+                        "surname": "Bertozzi"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "GW", 
+                        "surname": "Hart"
+                    }, 
+                    {
+                        "group-type": "editor", 
+                        "given-names": "ME", 
+                        "surname": "Etzler"
+                    }
+                ]
+            }
         }, 
-        "bib7": {
-            "source": "Genes & Development", 
-            "doi": "10.1101/gad.1985910", 
-            "year": "2010", 
-            "title": "The hexosamine biosynthetic pathway couples growth factor-induced glutamine uptake to glucose metabolism", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "KE", 
-                    "surname": "Wellen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Lu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Mancuso"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Lemons"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Ryczko"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JW", 
-                    "surname": "Dennis"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JD", 
-                    "surname": "Rabinowitz"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HA", 
-                    "surname": "Coller"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CB", 
-                    "surname": "Thompson"
-                }
-            ]
+        {
+            "bib6": {
+                "source": "Nature Reviews Immunology", 
+                "doi": "10.1038/nri3174", 
+                "year": "2012", 
+                "title": "Targeting natural killer cells and natural killer T cells in cancer", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Vivier"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "S", 
+                        "surname": "Ugolini"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "D", 
+                        "surname": "Blaise"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Chabannon"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "L", 
+                        "surname": "Brossay"
+                    }
+                ]
+            }
         }, 
-        "bib6": {
-            "source": "Nature Reviews Immunology", 
-            "doi": "10.1038/nri3174", 
-            "year": "2012", 
-            "title": "Targeting natural killer cells and natural killer T cells in cancer", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Vivier"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Ugolini"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "D", 
-                    "surname": "Blaise"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Chabannon"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Brossay"
-                }
-            ]
+        {
+            "bib7": {
+                "source": "Genes & Development", 
+                "doi": "10.1101/gad.1985910", 
+                "year": "2010", 
+                "title": "The hexosamine biosynthetic pathway couples growth factor-induced glutamine uptake to glucose metabolism", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "KE", 
+                        "surname": "Wellen"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "C", 
+                        "surname": "Lu"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "A", 
+                        "surname": "Mancuso"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JM", 
+                        "surname": "Lemons"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "M", 
+                        "surname": "Ryczko"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JW", 
+                        "surname": "Dennis"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "JD", 
+                        "surname": "Rabinowitz"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "HA", 
+                        "surname": "Coller"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "CB", 
+                        "surname": "Thompson"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [
         {
@@ -363,32 +376,35 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Immunobiology", 
-                "email": "ruslan.medzhitov@yale.edu", 
-                "city": "New Haven", 
-                "institution": "Yale University School of Medicine", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Immunobiology", 
+                    "city": "New Haven", 
+                    "institution": "Yale University School of Medicine", 
+                    "country": "United States"
+                }
             }, 
-            "aff1": {
-                "dept": "Department of Immunobiology", 
-                "email": null, 
-                "city": "New Haven", 
-                "institution": "Yale University School of Medicine", 
-                "country": "United States"
+            {
+                "aff2": {
+                    "dept": "Department of Immunobiology", 
+                    "email": "ruslan.medzhitov@yale.edu", 
+                    "city": "New Haven", 
+                    "institution": "Yale University School of Medicine", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/3/e04476v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.04476", 
+    "article-id": "04476", 
     "categories": {
         "sub-display-channel": [
             "Cancer"

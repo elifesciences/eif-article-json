@@ -1,7 +1,6 @@
 {
     "status": "VOR", 
     "article-type": "discussion", 
-    "force": "1", 
     "contributors": [
         {
             "surname": "Marder", 
@@ -30,42 +29,46 @@
     ], 
     "pub-date": "2014-04-01", 
     "title": "In numbers we trust?", 
-    "citations": {
-        "bib1": {
-            "source": "Journal of Neuroscience", 
-            "year": "1987", 
-            "title": "Modulation of the lobster pyloric rhythm by the peptide proctolin", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SL", 
-                    "surname": "Hooper"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Marder"
-                }
-            ]
+    "citations": [
+        {
+            "bib1": {
+                "source": "Journal of Neuroscience", 
+                "year": "1987", 
+                "title": "Modulation of the lobster pyloric rhythm by the peptide proctolin", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "SL", 
+                        "surname": "Hooper"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Marder"
+                    }
+                ]
+            }
         }, 
-        "bib2": {
-            "source": "Physiological Reviews", 
-            "year": "1996", 
-            "title": "Principles of rhythmic motor pattern generation", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "E", 
-                    "surname": "Marder"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "RL", 
-                    "surname": "Calabrese"
-                }
-            ]
+        {
+            "bib2": {
+                "source": "Physiological Reviews", 
+                "year": "1996", 
+                "title": "Principles of rhythmic motor pattern generation", 
+                "authors": [
+                    {
+                        "group-type": "author", 
+                        "given-names": "E", 
+                        "surname": "Marder"
+                    }, 
+                    {
+                        "group-type": "author", 
+                        "given-names": "RL", 
+                        "surname": "Calabrese"
+                    }
+                ]
+            }
         }
-    }, 
+    ], 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e02791", 
@@ -89,25 +92,27 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": {}, 
+        "funding": null, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Biology and the Volen National Center for Complex Systems", 
-                "email": "marder@brandeis.edu", 
-                "city": "Waltham", 
-                "institution": "Brandeis University", 
-                "country": "United States"
+        "affiliation": [
+            {
+                "aff1": {
+                    "dept": "Department of Biology and the Volen National Center for Complex Systems", 
+                    "email": "marder@brandeis.edu", 
+                    "city": "Waltham", 
+                    "institution": "Brandeis University", 
+                    "country": "United States"
+                }
             }
-        }, 
+        ], 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
     }, 
     "path": "content/3/e02791v1", 
     "fragments": [], 
-    "article-id": "10.7554/eLife.02791", 
+    "article-id": "02791", 
     "categories": {
         "sub-display-channel": [
             "Living science"
