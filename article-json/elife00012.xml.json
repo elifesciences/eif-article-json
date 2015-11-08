@@ -125,1771 +125,1629 @@
     ], 
     "pub-date": "2013-01-22", 
     "title": "Changing the responses of cortical neurons from sub- to suprathreshold using single spikes in vivo", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "Nat Rev Neurosci", 
-                "year": "2008", 
-                "title": "Metaplasticity: tuning synapses and networks for plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "WC", 
-                        "surname": "Abraham"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib2": {
-                "source": "Nature", 
-                "year": "1990", 
-                "title": "Different voltage-dependent thresholds for inducing long-term depression and long-term potentiation in slices of rat visual cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Artola"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Brocher"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Singer"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib3": {
-                "source": "Proc Biol Sci", 
-                "year": "1997", 
-                "title": "Responses of neurons in primary and inferior temporal visual cortices to natural scenes", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Baddeley"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "LF", 
-                        "surname": "Abbott"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MC", 
-                        "surname": "Booth"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Sengpiel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Freeman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "EA", 
-                        "surname": "Wakeman"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib4": {
-                "source": "Neural Comput", 
-                "year": "1996", 
-                "title": "Temporal precision of spike trains in extrastriate cortex of the behaving macaque monkey", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Bair"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Koch"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib5": {
-                "source": "Annu Rev Neurosci", 
-                "year": "2001", 
-                "title": "Synaptic modification by correlated activity: Hebb's postulate revisited", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Bi"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Poo"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib6": {
-                "source": "J Neurosci", 
-                "year": "1998", 
-                "title": "Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "GQ", 
-                        "surname": "Bi"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MM", 
-                        "surname": "Poo"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib7": {
-                "source": "Neural Comput", 
-                "year": "2007", 
-                "title": "Reducing the variability of neural responses: a computational theory of spike-timing-dependent plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "SM", 
-                        "surname": "Bohte"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MC", 
-                        "surname": "Mozer"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib8": {
-                "source": "Nat Neurosci", 
-                "year": "2004", 
-                "title": "Modulation of spike timing by sensory deprivation during induction of cortical map plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Celikel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "VA", 
-                        "surname": "Szostak"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DE", 
-                        "surname": "Feldman"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib9": {
-                "source": "Nat Neurosci", 
-                "year": "2010", 
-                "title": "Connectivity reflects coding: a model of voltage-based STDP with homeostasis", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Clopath"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Busing"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Vasilaki"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Gerstner"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib10": {
-                "source": "J Neurophysiol", 
-                "year": "1994", 
-                "title": "Spontaneous firing patterns and axonal projections of single corticostriatal neurons in the rat medial agranular cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "RL", 
-                        "surname": "Cowan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CJ", 
-                        "surname": "Wilson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib11": {
-                "source": "J Physiol", 
-                "year": "1976", 
-                "title": "Kittens reared in a unidirectional environment: evidence for a critical period", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "NW", 
-                        "surname": "Daw"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "HJ", 
-                        "surname": "Wyatt"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib12": {
-                "source": "Vision Res", 
-                "year": "1994", 
-                "title": "Functional postnatal development of the rat primary visual cortex and the role of visual experience: dark rearing and monocular deprivation", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Fagiolini"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Pizzorusso"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Berardi"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Domenici"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Maffei"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib13": {
-                "source": "Neuron", 
-                "year": "2012", 
-                "title": "The spike-timing dependence of plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DE", 
-                        "surname": "Feldman"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib14": {
-                "source": "J Neurosci", 
-                "year": "1986", 
-                "title": "Orientation selectivity of synaptic potentials in neurons of cat primary visual cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Ferster"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib15": {
-                "source": "Front Synaptic Neurosci", 
-                "year": "2010", 
-                "title": "A Re-examination of Hebbian-covariance rules and spike timing-dependent plasticity in cat visual cortex in vivo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Fregnac"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Pananceau"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Rene"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Huguet"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "O", 
-                        "surname": "Marre"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levy"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib16": {
-                "source": "J Neurophysiol", 
-                "year": "1999", 
-                "title": "Modulation of receptive field properties of thalamic somatosensory neurons by the depth of anesthesia", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MH", 
-                        "surname": "Friedberg"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SM", 
-                        "surname": "Lee"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "FF", 
-                        "surname": "Ebner"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib17": {
-                "source": "Nature", 
-                "year": "2005", 
-                "title": "Spike-timing-dependent synaptic plasticity depends on dendritic location", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "RC", 
-                        "surname": "Froemke"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MM", 
-                        "surname": "Poo"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Dan"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib18": {
-                "source": "Science", 
-                "year": "2002", 
-                "title": "Temporal specificity in the cortical plasticity of visual space representation", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "YX", 
-                        "surname": "Fu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Djupsund"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Gao"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Hayden"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Shen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Dan"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib19": {
-                "source": "Nature", 
-                "year": "1996", 
-                "title": "A neuronal learning rule for sub-millisecond temporal coding", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Gerstner"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Kempter"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JL", 
-                        "surname": "van Hemmen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Wagner"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib20": {
-                "source": "Physiol Rev", 
-                "year": "1998", 
-                "title": "Adult cortical dynamics", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Gilbert"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib21": {
-                "source": "Nature", 
-                "year": "1992", 
-                "title": "Receptive field dynamics in adult primary visual cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Gilbert"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TN", 
-                        "surname": "Wiesel"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib22": {
-                "source": "Nat Neurosci", 
-                "year": "2008", 
-                "title": "Population imaging of ongoing neuronal activity in the visual cortex of awake rats", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DS", 
-                        "surname": "Greenberg"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AR", 
-                        "surname": "Houweling"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JN", 
-                        "surname": "Kerr"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib23": {
-                "source": "Nature", 
-                "year": "1986", 
-                "title": "Functional architecture of cortex revealed by optical imaging of intrinsic signals", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Grinvald"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Lieke"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RD", 
-                        "surname": "Frostig"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Gilbert"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TN", 
-                        "surname": "Wiesel"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib24": {
-                "source": "Nat Rev Neurosci", 
-                "year": "2005", 
-                "title": "Neural signatures of cell assembly organization", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "KD", 
-                        "surname": "Harris"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib25": {
-                "source": "J Neurosci", 
-                "year": "2007", 
-                "title": "State changes rapidly modulate cortical neuronal responsiveness", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Hasenstaub"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RN", 
-                        "surname": "Sachdev"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DA", 
-                        "surname": "McCormick"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib26": {
-                "source": "The organization of behavior. A neuropsychological theory", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DO", 
-                        "surname": "Hebb"
-                    }
-                ], 
-                "year": "1949"
-            }
-        }, 
-        {
-            "bib27": {
-                "source": "Front Comput Neurosci", 
-                "year": "2010", 
-                "title": "STDP in adaptive neurons gives close-to-optimal information transmission", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Hennequin"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Gerstner"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "Pfister"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib28": {
-                "source": "J Neurosci", 
-                "year": "1998", 
-                "title": "Synaptic integration in striate cortical simple cells", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JA", 
-                        "surname": "Hirsch"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JM", 
-                        "surname": "Alonso"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RC", 
-                        "surname": "Reid"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "LM", 
-                        "surname": "Martinez"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib29": {
-                "source": "J Physiol", 
-                "year": "2002", 
-                "title": "Synaptic physiology of the flow of information in the cat's visual cortex in vivo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JA", 
-                        "surname": "Hirsch"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "LM", 
-                        "surname": "Martinez"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JM", 
-                        "surname": "Alonso"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Desai"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Pillai"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Pierre"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib30": {
-                "source": "J Physiol", 
-                "year": "1959", 
-                "title": "Receptive fields of single neurones in the cat's striate cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DH", 
-                        "surname": "Hubel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TN", 
-                        "surname": "Wiesel"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib31": {
-                "source": "J Neurosci", 
-                "year": "2007", 
-                "title": "Spike timing-dependent synaptic depression in the in vivo barrel cortex of the rat", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "V", 
-                        "surname": "Jacob"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DJ", 
-                        "surname": "Brasier"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "I", 
-                        "surname": "Erchova"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Feldman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DE", 
-                        "surname": "Shulz"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib32": {
-                "source": "Nature", 
-                "year": "2010", 
-                "title": "Dendritic organization of sensory input to cortical neurons in vivo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Jia"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "NL", 
-                        "surname": "Rochefort"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "X", 
-                        "surname": "Chen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Konnerth"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib33": {
-                "source": "Science", 
-                "year": "1990", 
-                "title": "Reorganization of retinotopic cortical maps in adult mammals after lesions of the retina", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JH", 
-                        "surname": "Kaas"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "LA", 
-                        "surname": "Krubitzer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "YM", 
-                        "surname": "Chino"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AL", 
-                        "surname": "Langston"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "EH", 
-                        "surname": "Polley"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Blair"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib34": {
-                "source": "Proc Natl Acad Sci USA", 
-                "year": "2005", 
-                "title": "Imaging input and output of neocortical networks in vivo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JN", 
-                        "surname": "Kerr"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Greenberg"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Helmchen"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib35": {
-                "source": "J Neurosci", 
-                "year": "2002", 
-                "title": "Dendritic calcium encodes striatal neuron output during up-states", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JN", 
-                        "surname": "Kerr"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Plenz"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib36": {
-                "source": "Physiol Behav", 
-                "year": "1984", 
-                "title": "Variability of bregma in 300 gram Long-Evans and Sprague-Dawley rats", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Kline"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KH", 
-                        "surname": "Reid"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib37": {
-                "source": "Electroencephalogr Clin Neurophysiol", 
-                "year": "1968", 
-                "title": "The EEG during acute intoxication with hypnotics", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Kubicki"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Rieger"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib38": {
-                "source": "Neuron", 
-                "year": "2006", 
-                "title": "Whole-cell recordings in freely moving rats", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AK", 
-                        "surname": "Lee"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "ID", 
-                        "surname": "Manns"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Sakmann"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Brecht"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib39": {
-                "source": "Nature", 
-                "year": "2008", 
-                "title": "Experience with moving visual stimuli drives the early development of cortical direction selectivity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Li"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SD", 
-                        "surname": "Van Hooser"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Mazurek"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "LE", 
-                        "surname": "White"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Fitzpatrick"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib40": {
-                "source": "J Neurosci", 
-                "year": "2003", 
-                "title": "Enhancement of associative long-term potentiation by activation of beta-adrenergic receptors at CA1 synapses in rat hippocampal slices", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "YW", 
-                        "surname": "Lin"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MY", 
-                        "surname": "Min"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TH", 
-                        "surname": "Chiu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "HW", 
-                        "surname": "Yang"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib41": {
-                "source": "Nat Neurosci", 
-                "year": "2005", 
-                "title": "Postsynaptic depolarization requirements for LTP and LTD: a critique of spike timing-dependent plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Lisman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Spruston"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib42": {
-                "source": "Front Synaptic Neurosci", 
-                "year": "2010", 
-                "title": "Questions about STDP as a general model of synaptic plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Lisman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Spruston"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib43": {
-                "source": "Science", 
-                "year": "1997", 
-                "title": "A synaptically controlled, associative signal for Hebbian plasticity in hippocampal neurons", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JC", 
-                        "surname": "Magee"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Johnston"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib44": {
-                "source": "Science", 
-                "year": "1995", 
-                "title": "Reliability of spike timing in neocortical neurons", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "ZF", 
-                        "surname": "Mainen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TJ", 
-                        "surname": "Sejnowski"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib45": {
-                "source": "Neuron", 
-                "year": "2003", 
-                "title": "Targeted whole-cell recordings in the mammalian brain in vivo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "TW", 
-                        "surname": "Margrie"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AH", 
-                        "surname": "Meyer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Caputi"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Monyer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MT", 
-                        "surname": "Hasan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AT", 
-                        "surname": "Schaefer"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib46": {
-                "source": "Science", 
-                "year": "1997", 
-                "title": "Regulation of synaptic efficacy by coincidence of postsynaptic APs and EPSPs", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Markram"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Lubke"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Frotscher"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Sakmann"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib47": {
-                "source": "Proc Natl Acad Sci USA", 
-                "year": "1997", 
-                "title": "On the relationship between synaptic input and spike output jitter in individual neurons", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "P", 
-                        "surname": "Marsalek"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Koch"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Maunsell"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib48": {
-                "source": "Neuron", 
-                "year": "2006", 
-                "title": "Receptive-field modification in rat visual cortex induced by paired visual stimulation and single-cell spiking", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Meliza"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Dan"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib49": {
-                "source": "J Neurosci", 
-                "year": "2008", 
-                "title": "Highly selective receptive fields in mouse visual cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CM", 
-                        "surname": "Niell"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MP", 
-                        "surname": "Stryker"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib50": {
-                "source": "Nat Methods", 
-                "year": "2004", 
-                "title": "Sulforhodamine 101 as a specific marker of astroglia in the neocortex in vivo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Nimmerjahn"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Kirchhoff"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JN", 
-                        "surname": "Kerr"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Helmchen"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib51": {
-                "source": "Nat Neurosci", 
-                "year": "2008", 
-                "title": "Instantaneous correlation of excitation and inhibition during ongoing and sensory-evoked activities", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Okun"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "I", 
-                        "surname": "Lampl"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib52": {
-                "source": "Neural Comput", 
-                "year": "2009", 
-                "title": "On the maximization of information flow between spiking neurons", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "LC", 
-                        "surname": "Parra"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JM", 
-                        "surname": "Beck"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AJ", 
-                        "surname": "Bell"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib53": {
-                "source": "Proc Natl Acad Sci USA", 
-                "year": "2003", 
-                "title": "Interaction of sensory responses with spontaneous depolarization in layer 2/3 barrel cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CC", 
-                        "surname": "Petersen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TT", 
-                        "surname": "Hahn"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Mehta"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Grinvald"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Sakmann"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib54": {
-                "source": "Neural Comput", 
-                "year": "2006", 
-                "title": "Optimal spike-timing-dependent plasticity for precise action potential firing in supervised learning", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "Pfister"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Toyoizumi"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Barber"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Gerstner"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib55": {
-                "source": "Neural Comput", 
-                "year": "2011", 
-                "title": "Spike-timing-dependent plasticity and reliability optimization: the role of neuron dynamics", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "RR", 
-                        "surname": "Pool"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Mato"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib56": {
-                "source": "J Neurophysiol", 
-                "year": "2004", 
-                "title": "Effect of subthreshold up and down states on the whisker-evoked response in somatosensory cortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "RN", 
-                        "surname": "Sachdev"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "FF", 
-                        "surname": "Ebner"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CJ", 
-                        "surname": "Wilson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib57": {
-                "source": "Proc Natl Acad Sci USA", 
-                "year": "2009", 
-                "title": "Visually evoked activity in cortical cells imaged in freely moving animals", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Sawinski"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DJ", 
-                        "surname": "Wallace"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DS", 
-                        "surname": "Greenberg"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Grossmann"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Denk"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JN", 
-                        "surname": "Kerr"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib58": {
-                "source": "Front Comput Neurosci", 
-                "year": "2010", 
-                "title": "Spike timing dependent plasticity: a consequence of more fundamental learning rules", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "HZ", 
-                        "surname": "Shouval"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SS", 
-                        "surname": "Wang"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "GM", 
-                        "surname": "Wittenberg"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib59": {
-                "source": "J Neurophysiol", 
-                "year": "2007", 
-                "title": "Properties of action-potential initiation in neocortical pyramidal cells: evidence from whole cell axon recordings", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Shu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Duque"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Yu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Haider"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DA", 
-                        "surname": "McCormick"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib60": {
-                "source": "Neuron", 
-                "year": "2001", 
-                "title": "Rate, timing, and cooperativity jointly determine cortical synaptic plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "PJ", 
-                        "surname": "Sjostrom"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "GG", 
-                        "surname": "Turrigiano"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SB", 
-                        "surname": "Nelson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib61": {
-                "source": "Brain Res Bull", 
-                "year": "1980", 
-                "title": "Variability in the stereotaxic position of cerebral points in the albino rat", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "BM", 
-                        "surname": "Slotnick"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DL", 
-                        "surname": "Brown"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib62": {
-                "source": "Neuron", 
-                "year": "2001", 
-                "title": "Cortical development and remapping through spike timing-dependent plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Song"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "LF", 
-                        "surname": "Abbott"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib63": {
-                "source": "Nat Neurosci", 
-                "year": "2000", 
-                "title": "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Song"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KD", 
-                        "surname": "Miller"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "LF", 
-                        "surname": "Abbott"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib64": {
-                "source": "J Neurosci", 
-                "year": "2011", 
-                "title": "Ultrafast population encoding by cortical neurons", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Tchumatchenko"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Malyshev"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Wolf"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Volgushev"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib65": {
-                "source": "Neural Comput", 
-                "year": "2007", 
-                "title": "Optimality model of unsupervised spike-timing-dependent plasticity: synaptic memory and weight distribution", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Toyoizumi"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "Pfister"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Aihara"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Gerstner"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib66": {
-                "source": "Proc Natl Acad Sci USA", 
-                "year": "2011", 
-                "title": "Dendritic coding of multiple sensory inputs in single cortical neurons in vivo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Z", 
-                        "surname": "Varga"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Jia"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Sakmann"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Konnerth"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib67": {
-                "source": "Curr Opin Neurobiol", 
-                "year": "2010", 
-                "title": "Chasing the cell assembly", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DJ", 
-                        "surname": "Wallace"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JN", 
-                        "surname": "Kerr"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib68": {
-                "source": "J Neurosci", 
-                "year": "2006", 
-                "title": "Background synaptic activity is sparse in neocortex", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Waters"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Helmchen"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib69": {
-                "source": "J Neurophysiol", 
-                "year": "1963", 
-                "title": "Single-cell responses in striate cortex of kittens deprived of vision in one eye", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "TN", 
-                        "surname": "Wiesel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DH", 
-                        "surname": "Hubel"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib70": {
-                "source": "Nat Neurosci", 
-                "year": "2007", 
-                "title": "Cortical reorganization consistent with spike timing-but not correlation-dependent plasticity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JM", 
-                        "surname": "Young"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "WJ", 
-                        "surname": "Waleszczyk"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Wang"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MB", 
-                        "surname": "Calford"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Dreher"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Obermayer"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib71": {
-                "source": "Proc Natl Acad Sci USA", 
-                "year": "2009", 
-                "title": "Gain in sensitivity and loss in temporal contrast of STDP by dopaminergic modulation at hippocampal synapses", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JC", 
-                        "surname": "Zhang"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "PM", 
-                        "surname": "Lau"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "GQ", 
-                        "surname": "Bi"
-                    }
-                ]
-            }
+    "citations": {
+        "bib39": {
+            "source": "Nature", 
+            "year": "2008", 
+            "title": "Experience with moving visual stimuli drives the early development of cortical direction selectivity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Van Hooser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mazurek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LE", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fitzpatrick"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "J Neurosci", 
+            "year": "2006", 
+            "title": "Background synaptic activity is sparse in neocortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Waters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Helmchen"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "J Neurophysiol", 
+            "year": "1963", 
+            "title": "Single-cell responses in striate cortex of kittens deprived of vision in one eye", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Wiesel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Hubel"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Nat Neurosci", 
+            "year": "2010", 
+            "title": "Connectivity reflects coding: a model of voltage-based STDP with homeostasis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Clopath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Busing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Vasilaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Gerstner"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nat Neurosci", 
+            "year": "2004", 
+            "title": "Modulation of spike timing by sensory deprivation during induction of cortical map plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Celikel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VA", 
+                    "surname": "Szostak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Feldman"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nat Rev Neurosci", 
+            "year": "2008", 
+            "title": "Metaplasticity: tuning synapses and networks for plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Abraham"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Proc Biol Sci", 
+            "year": "1997", 
+            "title": "Responses of neurons in primary and inferior temporal visual cortices to natural scenes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Baddeley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Abbott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Booth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Sengpiel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Freeman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Wakeman"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nature", 
+            "year": "1990", 
+            "title": "Different voltage-dependent thresholds for inducing long-term depression and long-term potentiation in slices of rat visual cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Artola"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brocher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Singer"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Annu Rev Neurosci", 
+            "year": "2001", 
+            "title": "Synaptic modification by correlated activity: Hebb's postulate revisited", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Poo"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Neural Comput", 
+            "year": "1996", 
+            "title": "Temporal precision of spike trains in extrastriate cortex of the behaving macaque monkey", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bair"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Koch"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Neural Comput", 
+            "year": "2007", 
+            "title": "Reducing the variability of neural responses: a computational theory of spike-timing-dependent plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Bohte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Mozer"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "J Neurosci", 
+            "year": "1998", 
+            "title": "Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GQ", 
+                    "surname": "Bi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Poo"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "J Neurosci", 
+            "year": "1998", 
+            "title": "Synaptic integration in striate cortical simple cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Hirsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Alonso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Reid"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Martinez"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "J Physiol", 
+            "year": "2002", 
+            "title": "Synaptic physiology of the flow of information in the cat's visual cortex in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Hirsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Martinez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Alonso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Desai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Pillai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Pierre"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Proc Natl Acad Sci USA", 
+            "year": "2011", 
+            "title": "Dendritic coding of multiple sensory inputs in single cortical neurons in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Varga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Jia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Sakmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Konnerth"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Neuron", 
+            "year": "2006", 
+            "title": "Whole-cell recordings in freely moving rats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ID", 
+                    "surname": "Manns"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Sakmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Brecht"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Neuron", 
+            "year": "2001", 
+            "title": "Rate, timing, and cooperativity jointly determine cortical synaptic plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Sjostrom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Turrigiano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Nelson"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Brain Res Bull", 
+            "year": "1980", 
+            "title": "Variability in the stereotaxic position of cerebral points in the albino rat", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Slotnick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Brown"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Neuron", 
+            "year": "2001", 
+            "title": "Cortical development and remapping through spike timing-dependent plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Abbott"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Nat Neurosci", 
+            "year": "2000", 
+            "title": "Competitive Hebbian learning through spike-timing-dependent synaptic plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Abbott"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Physiol Rev", 
+            "year": "1998", 
+            "title": "Adult cortical dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Gilbert"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature", 
+            "year": "1992", 
+            "title": "Receptive field dynamics in adult primary visual cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Wiesel"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nat Neurosci", 
+            "year": "2008", 
+            "title": "Population imaging of ongoing neuronal activity in the visual cortex of awake rats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Greenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Houweling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Kerr"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Nature", 
+            "year": "1986", 
+            "title": "Functional architecture of cortex revealed by optical imaging of intrinsic signals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Grinvald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lieke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Frostig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Wiesel"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Nat Rev Neurosci", 
+            "year": "2005", 
+            "title": "Neural signatures of cell assembly organization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Harris"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "J Neurosci", 
+            "year": "2007", 
+            "title": "State changes rapidly modulate cortical neuronal responsiveness", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hasenstaub"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RN", 
+                    "surname": "Sachdev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "McCormick"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "The organization of behavior. A neuropsychological theory", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DO", 
+                    "surname": "Hebb"
+                }
+            ], 
+            "year": "1949"
+        }, 
+        "bib27": {
+            "source": "Front Comput Neurosci", 
+            "year": "2010", 
+            "title": "STDP in adaptive neurons gives close-to-optimal information transmission", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hennequin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Gerstner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Pfister"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Nat Neurosci", 
+            "year": "2007", 
+            "title": "Cortical reorganization consistent with spike timing-but not correlation-dependent plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Waleszczyk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Calford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Dreher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Obermayer"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Neuron", 
+            "year": "2006", 
+            "title": "Receptive-field modification in rat visual cortex induced by paired visual stimulation and single-cell spiking", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Meliza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Dan"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "J Neurosci", 
+            "year": "2008", 
+            "title": "Highly selective receptive fields in mouse visual cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Niell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Stryker"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Science", 
+            "year": "1997", 
+            "title": "Regulation of synaptic efficacy by coincidence of postsynaptic APs and EPSPs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Markram"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lubke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Frotscher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Sakmann"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Proc Natl Acad Sci USA", 
+            "year": "1997", 
+            "title": "On the relationship between synaptic input and spike output jitter in individual neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Marsalek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Koch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Maunsell"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Science", 
+            "year": "1995", 
+            "title": "Reliability of spike timing in neocortical neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ZF", 
+                    "surname": "Mainen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Sejnowski"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Neuron", 
+            "year": "2003", 
+            "title": "Targeted whole-cell recordings in the mammalian brain in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TW", 
+                    "surname": "Margrie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Meyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Caputi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Monyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Hasan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Schaefer"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Front Synaptic Neurosci", 
+            "year": "2010", 
+            "title": "Questions about STDP as a general model of synaptic plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lisman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Spruston"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Science", 
+            "year": "1997", 
+            "title": "A synaptically controlled, associative signal for Hebbian plasticity in hippocampal neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Magee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Johnston"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "J Neurosci", 
+            "year": "2003", 
+            "title": "Enhancement of associative long-term potentiation by activation of beta-adrenergic receptors at CA1 synapses in rat hippocampal slices", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YW", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MY", 
+                    "surname": "Min"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TH", 
+                    "surname": "Chiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HW", 
+                    "surname": "Yang"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nat Neurosci", 
+            "year": "2005", 
+            "title": "Postsynaptic depolarization requirements for LTP and LTD: a critique of spike timing-dependent plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lisman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Spruston"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "J Neurosci", 
+            "year": "2011", 
+            "title": "Ultrafast population encoding by cortical neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tchumatchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Malyshev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Wolf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Volgushev"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Neural Comput", 
+            "year": "2007", 
+            "title": "Optimality model of unsupervised spike-timing-dependent plasticity: synaptic memory and weight distribution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Toyoizumi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Pfister"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Aihara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Gerstner"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Curr Opin Neurobiol", 
+            "year": "2010", 
+            "title": "Chasing the cell assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Wallace"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Kerr"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "Proc Natl Acad Sci USA", 
+            "year": "2009", 
+            "title": "Gain in sensitivity and loss in temporal contrast of STDP by dopaminergic modulation at hippocampal synapses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Lau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GQ", 
+                    "surname": "Bi"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "J Physiol", 
+            "year": "1976", 
+            "title": "Kittens reared in a unidirectional environment: evidence for a critical period", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Daw"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Wyatt"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "J Neurophysiol", 
+            "year": "1994", 
+            "title": "Spontaneous firing patterns and axonal projections of single corticostriatal neurons in the rat medial agranular cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Cowan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Wilson"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Neuron", 
+            "year": "2012", 
+            "title": "The spike-timing dependence of plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Feldman"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Vision Res", 
+            "year": "1994", 
+            "title": "Functional postnatal development of the rat primary visual cortex and the role of visual experience: dark rearing and monocular deprivation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fagiolini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Pizzorusso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Berardi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Domenici"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Maffei"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Front Synaptic Neurosci", 
+            "year": "2010", 
+            "title": "A Re-examination of Hebbian-covariance rules and spike timing-dependent plasticity in cat visual cortex in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Fregnac"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pananceau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rene"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Huguet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Marre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levy"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "J Neurosci", 
+            "year": "1986", 
+            "title": "Orientation selectivity of synaptic potentials in neurons of cat primary visual cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Ferster"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Nature", 
+            "year": "2005", 
+            "title": "Spike-timing-dependent synaptic plasticity depends on dendritic location", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Froemke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Poo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Dan"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "J Neurophysiol", 
+            "year": "1999", 
+            "title": "Modulation of receptive field properties of thalamic somatosensory neurons by the depth of anesthesia", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Friedberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FF", 
+                    "surname": "Ebner"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Nature", 
+            "year": "1996", 
+            "title": "A neuronal learning rule for sub-millisecond temporal coding", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Gerstner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kempter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "van Hemmen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wagner"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Science", 
+            "year": "2002", 
+            "title": "Temporal specificity in the cortical plasticity of visual space representation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YX", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Djupsund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Hayden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Dan"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "J Neurosci", 
+            "year": "2002", 
+            "title": "Dendritic calcium encodes striatal neuron output during up-states", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Kerr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Plenz"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Proc Natl Acad Sci USA", 
+            "year": "2005", 
+            "title": "Imaging input and output of neocortical networks in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Kerr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Greenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Helmchen"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Science", 
+            "year": "1990", 
+            "title": "Reorganization of retinotopic cortical maps in adult mammals after lesions of the retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Kaas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Krubitzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Chino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Langston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Polley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Blair"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Nature", 
+            "year": "2010", 
+            "title": "Dendritic organization of sensory input to cortical neurons in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Jia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NL", 
+                    "surname": "Rochefort"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Konnerth"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "J Neurosci", 
+            "year": "2007", 
+            "title": "Spike timing-dependent synaptic depression in the in vivo barrel cortex of the rat", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Jacob"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Brasier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Erchova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Feldman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Shulz"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "J Physiol", 
+            "year": "1959", 
+            "title": "Receptive fields of single neurones in the cat's striate cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Hubel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TN", 
+                    "surname": "Wiesel"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Electroencephalogr Clin Neurophysiol", 
+            "year": "1968", 
+            "title": "The EEG during acute intoxication with hypnotics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kubicki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Rieger"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "J Neurophysiol", 
+            "year": "2007", 
+            "title": "Properties of action-potential initiation in neocortical pyramidal cells: evidence from whole cell axon recordings", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Duque"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Haider"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "McCormick"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Front Comput Neurosci", 
+            "year": "2010", 
+            "title": "Spike timing dependent plasticity: a consequence of more fundamental learning rules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HZ", 
+                    "surname": "Shouval"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Wittenberg"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Physiol Behav", 
+            "year": "1984", 
+            "title": "Variability of bregma in 300 gram Long-Evans and Sprague-Dawley rats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kline"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Reid"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Neural Comput", 
+            "year": "2011", 
+            "title": "Spike-timing-dependent plasticity and reliability optimization: the role of neuron dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Pool"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Mato"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Neural Comput", 
+            "year": "2006", 
+            "title": "Optimal spike-timing-dependent plasticity for precise action potential firing in supervised learning", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Pfister"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Toyoizumi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Barber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Gerstner"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Proc Natl Acad Sci USA", 
+            "year": "2009", 
+            "title": "Visually evoked activity in cortical cells imaged in freely moving animals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sawinski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Wallace"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Greenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Grossmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Denk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Kerr"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "J Neurophysiol", 
+            "year": "2004", 
+            "title": "Effect of subthreshold up and down states on the whisker-evoked response in somatosensory cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RN", 
+                    "surname": "Sachdev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FF", 
+                    "surname": "Ebner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Wilson"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Nat Neurosci", 
+            "year": "2008", 
+            "title": "Instantaneous correlation of excitation and inhibition during ongoing and sensory-evoked activities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Okun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Lampl"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Nat Methods", 
+            "year": "2004", 
+            "title": "Sulforhodamine 101 as a specific marker of astroglia in the neocortex in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nimmerjahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kirchhoff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JN", 
+                    "surname": "Kerr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Helmchen"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Proc Natl Acad Sci USA", 
+            "year": "2003", 
+            "title": "Interaction of sensory responses with spontaneous depolarization in layer 2/3 barrel cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Petersen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TT", 
+                    "surname": "Hahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mehta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Grinvald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Sakmann"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Neural Comput", 
+            "year": "2009", 
+            "title": "On the maximization of information flow between spiking neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Parra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Beck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Bell"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "Changing the order in which presynaptic and postsynaptic cells are repeatedly activated can change what a mammalian visual cortex neuron communicates to downstream neurons.", 
     "related-articles": [
         {
@@ -1921,51 +1779,39 @@
         "competing-interest": {
             "conf1": "The authors have declared that no competing interests exist"
         }, 
-        "funding": [
-            {
-                "par-1": {
-                    "institution": "Max Planck Society"
-                }
+        "funding": {
+            "par-3": {
+                "award-id": "BMBF; FKZ: 01GQ1002", 
+                "institution": "Bernstein Center for Computational Neuroscience, T\u00fcbingen, Germany"
             }, 
-            {
-                "par-2": {
-                    "institution": "Brain-i-nets"
-                }
+            "par-2": {
+                "institution": "Brain-i-nets"
             }, 
-            {
-                "par-3": {
-                    "award-id": "BMBF; FKZ: 01GQ1002", 
-                    "institution": "Bernstein Center for Computational Neuroscience, T\u00fcbingen, Germany"
-                }
+            "par-1": {
+                "institution": "Max Planck Society"
             }
-        ], 
+        }, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Network Imaging Group", 
-                    "city": "T\u00fcbingen", 
-                    "institution": "Max Planck Institute for Biological Cybernetics", 
-                    "country": "Germany"
-                }
+        "affiliation": {
+            "aff3": {
+                "country": "Germany", 
+                "institution": "Bernstein Center for Computational Neuroscience", 
+                "city": "Tu\u0308bingen"
             }, 
-            {
-                "aff2": {
-                    "dept": "School of Computer and Communication Sciences and School of Life Sciences", 
-                    "city": "Lausanne", 
-                    "institution": "Brain Mind Institute, Ecole Polytechnique Federale de Lausanne", 
-                    "country": "Switzerland"
-                }
+            "aff2": {
+                "dept": "School of Computer and Communication Sciences and School of Life Sciences", 
+                "city": "Lausanne", 
+                "institution": "Brain Mind Institute, Ecole Polytechnique Federale de Lausanne", 
+                "country": "Switzerland"
             }, 
-            {
-                "aff3": {
-                    "country": "Germany", 
-                    "institution": "Bernstein Center for Computational Neuroscience", 
-                    "city": "Tu\u0308bingen"
-                }
+            "aff1": {
+                "dept": "Network Imaging Group", 
+                "city": "T\u00fcbingen", 
+                "institution": "Max Planck Institute for Biological Cybernetics", 
+                "country": "Germany"
             }
-        ], 
+        }, 
         "equal-contrib": {}, 
         "contribution": {
             "con1": "VP, Performed all in vivo experiments and histology, Conception and design, Analysis and interpretation of data", 

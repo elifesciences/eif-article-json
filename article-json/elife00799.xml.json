@@ -42,33 +42,31 @@
     ], 
     "pub-date": "2013-04-30", 
     "title": "The <italic>eLife</italic> approach to peer review", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "eLife", 
-                "doi": "10.7554/eLife.00365", 
-                "year": "2012", 
-                "title": "Launching <italic>eLife</italic>, part 2", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Schekman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Watt"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Weigel"
-                    }
-                ]
-            }
+    "citations": {
+        "bib1": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.00365", 
+            "year": "2012", 
+            "title": "Launching <italic>eLife</italic>, part 2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Schekman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Watt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Weigel"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e00799", 
@@ -92,10 +90,10 @@
             "conf2": "FW receives funding from the Wellcome Trust", 
             "conf1": "RS receives funding from the Howard Hughes Medical Institute"
         }, 
-        "funding": null, 
+        "funding": {}, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [], 
+        "affiliation": {}, 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}

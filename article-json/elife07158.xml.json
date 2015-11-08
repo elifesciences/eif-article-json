@@ -70,73 +70,65 @@
     ], 
     "pub-date": "2015-07-14", 
     "title": "Theory, models and biology", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "Nature", 
-                "doi": "10.1038/482461a", 
-                "year": "2012", 
-                "title": "Life's code script", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Brenner"
-                    }
-                ]
-            }
+    "citations": {
+        "bib1": {
+            "source": "Nature", 
+            "doi": "10.1038/482461a", 
+            "year": "2012", 
+            "title": "Life's code script", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Brenner"
+                }
+            ]
         }, 
-        {
-            "bib2": {
-                "source": "BioScience", 
-                "doi": "10.1093/biosci/biu131", 
-                "year": "2014", 
-                "title": "Theoretical and empirical perspectives in ecology and evolution: a survey", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "BC", 
-                        "surname": "Haller"
-                    }
-                ]
-            }
+        "bib3": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.05770", 
+            "year": "2015", 
+            "title": "The pleasure of publishing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Malhotra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Marder"
+                }
+            ]
         }, 
-        {
-            "bib3": {
-                "source": "eLife", 
-                "doi": "10.7554/eLife.05770", 
-                "year": "2015", 
-                "title": "The pleasure of publishing", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "V", 
-                        "surname": "Malhotra"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Marder"
-                    }
-                ]
-            }
+        "bib2": {
+            "source": "BioScience", 
+            "doi": "10.1093/biosci/biu131", 
+            "year": "2014", 
+            "title": "Theoretical and empirical perspectives in ecology and evolution: a survey", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Haller"
+                }
+            ]
         }, 
-        {
-            "bib4": {
-                "source": "Science", 
-                "doi": "10.1126/science.1094442", 
-                "year": "2004", 
-                "title": "Uses and abuses of mathematics in biology", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "RM", 
-                        "surname": "May"
-                    }
-                ]
-            }
+        "bib4": {
+            "source": "Science", 
+            "doi": "10.1126/science.1094442", 
+            "year": "2004", 
+            "title": "Uses and abuses of mathematics in biology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "May"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e07158", 
@@ -160,47 +152,39 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": null, 
+        "funding": {}, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Division of Basic Sciences", 
-                    "email": "wenying.shou@gmail.com", 
-                    "city": "Seattle", 
-                    "institution": "Fred Hutchinson Cancer Research Center", 
-                    "country": "United States"
-                }
+        "affiliation": {
+            "aff4": {
+                "dept": "Toronto Western Research Institute", 
+                "email": "frances.skinner@gmail.com", 
+                "city": "Toronto", 
+                "institution": "University Health Network", 
+                "country": "Canada"
             }, 
-            {
-                "aff2": {
-                    "dept": "Department of Biology", 
-                    "email": "cbergst@u.washington.edu", 
-                    "city": "Seattle", 
-                    "institution": "University of Washington", 
-                    "country": "United States"
-                }
+            "aff3": {
+                "dept": "Departments of Chemical Engineering, Physics, Chemistry and Biological Engineering, and the Institute for Medical Engineering & Science", 
+                "email": "arupc@mit.edu", 
+                "city": "Cambridge", 
+                "institution": "Massachusetts Institute of Technology", 
+                "country": "United States"
             }, 
-            {
-                "aff3": {
-                    "dept": "Departments of Chemical Engineering, Physics, Chemistry and Biological Engineering, and the Institute for Medical Engineering & Science", 
-                    "email": "arupc@mit.edu", 
-                    "city": "Cambridge", 
-                    "institution": "Massachusetts Institute of Technology", 
-                    "country": "United States"
-                }
+            "aff2": {
+                "dept": "Department of Biology", 
+                "email": "cbergst@u.washington.edu", 
+                "city": "Seattle", 
+                "institution": "University of Washington", 
+                "country": "United States"
             }, 
-            {
-                "aff4": {
-                    "dept": "Toronto Western Research Institute", 
-                    "email": "frances.skinner@gmail.com", 
-                    "city": "Toronto", 
-                    "institution": "University Health Network", 
-                    "country": "Canada"
-                }
+            "aff1": {
+                "dept": "Division of Basic Sciences", 
+                "email": "wenying.shou@gmail.com", 
+                "city": "Seattle", 
+                "institution": "Fred Hutchinson Cancer Research Center", 
+                "country": "United States"
             }
-        ], 
+        }, 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}

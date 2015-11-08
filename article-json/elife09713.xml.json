@@ -28,114 +28,104 @@
     ], 
     "pub-date": "2015-08-05", 
     "title": "The benefits of treating undetectable tumors", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "eLife", 
-                "doi": "10.7554/eLife.06266", 
-                "year": "2015", 
-                "title": "Dynamics of preventive versus post-diagnostic cancer control using low-impact measures", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Andrei R", 
-                        "surname": "Akhmetzhanov"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Michael E", 
-                        "surname": "Hochberg"
-                    }
-                ]
-            }
+    "citations": {
+        "bib1": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.06266", 
+            "year": "2015", 
+            "title": "Dynamics of preventive versus post-diagnostic cancer control using low-impact measures", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Andrei R", 
+                    "surname": "Akhmetzhanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Michael E", 
+                    "surname": "Hochberg"
+                }
+            ]
         }, 
-        {
-            "bib2": {
-                "source": "Drug resistance in cancer: mechanisms and models", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "James H", 
-                        "surname": "Goldie"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Andrew J", 
-                        "surname": "Coldman"
-                    }
-                ], 
-                "year": "2009"
-            }
+        "bib3": {
+            "source": "Nature", 
+            "doi": "10.1038/446145a", 
+            "year": "2007", 
+            "title": "Cancer: drivers and passengers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Daniel A", 
+                    "surname": "Haber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Jeff", 
+                    "surname": "Settleman"
+                }
+            ]
         }, 
-        {
-            "bib3": {
-                "source": "Nature", 
-                "doi": "10.1038/446145a", 
-                "year": "2007", 
-                "title": "Cancer: drivers and passengers", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Daniel A", 
-                        "surname": "Haber"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Jeff", 
-                        "surname": "Settleman"
-                    }
-                ]
-            }
+        "bib2": {
+            "source": "Drug resistance in cancer: mechanisms and models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "James H", 
+                    "surname": "Goldie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Andrew J", 
+                    "surname": "Coldman"
+                }
+            ], 
+            "year": "2009"
         }, 
-        {
-            "bib4": {
-                "source": "Nature Reviews Cancer", 
-                "doi": "10.1038/nrc3599", 
-                "year": "2013", 
-                "title": "Cancer drug resistance: an evolving paradigm", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Caitriona", 
-                        "surname": "Holohan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Sandra Van", 
-                        "surname": "Schaeybroeck"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Daniel B", 
-                        "surname": "Longley"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Patrick G", 
-                        "surname": "Johnston"
-                    }
-                ]
-            }
+        "bib5": {
+            "source": "Targeted cancer treatment in silico. Modeling and simulation in science, engineering and technology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Natalia", 
+                    "surname": "Komarova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Dominik", 
+                    "surname": "Wodarz"
+                }
+            ], 
+            "year": "2014"
         }, 
-        {
-            "bib5": {
-                "source": "Targeted cancer treatment in silico. Modeling and simulation in science, engineering and technology", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Natalia", 
-                        "surname": "Komarova"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Dominik", 
-                        "surname": "Wodarz"
-                    }
-                ], 
-                "year": "2014"
-            }
+        "bib4": {
+            "source": "Nature Reviews Cancer", 
+            "doi": "10.1038/nrc3599", 
+            "year": "2013", 
+            "title": "Cancer drug resistance: an evolving paradigm", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Caitriona", 
+                    "surname": "Holohan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Sandra Van", 
+                    "surname": "Schaeybroeck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Daniel B", 
+                    "surname": "Longley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Patrick G", 
+                    "surname": "Johnston"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "", 
     "related-articles": [
         {
@@ -164,20 +154,18 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": null, 
+        "funding": {}, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Department of Mathematics", 
-                    "email": "komarova@uci.edu", 
-                    "city": "Irvine", 
-                    "institution": "University of California, Irvine", 
-                    "country": "United States"
-                }
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Mathematics", 
+                "email": "komarova@uci.edu", 
+                "city": "Irvine", 
+                "institution": "University of California, Irvine", 
+                "country": "United States"
             }
-        ], 
+        }, 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}

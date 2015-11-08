@@ -53,28 +53,26 @@
     ], 
     "pub-date": "2015-10-07", 
     "title": "What makes an eLife paper in epidemiology and global health?", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "eLife", 
-                "doi": "10.7554/eLife.05770", 
-                "year": "2015", 
-                "title": "The pleasure of publishing", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "V", 
-                        "surname": "Malhotra"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Marder"
-                    }
-                ]
-            }
+    "citations": {
+        "bib1": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.05770", 
+            "year": "2015", 
+            "title": "The pleasure of publishing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Malhotra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Marder"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e11326", 
@@ -95,38 +93,32 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": null, 
+        "funding": {}, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Department of Infectious Disease Epidemiology", 
-                    "email": "Mark.Jit@lshtm.ac.uk", 
-                    "city": "London", 
-                    "institution": "London School of Hygiene and Tropical Medicine", 
-                    "country": "United Kingdom"
-                }
+        "affiliation": {
+            "aff3": {
+                "dept": "Center for Global Health Research", 
+                "email": "jhap@smh.ca", 
+                "city": "Toronto", 
+                "institution": "Saint Michael's Hospital", 
+                "country": "Canada"
             }, 
-            {
-                "aff2": {
-                    "dept": "Division of Cancer Epidemiology", 
-                    "email": "eduardo.franco@mcgill.ca", 
-                    "city": "Montreal", 
-                    "institution": "McGill University", 
-                    "country": "Canada"
-                }
+            "aff2": {
+                "dept": "Division of Cancer Epidemiology", 
+                "email": "eduardo.franco@mcgill.ca", 
+                "city": "Montreal", 
+                "institution": "McGill University", 
+                "country": "Canada"
             }, 
-            {
-                "aff3": {
-                    "dept": "Center for Global Health Research", 
-                    "email": "jhap@smh.ca", 
-                    "city": "Toronto", 
-                    "institution": "Saint Michael's Hospital", 
-                    "country": "Canada"
-                }
+            "aff1": {
+                "dept": "Department of Infectious Disease Epidemiology", 
+                "email": "Mark.Jit@lshtm.ac.uk", 
+                "city": "London", 
+                "institution": "London School of Hygiene and Tropical Medicine", 
+                "country": "United Kingdom"
             }
-        ], 
+        }, 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}

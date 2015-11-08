@@ -38,7 +38,7 @@
     ], 
     "pub-date": "2015-01-06", 
     "title": "The pleasure of publishing", 
-    "citations": [], 
+    "citations": {}, 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e05770", 
@@ -61,29 +61,25 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": null, 
+        "funding": {}, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Cell and Developmental Biology Program", 
-                    "email": "vivek.malhotra@crg.eu", 
-                    "city": "Barcelona", 
-                    "institution": "Center for Genomic Regulation", 
-                    "country": "Spain"
-                }
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Biology and the Volen National Center for Complex Systems", 
+                "email": "marder@brandeis.edu", 
+                "city": "Waltham", 
+                "institution": "Brandeis University", 
+                "country": "United States"
             }, 
-            {
-                "aff2": {
-                    "dept": "Department of Biology and the Volen National Center for Complex Systems", 
-                    "email": "marder@brandeis.edu", 
-                    "city": "Waltham", 
-                    "institution": "Brandeis University", 
-                    "country": "United States"
-                }
+            "aff1": {
+                "dept": "Cell and Developmental Biology Program", 
+                "email": "vivek.malhotra@crg.eu", 
+                "city": "Barcelona", 
+                "institution": "Center for Genomic Regulation", 
+                "country": "Spain"
             }
-        ], 
+        }, 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}

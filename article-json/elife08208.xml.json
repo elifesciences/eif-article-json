@@ -63,1908 +63,1778 @@
     ], 
     "pub-date": "2015-10-16", 
     "title": "Calibration and analysis of genome-based models for microbial ecology", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "Journal of Bacteriology", 
-                "year": "1980", 
-                "title": "Are growth rates of <italic>Escherichia coli</italic> in batch cultures limited by respiration?", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "KB", 
-                        "surname": "Andersen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "von Meyenburg"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib2": {
-                "source": "Current Opinion in Biotechnology", 
-                "doi": "10.1016/j.copbio.2013.03.018", 
-                "year": "2013", 
-                "title": "Dynamic metabolic flux analysis \u2013 tools for probing transient states of metabolic networks", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MR", 
-                        "surname": "Antoniewicz"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib3": {
-                "source": "Frontiers in Physiology", 
-                "doi": "10.3389/fphys.2012.00299", 
-                "year": "2012", 
-                "title": "Integration of expression data in genome-scale metabolic network reconstructions", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AS", 
-                        "surname": "Blazier"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JA", 
-                        "surname": "Papin"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib4": {
-                "source": "Trends in Biotechnology", 
-                "doi": "10.1016/j.tibtech.2008.05.004", 
-                "year": "2008", 
-                "title": "Engineering microbial consortia: a new frontier in synthetic biology", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Brenner"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "You"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "FH", 
-                        "surname": "Arnold"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib5": {
-                "source": "Biotechnology and Bioengineering", 
-                "doi": "10.1002/bit.10617", 
-                "year": "2003", 
-                "title": "Optimization-based framework for inferring and testing hypothesized metabolic objective functions", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AP", 
-                        "surname": "Burgard"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Maranas"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib6": {
-                "source": "Ecological Modelling", 
-                "doi": "10.1016/j.ecolmodel.2005.10.045", 
-                "year": "2007", 
-                "title": "The role of sensitivity analysis in ecological modelling", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Cariboni"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Gatelli"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Liska"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Saltelli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib7": {
-                "source": "PLOS Computational Biology", 
-                "doi": "10.1371/journal.pcbi.1003695", 
-                "year": "2014", 
-                "title": "Emergent biosynthetic capacity in simple microbial communities", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "HC", 
-                        "surname": "Chiu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Levy"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Borenstein"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib8": {
-                "source": "Nature", 
-                "doi": "10.1038/nature02456", 
-                "year": "2004", 
-                "title": "Integrating high-throughput and computational data elucidates bacterial networks", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MW", 
-                        "surname": "Covert"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "EM", 
-                        "surname": "Knight"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JL", 
-                        "surname": "Reed"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MJ", 
-                        "surname": "Herrgard"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BO", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib9": {
-                "source": "Journal of Biological Chemistry", 
-                "doi": "10.1074/jbc.M201691200", 
-                "year": "2002", 
-                "title": "Transcriptional regulation in constraints-based metabolic models of <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MW", 
-                        "surname": "Covert"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B\u00d8", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib10": {
-                "source": "Journal of Theoretical Biology", 
-                "doi": "10.1006/jtbi.2001.2405", 
-                "year": "2001", 
-                "title": "Regulation of gene expression in flux balance models of metabolism", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MW", 
-                        "surname": "Covert"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CH", 
-                        "surname": "Schilling"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib11": {
-                "source": "Bioinformatics", 
-                "year": "2008", 
-                "title": "Integrating metabolic, transcriptional regulatory and signal transduction models in <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MW", 
-                        "surname": "Covert"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Xiao"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TJ", 
-                        "surname": "Chen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JR", 
-                        "surname": "Karr"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib12": {
-                "source": "Genome Research", 
-                "doi": "10.1101/gr.2250904", 
-                "year": "2004", 
-                "title": "Reconstruction and validation of <italic>Saccharomyces cerevisiae</italic> iND750, a fully compartmentalized genome-scale metabolic model", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "NC", 
-                        "surname": "Duarte"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MJ", 
-                        "surname": "Herrg\u00e5rd"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B\u00d8", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib13": {
-                "source": "Nature Reviews Genetics", 
-                "doi": "10.1038/nrg1088", 
-                "year": "2003", 
-                "title": "Evolution experiments with microorganisms: the dynamics and genetic bases of adaptation", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "SF", 
-                        "surname": "Elena"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RE", 
-                        "surname": "Lenski"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib14": {
-                "source": "Maximum likelihood estimation: logic and practice", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "SR", 
-                        "surname": "Eliason"
-                    }
-                ], 
-                "year": "1993"
-            }
-        }, 
-        {
-            "bib15": {
-                "source": "Chemical oceanography and the marine carbon cycle", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Emerson"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Hedges"
-                    }
-                ], 
-                "year": "2008"
-            }
-        }, 
-        {
-            "bib16": {
-                "source": "Aquatic Microbial Ecology", 
-                "doi": "10.3354/ame010015", 
-                "year": "1996", 
-                "title": "Content of carbon, nitrogen, oxygen, sulfur and phosphorus in native aquatic and cultured bacteria", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Fagerbakke"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Heldal"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Norland"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib17": {
-                "source": "Nature Reviews Microbiology", 
-                "doi": "10.1038/nrmicro1949", 
-                "year": "2008", 
-                "title": "Reconstruction of biochemical networks in microorganisms", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AM", 
-                        "surname": "Feist"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MJ", 
-                        "surname": "Herrg\u00e5rd"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "I", 
-                        "surname": "Thiele"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JL", 
-                        "surname": "Reed"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B\u00d8", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib18": {
-                "source": "Current Opinion in Microbiology", 
-                "doi": "10.1016/j.mib.2010.03.003", 
-                "year": "2010", 
-                "title": "The biomass objective function", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AM", 
-                        "surname": "Feist"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BO", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib19": {
-                "source": "Nature Communications", 
-                "doi": "10.1038/ncomms1597", 
-                "year": "2011", 
-                "title": "Competitive and cooperative metabolic interactions in bacterial communities", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Freilich"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Zarecki"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "O", 
-                        "surname": "Eilam"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "ES", 
-                        "surname": "Segal"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CS", 
-                        "surname": "Henry"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Kupiec"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "U", 
-                        "surname": "Gophna"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Sharan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Ruppin"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib20": {
-                "source": "Evolution", 
-                "year": "2004", 
-                "title": "Experimental evidence for sympatric ecological diversification due to frequency-dependent competition in <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "ML", 
-                        "surname": "Friesen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Saxer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Travisano"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Doebeli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib21": {
-                "source": "BMC Bioinformatics", 
-                "doi": "10.1186/1471\u20132105-9\u201343", 
-                "year": "2008", 
-                "title": "Predicting biological system objectives de novo from internal state measurements", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "EP", 
-                        "surname": "Gianchandani"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MA", 
-                        "surname": "Oberhardt"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AP", 
-                        "surname": "Burgard"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Maranas"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JA", 
-                        "surname": "Papin"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib22": {
-                "source": "Biotechnology and Bioengineering", 
-                "doi": "10.1002/bit.10740", 
-                "year": "2003", 
-                "title": "A study of oxygen transfer in shake flasks using a non-invasive oxygen sensor", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Gupta"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Rao"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib23": {
-                "title": "Monte carlo methods", 
-                "year": "1964", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JM", 
-                        "surname": "Hammersley"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DC", 
-                        "surname": "Handscomb"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib24": {
-                "source": "PLOS Computational Biology", 
-                "doi": "10.1371/journal.pcbi.1003091", 
-                "year": "2013", 
-                "title": "The ability of flux balance analysis to predict evolution of central metabolism scales with the initial distance to the optimum", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "WR", 
-                        "surname": "Harcombe"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "NF", 
-                        "surname": "Delaney"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Leiby"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Klitgord"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CJ", 
-                        "surname": "Marx"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib25": {
-                "source": "Cell Reports", 
-                "doi": "10.1016/j.celrep.2014.03.070", 
-                "year": "2014", 
-                "title": "Metabolic resource allocation in individual microbes determines ecosystem interactions and spatial dynamics", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "WR", 
-                        "surname": "Harcombe"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "WJ", 
-                        "surname": "Riehl"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "I", 
-                        "surname": "Dukovski"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BR", 
-                        "surname": "Granger"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Betts"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AH", 
-                        "surname": "Lang"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Bonilla"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Kar"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Leiby"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "P", 
-                        "surname": "Mehta"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CJ", 
-                        "surname": "Marx"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Segr\u00e8"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib26": {
-                "source": "Nature Biotechnology", 
-                "doi": "10.1038/nbt.1672", 
-                "year": "2010", 
-                "title": "High-throughput generation, optimization and analysis of genome-scale metabolic models", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CS", 
-                        "surname": "Henry"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "DeJongh"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AA", 
-                        "surname": "Best"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "PM", 
-                        "surname": "Frybarger"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Linsay"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RL", 
-                        "surname": "Stevens"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib27": {
-                "source": "Genome Research", 
-                "year": "2006", 
-                "title": "Integrated analysis of regulatory and metabolic networks reveals novel regulatory mechanisms in <italic>Saccharomyces cerevisiae</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MJ", 
-                        "surname": "Herrg\u00e5rd"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BS", 
-                        "surname": "Lee"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "V", 
-                        "surname": "Portnoy"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B\u00d8", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib28": {
-                "source": "PLOS Biology", 
-                "doi": "10.1371/journal.pbio.1001490", 
-                "year": "2013", 
-                "title": "Parallel evolutionary dynamics of adaptive diversification in <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MD", 
-                        "surname": "Herron"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Doebeli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib29": {
-                "source": "Deep Sea Research II", 
-                "doi": "10.1016/j.dsr2.2006.01.025", 
-                "year": "2006", 
-                "title": "Pelagic functional group modeling: Progress, challenges and prospects", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "RR", 
-                        "surname": "Hood"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "EA", 
-                        "surname": "Laws"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RA", 
-                        "surname": "Armstrong"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "NR", 
-                        "surname": "Bates"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CW", 
-                        "surname": "Brown"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CA", 
-                        "surname": "Carlson"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Chai"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SC", 
-                        "surname": "Doney"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "PG", 
-                        "surname": "Falkowski"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RA", 
-                        "surname": "Feely"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MA", 
-                        "surname": "Friedrichs"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MR", 
-                        "surname": "Landry"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Keith Moore"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DM", 
-                        "surname": "Nelson"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TL", 
-                        "surname": "Richardson"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Salihoglu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Schartau"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DA", 
-                        "surname": "Toole"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JD", 
-                        "surname": "Wiggert"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib30": {
-                "source": "Cell", 
-                "doi": "10.1016/j.cell.2013.05.040", 
-                "year": "2013", 
-                "title": "Horizontal gene transfer from diverse bacteria to an insect genome enables a tripartite nested mealybug symbiosis", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Husnik"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Nikoh"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Koga"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Ross"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RP", 
-                        "surname": "Duncan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Fujie"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Tanaka"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Satoh"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Bachtrog"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "ACC", 
-                        "surname": "Wilson"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "von Dohlen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Fukatsu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "McCutcheon"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib31": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.0600166103", 
-                "year": "2006", 
-                "title": "Modeling the role of bacteriophage in the control of cholera outbreaks", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MA", 
-                        "surname": "Jensen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SM", 
-                        "surname": "Faruque"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JJ", 
-                        "surname": "Mekalanos"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BR", 
-                        "surname": "Levin"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib32": {
-                "source": "Trends in Biotechnology", 
-                "doi": "10.1016/j.tibtech.2011.01.009", 
-                "year": "2011", 
-                "title": "Prospects for systems biology and modeling of the gut microbiome", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "FH", 
-                        "surname": "Karlsson"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "I", 
-                        "surname": "Nookaew"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Petranovic"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Nielsen"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib33": {
-                "source": "Annual Review of Microbiology", 
-                "doi": "10.1146/annurev.micro.58.030603.123654", 
-                "year": "2004", 
-                "title": "The ecology and genetics of microbial diversity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Kassen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "PB", 
-                        "surname": "Rainey"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib34": {
-                "source": "PLOS Computational Biology", 
-                "doi": "10.1371/journal.pcbi.1001002", 
-                "year": "2010", 
-                "title": "Environments that induce synthetic microbial ecosystems", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Klitgord"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Segr\u00e8"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib35": {
-                "source": "Current Opinion in Biotechnology", 
-                "doi": "10.1016/j.copbio.2011.04.018", 
-                "year": "2011", 
-                "title": "Ecosystems biology of microbial metabolism", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Klitgord"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Segr\u00e8"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib36": {
-                "source": "Applied and Environmental Microbiology", 
-                "year": "1977", 
-                "title": "Correction for the inherent error in optical density readings", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Lawrence"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Maier"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib37": {
-                "source": "Genetics", 
-                "year": "2008", 
-                "title": "Metabolic changes associated with adaptive diversification in <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Le Gac"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MD", 
-                        "surname": "Brazas"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Bertrand"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JG", 
-                        "surname": "Tyerman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CC", 
-                        "surname": "Spencer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "REW", 
-                        "surname": "Hancock"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Doebeli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib38": {
-                "source": "Environmental Microbiology", 
-                "doi": "10.1111/1462-2920.13058", 
-                "year": "2015", 
-                "title": "Transient dynamics of competitive exclusion in microbial communities", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Louca"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Doebeli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib39": {
-                "source": "Biophysical Journal", 
-                "year": "2002", 
-                "title": "Dynamic flux balance analysis of diauxic growth in <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Mahadevan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JS", 
-                        "surname": "Edwards"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "FJ", 
-                        "surname": "Doyle", 
-                        "suffix": "III"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib40": {
-                "source": "Nature Reviews Microbiology", 
-                "doi": "10.1038/nrmicro2670", 
-                "year": "2012", 
-                "title": "Extreme genome reduction in symbiotic bacteria", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "McCutcheon"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "NA", 
-                        "surname": "Moran"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib41": {
-                "source": "Metabolic Engineering", 
-                "doi": "10.1016/j.ymben.2009.07.006", 
-                "year": "2010", 
-                "title": "Application of dynamic flux balance analysis to an industrial <italic>Escherichia coli</italic> fermentation", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AL", 
-                        "surname": "Meadows"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Karnik"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Lam"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Forestell"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Snedecor"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib42": {
-                "source": "Chemical oceanography. Marine science series", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "FJ", 
-                        "surname": "Millero"
-                    }
-                ], 
-                "year": "2013"
-            }
-        }, 
-        {
-            "bib43": {
-                "source": "Annual Review of Genetics", 
-                "doi": "10.1146/annurev-genet-111212-133307", 
-                "year": "2013", 
-                "title": "The genotypic view of social interactions in microbial communities", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Mitri"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KR", 
-                        "surname": "Foster"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib44": {
-                "source": "FEMS Microbiology Reviews", 
-                "doi": "10.1111/1574-6976.12019", 
-                "year": "2013", 
-                "title": "Microbial syntrophy: interaction for the common good", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "BE", 
-                        "surname": "Morris"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Henneberger"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Huber"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Moissl-Eichinger"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib45": {
-                "source": "Nature Biotechnology", 
-                "doi": "10.1038/nbt.1614", 
-                "year": "2010", 
-                "title": "What is flux balance analysis?", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JD", 
-                        "surname": "Orth"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "I", 
-                        "surname": "Thiele"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BO", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib46": {
-                "source": "Evolution", 
-                "doi": "10.1111/j.1558-5646.2008.00397.x", 
-                "year": "2008", 
-                "title": "Defined order of evolutionary adaptations: experimental evidence", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Oxman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "U", 
-                        "surname": "Alon"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Dekel"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib47": {
-                "source": "Journal of Microbiological Methods", 
-                "doi": "10.1016/0167-7012(95)00074-7", 
-                "year": "1996", 
-                "title": "A kinetic method for estimating the biomass of microbial functional groups in soil", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "NS", 
-                        "surname": "Panikov"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MV", 
-                        "surname": "Sizova"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib48": {
-                "source": "Science", 
-                "doi": "10.1126/science.1248688", 
-                "year": "2014", 
-                "title": "Epistasis and allele specificity in the emergence of a stable polymorphism in <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Plucain"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Hindr\u00e9"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Le Gac"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "O", 
-                        "surname": "Tenaillon"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Cruveiller"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "M\u00e9digue"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Leiby"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "WR", 
-                        "surname": "Harcombe"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CJ", 
-                        "surname": "Marx"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RE", 
-                        "surname": "Lenski"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Schneider"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib49": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.1313713111", 
-                "year": "2014", 
-                "title": "Gene-centric approach to integrating environmental genomics and biogeochemical models", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DC", 
-                        "surname": "Reed"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CK", 
-                        "surname": "Algar"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JA", 
-                        "surname": "Huber"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "GJ", 
-                        "surname": "Dick"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib50": {
-                "source": "The prokaryotes", 
-                "year": "2006", 
-                "title": "Syntrophism among prokaryotes", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Schink"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Stams"
-                    }, 
-                    {
-                        "group-type": "editor", 
-                        "given-names": "M", 
-                        "surname": "Dworkin"
-                    }, 
-                    {
-                        "group-type": "editor", 
-                        "given-names": "S", 
-                        "surname": "Falkow"
-                    }, 
-                    {
-                        "group-type": "editor", 
-                        "given-names": "E", 
-                        "surname": "Rosenberg"
-                    }, 
-                    {
-                        "group-type": "editor", 
-                        "given-names": "KH", 
-                        "surname": "Schleifer"
-                    }, 
-                    {
-                        "group-type": "editor", 
-                        "given-names": "E", 
-                        "surname": "Stackebrandt"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib51": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "year": "2002", 
-                "title": "Analysis of optimality in natural and perturbed metabolic networks", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Segr\u00e8"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Vitkup"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "GM", 
-                        "surname": "Church"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib52": {
-                "source": "Limnology and Oceanography", 
-                "doi": "10.4319/lo.1984.29.3.0633", 
-                "year": "1984", 
-                "title": "The paradox of the plankton: fluctuations of phosphorus availability maintain diversity of phytoplankton in flow-through cultures", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "U", 
-                        "surname": "Sommer"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib53": {
-                "source": "Evolutionary Ecology Research", 
-                "year": "2007", 
-                "title": "Seasonal resource oscillations maintain diversity in bacterial microcosms", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CC", 
-                        "surname": "Spencer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Saxer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Travisano"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Doebeli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib54": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.0708504105", 
-                "year": "2008", 
-                "title": "Adaptation increases the likelihood of diversification in an experimental bacterial lineage", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CC", 
-                        "surname": "Spencer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Tyerman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Bertrand"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Doebeli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib55": {
-                "source": "Antonie van Leeuwenhoek", 
-                "doi": "10.1007/BF00871644", 
-                "year": "1994", 
-                "title": "Metabolic interactions between anaerobic bacteria in methanogenic environments", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AJ", 
-                        "surname": "Stams"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib56": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.1013435107", 
-                "year": "2010", 
-                "title": "Aerobic growth at nanomolar oxygen concentrations", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DA", 
-                        "surname": "Stolper"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "NP", 
-                        "surname": "Revsbech"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DE", 
-                        "surname": "Canfield"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib57": {
-                "source": "Molecular Systems Biology", 
-                "doi": "10.1038/msb4100131", 
-                "year": "2007", 
-                "title": "Metabolic modeling of a mutualistic microbial community", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Stolyar"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Van Dien"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KL", 
-                        "surname": "Hillesland"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Pinel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TJ", 
-                        "surname": "Lie"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JA", 
-                        "surname": "Leigh"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DA", 
-                        "surname": "Stahl"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib58": {
-                "source": "Inverse problem theory and methods for model parameter estimation", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Tarantola"
-                    }
-                ], 
-                "year": "2005"
-            }
-        }, 
-        {
-            "bib59": {
-                "source": "Molecular Biology and Evolution", 
-                "doi": "10.1093/oxfordjournals.molbev.a025984", 
-                "year": "1998", 
-                "title": "Repeated evolution of an acetate-crossfeeding polymorphism in long-term populations of <italic>Escherichia coli</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DS", 
-                        "surname": "Treves"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Manning"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Adams"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib60": {
-                "source": "BMC Evolutionary Biology", 
-                "doi": "10.1186/1471\u20132148-8\u201334", 
-                "year": "2008", 
-                "title": "Experimental demonstration of ecological character displacement", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JG", 
-                        "surname": "Tyerman"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Bertrand"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CC", 
-                        "surname": "Spencer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Doebeli"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib61": {
-                "source": "Applied and Environmental Microbiology", 
-                "year": "1994", 
-                "title": "Stoichiometric flux balance models quantitatively predict growth and metabolic by-product secretion in wild-type <italic>Escherichia coli</italic> W3110", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Varma"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BO", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib62": {
-                "source": "Genetica", 
-                "doi": "10.1007/s10709-003-2738-9", 
-                "year": "2005", 
-                "title": "Parallel genotypic adaptation: when evolution repeats itself", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Wood"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Burke"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Rieseberg"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib63": {
-                "source": "Genome Biology", 
-                "doi": "10.1186/gb-2012-13-5-r37", 
-                "year": "2012", 
-                "title": "Comparative multi-omics systems analysis of <italic>Escherichia coli</italic> strains B and K-12", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "SH", 
-                        "surname": "Yoon"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MJ", 
-                        "surname": "Han"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Jeong"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CH", 
-                        "surname": "Lee"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "XX", 
-                        "surname": "Xia"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DH", 
-                        "surname": "Lee"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JH", 
-                        "surname": "Shim"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SY", 
-                        "surname": "Lee"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "TK", 
-                        "surname": "Oh"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JF", 
-                        "surname": "Kim"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib64": {
-                "source": "Nature Reviews Microbiology", 
-                "doi": "10.1038/nrmicro2763", 
-                "year": "2012", 
-                "title": "A road map for the development of community systems (CoSy) biology", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Zengler"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BO", 
-                        "surname": "Palsson"
-                    }
-                ]
-            }
-        }, 
-        {
-            "bib65": {
-                "source": "PLOS Computational Biology", 
-                "doi": "10.1371/journal.pcbi.1002363", 
-                "year": "2012", 
-                "title": "OptCom: a multi-level optimization framework for the metabolic modeling and analysis of microbial communities", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "AR", 
-                        "surname": "Zomorrodi"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Maranas"
-                    }
-                ]
-            }
+    "citations": {
+        "bib39": {
+            "source": "Biophysical Journal", 
+            "year": "2002", 
+            "title": "Dynamic flux balance analysis of diauxic growth in <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Mahadevan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Edwards"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Doyle", 
+                    "suffix": "III"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M201691200", 
+            "year": "2002", 
+            "title": "Transcriptional regulation in constraints-based metabolic models of <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Covert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B\u00d8", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/nature02456", 
+            "year": "2004", 
+            "title": "Integrating high-throughput and computational data elucidates bacterial networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Covert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Knight"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Reed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Herrgard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BO", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Journal of Bacteriology", 
+            "year": "1980", 
+            "title": "Are growth rates of <italic>Escherichia coli</italic> in batch cultures limited by respiration?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KB", 
+                    "surname": "Andersen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "von Meyenburg"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Frontiers in Physiology", 
+            "doi": "10.3389/fphys.2012.00299", 
+            "year": "2012", 
+            "title": "Integration of expression data in genome-scale metabolic network reconstructions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Blazier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Papin"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Current Opinion in Biotechnology", 
+            "doi": "10.1016/j.copbio.2013.03.018", 
+            "year": "2013", 
+            "title": "Dynamic metabolic flux analysis \u2013 tools for probing transient states of metabolic networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Antoniewicz"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Biotechnology and Bioengineering", 
+            "doi": "10.1002/bit.10617", 
+            "year": "2003", 
+            "title": "Optimization-based framework for inferring and testing hypothesized metabolic objective functions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Burgard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Maranas"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Trends in Biotechnology", 
+            "doi": "10.1016/j.tibtech.2008.05.004", 
+            "year": "2008", 
+            "title": "Engineering microbial consortia: a new frontier in synthetic biology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Brenner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "You"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FH", 
+                    "surname": "Arnold"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "PLOS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.1003695", 
+            "year": "2014", 
+            "title": "Emergent biosynthetic capacity in simple microbial communities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Chiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Levy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Borenstein"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Ecological Modelling", 
+            "doi": "10.1016/j.ecolmodel.2005.10.045", 
+            "year": "2007", 
+            "title": "The role of sensitivity analysis in ecological modelling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Cariboni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gatelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Liska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Saltelli"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "PLOS Biology", 
+            "doi": "10.1371/journal.pbio.1001490", 
+            "year": "2013", 
+            "title": "Parallel evolutionary dynamics of adaptive diversification in <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Herron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doebeli"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Deep Sea Research II", 
+            "doi": "10.1016/j.dsr2.2006.01.025", 
+            "year": "2006", 
+            "title": "Pelagic functional group modeling: Progress, challenges and prospects", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Hood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Laws"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Armstrong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Bates"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CW", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Carlson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Chai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Doney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Falkowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Feely"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Friedrichs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Landry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Keith Moore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Nelson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Salihoglu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schartau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Toole"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Wiggert"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Environmental Microbiology", 
+            "doi": "10.1111/1462-2920.13058", 
+            "year": "2015", 
+            "title": "Transient dynamics of competitive exclusion in microbial communities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Louca"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doebeli"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "BMC Evolutionary Biology", 
+            "doi": "10.1186/1471\u20132148-8\u201334", 
+            "year": "2008", 
+            "title": "Experimental demonstration of ecological character displacement", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Tyerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bertrand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Spencer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doebeli"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Applied and Environmental Microbiology", 
+            "year": "1994", 
+            "title": "Stoichiometric flux balance models quantitatively predict growth and metabolic by-product secretion in wild-type <italic>Escherichia coli</italic> W3110", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Varma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BO", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Genetica", 
+            "doi": "10.1007/s10709-003-2738-9", 
+            "year": "2005", 
+            "title": "Parallel genotypic adaptation: when evolution repeats itself", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Wood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Burke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Rieseberg"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2012-13-5-r37", 
+            "year": "2012", 
+            "title": "Comparative multi-omics systems analysis of <italic>Escherichia coli</italic> strains B and K-12", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Yoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Han"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Jeong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XX", 
+                    "surname": "Xia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Shim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TK", 
+                    "surname": "Oh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Kim"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Evolution", 
+            "year": "2004", 
+            "title": "Experimental evidence for sympatric ecological diversification due to frequency-dependent competition in <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Friesen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Saxer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Travisano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doebeli"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "BMC Bioinformatics", 
+            "doi": "10.1186/1471\u20132105-9\u201343", 
+            "year": "2008", 
+            "title": "Predicting biological system objectives de novo from internal state measurements", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EP", 
+                    "surname": "Gianchandani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Oberhardt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Burgard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Maranas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Papin"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Biotechnology and Bioengineering", 
+            "doi": "10.1002/bit.10740", 
+            "year": "2003", 
+            "title": "A study of oxygen transfer in shake flasks using a non-invasive oxygen sensor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gupta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Rao"
+                }
+            ]
+        }, 
+        "bib23": {
+            "title": "Monte carlo methods", 
+            "year": "1964", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Hammersley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Handscomb"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "PLOS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.1003091", 
+            "year": "2013", 
+            "title": "The ability of flux balance analysis to predict evolution of central metabolism scales with the initial distance to the optimum", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Harcombe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Delaney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Leiby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Klitgord"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marx"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2014.03.070", 
+            "year": "2014", 
+            "title": "Metabolic resource allocation in individual microbes determines ecosystem interactions and spatial dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Harcombe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Riehl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Dukovski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Granger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Betts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Lang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bonilla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Leiby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mehta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marx"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Segr\u00e8"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.1672", 
+            "year": "2010", 
+            "title": "High-throughput generation, optimization and analysis of genome-scale metabolic models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Henry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "DeJongh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Best"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Frybarger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Linsay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Stevens"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Genome Research", 
+            "year": "2006", 
+            "title": "Integrated analysis of regulatory and metabolic networks reveals novel regulatory mechanisms in <italic>Saccharomyces cerevisiae</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Herrg\u00e5rd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Portnoy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B\u00d8", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Science", 
+            "doi": "10.1126/science.1248688", 
+            "year": "2014", 
+            "title": "Epistasis and allele specificity in the emergence of a stable polymorphism in <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Plucain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hindr\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Le Gac"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Tenaillon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Cruveiller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "M\u00e9digue"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Leiby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Harcombe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marx"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Schneider"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1313713111", 
+            "year": "2014", 
+            "title": "Gene-centric approach to integrating environmental genomics and biogeochemical models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Reed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CK", 
+                    "surname": "Algar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Huber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Dick"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Evolution", 
+            "doi": "10.1111/j.1558-5646.2008.00397.x", 
+            "year": "2008", 
+            "title": "Defined order of evolutionary adaptations: experimental evidence", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Oxman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Alon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dekel"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Journal of Microbiological Methods", 
+            "doi": "10.1016/0167-7012(95)00074-7", 
+            "year": "1996", 
+            "title": "A kinetic method for estimating the biomass of microbial functional groups in soil", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Panikov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MV", 
+                    "surname": "Sizova"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "FEMS Microbiology Reviews", 
+            "doi": "10.1111/1574-6976.12019", 
+            "year": "2013", 
+            "title": "Microbial syntrophy: interaction for the common good", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Morris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Henneberger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Huber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Moissl-Eichinger"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.1614", 
+            "year": "2010", 
+            "title": "What is flux balance analysis?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Orth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Thiele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BO", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Chemical oceanography. Marine science series", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Millero"
+                }
+            ], 
+            "year": "2013"
+        }, 
+        "bib43": {
+            "source": "Annual Review of Genetics", 
+            "doi": "10.1146/annurev-genet-111212-133307", 
+            "year": "2013", 
+            "title": "The genotypic view of social interactions in microbial communities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mitri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Foster"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Nature Reviews Microbiology", 
+            "doi": "10.1038/nrmicro2670", 
+            "year": "2012", 
+            "title": "Extreme genome reduction in symbiotic bacteria", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "McCutcheon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Moran"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Metabolic Engineering", 
+            "doi": "10.1016/j.ymben.2009.07.006", 
+            "year": "2010", 
+            "title": "Application of dynamic flux balance analysis to an industrial <italic>Escherichia coli</italic> fermentation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Meadows"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Karnik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Forestell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Snedecor"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Nature Reviews Microbiology", 
+            "doi": "10.1038/nrmicro2763", 
+            "year": "2012", 
+            "title": "A road map for the development of community systems (CoSy) biology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zengler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BO", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "PLOS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.1002363", 
+            "year": "2012", 
+            "title": "OptCom: a multi-level optimization framework for the metabolic modeling and analysis of microbial communities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Zomorrodi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Maranas"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Bioinformatics", 
+            "year": "2008", 
+            "title": "Integrating metabolic, transcriptional regulatory and signal transduction models in <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Covert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Karr"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Journal of Theoretical Biology", 
+            "doi": "10.1006/jtbi.2001.2405", 
+            "year": "2001", 
+            "title": "Regulation of gene expression in flux balance models of metabolism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Covert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Schilling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg1088", 
+            "year": "2003", 
+            "title": "Evolution experiments with microorganisms: the dynamics and genetic bases of adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "Elena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.2250904", 
+            "year": "2004", 
+            "title": "Reconstruction and validation of <italic>Saccharomyces cerevisiae</italic> iND750, a fully compartmentalized genome-scale metabolic model", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NC", 
+                    "surname": "Duarte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Herrg\u00e5rd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B\u00d8", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Chemical oceanography and the marine carbon cycle", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Emerson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hedges"
+                }
+            ], 
+            "year": "2008"
+        }, 
+        "bib14": {
+            "source": "Maximum likelihood estimation: logic and practice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Eliason"
+                }
+            ], 
+            "year": "1993"
+        }, 
+        "bib17": {
+            "source": "Nature Reviews Microbiology", 
+            "doi": "10.1038/nrmicro1949", 
+            "year": "2008", 
+            "title": "Reconstruction of biochemical networks in microorganisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Feist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Herrg\u00e5rd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Thiele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Reed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B\u00d8", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Aquatic Microbial Ecology", 
+            "doi": "10.3354/ame010015", 
+            "year": "1996", 
+            "title": "Content of carbon, nitrogen, oxygen, sulfur and phosphorus in native aquatic and cultured bacteria", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Fagerbakke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Heldal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Norland"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms1597", 
+            "year": "2011", 
+            "title": "Competitive and cooperative metabolic interactions in bacterial communities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Freilich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Zarecki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Eilam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Segal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Henry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kupiec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Gophna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sharan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Ruppin"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Current Opinion in Microbiology", 
+            "doi": "10.1016/j.mib.2010.03.003", 
+            "year": "2010", 
+            "title": "The biomass objective function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Feist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BO", 
+                    "surname": "Palsson"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Current Opinion in Biotechnology", 
+            "doi": "10.1016/j.copbio.2011.04.018", 
+            "year": "2011", 
+            "title": "Ecosystems biology of microbial metabolism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Klitgord"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Segr\u00e8"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "PLOS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.1001002", 
+            "year": "2010", 
+            "title": "Environments that induce synthetic microbial ecosystems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Klitgord"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Segr\u00e8"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Annual Review of Microbiology", 
+            "doi": "10.1146/annurev.micro.58.030603.123654", 
+            "year": "2004", 
+            "title": "The ecology and genetics of microbial diversity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kassen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Rainey"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Trends in Biotechnology", 
+            "doi": "10.1016/j.tibtech.2011.01.009", 
+            "year": "2011", 
+            "title": "Prospects for systems biology and modeling of the gut microbiome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FH", 
+                    "surname": "Karlsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Nookaew"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Petranovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nielsen"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0600166103", 
+            "year": "2006", 
+            "title": "Modeling the role of bacteriophage in the control of cholera outbreaks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Jensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Faruque"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Mekalanos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Levin"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.05.040", 
+            "year": "2013", 
+            "title": "Horizontal gene transfer from diverse bacteria to an insect genome enables a tripartite nested mealybug symbiosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Husnik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Nikoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Koga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Duncan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fujie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Satoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bachtrog"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ACC", 
+                    "surname": "Wilson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "von Dohlen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fukatsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "McCutcheon"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Genetics", 
+            "year": "2008", 
+            "title": "Metabolic changes associated with adaptive diversification in <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Le Gac"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Brazas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bertrand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Tyerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Spencer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "REW", 
+                    "surname": "Hancock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doebeli"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Molecular Biology and Evolution", 
+            "doi": "10.1093/oxfordjournals.molbev.a025984", 
+            "year": "1998", 
+            "title": "Repeated evolution of an acetate-crossfeeding polymorphism in long-term populations of <italic>Escherichia coli</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Treves"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Manning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Adams"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Inverse problem theory and methods for model parameter estimation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tarantola"
+                }
+            ], 
+            "year": "2005"
+        }, 
+        "bib36": {
+            "source": "Applied and Environmental Microbiology", 
+            "year": "1977", 
+            "title": "Correction for the inherent error in optical density readings", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lawrence"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Maier"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Antonie van Leeuwenhoek", 
+            "doi": "10.1007/BF00871644", 
+            "year": "1994", 
+            "title": "Metabolic interactions between anaerobic bacteria in methanogenic environments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Stams"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0708504105", 
+            "year": "2008", 
+            "title": "Adaptation increases the likelihood of diversification in an experimental bacterial lineage", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Spencer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Tyerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bertrand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doebeli"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Molecular Systems Biology", 
+            "doi": "10.1038/msb4100131", 
+            "year": "2007", 
+            "title": "Metabolic modeling of a mutualistic microbial community", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Stolyar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Van Dien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Hillesland"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Pinel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Lie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Leigh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Stahl"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1013435107", 
+            "year": "2010", 
+            "title": "Aerobic growth at nanomolar oxygen concentrations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Stolper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NP", 
+                    "surname": "Revsbech"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Canfield"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "year": "2002", 
+            "title": "Analysis of optimality in natural and perturbed metabolic networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Segr\u00e8"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Vitkup"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Church"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "The prokaryotes", 
+            "year": "2006", 
+            "title": "Syntrophism among prokaryotes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Schink"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Stams"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "M", 
+                    "surname": "Dworkin"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "S", 
+                    "surname": "Falkow"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "E", 
+                    "surname": "Rosenberg"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "KH", 
+                    "surname": "Schleifer"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "E", 
+                    "surname": "Stackebrandt"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Evolutionary Ecology Research", 
+            "year": "2007", 
+            "title": "Seasonal resource oscillations maintain diversity in bacterial microcosms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Spencer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Saxer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Travisano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Doebeli"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Limnology and Oceanography", 
+            "doi": "10.4319/lo.1984.29.3.0633", 
+            "year": "1984", 
+            "title": "The paradox of the plankton: fluctuations of phosphorus availability maintain diversity of phytoplankton in flow-through cultures", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Sommer"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "A novel computation tool for microbial community modeling predicts the evolution and diversification of <italic>E. coli</italic> in laboratory evolution experiments and gives insight into the underlying metabolic processes.", 
     "related-articles": [], 
     "elocation-id": "e08208", 
@@ -1992,52 +1862,42 @@
             "conf2": "The other author declares that no competing interests exist.", 
             "conf1": "MD: Reviewing editor, <italic>eLife.</italic>"
         }, 
-        "funding": [
-            {
-                "par-1": {
-                    "id": "http://dx.doi.org/10.13039/501100000038", 
-                    "award-id": "Discovery Grant, 21990", 
-                    "institution": "Natural Sciences and Engineering Research Council of Canada (NSERC)", 
-                    "id-type": "FundRef"
-                }
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/501100005247", 
+                "award-id": "Graduate Student Fellowship", 
+                "institution": "University of British Columbia (UBC)", 
+                "id-type": "FundRef"
             }, 
-            {
-                "par-2": {
-                    "id": "http://dx.doi.org/10.13039/100009059", 
-                    "award-id": "International Graduate Training Centre (IGTC) in Mathematical Biology", 
-                    "institution": "Pacific Institute for Mathematical Sciences (PIMS)", 
-                    "id-type": "FundRef"
-                }
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100009059", 
+                "award-id": "International Graduate Training Centre (IGTC) in Mathematical Biology", 
+                "institution": "Pacific Institute for Mathematical Sciences (PIMS)", 
+                "id-type": "FundRef"
             }, 
-            {
-                "par-3": {
-                    "id": "http://dx.doi.org/10.13039/501100005247", 
-                    "award-id": "Graduate Student Fellowship", 
-                    "institution": "University of British Columbia (UBC)", 
-                    "id-type": "FundRef"
-                }
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000038", 
+                "award-id": "Discovery Grant, 21990", 
+                "institution": "Natural Sciences and Engineering Research Council of Canada (NSERC)", 
+                "id-type": "FundRef"
             }
-        ], 
+        }, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Institute of Applied Mathematics", 
-                    "city": "Vancouver", 
-                    "institution": "University of British Columbia", 
-                    "country": "Canada"
-                }
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Zoology", 
+                "city": "Vancouver", 
+                "institution": "University of British Columbia", 
+                "country": "Canada"
             }, 
-            {
-                "aff2": {
-                    "dept": "Department of Zoology", 
-                    "city": "Vancouver", 
-                    "institution": "University of British Columbia", 
-                    "country": "Canada"
-                }
+            "aff1": {
+                "dept": "Institute of Applied Mathematics", 
+                "city": "Vancouver", 
+                "institution": "University of British Columbia", 
+                "country": "Canada"
             }
-        ], 
+        }, 
         "equal-contrib": {}, 
         "contribution": {
             "con1": "SL, Conceived and developed MCM. Designed the <italic>E. coli</italic> community model and performed the calibration and simulations. Analyzed and interpreted the simulations. Wrote the article", 

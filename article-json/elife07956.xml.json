@@ -158,1043 +158,983 @@
     ], 
     "pub-date": "2015-08-12", 
     "title": "Enhancer additivity and non-additivity are determined by enhancer strength in the <italic>Drosophila</italic> embryo", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "Science", 
-                "doi": "10.1126/science.1232542", 
-                "year": "2013", 
-                "title": "Genome-wide quantitative enhancer activity maps identified by STARR-seq", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "CD", 
-                        "surname": "Arnold"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Gerlach"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Stelzer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "\u0141M", 
-                        "surname": "Bory\u0144"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Rath"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Stark"
-                    }
-                ]
-            }
+    "citations": {
+        "bib9": {
+            "source": "Trends in Genetics", 
+            "doi": "10.1016/j.tig.2014.06.002", 
+            "year": "2014", 
+            "title": "The embryo as a laboratory: quantifying transcription in <italic>Drosophila</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gregor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Garcia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Little"
+                }
+            ]
         }, 
-        {
-            "bib2": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.1410022111", 
-                "year": "2014", 
-                "title": "Dynamic regulation of eve stripe 2 expression reveals transcriptional bursts in living <italic>Drosophila</italic> embryos", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "Bothma"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "HG", 
-                        "surname": "Garcia"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Esposito"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Schlissel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Gregor"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levine"
-                    }
-                ]
-            }
+        "bib8": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2007.05.025", 
+            "year": "2007", 
+            "title": "Probing the limits to positional information", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gregor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EF", 
+                    "surname": "Wieschaus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Tank"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bialek"
+                }
+            ]
         }, 
-        {
-            "bib3": {
-                "source": "Trends in Genetics", 
-                "doi": "10.1016/j.tig.2012.02.008", 
-                "year": "2012", 
-                "title": "Enhancers as information integration hubs in development: lessons from genomics", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Buecker"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Wysocka"
-                    }
-                ]
-            }
+        "bib1": {
+            "source": "Science", 
+            "doi": "10.1126/science.1232542", 
+            "year": "2013", 
+            "title": "Genome-wide quantitative enhancer activity maps identified by STARR-seq", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CD", 
+                    "surname": "Arnold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gerlach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Stelzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "\u0141M", 
+                    "surname": "Bory\u0144"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Stark"
+                }
+            ]
         }, 
-        {
-            "bib4": {
-                "source": "Developmental Cell", 
-                "doi": "10.1016/j.devcel.2012.01.019", 
-                "year": "2012", 
-                "title": "Short-term integration of Cdc25 dynamics controls mitotic entry during <italic>Drosophila</italic> gastrulation", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Di Talia"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "EF", 
-                        "surname": "Wieschaus"
-                    }
-                ]
-            }
+        "bib3": {
+            "source": "Trends in Genetics", 
+            "doi": "10.1016/j.tig.2012.02.008", 
+            "year": "2012", 
+            "title": "Enhancers as information integration hubs in development: lessons from genomics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Buecker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wysocka"
+                }
+            ]
         }, 
-        {
-            "bib5": {
-                "source": "Development", 
-                "doi": "10.1242/dev.069146", 
-                "year": "2011", 
-                "title": "Complex interactions between cis-regulatory modules in native conformation are critical for <italic>Drosophila</italic> snail expression", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Dunipace"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Ozdemir"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Stathopoulos"
-                    }
-                ]
-            }
+        "bib2": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1410022111", 
+            "year": "2014", 
+            "title": "Dynamic regulation of eve stripe 2 expression reveals transcriptional bursts in living <italic>Drosophila</italic> embryos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Bothma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Garcia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Esposito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Schlissel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gregor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }
+            ]
         }, 
-        {
-            "bib6": {
-                "source": "Nature", 
-                "doi": "10.1038/nature09158", 
-                "year": "2010", 
-                "title": "Phenotypic robustness conferred by apparently redundant transcriptional enhancers", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Frankel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "GK", 
-                        "surname": "Davis"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Vargas"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Wang"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Payre"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DL", 
-                        "surname": "Stern"
-                    }
-                ]
-            }
+        "bib5": {
+            "source": "Development", 
+            "doi": "10.1242/dev.069146", 
+            "year": "2011", 
+            "title": "Complex interactions between cis-regulatory modules in native conformation are critical for <italic>Drosophila</italic> snail expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Dunipace"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ozdemir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Stathopoulos"
+                }
+            ]
         }, 
-        {
-            "bib7": {
-                "source": "Current Biology", 
-                "doi": "10.1016/j.cub.2013.08.054", 
-                "year": "2013", 
-                "title": "Quantitative imaging of transcription in living <italic>Drosophila</italic> embryos links polymerase activity to patterning", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "HG", 
-                        "surname": "Garcia"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Tikhonov"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Lin"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Gregor"
-                    }
-                ]
-            }
+        "bib4": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2012.01.019", 
+            "year": "2012", 
+            "title": "Short-term integration of Cdc25 dynamics controls mitotic entry during <italic>Drosophila</italic> gastrulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Di Talia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EF", 
+                    "surname": "Wieschaus"
+                }
+            ]
         }, 
-        {
-            "bib8": {
-                "source": "Cell", 
-                "doi": "10.1016/j.cell.2007.05.025", 
-                "year": "2007", 
-                "title": "Probing the limits to positional information", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Gregor"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "EF", 
-                        "surname": "Wieschaus"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DW", 
-                        "surname": "Tank"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "W", 
-                        "surname": "Bialek"
-                    }
-                ]
-            }
+        "bib7": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2013.08.054", 
+            "year": "2013", 
+            "title": "Quantitative imaging of transcription in living <italic>Drosophila</italic> embryos links polymerase activity to patterning", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Garcia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tikhonov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gregor"
+                }
+            ]
         }, 
-        {
-            "bib9": {
-                "source": "Trends in Genetics", 
-                "doi": "10.1016/j.tig.2014.06.002", 
-                "year": "2014", 
-                "title": "The embryo as a laboratory: quantifying transcription in <italic>Drosophila</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Gregor"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "HG", 
-                        "surname": "Garcia"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SC", 
-                        "surname": "Little"
-                    }
-                ]
-            }
+        "bib6": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09158", 
+            "year": "2010", 
+            "title": "Phenotypic robustness conferred by apparently redundant transcriptional enhancers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Frankel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GK", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Vargas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Payre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Stern"
+                }
+            ]
         }, 
-        {
-            "bib10": {
-                "source": "PLOS Genetics", 
-                "doi": "10.1371/journal.pgen.1002266", 
-                "year": "2011", 
-                "title": "Zelda binding in the early <italic>Drosophila melanogaster</italic> embryo marks regions subsequently activated at the maternal-to-zygotic transition", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MM", 
-                        "surname": "Harrison"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "X-Y", 
-                        "surname": "Li"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Kaplan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MR", 
-                        "surname": "Botchan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MB", 
-                        "surname": "Eisen"
-                    }
-                ]
-            }
+        "bib28": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09692", 
+            "year": "2011", 
+            "title": "A unique chromatin signature uncovers early developmental enhancers in humans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rada-Iglesias"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Bajpai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Swigut"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Brugmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Flynn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wysocka"
+                }
+            ]
         }, 
-        {
-            "bib11": {
-                "source": "Nature Methods", 
-                "doi": "10.1038/nmeth.2305", 
-                "year": "2013", 
-                "title": "Single-molecule analysis of gene expression using two-color RNA labeling in live yeast", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Hocine"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "P", 
-                        "surname": "Raymond"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Zenklusen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JA", 
-                        "surname": "Chao"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RH", 
-                        "surname": "Singer"
-                    }
-                ]
-            }
+        "bib29": {
+            "source": "Current Opinion in Genetics & Development", 
+            "doi": "10.1016/j.gde.2012.08.005", 
+            "year": "2012", 
+            "title": "Temporal dynamics, spatial range, and transcriptional interpretation of the Dorsal morphogen gradient", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rushlow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Shvartsman"
+                }
+            ]
         }, 
-        {
-            "bib12": {
-                "source": "Science", 
-                "doi": "10.1126/science.1160631", 
-                "year": "2008", 
-                "title": "Shadow enhancers as a source of evolutionary novelty", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "JW", 
-                        "surname": "Hong"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DA", 
-                        "surname": "Hendrix"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MS", 
-                        "surname": "Levine"
-                    }
-                ]
-            }
+        "bib20": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1220912110", 
+            "year": "2013", 
+            "title": "Dynamic interpretation of maternal inputs by the <italic>Drosophila</italic> segmentation gene network", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Morrison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gregor"
+                }
+            ]
         }, 
-        {
-            "bib13": {
-                "source": "Development", 
-                "doi": "10.1242/dev.02239", 
-                "year": "2006", 
-                "title": "A functional screen for sonic hedgehog regulatory elements across a 1 Mb interval identifies long-range ventral forebrain enhancers", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Jeong"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "El-Jaick"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Roessler"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Muenke"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DJ", 
-                        "surname": "Epstein"
-                    }
-                ]
-            }
+        "bib21": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2013.08.053", 
+            "year": "2013", 
+            "title": "Live imaging of bicoid-dependent transcription in <italic>Drosophila</italic> embryos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lucas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ferraro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Roelens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "De Las Heras Chanes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Walczak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Coppey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Dostatni"
+                }
+            ]
         }, 
-        {
-            "bib14": {
-                "source": "Frontiers in Genetics", 
-                "doi": "10.3389/fgene.2015.00029", 
-                "year": "2015", 
-                "title": "Dynamic reprogramming of chromatin: paradigmatic palimpsests and HES factors", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Kok"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DN", 
-                        "surname": "Arnosti"
-                    }
-                ]
-            }
+        "bib22": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2009-10-7-r80", 
+            "year": "2009", 
+            "title": "Developmental roles of 21 <italic>Drosophila</italic> transcription factors are determined by quantitative differences in binding to an overlapping set of thousands of genomic regions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "MacArthur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Chu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BP", 
+                    "surname": "Grondona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hechmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Simirenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SV", 
+                    "surname": "Ker\u00e4nen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Knowles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Stapleton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Bickel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Biggin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Eisen"
+                }
+            ]
         }, 
-        {
-            "bib15": {
-                "source": "Trends in Genetics", 
-                "doi": "10.1016/j.tig.2012.03.006", 
-                "year": "2012", 
-                "title": "Mechanisms of transcriptional precision in animal development", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Lagha"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "Bothma"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levine"
-                    }
-                ]
-            }
+        "bib23": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1415308111", 
+            "year": "2014", 
+            "title": "Neural precursor-specific expression of multiple <italic>Drosophila</italic> genes is driven by dual enhancer modules with overlapping function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rebeiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Atanasov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Posakony"
+                }
+            ]
         }, 
-        {
-            "bib16": {
-                "source": "PLOS Genetics", 
-                "doi": "10.1371/journal.pgen.1004935", 
-                "year": "2015", 
-                "title": "Partially redundant enhancers cooperatively naintain mammalian pomc expression above a critical functional threshold", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "DD", 
-                        "surname": "Lam"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "FS", 
-                        "surname": "de Souza"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Nasif"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Yamashita"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "L\u00f3pez-Leal"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "V", 
-                        "surname": "Otero-Corchon"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "K", 
-                        "surname": "Meece"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Sampath"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AJ", 
-                        "surname": "Mercer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SL", 
-                        "surname": "Wardlaw"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Rubinstein"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MJ", 
-                        "surname": "Low"
-                    }
-                ]
-            }
+        "bib24": {
+            "source": "PLOS Genetics", 
+            "doi": "10.1371/journal.pgen.1002339", 
+            "year": "2011", 
+            "title": "Temporal coordination of gene networks by Zelda in the early <italic>Drosophila</italic> embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C-Y", 
+                    "surname": "Nien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H-L", 
+                    "surname": "Liang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Butcher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gocha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kirov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Manak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rushlow"
+                }
+            ]
         }, 
-        {
-            "bib17": {
-                "source": "Cell", 
-                "doi": "10.1016/j.cell.2014.02.009", 
-                "year": "2014", 
-                "title": "Looping back to leap forward: transcription enters a new era", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levine"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Cattoglio"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Tjian"
-                    }
-                ]
-            }
+        "bib25": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2010.07.043", 
+            "year": "2010", 
+            "title": "Shadow enhancers foster robustness of <italic>Drosophila</italic> gastrulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Perry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Boettiger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Bothma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }
+            ]
         }, 
-        {
-            "bib18": {
-                "source": "Current Biology", 
-                "doi": "10.1016/j.cub.2010.06.070", 
-                "year": "2010", 
-                "title": "Transcriptional enhancers in animal development and evolution", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levine"
-                    }
-                ]
-            }
+        "bib26": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1109873108", 
+            "year": "2011", 
+            "title": "Multiple enhancers ensure precision of gap gene-expression patterns in the <italic>Drosophila</italic> embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Perry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "Boettiger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }
+            ]
         }, 
-        {
-            "bib19": {
-                "source": "Cell", 
-                "doi": "10.1016/j.cell.2013.07.025", 
-                "year": "2013", 
-                "title": "Precise developmental gene expression arises from globally stochastic transcriptional activity", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "SC", 
-                        "surname": "Little"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Tikhonov"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Gregor"
-                    }
-                ]
-            }
+        "bib27": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2012.09.051", 
+            "year": "2012", 
+            "title": "Precision of hunchback expression in the <italic>Drosophila</italic> embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Perry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Bothma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Luu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }
+            ]
         }, 
-        {
-            "bib20": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.1220912110", 
-                "year": "2013", 
-                "title": "Dynamic interpretation of maternal inputs by the <italic>Drosophila</italic> segmentation gene network", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "F", 
-                        "surname": "Liu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AH", 
-                        "surname": "Morrison"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Gregor"
-                    }
-                ]
-            }
+        "bib11": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2305", 
+            "year": "2013", 
+            "title": "Single-molecule analysis of gene expression using two-color RNA labeling in live yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hocine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Raymond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Zenklusen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Chao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Singer"
+                }
+            ]
         }, 
-        {
-            "bib21": {
-                "source": "Current Biology", 
-                "doi": "10.1016/j.cub.2013.08.053", 
-                "year": "2013", 
-                "title": "Live imaging of bicoid-dependent transcription in <italic>Drosophila</italic> embryos", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Lucas"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Ferraro"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "B", 
-                        "surname": "Roelens"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "De Las Heras Chanes"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AM", 
-                        "surname": "Walczak"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Coppey"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Dostatni"
-                    }
-                ]
-            }
+        "bib10": {
+            "source": "PLOS Genetics", 
+            "doi": "10.1371/journal.pgen.1002266", 
+            "year": "2011", 
+            "title": "Zelda binding in the early <italic>Drosophila melanogaster</italic> embryo marks regions subsequently activated at the maternal-to-zygotic transition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Harrison"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kaplan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Botchan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Eisen"
+                }
+            ]
         }, 
-        {
-            "bib22": {
-                "source": "Genome Biology", 
-                "doi": "10.1186/gb-2009-10-7-r80", 
-                "year": "2009", 
-                "title": "Developmental roles of 21 <italic>Drosophila</italic> transcription factors are determined by quantitative differences in binding to an overlapping set of thousands of genomic regions", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "MacArthur"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "X-Y", 
-                        "surname": "Li"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Li"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JB", 
-                        "surname": "Brown"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "HC", 
-                        "surname": "Chu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Zeng"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "BP", 
-                        "surname": "Grondona"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Hechmer"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Simirenko"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SV", 
-                        "surname": "Ker\u00e4nen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "DW", 
-                        "surname": "Knowles"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Stapleton"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "P", 
-                        "surname": "Bickel"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MD", 
-                        "surname": "Biggin"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "MB", 
-                        "surname": "Eisen"
-                    }
-                ]
-            }
+        "bib13": {
+            "source": "Development", 
+            "doi": "10.1242/dev.02239", 
+            "year": "2006", 
+            "title": "A functional screen for sonic hedgehog regulatory elements across a 1 Mb interval identifies long-range ventral forebrain enhancers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jeong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "El-Jaick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Roessler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Muenke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Epstein"
+                }
+            ]
         }, 
-        {
-            "bib23": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.1415308111", 
-                "year": "2014", 
-                "title": "Neural precursor-specific expression of multiple <italic>Drosophila</italic> genes is driven by dual enhancer modules with overlapping function", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "SW", 
-                        "surname": "Miller"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Rebeiz"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JE", 
-                        "surname": "Atanasov"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JW", 
-                        "surname": "Posakony"
-                    }
-                ]
-            }
+        "bib12": {
+            "source": "Science", 
+            "doi": "10.1126/science.1160631", 
+            "year": "2008", 
+            "title": "Shadow enhancers as a source of evolutionary novelty", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Hendrix"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Levine"
+                }
+            ]
         }, 
-        {
-            "bib24": {
-                "source": "PLOS Genetics", 
-                "doi": "10.1371/journal.pgen.1002339", 
-                "year": "2011", 
-                "title": "Temporal coordination of gene networks by Zelda in the early <italic>Drosophila</italic> embryo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "C-Y", 
-                        "surname": "Nien"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H-L", 
-                        "surname": "Liang"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Butcher"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "Sun"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "S", 
-                        "surname": "Fu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Gocha"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "N", 
-                        "surname": "Kirov"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JR", 
-                        "surname": "Manak"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Rushlow"
-                    }
-                ]
-            }
+        "bib15": {
+            "source": "Trends in Genetics", 
+            "doi": "10.1016/j.tig.2012.03.006", 
+            "year": "2012", 
+            "title": "Mechanisms of transcriptional precision in animal development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lagha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Bothma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }
+            ]
         }, 
-        {
-            "bib25": {
-                "source": "Current Biology", 
-                "doi": "10.1016/j.cub.2010.07.043", 
-                "year": "2010", 
-                "title": "Shadow enhancers foster robustness of <italic>Drosophila</italic> gastrulation", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MW", 
-                        "surname": "Perry"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AN", 
-                        "surname": "Boettiger"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "Bothma"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levine"
-                    }
-                ]
-            }
+        "bib14": {
+            "source": "Frontiers in Genetics", 
+            "doi": "10.3389/fgene.2015.00029", 
+            "year": "2015", 
+            "title": "Dynamic reprogramming of chromatin: paradigmatic palimpsests and HES factors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kok"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DN", 
+                    "surname": "Arnosti"
+                }
+            ]
         }, 
-        {
-            "bib26": {
-                "source": "Proceedings of the National Academy of Sciences of USA", 
-                "doi": "10.1073/pnas.1109873108", 
-                "year": "2011", 
-                "title": "Multiple enhancers ensure precision of gap gene-expression patterns in the <italic>Drosophila</italic> embryo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MW", 
-                        "surname": "Perry"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "AN", 
-                        "surname": "Boettiger"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levine"
-                    }
-                ]
-            }
+        "bib17": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2014.02.009", 
+            "year": "2014", 
+            "title": "Looping back to leap forward: transcription enters a new era", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cattoglio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tjian"
+                }
+            ]
         }, 
-        {
-            "bib27": {
-                "source": "Current Biology", 
-                "doi": "10.1016/j.cub.2012.09.051", 
-                "year": "2012", 
-                "title": "Precision of hunchback expression in the <italic>Drosophila</italic> embryo", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "MW", 
-                        "surname": "Perry"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JP", 
-                        "surname": "Bothma"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RD", 
-                        "surname": "Luu"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Levine"
-                    }
-                ]
-            }
+        "bib16": {
+            "source": "PLOS Genetics", 
+            "doi": "10.1371/journal.pgen.1004935", 
+            "year": "2015", 
+            "title": "Partially redundant enhancers cooperatively naintain mammalian pomc expression above a critical functional threshold", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FS", 
+                    "surname": "de Souza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nasif"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yamashita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "L\u00f3pez-Leal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Otero-Corchon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Meece"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sampath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Mercer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Wardlaw"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rubinstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Low"
+                }
+            ]
         }, 
-        {
-            "bib28": {
-                "source": "Nature", 
-                "doi": "10.1038/nature09692", 
-                "year": "2011", 
-                "title": "A unique chromatin signature uncovers early developmental enhancers in humans", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Rada-Iglesias"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Bajpai"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "T", 
-                        "surname": "Swigut"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SA", 
-                        "surname": "Brugmann"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RA", 
-                        "surname": "Flynn"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "J", 
-                        "surname": "Wysocka"
-                    }
-                ]
-            }
+        "bib19": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.07.025", 
+            "year": "2013", 
+            "title": "Precise developmental gene expression arises from globally stochastic transcriptional activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Little"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tikhonov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Gregor"
+                }
+            ]
         }, 
-        {
-            "bib29": {
-                "source": "Current Opinion in Genetics & Development", 
-                "doi": "10.1016/j.gde.2012.08.005", 
-                "year": "2012", 
-                "title": "Temporal dynamics, spatial range, and transcriptional interpretation of the Dorsal morphogen gradient", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Rushlow"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "SY", 
-                        "surname": "Shvartsman"
-                    }
-                ]
-            }
+        "bib18": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2010.06.070", 
+            "year": "2010", 
+            "title": "Transcriptional enhancers in animal development and evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }
+            ]
         }, 
-        {
-            "bib30": {
-                "source": "Nature Methods", 
-                "doi": "10.1038/nmeth.1331", 
-                "year": "2009", 
-                "title": "Versatile P[acman] BAC libraries for transgenesis studies in <italic>Drosophila melanogaster</italic>", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "KJT", 
-                        "surname": "Venken"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "JW", 
-                        "surname": "Carlson"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KL", 
-                        "surname": "Schulze"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "H", 
-                        "surname": "Pan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "Y", 
-                        "surname": "He"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "R", 
-                        "surname": "Spokony"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KH", 
-                        "surname": "Wan"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "M", 
-                        "surname": "Koriabine"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "PJ", 
-                        "surname": "de Jong"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KP", 
-                        "surname": "White"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "HJ", 
-                        "surname": "Bellen"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "RA", 
-                        "surname": "Hoskins"
-                    }
-                ]
-            }
+        "bib30": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.1331", 
+            "year": "2009", 
+            "title": "Versatile P[acman] BAC libraries for transgenesis studies in <italic>Drosophila melanogaster</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KJT", 
+                    "surname": "Venken"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Carlson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Schulze"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Pan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "He"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Spokony"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Wan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koriabine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "de Jong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Bellen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Hoskins"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "Quantitative live imaging assays reveal that multiple enhancers often fail to work in an additive fashion in the patterning of the <italic>Drosophila</italic> embryo, and sometimes even interfere with one another.", 
     "related-articles": [], 
     "elocation-id": "e07956", 
@@ -1222,80 +1162,62 @@
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
-        "funding": [
-            {
-                "par-1": {
-                    "id": "http://dx.doi.org/10.13039/100000002", 
-                    "award-id": "GM34431", 
-                    "institution": "National Institutes of Health (NIH)", 
-                    "id-type": "FundRef"
-                }
+        "funding": {
+            "par-6": {
+                "award-id": "10-SSP-274", 
+                "institution": "Searle Scholar Award"
             }, 
-            {
-                "par-2": {
-                    "id": "http://dx.doi.org/10.13039/100000002", 
-                    "award-id": "GM071508", 
-                    "institution": "National Institutes of Health (NIH)", 
-                    "id-type": "FundRef"
-                }
+            "par-5": {
+                "award-id": "Dicke Fellowship", 
+                "institution": "Physics Department, Princeton University"
             }, 
-            {
-                "par-3": {
-                    "id": "http://dx.doi.org/10.13039/100000002", 
-                    "award-id": "GM097275", 
-                    "institution": "National Institutes of Health (NIH)", 
-                    "id-type": "FundRef"
-                }
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000861", 
+                "award-id": "101880", 
+                "institution": "Burroughs Wellcome Fund", 
+                "id-type": "FundRef"
             }, 
-            {
-                "par-4": {
-                    "id": "http://dx.doi.org/10.13039/100000861", 
-                    "award-id": "101880", 
-                    "institution": "Burroughs Wellcome Fund", 
-                    "id-type": "FundRef"
-                }
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM097275", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
             }, 
-            {
-                "par-5": {
-                    "award-id": "Dicke Fellowship", 
-                    "institution": "Physics Department, Princeton University"
-                }
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM071508", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
             }, 
-            {
-                "par-6": {
-                    "award-id": "10-SSP-274", 
-                    "institution": "Searle Scholar Award"
-                }
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM34431", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
             }
-        ], 
+        }, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Department of Molecular and Cell Biology", 
-                    "city": "Berkeley", 
-                    "institution": "University of California, Berkeley", 
-                    "country": "United States"
-                }
+        "affiliation": {
+            "aff3": {
+                "dept": "Lewis-Sigler Institute for Integrative Genomics", 
+                "city": "Princeton", 
+                "institution": "Princeton University", 
+                "country": "United States"
             }, 
-            {
-                "aff2": {
-                    "dept": "Department of Physics", 
-                    "city": "Princeton", 
-                    "institution": "Princeton University", 
-                    "country": "United States"
-                }
+            "aff2": {
+                "dept": "Department of Physics", 
+                "city": "Princeton", 
+                "institution": "Princeton University", 
+                "country": "United States"
             }, 
-            {
-                "aff3": {
-                    "dept": "Lewis-Sigler Institute for Integrative Genomics", 
-                    "city": "Princeton", 
-                    "institution": "Princeton University", 
-                    "country": "United States"
-                }
+            "aff1": {
+                "dept": "Department of Molecular and Cell Biology", 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
             }
-        ], 
+        }, 
         "equal-contrib": {
             "equal-contrib": "These authors contributed equally to this work"
         }, 

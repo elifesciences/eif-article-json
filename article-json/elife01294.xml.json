@@ -28,88 +28,84 @@
     ], 
     "pub-date": "2013-08-13", 
     "title": "Changing the rules of the game", 
-    "citations": [
-        {
-            "bib1": {
-                "source": "PLOS ONE", 
-                "doi": "10.1371/journal.pone.0031362", 
-                "year": "2012", 
-                "title": "Phylo: a citizen science approach for improving multiple sequence alignment", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Kawrykow"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "G", 
-                        "surname": "Roumanis"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "A", 
-                        "surname": "Kam"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "D", 
-                        "surname": "Kwak"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Leung"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Wu"
-                    }
-                ]
-            }
+    "citations": {
+        "bib1": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0031362", 
+            "year": "2012", 
+            "title": "Phylo: a citizen science approach for improving multiple sequence alignment", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kawrykow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Roumanis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Kwak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Leung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wu"
+                }
+            ]
         }, 
-        {
-            "bib2": {
-                "source": "Nature Biotech", 
-                "doi": "10.1038/nbt.2495", 
-                "year": "2013", 
-                "title": "Prize-based contests can provide solutions to computational biology problems", 
-                "authors": [
-                    {
-                        "group-type": "author", 
-                        "given-names": "KR", 
-                        "surname": "Lakhani"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "KJ", 
-                        "surname": "Boudreau"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "P-R", 
-                        "surname": "Loh"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "L", 
-                        "surname": "Backstrom"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "C", 
-                        "surname": "Baldwin"
-                    }, 
-                    {
-                        "group-type": "author", 
-                        "given-names": "E", 
-                        "surname": "Lonstein"
-                    }
-                ]
-            }
+        "bib2": {
+            "source": "Nature Biotech", 
+            "doi": "10.1038/nbt.2495", 
+            "year": "2013", 
+            "title": "Prize-based contests can provide solutions to computational biology problems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Lakhani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Boudreau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P-R", 
+                    "surname": "Loh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Backstrom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Baldwin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Lonstein"
+                }
+            ]
         }
-    ], 
+    }, 
     "impact-statement": "", 
     "related-articles": [], 
     "elocation-id": "e01294", 
@@ -133,20 +129,18 @@
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist."
         }, 
-        "funding": null, 
+        "funding": {}, 
         "related-object": {}, 
         "foot-note": {}, 
-        "affiliation": [
-            {
-                "aff1": {
-                    "dept": "Department of Computer Science", 
-                    "email": "dan.maclean@tsl.ac.uk", 
-                    "city": "Norwich", 
-                    "institution": "Sainsbury Laboratory", 
-                    "country": "United Kingdom"
-                }
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Computer Science", 
+                "email": "dan.maclean@tsl.ac.uk", 
+                "city": "Norwich", 
+                "institution": "Sainsbury Laboratory", 
+                "country": "United Kingdom"
             }
-        ], 
+        }, 
         "equal-contrib": {}, 
         "contribution": {}, 
         "email": {}
