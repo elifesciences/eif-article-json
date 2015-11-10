@@ -2179,7 +2179,6 @@
         }
     }, 
     "impact-statement": "Empirical evidence suggests that the hippocampus constructs maps of spatial environments based on the relative locations of places (i.e., topology), rather than absolute distances and coordinates (i.e., geometry).", 
-    "related-articles": [], 
     "elocation-id": "e03476", 
     "publish": "1", 
     "article-version-id": "03476.1", 
@@ -2199,32 +2198,6 @@
     "doi": "10.7554/eLife.03476", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The authors declare that no competing interests exist."
-        }, 
-        "funding": {
-            "par-3": {
-                "id": "http://dx.doi.org/10.13039/100000888", 
-                "award-id": "Houston Bioinformatics Endowment Fund", 
-                "institution": "W.M. Keck Foundation", 
-                "id-type": "FundRef"
-            }, 
-            "par-2": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "MH080283", 
-                "institution": "National Institutes of Health", 
-                "id-type": "FundRef"
-            }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000065", 
-                "award-id": "5F32NS054425", 
-                "institution": "National Institute of Neurological Disorders and Stroke", 
-                "id-type": "FundRef"
-            }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff4": {
                 "dept": "Department of Physiology", 
@@ -2249,11 +2222,33 @@
                 "city": "Houston"
             }
         }, 
-        "equal-contrib": {}, 
         "contribution": {
             "con1": "YD, Conceived of the idea, Conducted the experiments, Analyzed and interpreted data, Wrote and edited the manuscript", 
             "con2": "VLB, interpreted data, wrote and edited the manuscript", 
             "con3": "LMF, Acquisition of data, Analyzed and interpreted data"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000888", 
+                "award-id": "Houston Bioinformatics Endowment Fund", 
+                "institution": "W.M. Keck Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "MH080283", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000065", 
+                "award-id": "5F32NS054425", 
+                "institution": "National Institute of Neurological Disorders and Stroke", 
+                "id-type": "FundRef"
+            }
         }, 
         "email": {
             "cor1": "dabaghia@bcm.edu"

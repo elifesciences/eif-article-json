@@ -5,10 +5,12 @@
         {
             "surname": "Lacefield", 
             "corresp": "yes", 
+            "id": "author-3091", 
             "affiliations": [
                 {
                     "dept": "Department of Biology", 
                     "country": "United States", 
+                    "email": "sonil@indiana.edu", 
                     "institution": "Indiana University", 
                     "city": "Bloomington"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-3091"
+            "email": "sonil@indiana.edu"
         }
     ], 
     "pub-date": "2012-12-18", 
@@ -250,13 +252,6 @@
     "doi": "10.7554/eLife.00386", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interest exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Biology", 
@@ -266,12 +261,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interest exist."
+        }
     }, 
     "path": "content/1/e00386v1", 
-    "fragments": [], 
     "article-id": "00386", 
     "categories": {
         "sub-display-channel": [

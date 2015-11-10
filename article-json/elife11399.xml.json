@@ -5,10 +5,12 @@
         {
             "surname": "Nicolson", 
             "corresp": "yes", 
+            "id": "author-7251", 
             "affiliations": [
                 {
                     "dept": "Oregon Hearing Research Center and the Vollum Institute", 
                     "country": "United States", 
+                    "email": "nicolson@ohsu.edu", 
                     "institution": "Oregon Health and Science University", 
                     "city": "Portland"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-7251"
+            "email": "nicolson@ohsu.edu"
         }
     ], 
     "pub-date": "2015-10-06", 
@@ -755,13 +757,6 @@
     "doi": "10.7554/eLife.11399", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Oregon Hearing Research Center and the Vollum Institute", 
@@ -771,12 +766,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/4/e11399v1", 
-    "fragments": [], 
     "article-id": "11399", 
     "categories": {
         "sub-display-channel": [

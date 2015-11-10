@@ -5,10 +5,12 @@
         {
             "surname": "Tautz", 
             "corresp": "yes", 
+            "id": "author-1191", 
             "affiliations": [
                 {
                     "dept": "Max Planck Institute for Evolutionary Biology", 
                     "country": "Germany", 
+                    "email": "tautz@evolbio.mpg.de", 
                     "city": "Pl\u00f6n"
                 }
             ], 
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1191"
+            "email": "tautz@evolbio.mpg.de"
         }
     ], 
     "pub-date": "2014-01-21", 
@@ -256,13 +258,6 @@
     "doi": "10.7554/eLife.02088", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Max Planck Institute for Evolutionary Biology", 
@@ -271,12 +266,11 @@
                 "country": "Germany"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e02088v1", 
-    "fragments": [], 
     "article-id": "02088", 
     "categories": {
         "sub-display-channel": [

@@ -5,11 +5,13 @@
         {
             "surname": "Grigorieff", 
             "corresp": "yes", 
+            "id": "author-2341", 
             "affiliations": [
                 {
                     "country": "Untied States", 
-                    "institution": "Department of Biochemistry and the Howard Hughes Medical Institute, Brandeis University", 
-                    "city": "Waltham"
+                    "city": "Waltham", 
+                    "email": "niko@brandeis.edu", 
+                    "institution": "Department of Biochemistry and the Howard Hughes Medical Institute, Brandeis University"
                 }
             ], 
             "given-names": "Nikolaus", 
@@ -22,7 +24,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-2341"
+            "email": "niko@brandeis.edu"
         }
     ], 
     "pub-date": "2013-02-19", 
@@ -363,13 +365,6 @@
     "doi": "10.7554/eLife.00573", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist"
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "country": "Untied States", 
@@ -378,12 +373,11 @@
                 "email": "niko@brandeis.edu"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist"
+        }
     }, 
     "path": "content/2/e00573v1", 
-    "fragments": [], 
     "article-id": "00573", 
     "categories": {
         "sub-display-channel": [

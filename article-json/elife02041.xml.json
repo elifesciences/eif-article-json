@@ -5,10 +5,12 @@
         {
             "surname": "Lisman", 
             "corresp": "yes", 
+            "id": "author-4242", 
             "affiliations": [
                 {
                     "dept": "Biology Department and Volen Center for Complex Systems", 
                     "country": "United States", 
+                    "email": "lisman@brandeis.edu", 
                     "institution": "Brandeis University", 
                     "city": "Waltham"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-4242"
+            "email": "lisman@brandeis.edu"
         }
     ], 
     "pub-date": "2014-01-29", 
@@ -337,13 +339,6 @@
     "doi": "10.7554/eLife.02041", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Biology Department and Volen Center for Complex Systems", 
@@ -353,12 +348,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e02041v1", 
-    "fragments": [], 
     "article-id": "02041", 
     "categories": {
         "sub-display-channel": [

@@ -5,10 +5,12 @@
         {
             "surname": "Gresham", 
             "corresp": "yes", 
+            "id": "author-3100", 
             "affiliations": [
                 {
                     "dept": "Center for Genomics and Systems Biology, Department of Biology", 
                     "country": "United States", 
+                    "email": "dgresham@nyu.edu", 
                     "institution": "New York University", 
                     "city": "New York"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-3100"
+            "email": "dgresham@nyu.edu"
         }
     ], 
     "pub-date": "2013-04-02", 
@@ -293,13 +295,6 @@
     "doi": "10.7554/eLife.00655", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Center for Genomics and Systems Biology, Department of Biology", 
@@ -309,12 +304,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e00655v1", 
-    "fragments": [], 
     "article-id": "00655", 
     "categories": {
         "sub-display-channel": [

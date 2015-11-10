@@ -4071,7 +4071,6 @@
         }
     }, 
     "impact-statement": "TORC2-Ypk1 signaling upregulates flux through the sphingolipid pathway not only by increasing the supply of long-chain base precursors, but also by increasing their use in synthesizing complex sphingolipids.", 
-    "related-articles": [], 
     "elocation-id": "e03779", 
     "publish": "1", 
     "article-version-id": "03779.1", 
@@ -4092,30 +4091,6 @@
     "doi": "10.7554/eLife.03779", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The authors declare that no competing interests exist."
-        }, 
-        "funding": {
-            "par-3": {
-                "id": "http://dx.doi.org/10.13039/100005595", 
-                "award-id": "Cancer Research Coordinating Committee (CRCC)", 
-                "institution": "University of California", 
-                "id-type": "FundRef"
-            }, 
-            "par-2": {
-                "award-id": "Senior Investigator Award 11-0118", 
-                "institution": "American Asthma Foundation"
-            }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000057", 
-                "award-id": "GM21841", 
-                "institution": "National Institute of General Medical Sciences", 
-                "id-type": "FundRef"
-            }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff3": {
                 "dept": "Department of Chemistry", 
@@ -4136,13 +4111,33 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
         "contribution": {
             "con1": "AM, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
             "con2": "SR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
             "con3": "FMR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
             "con4": "GT, Contributed in a major way to screening all of the bioinformatic hits using the synthetic dosage lethal method devised in this paper, Acquisition of data", 
             "con5": "JT, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100005595", 
+                "award-id": "Cancer Research Coordinating Committee (CRCC)", 
+                "institution": "University of California", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "award-id": "Senior Investigator Award 11-0118", 
+                "institution": "American Asthma Foundation"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000057", 
+                "award-id": "GM21841", 
+                "institution": "National Institute of General Medical Sciences", 
+                "id-type": "FundRef"
+            }
         }, 
         "email": {
             "cor1": "jthorner@berkeley.edu"

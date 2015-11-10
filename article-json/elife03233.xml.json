@@ -5,11 +5,13 @@
         {
             "surname": "Weigel", 
             "corresp": "yes", 
+            "id": "author-10470", 
             "affiliations": [
                 {
                     "country": "Germany", 
-                    "institution": "Th\u00fcnen Institute of Biodiversity, Johann Heinrich von Th\u00fcnen Institute", 
-                    "city": "Braunschweig"
+                    "city": "Braunschweig", 
+                    "email": "hans.weigel@ti.bund.de", 
+                    "institution": "Th\u00fcnen Institute of Biodiversity, Johann Heinrich von Th\u00fcnen Institute"
                 }
             ], 
             "given-names": "Hans-Joachim", 
@@ -22,7 +24,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-10470"
+            "email": "hans.weigel@ti.bund.de"
         }
     ], 
     "pub-date": "2014-05-28", 
@@ -251,13 +253,6 @@
     "doi": "10.7554/eLife.03233", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "country": "Germany", 
@@ -266,12 +261,11 @@
                 "email": "hans.weigel@ti.bund.de"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e03233v1", 
-    "fragments": [], 
     "article-id": "03233", 
     "categories": {
         "sub-display-channel": [

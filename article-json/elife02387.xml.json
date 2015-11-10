@@ -5,10 +5,12 @@
         {
             "surname": "Sandler", 
             "corresp": "yes", 
+            "id": "author-7705", 
             "affiliations": [
                 {
                     "dept": "Department of Microbiology", 
                     "country": "United States", 
+                    "email": "sandler@microbio.umass.edu", 
                     "institution": "University of Massachusetts", 
                     "city": "Amherst"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-7705"
+            "email": "sandler@microbio.umass.edu"
         }
     ], 
     "pub-date": "2014-03-04", 
@@ -247,13 +249,6 @@
     "doi": "10.7554/eLife.02387", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Microbiology", 
@@ -263,12 +258,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e02387v1", 
-    "fragments": [], 
     "article-id": "02387", 
     "categories": {
         "sub-display-channel": [

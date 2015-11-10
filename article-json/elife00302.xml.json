@@ -5,11 +5,13 @@
         {
             "surname": "Kolter", 
             "corresp": "yes", 
+            "id": "author-1123", 
             "affiliations": [
                 {
                     "country": "United States", 
-                    "institution": "Harvard Medical School", 
-                    "city": "Boston"
+                    "city": "Boston", 
+                    "email": "roberto_kolter@hms.harvard.edu", 
+                    "institution": "Harvard Medical School"
                 }
             ], 
             "given-names": "Roberto", 
@@ -20,7 +22,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1123"
+            "email": "roberto_kolter@hms.harvard.edu"
         }
     ], 
     "pub-date": "2012-11-13", 
@@ -232,20 +234,11 @@
     "doi": "10.7554/eLife.00302", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist"
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {}, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        }
     }, 
     "path": "content/1/e00302v1", 
-    "fragments": [], 
     "article-id": "00302", 
     "categories": {
         "sub-display-channel": [

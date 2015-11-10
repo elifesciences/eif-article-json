@@ -5011,7 +5011,6 @@
         }
     }, 
     "impact-statement": "Many experimentally identified microRNA-binding sites are ineffective at mediating repression, and an improved quantitative model for predicting the effective sites is as informative as high-throughput experimental approaches.", 
-    "related-articles": [], 
     "elocation-id": "e05005", 
     "publish": "1", 
     "article-version-id": "05005.1", 
@@ -5033,32 +5032,6 @@
     "doi": "10.7554/eLife.05005", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The authors declare that no competing interests exist."
-        }, 
-        "funding": {
-            "par-3": {
-                "id": "http://dx.doi.org/10.13039/100000001", 
-                "award-id": "Graduate Research Fellowship", 
-                "institution": "National Science Foundation (NSF)", 
-                "id-type": "FundRef"
-            }, 
-            "par-2": {
-                "id": "http://dx.doi.org/10.13039/100000011", 
-                "award-id": "Investigator", 
-                "institution": "Howard Hughes Medical Institute (HHMI)", 
-                "id-type": "FundRef"
-            }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000002", 
-                "award-id": "GM067031", 
-                "institution": "National Institutes of Health (NIH)", 
-                "id-type": "FundRef"
-            }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff5": {
                 "dept": "Department of Life Science, College of Natural Sciences", 
@@ -5090,12 +5063,34 @@
                 "city": "Cambridge"
             }
         }, 
-        "equal-contrib": {}, 
         "contribution": {
             "con1": "VA, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
             "con2": "GWB, Overhaul of the TargetScan website, Implementing the improved quantitative model", 
             "con3": "J-WN, Annotation and quantification of 3\u2032 UTR isoforms, Contributed unpublished essential data or reagents", 
             "con4": "DPB, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000001", 
+                "award-id": "Graduate Research Fellowship", 
+                "institution": "National Science Foundation (NSF)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "award-id": "Investigator", 
+                "institution": "Howard Hughes Medical Institute (HHMI)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM067031", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }
         }, 
         "email": {
             "cor1": "dbartel@wi.mit.edu"

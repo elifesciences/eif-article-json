@@ -1483,7 +1483,6 @@
         }
     }, 
     "impact-statement": "The firing rates of neurons in the grasshopper auditory system are surprisingly robust to changes in temperature, and cell-intrinsic mechanisms are sufficient to explain this temperature insensitivity.", 
-    "related-articles": [], 
     "elocation-id": "e02078", 
     "publish": "1", 
     "article-version-id": "02078.1", 
@@ -1504,7 +1503,32 @@
     "doi": "10.7554/eLife.02078", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff3": {
+                "dept": "Behavioral Physiology Group, Department of Biology", 
+                "city": "Berlin", 
+                "institution": "Humboldt-Universit\u00e4t zu Berlin", 
+                "country": "Germany"
+            }, 
+            "aff2": {
+                "country": "Germany", 
+                "institution": "Bernstein Center for Computational Neuroscience Berlin", 
+                "city": "Berlin"
+            }, 
+            "aff1": {
+                "dept": "Institute of Theoretical Biology, Department of Biology", 
+                "city": "Berlin", 
+                "institution": "Humboldt-Universit\u00e4t zu Berlin", 
+                "country": "Germany"
+            }
+        }, 
+        "contribution": {
+            "con1": "FAR, Implemented the mathematical modeling,Wrote the article, Conception and design, Analysis and interpretation of data", 
+            "con2": "MJBE, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "J-HS, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "BR, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
+            "con5": "SS, Wrote the article, Conception and design, Analysis and interpretation of data"
+        }, 
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
@@ -1533,35 +1557,6 @@
                 "award-id": "01GQ0901", 
                 "institution": "Federal Ministry of Education and Research (BMBF)"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff3": {
-                "dept": "Behavioral Physiology Group, Department of Biology", 
-                "city": "Berlin", 
-                "institution": "Humboldt-Universit\u00e4t zu Berlin", 
-                "country": "Germany"
-            }, 
-            "aff2": {
-                "country": "Germany", 
-                "institution": "Bernstein Center for Computational Neuroscience Berlin", 
-                "city": "Berlin"
-            }, 
-            "aff1": {
-                "dept": "Institute of Theoretical Biology, Department of Biology", 
-                "city": "Berlin", 
-                "institution": "Humboldt-Universit\u00e4t zu Berlin", 
-                "country": "Germany"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "FAR, Implemented the mathematical modeling,Wrote the article, Conception and design, Analysis and interpretation of data", 
-            "con2": "MJBE, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con3": "J-HS, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
-            "con4": "BR, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
-            "con5": "SS, Wrote the article, Conception and design, Analysis and interpretation of data"
         }, 
         "email": {
             "cor1": "s.schreiber@hu-berlin.de"

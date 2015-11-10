@@ -5,10 +5,12 @@
         {
             "surname": "Ragan", 
             "corresp": "yes", 
+            "id": "author-1748", 
             "affiliations": [
                 {
                     "dept": "Institute for Molecular Bioscience and the School of Information Technology and Electrical Engineering", 
                     "country": "Australia", 
+                    "email": "m.ragan@uq.edu.au", 
                     "institution": "University of Queensland", 
                     "city": "Brisbane"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1748"
+            "email": "m.ragan@uq.edu.au"
         }
     ], 
     "pub-date": "2013-06-18", 
@@ -333,13 +335,6 @@
     "doi": "10.7554/eLife.00933", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Institute for Molecular Bioscience and the School of Information Technology and Electrical Engineering", 
@@ -349,12 +344,11 @@
                 "country": "Australia"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e00933v1", 
-    "fragments": [], 
     "article-id": "00933", 
     "categories": {
         "sub-display-channel": [

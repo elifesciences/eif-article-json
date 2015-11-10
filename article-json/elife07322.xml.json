@@ -5,10 +5,12 @@
         {
             "surname": "Gilbert", 
             "corresp": "yes", 
+            "id": "author-31303", 
             "affiliations": [
                 {
                     "dept": "Department of Biosciences and Institute for Genomic and Systems Biology", 
                     "country": "United States", 
+                    "email": "gilbertjack@anl.gov", 
                     "institution": "Argonne National Laboratory", 
                     "city": "Chicago"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-31303"
+            "email": "gilbertjack@anl.gov"
         }
     ], 
     "pub-date": "2015-03-31", 
@@ -388,13 +390,6 @@
     "doi": "10.7554/eLife.07322", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declare that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Biosciences and Institute for Genomic and Systems Biology", 
@@ -404,12 +399,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declare that no competing interests exist."
+        }
     }, 
     "path": "content/4/e07322v1", 
-    "fragments": [], 
     "article-id": "07322", 
     "categories": {
         "sub-display-channel": [

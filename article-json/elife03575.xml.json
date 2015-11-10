@@ -5,10 +5,12 @@
         {
             "surname": "Jones", 
             "corresp": "yes", 
+            "id": "author-1425", 
             "affiliations": [
                 {
                     "dept": "Regulatory Biology Laboratory", 
                     "country": "United States", 
+                    "email": "jones@salk.edu", 
                     "institution": "The Salk Institute for Biological Studies", 
                     "city": "La Jolla"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1425"
+            "email": "jones@salk.edu"
         }
     ], 
     "pub-date": "2014-07-08", 
@@ -446,13 +448,6 @@
     "doi": "10.7554/eLife.03575", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Regulatory Biology Laboratory", 
@@ -462,12 +457,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e03575v1", 
-    "fragments": [], 
     "article-id": "03575", 
     "categories": {
         "sub-display-channel": [

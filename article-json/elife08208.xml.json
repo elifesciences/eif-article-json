@@ -1836,7 +1836,6 @@
         }
     }, 
     "impact-statement": "A novel computation tool for microbial community modeling predicts the evolution and diversification of <italic>E. coli</italic> in laboratory evolution experiments and gives insight into the underlying metabolic processes.", 
-    "related-articles": [], 
     "elocation-id": "e08208", 
     "publish": "1", 
     "article-version-id": "08208.1", 
@@ -1857,7 +1856,24 @@
     "doi": "10.7554/eLife.08208", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Zoology", 
+                "city": "Vancouver", 
+                "institution": "University of British Columbia", 
+                "country": "Canada"
+            }, 
+            "aff1": {
+                "dept": "Institute of Applied Mathematics", 
+                "city": "Vancouver", 
+                "institution": "University of British Columbia", 
+                "country": "Canada"
+            }
+        }, 
+        "contribution": {
+            "con1": "SL, Conceived and developed MCM. Designed the <italic>E. coli</italic> community model and performed the calibration and simulations. Analyzed and interpreted the simulations. Wrote the article", 
+            "con2": "MD, Interpreted the simulations. Contributed to writing the article. Supervised the project"
+        }, 
         "competing-interest": {
             "conf2": "The other author declares that no competing interests exist.", 
             "conf1": "MD: Reviewing editor, <italic>eLife.</italic>"
@@ -1881,27 +1897,6 @@
                 "institution": "Natural Sciences and Engineering Research Council of Canada (NSERC)", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Zoology", 
-                "city": "Vancouver", 
-                "institution": "University of British Columbia", 
-                "country": "Canada"
-            }, 
-            "aff1": {
-                "dept": "Institute of Applied Mathematics", 
-                "city": "Vancouver", 
-                "institution": "University of British Columbia", 
-                "country": "Canada"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "SL, Conceived and developed MCM. Designed the <italic>E. coli</italic> community model and performed the calibration and simulations. Analyzed and interpreted the simulations. Wrote the article", 
-            "con2": "MD, Interpreted the simulations. Contributed to writing the article. Supervised the project"
         }, 
         "email": {
             "cor1": "stilianos.louca@gmail.com"

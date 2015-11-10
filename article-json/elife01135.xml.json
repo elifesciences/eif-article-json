@@ -5,10 +5,12 @@
         {
             "surname": "Levine", 
             "corresp": "yes", 
+            "id": "author-2063", 
             "affiliations": [
                 {
                     "dept": "Center for Integrative Genomics, Division of Genetics, Genomics, and Development, Department of Molecular and Cell Biology", 
                     "country": "United States", 
+                    "email": "mlevine@berkeley.edu", 
                     "institution": "University of California, Berkeley", 
                     "city": "Berkeley"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-2063"
+            "email": "mlevine@berkeley.edu"
         }
     ], 
     "pub-date": "2013-08-06", 
@@ -376,13 +378,6 @@
     "doi": "10.7554/eLife.01135", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Center for Integrative Genomics, Division of Genetics, Genomics, and Development, Department of Molecular and Cell Biology", 
@@ -392,12 +387,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e01135v1", 
-    "fragments": [], 
     "article-id": "01135", 
     "categories": {
         "sub-display-channel": [

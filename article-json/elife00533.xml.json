@@ -5,11 +5,13 @@
         {
             "surname": "S\u00e1nchez Alvarado", 
             "corresp": "yes", 
+            "id": "author-1179", 
             "affiliations": [
                 {
                     "country": "United States", 
-                    "institution": "Howard Hughes Medical Institute, Stowers Institute for Medical Research", 
-                    "city": "Kansas City, Missouri"
+                    "city": "Kansas City, Missouri", 
+                    "email": "asa@stowers.org", 
+                    "institution": "Howard Hughes Medical Institute, Stowers Institute for Medical Research"
                 }
             ], 
             "given-names": "Alejandro", 
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1179"
+            "email": "asa@stowers.org"
         }
     ], 
     "pub-date": "2013-09-10", 
@@ -311,13 +313,6 @@
     "doi": "10.7554/eLife.00533", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist"
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "country": "United States", 
@@ -326,12 +321,11 @@
                 "email": "asa@stowers.org"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist"
+        }
     }, 
     "path": "content/2/e00533v1", 
-    "fragments": [], 
     "article-id": "00533", 
     "categories": {
         "sub-display-channel": [

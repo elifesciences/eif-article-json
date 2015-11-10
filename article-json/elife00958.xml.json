@@ -5,10 +5,12 @@
         {
             "surname": "Brady", 
             "corresp": "yes", 
+            "id": "author-1289", 
             "affiliations": [
                 {
                     "dept": "Department of Plant Biology and Genome Center", 
                     "country": "United States", 
+                    "email": "sbrady@ucdavis.edu", 
                     "institution": "University of California, Davis", 
                     "city": "California"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1289"
+            "email": "sbrady@ucdavis.edu"
         }
     ], 
     "pub-date": "2013-06-25", 
@@ -410,13 +412,6 @@
     "doi": "10.7554/eLife.00958", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Plant Biology and Genome Center", 
@@ -426,12 +421,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e00958v1", 
-    "fragments": [], 
     "article-id": "00958", 
     "categories": {
         "sub-display-channel": [

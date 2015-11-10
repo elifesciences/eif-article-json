@@ -4268,7 +4268,6 @@
         }
     }, 
     "impact-statement": "Combining in vitro and in vivo assays demonstrates that the cytidine deaminase APOBEC3A can inhibit LINE-1 retrotransposition by deaminating transiently exposed single-strand DNA that arises during the process of LINE-1 integration.", 
-    "related-articles": [], 
     "elocation-id": "e02008", 
     "publish": "1", 
     "article-version-id": "02008.1", 
@@ -4287,7 +4286,39 @@
     "doi": "10.7554/eLife.02008", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Department of Internal Medicine", 
+                "city": "Ann Arbor", 
+                "institution": "Howard Hughes Medical Institute, University of Michigan Medical School", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Department of Pathology and Laboratory Medicine", 
+                "city": "Philadelphia", 
+                "institution": "University of Pennsylvania Perelman School of Medicine and the Children's Hospital of Philadelphia", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Laboratory of Genetics", 
+                "city": "La Jolla", 
+                "institution": "The Salk Institute for Biological Studies", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Human Genetics", 
+                "city": "Ann Arbor", 
+                "institution": "University of Michigan Medical School", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "SRR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "IN, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "MDW, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "RAP, Acquisition of data, Analysis and interpretation of data", 
+            "con5": "JVM, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 
             "conf1": "JVM: is an inventor on patent 6,150,160. Kazazian, H.H., Boeke, J.D., Moran, J.V., and Dombroski, B.A.: Compositions and methods of use of mammalian retrotransposons."
@@ -4322,42 +4353,6 @@
                 "institution": "Howard Hughes Medical Institute", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff4": {
-                "dept": "Department of Internal Medicine", 
-                "city": "Ann Arbor", 
-                "institution": "Howard Hughes Medical Institute, University of Michigan Medical School", 
-                "country": "United States"
-            }, 
-            "aff3": {
-                "dept": "Department of Pathology and Laboratory Medicine", 
-                "city": "Philadelphia", 
-                "institution": "University of Pennsylvania Perelman School of Medicine and the Children's Hospital of Philadelphia", 
-                "country": "United States"
-            }, 
-            "aff2": {
-                "dept": "Laboratory of Genetics", 
-                "city": "La Jolla", 
-                "institution": "The Salk Institute for Biological Studies", 
-                "country": "United States"
-            }, 
-            "aff1": {
-                "dept": "Department of Human Genetics", 
-                "city": "Ann Arbor", 
-                "institution": "University of Michigan Medical School", 
-                "country": "United States"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "SRR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con2": "IN, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con3": "MDW, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con4": "RAP, Acquisition of data, Analysis and interpretation of data", 
-            "con5": "JVM, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
         }, 
         "email": {
             "cor1": "risandra@umich.edu", 

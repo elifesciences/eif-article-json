@@ -1875,7 +1875,6 @@
         }
     }, 
     "impact-statement": "By demonstrating song learning-related synaptic strengthening and pruning in the vocal control circuits of songbirds, and showing how such changes can reduce the sensitivity of the circuit to \u2018noisy\u2019 inputs, a simple neural circuit mechanism for regulating motor variability during motor skill learning is identified.", 
-    "related-articles": [], 
     "elocation-id": "e03697", 
     "publish": "1", 
     "article-version-id": "03697.1", 
@@ -1896,23 +1895,6 @@
     "doi": "10.7554/eLife.03697", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The authors declare that no competing interests exist."
-        }, 
-        "funding": {
-            "par-2": {
-                "institution": "Swartz Fellowship"
-            }, 
-            "par-1": {
-                "id": "http://dx.doi.org/10.13039/100000065", 
-                "award-id": "R01 NS066408", 
-                "institution": "National Institute of Neurological Disorders and Stroke", 
-                "id-type": "FundRef"
-            }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff4": {
                 "dept": "Department of Organismic and Evolutionary Biology", 
@@ -1939,11 +1921,24 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
         "contribution": {
             "con1": "JG-O, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
             "con2": "BB, Contributed network simulations, Drafting or revising the article", 
             "con3": "BP\u00d6, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-2": {
+                "institution": "Swartz Fellowship"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000065", 
+                "award-id": "R01 NS066408", 
+                "institution": "National Institute of Neurological Disorders and Stroke", 
+                "id-type": "FundRef"
+            }
         }, 
         "email": {
             "cor1": "olveczky@fas.harvard.edu"

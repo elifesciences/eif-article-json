@@ -5,11 +5,13 @@
         {
             "surname": "Harrison", 
             "corresp": "yes", 
+            "id": "author-1004", 
             "affiliations": [
                 {
                     "country": "United Kingdom", 
-                    "institution": "<italic>eLife</italic>", 
-                    "city": "Cambridge"
+                    "city": "Cambridge", 
+                    "email": "production@elifesciences.org", 
+                    "institution": "<italic>eLife</italic>"
                 }
             ], 
             "given-names": "Melissa", 
@@ -23,14 +25,12 @@
             }, 
             "orcid": "http://orcid.org/0000-0003-3523-4408", 
             "type": "author", 
-            "id": "author-1004"
+            "email": "production@elifesciences.org"
         }
     ], 
     "pub-date": "2014-04-29", 
     "title": "Coming soon to a screen near you", 
-    "citations": {}, 
     "impact-statement": "", 
-    "related-articles": [], 
     "elocation-id": "e02619", 
     "publish": "1", 
     "article-version-id": "02619.1", 
@@ -47,13 +47,6 @@
     "doi": "10.7554/eLife.02619", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "country": "United Kingdom", 
@@ -62,12 +55,11 @@
                 "email": "production@elifesciences.org"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e02619v1", 
-    "fragments": [], 
     "article-id": "02619", 
     "categories": {
         "sub-display-channel": [

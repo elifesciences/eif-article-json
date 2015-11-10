@@ -5,10 +5,12 @@
         {
             "surname": "Struhl", 
             "corresp": "yes", 
+            "id": "author-1189", 
             "affiliations": [
                 {
                     "dept": "Department of Biological Chemistry and Molecular Pharmacology", 
                     "country": "United States", 
+                    "email": "kevin_struhl@hms.harvard.edu", 
                     "institution": "Harvard Medical School", 
                     "city": "Boston"
                 }
@@ -24,7 +26,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1189"
+            "email": "kevin_struhl@hms.harvard.edu"
         }
     ], 
     "pub-date": "2014-03-12", 
@@ -284,13 +286,6 @@
     "doi": "10.7554/eLife.02475", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Biological Chemistry and Molecular Pharmacology", 
@@ -300,12 +295,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e02475v1", 
-    "fragments": [], 
     "article-id": "02475", 
     "categories": {
         "sub-display-channel": [

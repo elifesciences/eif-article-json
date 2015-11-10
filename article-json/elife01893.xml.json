@@ -5,10 +5,12 @@
         {
             "surname": "Olson", 
             "corresp": "yes", 
+            "id": "author-7035", 
             "affiliations": [
                 {
                     "dept": "Division of Biology", 
                     "country": "United States", 
+                    "email": "bjsco@k-state.edu", 
                     "institution": "Kansas State University", 
                     "city": "Manhattan"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-7035"
+            "email": "bjsco@k-state.edu"
         }
     ], 
     "pub-date": "2013-12-24", 
@@ -700,13 +702,6 @@
     "doi": "10.7554/eLife.01893", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Division of Biology", 
@@ -716,12 +711,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e01893v1", 
-    "fragments": [], 
     "article-id": "01893", 
     "categories": {
         "sub-display-channel": [

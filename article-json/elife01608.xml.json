@@ -5,10 +5,12 @@
         {
             "surname": "Mathis", 
             "corresp": "yes", 
+            "id": "author-1136", 
             "affiliations": [
                 {
                     "dept": "Division of Immunology, Department of Microbiology and Immunobiology", 
                     "country": "United States", 
+                    "email": "dm@hms.harvard.edu", 
                     "institution": "Harvard Medical School", 
                     "city": "Boston"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1136"
+            "email": "dm@hms.harvard.edu"
         }
     ], 
     "pub-date": "2013-11-05", 
@@ -287,13 +289,6 @@
     "doi": "10.7554/eLife.01608", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Division of Immunology, Department of Microbiology and Immunobiology", 
@@ -303,12 +298,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e01608v1", 
-    "fragments": [], 
     "article-id": "01608", 
     "categories": {
         "sub-display-channel": [

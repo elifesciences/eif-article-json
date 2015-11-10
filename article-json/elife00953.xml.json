@@ -1438,7 +1438,6 @@
         }
     }, 
     "impact-statement": "Parallel branches of the ERAD pathway regulate sterol synthesis at multiple steps via feedback inhibition.", 
-    "related-articles": [], 
     "elocation-id": "e00953", 
     "publish": "1", 
     "article-version-id": "00953.1", 
@@ -1460,7 +1459,32 @@
     "doi": "10.7554/eLife.00953", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff3": {
+                "dept": "Department of Biochemistry and Molecular Biology", 
+                "city": "Odense", 
+                "institution": "University of Southern Denmark", 
+                "country": "Denmark"
+            }, 
+            "aff2": {
+                "country": "Spain", 
+                "institution": "Universitat Pompeu Fabra", 
+                "city": "Barcelona"
+            }, 
+            "aff1": {
+                "dept": "Cell and Developmental Biology Programme", 
+                "city": "Barcelona", 
+                "institution": "Center for Genomic Regulation (CRG)", 
+                "country": "Spain"
+            }
+        }, 
+        "contribution": {
+            "con1": "OF, Performed most of the experiments and analyzed the data", 
+            "con2": "AR, Performed the experiments involving yeast growth assays", 
+            "con3": "HKH-B, Performed lipid extractions and some lipid mass spectrometry", 
+            "con4": "CSE, Performed most of the lipid mass spectrometry and analyzed the lipidomics data", 
+            "con5": "PC, Conceived the study, analyzed and interpreted the data, and wrote the paper"
+        }, 
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
@@ -1483,35 +1507,6 @@
             "par-1": {
                 "institution": "Center for Genomic Regulation (CRG)"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff3": {
-                "dept": "Department of Biochemistry and Molecular Biology", 
-                "city": "Odense", 
-                "institution": "University of Southern Denmark", 
-                "country": "Denmark"
-            }, 
-            "aff2": {
-                "country": "Spain", 
-                "institution": "Universitat Pompeu Fabra", 
-                "city": "Barcelona"
-            }, 
-            "aff1": {
-                "dept": "Cell and Developmental Biology Programme", 
-                "city": "Barcelona", 
-                "institution": "Center for Genomic Regulation (CRG)", 
-                "country": "Spain"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "OF, Performed most of the experiments and analyzed the data", 
-            "con2": "AR, Performed the experiments involving yeast growth assays", 
-            "con3": "HKH-B, Performed lipid extractions and some lipid mass spectrometry", 
-            "con4": "CSE, Performed most of the lipid mass spectrometry and analyzed the lipidomics data", 
-            "con5": "PC, Conceived the study, analyzed and interpreted the data, and wrote the paper"
         }, 
         "email": {
             "cor1": "pedro.carvalho@crg.eu"

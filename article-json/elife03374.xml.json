@@ -5,10 +5,12 @@
         {
             "surname": "Munson", 
             "corresp": "yes", 
+            "id": "author-10811", 
             "affiliations": [
                 {
                     "dept": "Department of Biochemistry and Molecular Pharmacology", 
                     "country": "United States", 
+                    "email": "mary.munson@umassmed.edu", 
                     "institution": "University of Massachusetts Medical School", 
                     "city": "Worcester"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-10811"
+            "email": "mary.munson@umassmed.edu"
         }
     ], 
     "pub-date": "2014-06-17", 
@@ -362,13 +364,6 @@
     "doi": "10.7554/eLife.03374", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Biochemistry and Molecular Pharmacology", 
@@ -378,12 +373,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e03374v1", 
-    "fragments": [], 
     "article-id": "03374", 
     "categories": {
         "sub-display-channel": [

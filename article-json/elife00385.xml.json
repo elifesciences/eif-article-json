@@ -5,11 +5,13 @@
         {
             "surname": "Jha", 
             "corresp": "yes", 
+            "id": "author-1017", 
             "affiliations": [
                 {
                     "dept": "Dalla Lana School of Public Health, and the Centre for Global Health Research", 
-                    "institution": "University of Toronto", 
-                    "country": "Canada"
+                    "country": "Canada", 
+                    "email": "jhap@smh.ca", 
+                    "institution": "University of Toronto"
                 }
             ], 
             "given-names": "Prabhat", 
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1017"
+            "email": "jhap@smh.ca"
         }
     ], 
     "pub-date": "2012-12-18", 
@@ -412,13 +414,6 @@
     "doi": "10.7554/eLife.00385", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist"
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Dalla Lana School of Public Health, and the Centre for Global Health Research", 
@@ -427,12 +422,11 @@
                 "country": "Canada"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist"
+        }
     }, 
     "path": "content/1/e00385v1", 
-    "fragments": [], 
     "article-id": "00385", 
     "categories": {
         "sub-display-channel": [

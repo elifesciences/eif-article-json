@@ -1902,7 +1902,6 @@
         }
     }, 
     "impact-statement": "The activity patterns of populations of neurons in the retina are organized as semantic clusters (analogous to synonyms), in which component patterns bear little physical resemblance to one another but convey the same meaning.", 
-    "related-articles": [], 
     "elocation-id": "e06134", 
     "publish": "1", 
     "article-version-id": "06134.1", 
@@ -1924,7 +1923,25 @@
     "doi": "10.7554/eLife.06134", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Life Sciences, Zlotowski Center for Neuroscience", 
+                "city": "Beer-Sheva", 
+                "institution": "Ben-Gurion University of the Negev", 
+                "country": "Israel"
+            }, 
+            "aff1": {
+                "dept": "Department of Neurobiology", 
+                "city": "Rehovot", 
+                "institution": "Weizmann Institute of Science", 
+                "country": "Israel"
+            }
+        }, 
+        "contribution": {
+            "con1": "EG, Initiated, performed, and wrote the work", 
+            "con2": "RS, Initiated, performed, and wrote the work", 
+            "con3": "ES, Initiated, performed, and wrote the work"
+        }, 
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
@@ -1970,28 +1987,6 @@
                 "institution": "European Research Council (ERC)", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Life Sciences, Zlotowski Center for Neuroscience", 
-                "city": "Beer-Sheva", 
-                "institution": "Ben-Gurion University of the Negev", 
-                "country": "Israel"
-            }, 
-            "aff1": {
-                "dept": "Department of Neurobiology", 
-                "city": "Rehovot", 
-                "institution": "Weizmann Institute of Science", 
-                "country": "Israel"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "EG, Initiated, performed, and wrote the work", 
-            "con2": "RS, Initiated, performed, and wrote the work", 
-            "con3": "ES, Initiated, performed, and wrote the work"
         }, 
         "email": {
             "cor1": "elad.schneidman@weizmann.ac.il"

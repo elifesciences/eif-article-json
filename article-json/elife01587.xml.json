@@ -5,10 +5,12 @@
         {
             "surname": "Van Damme", 
             "corresp": "yes", 
+            "id": "author-6790", 
             "affiliations": [
                 {
                     "dept": "Department of Medical Protein Research, VIB, and Department of Biochemistry", 
                     "country": "Belgium", 
+                    "email": "petra.vandamme@vib-ugent.be", 
                     "institution": "Ghent University", 
                     "city": "Ghent"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-6790"
+            "email": "petra.vandamme@vib-ugent.be"
         }
     ], 
     "pub-date": "2013-11-12", 
@@ -354,13 +356,6 @@
     "doi": "10.7554/eLife.01587", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Medical Protein Research, VIB, and Department of Biochemistry", 
@@ -370,12 +365,11 @@
                 "country": "Belgium"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e01587v1", 
-    "fragments": [], 
     "article-id": "01587", 
     "categories": {
         "sub-display-channel": [

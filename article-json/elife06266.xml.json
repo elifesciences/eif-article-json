@@ -2418,7 +2418,6 @@
         }
     }, 
     "impact-statement": "A model based on empirical parameter estimates predicts that arresting cancer cell growth by less than 1% per day will produce optimal outcomes in preventing life-threatening cancers, and that such preventive measures are generally more successful than post-diagnostic interventions.", 
-    "related-articles": [], 
     "elocation-id": "e06266", 
     "publish": "1", 
     "article-version-id": "06266.1", 
@@ -2436,7 +2435,34 @@
     "doi": "10.7554/eLife.06266", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff4": {
+                "country": "Germany", 
+                "institution": "Wissenschaftskolleg zu Berlin", 
+                "city": "Berlin"
+            }, 
+            "aff3": {
+                "country": "United States", 
+                "institution": "Santa Fe Institute", 
+                "city": "Santa Fe"
+            }, 
+            "aff2": {
+                "dept": "Theoretical Biology Lab, Department of Biology", 
+                "city": "Hamilton", 
+                "institution": "McMaster University", 
+                "country": "Canada"
+            }, 
+            "aff1": {
+                "dept": "Institut des Sciences de l'Evolution de Montpellier", 
+                "city": "Montpellier", 
+                "institution": "University of Montpellier", 
+                "country": "France"
+            }
+        }, 
+        "contribution": {
+            "con1": "ARA, Performed computer simulations, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "MEH, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
@@ -2463,37 +2489,6 @@
                 "institution": "Institut national de la sant\u00e9 et de la recherche m\u00e9dicale", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff4": {
-                "country": "Germany", 
-                "institution": "Wissenschaftskolleg zu Berlin", 
-                "city": "Berlin"
-            }, 
-            "aff3": {
-                "country": "United States", 
-                "institution": "Santa Fe Institute", 
-                "city": "Santa Fe"
-            }, 
-            "aff2": {
-                "dept": "Theoretical Biology Lab, Department of Biology", 
-                "city": "Hamilton", 
-                "institution": "McMaster University", 
-                "country": "Canada"
-            }, 
-            "aff1": {
-                "dept": "Institut des Sciences de l'Evolution de Montpellier", 
-                "city": "Montpellier", 
-                "institution": "University of Montpellier", 
-                "country": "France"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "ARA, Performed computer simulations, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
-            "con2": "MEH, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
         }, 
         "email": {
             "cor1": "mhochber@univ-montp2.fr"

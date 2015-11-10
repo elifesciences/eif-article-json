@@ -5,10 +5,12 @@
         {
             "surname": "K\u00fchlbrandt", 
             "corresp": "yes", 
+            "id": "author-1125", 
             "affiliations": [
                 {
                     "dept": "Department of Structural Biology", 
                     "country": "Germany", 
+                    "email": "werner.kuehlbrandt@biophys.mpg.de", 
                     "institution": "Max Planck Institute of Biophysics", 
                     "city": "Frankfurt"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1125"
+            "email": "werner.kuehlbrandt@biophys.mpg.de"
         }
     ], 
     "pub-date": "2014-08-13", 
@@ -554,13 +556,6 @@
     "doi": "10.7554/eLife.03678", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Structural Biology", 
@@ -570,12 +565,11 @@
                 "country": "Germany"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e03678v1", 
-    "fragments": [], 
     "article-id": "03678", 
     "categories": {
         "sub-display-channel": [

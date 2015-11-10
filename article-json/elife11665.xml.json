@@ -5,10 +5,12 @@
         {
             "surname": "Jarvis", 
             "corresp": "yes", 
+            "id": "author-1628", 
             "affiliations": [
                 {
                     "dept": "Department of Neurobiology and the Howard Hughes Medical Institute", 
                     "country": "United States", 
+                    "email": "jarvis@neuro.duke.edu", 
                     "institution": "Duke University Medical Center", 
                     "city": "Durham"
                 }
@@ -24,7 +26,7 @@
             }, 
             "orcid": "http://orcid.org/0000-0001-8931-5049", 
             "type": "author", 
-            "id": "author-1628"
+            "email": "jarvis@neuro.duke.edu"
         }
     ], 
     "pub-date": "2015-10-21", 
@@ -262,13 +264,6 @@
     "doi": "10.7554/eLife.11665", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Neurobiology and the Howard Hughes Medical Institute", 
@@ -278,12 +273,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/4/e11665v1", 
-    "fragments": [], 
     "article-id": "11665", 
     "categories": {
         "sub-display-channel": [

@@ -2129,7 +2129,6 @@
         }
     }, 
     "impact-statement": "An experimentally constrained model shows that Escherichia coli faces fitness trade-offs in chemotaxis behaviors, and that adaptation of phenotypic diversity through altered gene regulation permits populations to resolve these trade-offs.", 
-    "related-articles": [], 
     "elocation-id": "e03526", 
     "publish": "1", 
     "article-version-id": "03526.1", 
@@ -2147,7 +2146,28 @@
     "doi": "10.7554/eLife.03526", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Department of Physics", 
+                "city": "New Haven", 
+                "institution": "Yale University", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Molecular, Cellular and Developmental Biology", 
+                "city": "New Haven", 
+                "institution": "Yale University", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "NWF, Designed the research, performed simulations, analyzed and interpreted the data, and wrote the paper", 
+            "con2": "WP, Contributed to the design of the mathematical model and the interpretation of the data", 
+            "con3": "YSD, Helped design the research, analyze the data and write the paper", 
+            "con4": "JL, Contributed to data analysis and Pareto front analysis of the results", 
+            "con5": "LHN, Generated the preliminary data", 
+            "con6": "TE, Designed the research, analyzed and interpreted the data, and wrote the paper"
+        }, 
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
@@ -2170,31 +2190,6 @@
                 "institution": "James S. McDonnell Foundation", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff2": {
-                "dept": "Department of Physics", 
-                "city": "New Haven", 
-                "institution": "Yale University", 
-                "country": "United States"
-            }, 
-            "aff1": {
-                "dept": "Department of Molecular, Cellular and Developmental Biology", 
-                "city": "New Haven", 
-                "institution": "Yale University", 
-                "country": "United States"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "NWF, Designed the research, performed simulations, analyzed and interpreted the data, and wrote the paper", 
-            "con2": "WP, Contributed to the design of the mathematical model and the interpretation of the data", 
-            "con3": "YSD, Helped design the research, analyze the data and write the paper", 
-            "con4": "JL, Contributed to data analysis and Pareto front analysis of the results", 
-            "con5": "LHN, Generated the preliminary data", 
-            "con6": "TE, Designed the research, analyzed and interpreted the data, and wrote the paper"
         }, 
         "email": {
             "cor1": "thierry.emonet@yale.edu"

@@ -2490,7 +2490,6 @@
         }
     }, 
     "impact-statement": "The unfolded protein response regulates neuronal dendrite morphogenesis by controlling the folding of a transmembrane leucine-rich repeat (LRR) protein.", 
-    "related-articles": [], 
     "elocation-id": "e06963", 
     "publish": "1", 
     "article-version-id": "06963.1", 
@@ -2508,7 +2507,43 @@
     "doi": "10.7554/eLife.06963", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Department of Biology", 
+                "city": "Durham", 
+                "institution": "Duke University", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Division of Biostatistics, Department of Preventive Medicine", 
+                "city": "Los Angeles", 
+                "institution": "University of Southern California", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Neuroscience Program", 
+                "city": "Stanford", 
+                "institution": "Stanford University School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Biology", 
+                "city": "Stanford", 
+                "institution": "Howard Hughes Medical Institute, Stanford University", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "XW, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "ASH, Mapped the mutants and performed the initial characterization of the mutants, Drafting or revising the article", 
+            "con3": "XD, Isolated the two mutants of ire-1", 
+            "con4": "CAT, Performed the initial characterization of the mutants", 
+            "con5": "RCC, Wrote the Matlab codes for tracing and dividing primary dendrite", 
+            "con6": "JZ, Did the non-parametric statistical analysis in R", 
+            "con7": "WZ, Generated the qyIs369 marker", 
+            "con8": "DRS, Generated the qyIs369 marker", 
+            "con9": "KS, Conception and design, Drafting or revising the article"
+        }, 
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 
             "conf1": "KS: Reviewing editor, <italic>eLife.</italic>"
@@ -2537,46 +2572,6 @@
                 "institution": "National Institute of Neurological Disorders and Stroke (NINDS)", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff4": {
-                "dept": "Department of Biology", 
-                "city": "Durham", 
-                "institution": "Duke University", 
-                "country": "United States"
-            }, 
-            "aff3": {
-                "dept": "Division of Biostatistics, Department of Preventive Medicine", 
-                "city": "Los Angeles", 
-                "institution": "University of Southern California", 
-                "country": "United States"
-            }, 
-            "aff2": {
-                "dept": "Neuroscience Program", 
-                "city": "Stanford", 
-                "institution": "Stanford University School of Medicine", 
-                "country": "United States"
-            }, 
-            "aff1": {
-                "dept": "Department of Biology", 
-                "city": "Stanford", 
-                "institution": "Howard Hughes Medical Institute, Stanford University", 
-                "country": "United States"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "XW, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con2": "ASH, Mapped the mutants and performed the initial characterization of the mutants, Drafting or revising the article", 
-            "con3": "XD, Isolated the two mutants of ire-1", 
-            "con4": "CAT, Performed the initial characterization of the mutants", 
-            "con5": "RCC, Wrote the Matlab codes for tracing and dividing primary dendrite", 
-            "con6": "JZ, Did the non-parametric statistical analysis in R", 
-            "con7": "WZ, Generated the qyIs369 marker", 
-            "con8": "DRS, Generated the qyIs369 marker", 
-            "con9": "KS, Conception and design, Drafting or revising the article"
         }, 
         "email": {
             "cor1": "kangshen@stanford.edu"

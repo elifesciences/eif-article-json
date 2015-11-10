@@ -5,11 +5,13 @@
         {
             "surname": "Needleman", 
             "corresp": "yes", 
+            "id": "author-2499", 
             "affiliations": [
                 {
                     "dept": "School of Engineering and Applied Sciences, the Department of Molecular and Cellular Biology, and the Center for Systems Biology", 
-                    "institution": "Harvard University", 
-                    "country": "United States"
+                    "country": "United States", 
+                    "email": "dan.needleman@gmail.com", 
+                    "institution": "Harvard University"
                 }
             ], 
             "given-names": "Daniel", 
@@ -22,7 +24,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-2499"
+            "email": "dan.needleman@gmail.com"
         }
     ], 
     "pub-date": "2013-02-19", 
@@ -276,13 +278,6 @@
     "doi": "10.7554/eLife.00571", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist"
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "School of Engineering and Applied Sciences, the Department of Molecular and Cellular Biology, and the Center for Systems Biology", 
@@ -291,12 +286,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist"
+        }
     }, 
     "path": "content/2/e00571v1", 
-    "fragments": [], 
     "article-id": "00571", 
     "categories": {
         "sub-display-channel": [

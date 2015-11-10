@@ -3,21 +3,23 @@
     "article-type": "article-commentary", 
     "contributors": [
         {
-            "type": "author", 
-            "given-names": "Michael G", 
             "surname": "Hadfield", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "city": "Honolulu", 
+                    "email": "hadfield@hawaii.edu", 
+                    "institution": "Department of Biology and the Pacific Biosciences Research Center at the University of Hawaii at Manoa"
+                }
+            ], 
+            "given-names": "Michael G", 
             "references": {
                 "competing-interest": [
                     "conf1"
                 ]
             }, 
-            "affiliations": [
-                {
-                    "country": "United States", 
-                    "institution": "Department of Biology and the Pacific Biosciences Research Center at the University of Hawaii at Manoa", 
-                    "city": "Honolulu"
-                }
-            ]
+            "type": "author", 
+            "email": "hadfield@hawaii.edu"
         }
     ], 
     "pub-date": "2012-10-15", 
@@ -277,20 +279,11 @@
     "doi": "10.7554/eLife.00242", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist"
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {}, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        }
     }, 
     "path": "content/1/e00242v1", 
-    "fragments": [], 
     "article-id": "00242", 
     "categories": {
         "sub-display-channel": [

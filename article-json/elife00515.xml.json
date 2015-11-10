@@ -5,11 +5,13 @@
         {
             "surname": "Barral", 
             "corresp": "yes", 
+            "id": "author-2630", 
             "affiliations": [
                 {
                     "country": "Switzerland", 
-                    "institution": "Institute of Biochemistry", 
-                    "city": "ETH Zurich, Zurich"
+                    "city": "ETH Zurich, Zurich", 
+                    "email": "yves.barral@bc.biol.ethz.ch", 
+                    "institution": "Institute of Biochemistry"
                 }
             ], 
             "given-names": "Yves", 
@@ -22,7 +24,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-2630"
+            "email": "yves.barral@bc.biol.ethz.ch"
         }
     ], 
     "pub-date": "2013-02-05", 
@@ -208,13 +210,6 @@
     "doi": "10.7554/eLife.00515", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist"
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "country": "Switzerland", 
@@ -223,12 +218,11 @@
                 "email": "yves.barral@bc.biol.ethz.ch"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist"
+        }
     }, 
     "path": "content/2/e00515v1", 
-    "fragments": [], 
     "article-id": "00515", 
     "categories": {
         "sub-display-channel": [

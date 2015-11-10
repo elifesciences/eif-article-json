@@ -5,10 +5,12 @@
         {
             "surname": "Reese", 
             "corresp": "yes", 
+            "id": "author-8519", 
             "affiliations": [
                 {
                     "dept": "Department of Pharmacology", 
                     "country": "United States", 
+                    "email": "michael.reese@utsouthwestern.edu", 
                     "institution": "University of Texas Southwestern Medical Center", 
                     "city": "Dallas"
                 }
@@ -23,7 +25,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-8519"
+            "email": "michael.reese@utsouthwestern.edu"
         }
     ], 
     "pub-date": "2013-10-29", 
@@ -406,13 +408,6 @@
     "doi": "10.7554/eLife.01599", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Pharmacology", 
@@ -422,12 +417,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/2/e01599v1", 
-    "fragments": [], 
     "article-id": "01599", 
     "categories": {
         "sub-display-channel": [

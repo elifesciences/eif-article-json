@@ -5,11 +5,13 @@
         {
             "surname": "Robatzek", 
             "corresp": "yes", 
+            "id": "author-7233", 
             "affiliations": [
                 {
                     "country": "United Kingdom", 
-                    "institution": "The Sainsbury Laboratory", 
-                    "city": "Norwich"
+                    "city": "Norwich", 
+                    "email": "robatzek@TSL.ac.uk", 
+                    "institution": "The Sainsbury Laboratory"
                 }
             ], 
             "given-names": "Silke", 
@@ -22,7 +24,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-7233"
+            "email": "robatzek@TSL.ac.uk"
         }
     ], 
     "pub-date": "2014-04-08", 
@@ -542,13 +544,6 @@
     "doi": "10.7554/eLife.02747", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "country": "United Kingdom", 
@@ -557,12 +552,11 @@
                 "email": "robatzek@TSL.ac.uk"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e02747v1", 
-    "fragments": [], 
     "article-id": "02747", 
     "categories": {
         "sub-display-channel": [

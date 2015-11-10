@@ -2259,7 +2259,6 @@
         }
     }, 
     "impact-statement": "Increasing the internal pH of cells can induce dysplasia and enhance oncogene-increased cell growth, while decreasing the internal pH combined with oncogene expression leads to synthetic lethality.", 
-    "related-articles": [], 
     "elocation-id": "e03270", 
     "publish": "1", 
     "article-version-id": "03270.1", 
@@ -2278,7 +2277,20 @@
     "doi": "10.7554/eLife.03270", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Cell and Tissue Biology", 
+                "city": "San Francisco", 
+                "institution": "University of California, San Francisco", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "BKG-H, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "DLB, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "CC, Acquisition of data, Analysis and interpretation of data", 
+            "con4": "MJ-V, Generated <italic>Dnhe2</italic><sup><italic>null</italic></sup> <italic>Drosophila</italic> lines, Contributed unpublished essential data or reagents"
+        }, 
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
@@ -2301,23 +2313,6 @@
                 "institution": "National Institutes of Health", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff1": {
-                "dept": "Department of Cell and Tissue Biology", 
-                "city": "San Francisco", 
-                "institution": "University of California, San Francisco", 
-                "country": "United States"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "BKG-H, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con2": "DLB, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con3": "CC, Acquisition of data, Analysis and interpretation of data", 
-            "con4": "MJ-V, Generated <italic>Dnhe2</italic><sup><italic>null</italic></sup> <italic>Drosophila</italic> lines, Contributed unpublished essential data or reagents"
         }, 
         "email": {
             "cor1": "diane.barber@ucsf.edu"

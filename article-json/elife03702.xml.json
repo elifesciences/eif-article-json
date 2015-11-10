@@ -5,11 +5,13 @@
         {
             "surname": "Edwards", 
             "corresp": "yes", 
+            "id": "author-11650", 
             "affiliations": [
                 {
                     "country": "United States", 
-                    "institution": "Brown University", 
-                    "city": "Providence"
+                    "city": "Providence", 
+                    "email": "erika_edwards@brown.edu", 
+                    "institution": "Brown University"
                 }
             ], 
             "given-names": "Erika J", 
@@ -22,7 +24,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-11650"
+            "email": "erika_edwards@brown.edu"
         }
     ], 
     "pub-date": "2014-07-22", 
@@ -557,13 +559,6 @@
     "doi": "10.7554/eLife.03702", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "country": "United States", 
@@ -572,12 +567,11 @@
                 "email": "erika_edwards@brown.edu"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/3/e03702v1", 
-    "fragments": [], 
     "article-id": "03702", 
     "categories": {
         "sub-display-channel": [

@@ -1692,22 +1692,6 @@
     "doi": "10.7554/eLife.00631", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The authors declare that no competing interests exist."
-        }, 
-        "funding": {
-            "par-2": {
-                "award-id": "1 R01 GM086887-05", 
-                "institution": "National Institutes of Health"
-            }, 
-            "par-1": {
-                "award-id": "1 R01 GM102198-01", 
-                "institution": "National Institutes of Health"
-            }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff3": {
                 "dept": "Computational Biology Program", 
@@ -1728,11 +1712,23 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
         "contribution": {
             "con1": "LIG, Performed the experiments, analyzed the data, and wrote the manuscript", 
             "con2": "MAS, Developed the probabilistic techniques and performed the computational work, analyzed the data, and wrote the manuscript", 
             "con3": "JDB, Designed the study, performed the computational work, analyzed the data, wrote the manuscript"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-2": {
+                "award-id": "1 R01 GM086887-05", 
+                "institution": "National Institutes of Health"
+            }, 
+            "par-1": {
+                "award-id": "1 R01 GM102198-01", 
+                "institution": "National Institutes of Health"
+            }
         }, 
         "email": {
             "cor1": "jbloom@fhcrc.org"

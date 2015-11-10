@@ -2412,7 +2412,6 @@
         }
     }, 
     "impact-statement": "Rare mutations in the switch III region of Ras can increase its nanoscale clustering, which enhances effector recruitment and downstream signaling.", 
-    "related-articles": [], 
     "elocation-id": "e08905", 
     "publish": "1", 
     "article-version-id": "08905.1", 
@@ -2432,7 +2431,47 @@
     "doi": "10.7554/eLife.08905", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
+        "affiliation": {
+            "aff4": {
+                "dept": "Department of Cell Biology and Anatomy, Institute of Biomedicine", 
+                "city": "Turku", 
+                "institution": "University of Turku", 
+                "country": "Finland"
+            }, 
+            "aff3": {
+                "dept": "Department of Integrative Biology and Pharmacology", 
+                "city": "Houston", 
+                "institution": "University of Texas Health Science Center at Houston", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "Institute for Molecular Medicine Finland", 
+                "city": "Helsinki", 
+                "institution": "University of Helsinki", 
+                "country": "Finland"
+            }, 
+            "aff1": {
+                "dept": "Turku Centre for Biotechnology", 
+                "city": "Turku", 
+                "institution": "\u00c5bo Akademi University", 
+                "country": "Finland"
+            }
+        }, 
+        "contribution": {
+            "con1": "MS, Acquired and analyzed FRET and cellular data, designed the experiments and wrote the manuscript", 
+            "con2": "AL, Analyzed nucleotide exchange data, purified proteins, acquired and analyzed anisotropy binding data", 
+            "con3": "OB, Acquired and analyzed GAP-dependent and independent Ras-activity, acquired anisotropy binding data and purified proteins", 
+            "con4": "AJ, Carried out the bioinformatic analyses and cancer genome database mining", 
+            "con5": "YZ, Acquired, analyzed and designed EM experiments", 
+            "con6": "HL, Performed western blot experiments for MAPK signaling of H-ras mutants", 
+            "con7": "BL, Performed western blot experiments for MAPK signaling of K-ras and N-ras mutants", 
+            "con8": "KK, Acquired nucleotide exchange data", 
+            "con9": "CG, Analyzed confocal microscopy and anchorage-independent growth data, and assisted in analysis of PC12 cell and focus formation data and statistics", 
+            "con12": "TA, Contributed the bioinformatic analyses", 
+            "con13": "DA, Conceived the project, designed the experiments and wrote the manuscript", 
+            "con10": "HH, Conceived the nucleotide exchange assay", 
+            "con11": "JFH, Designed EM experiments"
+        }, 
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."
         }, 
@@ -2485,50 +2524,6 @@
                 "institution": "Suomen Akatemia (Academy of Finland)", 
                 "id-type": "FundRef"
             }
-        }, 
-        "related-object": {}, 
-        "foot-note": {}, 
-        "affiliation": {
-            "aff4": {
-                "dept": "Department of Cell Biology and Anatomy, Institute of Biomedicine", 
-                "city": "Turku", 
-                "institution": "University of Turku", 
-                "country": "Finland"
-            }, 
-            "aff3": {
-                "dept": "Department of Integrative Biology and Pharmacology", 
-                "city": "Houston", 
-                "institution": "University of Texas Health Science Center at Houston", 
-                "country": "United States"
-            }, 
-            "aff2": {
-                "dept": "Institute for Molecular Medicine Finland", 
-                "city": "Helsinki", 
-                "institution": "University of Helsinki", 
-                "country": "Finland"
-            }, 
-            "aff1": {
-                "dept": "Turku Centre for Biotechnology", 
-                "city": "Turku", 
-                "institution": "\u00c5bo Akademi University", 
-                "country": "Finland"
-            }
-        }, 
-        "equal-contrib": {}, 
-        "contribution": {
-            "con1": "MS, Acquired and analyzed FRET and cellular data, designed the experiments and wrote the manuscript", 
-            "con2": "AL, Analyzed nucleotide exchange data, purified proteins, acquired and analyzed anisotropy binding data", 
-            "con3": "OB, Acquired and analyzed GAP-dependent and independent Ras-activity, acquired anisotropy binding data and purified proteins", 
-            "con4": "AJ, Carried out the bioinformatic analyses and cancer genome database mining", 
-            "con5": "YZ, Acquired, analyzed and designed EM experiments", 
-            "con6": "HL, Performed western blot experiments for MAPK signaling of H-ras mutants", 
-            "con7": "BL, Performed western blot experiments for MAPK signaling of K-ras and N-ras mutants", 
-            "con8": "KK, Acquired nucleotide exchange data", 
-            "con9": "CG, Analyzed confocal microscopy and anchorage-independent growth data, and assisted in analysis of PC12 cell and focus formation data and statistics", 
-            "con12": "TA, Contributed the bioinformatic analyses", 
-            "con13": "DA, Conceived the project, designed the experiments and wrote the manuscript", 
-            "con10": "HH, Conceived the nucleotide exchange assay", 
-            "con11": "JFH, Designed EM experiments"
         }, 
         "email": {
             "cor1": "daniel.abankwa@btk.fi"

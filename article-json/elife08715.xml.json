@@ -5,10 +5,12 @@
         {
             "surname": "Calabrese", 
             "corresp": "yes", 
+            "id": "author-1056", 
             "affiliations": [
                 {
                     "dept": "Department of Biology", 
                     "country": "United States", 
+                    "email": "ronald.calabrese@emory.edu", 
                     "institution": "Emory University", 
                     "city": "Atlanta"
                 }
@@ -24,7 +26,7 @@
                 ]
             }, 
             "type": "author", 
-            "id": "author-1056"
+            "email": "ronald.calabrese@emory.edu"
         }
     ], 
     "pub-date": "2015-06-16", 
@@ -301,13 +303,6 @@
     "doi": "10.7554/eLife.08715", 
     "version": "1", 
     "referenced": {
-        "present-address": {}, 
-        "competing-interest": {
-            "conf1": "The author declares that no competing interests exist."
-        }, 
-        "funding": {}, 
-        "related-object": {}, 
-        "foot-note": {}, 
         "affiliation": {
             "aff1": {
                 "dept": "Department of Biology", 
@@ -317,12 +312,11 @@
                 "country": "United States"
             }
         }, 
-        "equal-contrib": {}, 
-        "contribution": {}, 
-        "email": {}
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }
     }, 
     "path": "content/4/e08715v1", 
-    "fragments": [], 
     "article-id": "08715", 
     "categories": {
         "sub-display-channel": [
