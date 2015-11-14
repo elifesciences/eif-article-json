@@ -3,7 +3,14 @@
     "article-type": "article-commentary", 
     "contributors": [
         {
+            "type": "author", 
+            "given-names": "Michael G", 
             "surname": "Hadfield", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ]
+            }, 
             "affiliations": [
                 {
                     "country": "United States", 
@@ -11,15 +18,7 @@
                     "email": "hadfield@hawaii.edu", 
                     "institution": "Department of Biology and the Pacific Biosciences Research Center at the University of Hawaii at Manoa"
                 }
-            ], 
-            "given-names": "Michael G", 
-            "references": {
-                "competing-interest": [
-                    "conf1"
-                ]
-            }, 
-            "type": "author", 
-            "email": "hadfield@hawaii.edu"
+            ]
         }
     ], 
     "pub-date": "2012-10-15", 
