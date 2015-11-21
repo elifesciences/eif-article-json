@@ -17,11 +17,11 @@
                     "conf1"
                 ], 
                 "funding": [
-                    "par-2", 
                     "par-3", 
                     "par-4", 
                     "par-5", 
-                    "par-6"
+                    "par-6", 
+                    "par-7"
                 ], 
                 "email": [
                     "cor1"
@@ -46,7 +46,7 @@
                     "conf1"
                 ], 
                 "funding": [
-                    "par-7"
+                    "par-8"
                 ], 
                 "related-object": [
                     "dataro1"
@@ -86,7 +86,7 @@
                     "conf1"
                 ], 
                 "funding": [
-                    "par-8"
+                    "par-9"
                 ]
             }
         }, 
@@ -99,7 +99,8 @@
                     "conf1"
                 ], 
                 "funding": [
-                    "par-1"
+                    "par-1", 
+                    "par-2"
                 ], 
                 "related-object": [
                     "dataro1"
@@ -2852,39 +2853,45 @@
             "conf1": "The authors declare that no competing interests exist."
         }, 
         "funding": {
-            "par-8": {
+            "par-9": {
                 "id": "http://dx.doi.org/10.13039/501100004189", 
                 "institution": "Max-Planck-Gesellschaft", 
                 "id-type": "FundRef"
             }, 
-            "par-7": {
+            "par-8": {
                 "id": "http://dx.doi.org/10.13039/100000001", 
                 "award-id": "Graduate Research Fellowship", 
                 "institution": "National Science Foundation (NSF)", 
                 "id-type": "FundRef"
             }, 
-            "par-6": {
+            "par-7": {
                 "institution": "Biomedical Technology Program"
             }, 
-            "par-5": {
+            "par-6": {
                 "id": "http://dx.doi.org/10.13039/100000057", 
                 "institution": "National Institute of General Medical Sciences (NIGMS)", 
                 "id-type": "FundRef"
             }, 
-            "par-4": {
+            "par-5": {
                 "id": "http://dx.doi.org/10.13039/100000097", 
                 "institution": "National Center for Research Resources (NCRR)", 
                 "id-type": "FundRef"
             }, 
-            "par-3": {
+            "par-4": {
                 "id": "http://dx.doi.org/10.13039/100000002", 
                 "institution": "National Institutes of Health (NIH)", 
                 "id-type": "FundRef"
             }, 
-            "par-2": {
+            "par-3": {
                 "id": "http://dx.doi.org/10.13039/100000015", 
                 "award-id": "Office of Biological and Environmental Research", 
                 "institution": "U.S. Department of Energy", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM049243", 
+                "institution": "National Institutes of Health (NIH)", 
                 "id-type": "FundRef"
             }, 
             "par-1": {
