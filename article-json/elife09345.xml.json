@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32426"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-37005"
         }, 
@@ -62,7 +62,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0001-8394-3060", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-22703"
         }, 
@@ -190,7 +190,7 @@
         }, 
         {
             "surname": "Kadler", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Karl E", 
             "references": {
                 "affiliation": [
@@ -227,7 +227,7 @@
             "id": "author-1124"
         }
     ], 
-    "pub-date": "2015-09-21", 
+    "pub-date": "2015-09-21T00:00:00Z", 
     "title": "Matrix metalloproteinase 14 is required for fibrous tissue expansion", 
     "citations": {
         "bib39": {
@@ -2753,9 +2753,9 @@
     }, 
     "impact-statement": "The membrane type I-matrix metalloproteinase is essential for the release of collagen fibrils from plasma membrane fibripositors, which is required for the transition from embryonic to postnatal tendon development.", 
     "elocation-id": "e09345", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09345.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "MT1-MMP", 
@@ -2771,7 +2771,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09345", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -114,7 +114,7 @@
         }, 
         {
             "surname": "Losick", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Richard", 
             "references": {
                 "competing-interest": [
@@ -141,7 +141,7 @@
         }, 
         {
             "surname": "Chai", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yunrong", 
             "references": {
                 "competing-interest": [
@@ -180,7 +180,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-17", 
+    "pub-date": "2013-12-17T00:00:00Z", 
     "title": "A serine sensor for multicellularity in a bacterium", 
     "citations": {
         "bib9": {
@@ -1603,9 +1603,9 @@
     }, 
     "impact-statement": "Biofilm formation by Bacillus subtilis relies on a sensing mechanism for the amino acid serine that does not depend on a dedicated protein or RNA.", 
     "elocation-id": "e01501", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01501.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "codon usage", 
@@ -1618,7 +1618,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01501", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "The other authors declare that no competing interests exist.", 

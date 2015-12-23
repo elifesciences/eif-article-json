@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Costa", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alessandro", 
             "references": {
                 "affiliation": [
@@ -157,7 +157,7 @@
         }, 
         {
             "surname": "Botchan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael R", 
             "references": {
                 "affiliation": [
@@ -181,7 +181,7 @@
         }, 
         {
             "surname": "Berger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "James M", 
             "references": {
                 "affiliation": [
@@ -216,7 +216,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-12", 
+    "pub-date": "2014-08-12T00:00:00Z", 
     "title": "DNA binding polarity, dimerization, and ATPase ring remodeling in the CMG helicase of the eukaryotic replisome", 
     "citations": {
         "bib39": {
@@ -2148,9 +2148,9 @@
     }, 
     "impact-statement": "The Mcm2-7 motor unwinds DNA using an approach distinct from that of superfamily III helicases, and accesses multiple ring configurations and assembly states during the initiation of DNA replication.", 
     "elocation-id": "e03273", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03273.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "DNA replication", 
@@ -2165,7 +2165,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03273", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Centre For Ultra Structural Imaging, King's College London, London, United Kingdom"

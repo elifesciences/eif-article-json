@@ -89,7 +89,7 @@
         }, 
         {
             "surname": "Chen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christopher S", 
             "references": {
                 "affiliation": [
@@ -114,7 +114,7 @@
         }, 
         {
             "surname": "Steger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David J", 
             "references": {
                 "competing-interest": [
@@ -154,7 +154,7 @@
             "id": "author-1031"
         }
     ], 
-    "pub-date": "2015-06-25", 
+    "pub-date": "2015-06-25T00:00:00Z", 
     "title": "ATF4 licenses C/EBP\u03b2 activity in human mesenchymal stem cells primed for adipogenesis", 
     "citations": {
         "bib39": {
@@ -3073,9 +3073,9 @@
     }, 
     "impact-statement": "The transcription factor C/EBP\u03b2 binds to different DNA sequences depending on whether it binds to ATF4, which enables C/EBP\u03b2 to conduct diverse transcriptional programs during adipocyte differentiation by exploiting an expanded motif repertoire.", 
     "elocation-id": "e06821", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06821.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "adipogenesis", 
@@ -3088,7 +3088,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06821", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

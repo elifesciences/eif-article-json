@@ -42,7 +42,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5804"
         }, 
@@ -66,7 +66,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5805"
         }, 
@@ -143,7 +143,7 @@
         }, 
         {
             "surname": "Musacchio", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrea", 
             "references": {
                 "competing-interest": [
@@ -183,7 +183,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-09-24", 
+    "pub-date": "2013-09-24T00:00:00Z", 
     "title": "Bub3 reads phosphorylated MELT repeats to promote spindle assembly checkpoint signaling", 
     "citations": {
         "bib39": {
@@ -2574,9 +2574,9 @@
         }
     ], 
     "elocation-id": "e01030", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01030.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "spindle assembly checkpoint", 
@@ -2591,7 +2591,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01030", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

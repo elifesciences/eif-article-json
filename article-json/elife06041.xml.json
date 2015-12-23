@@ -87,7 +87,7 @@
         }, 
         {
             "surname": "Feldbr\u00fcgge", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael", 
             "references": {
                 "affiliation": [
@@ -123,7 +123,7 @@
             "id": "author-8518"
         }
     ], 
-    "pub-date": "2015-05-18", 
+    "pub-date": "2015-05-18T00:00:00Z", 
     "title": "A FYVE zinc finger domain protein specifically links mRNA transport to endosome trafficking", 
     "citations": {
         "bib39": {
@@ -2415,9 +2415,9 @@
     }, 
     "impact-statement": "An endosomal component employs a novel PAM2-like motif to recruit a key RNA-binding protein, which explains how mRNAs and associated ribosomes are attached to endosomes during coupled transport.", 
     "elocation-id": "e06041", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06041.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "endosome", 
@@ -2432,7 +2432,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06041", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Cell and Developmental Biology, Centre for Genomic Regulation, Universitat Pompeu Fabra, Barcelona, Spain", 

@@ -75,7 +75,7 @@
         }, 
         {
             "surname": "London", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert E", 
             "references": {
                 "affiliation": [
@@ -111,7 +111,7 @@
             "id": "author-1079"
         }
     ], 
-    "pub-date": "2015-06-03", 
+    "pub-date": "2015-06-03T00:00:00Z", 
     "title": "Asymmetric conformational maturation of HIV-1 reverse transcriptase", 
     "citations": {
         "bib9": {
@@ -1307,9 +1307,9 @@
     }, 
     "impact-statement": "HIV-1 reverse transcriptase uses a metamorphic polymerase domain that minimizes its coding requirements but requires a complex maturation process.", 
     "elocation-id": "e06359", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06359.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "NMR", 
@@ -1323,7 +1323,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06359", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

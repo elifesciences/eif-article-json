@@ -42,7 +42,7 @@
         {
             "surname": "Miller", 
             "suffix": "III", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas F", 
             "references": {
                 "affiliation": [
@@ -75,7 +75,7 @@
             "id": "author-17066"
         }
     ], 
-    "pub-date": "2015-09-26", 
+    "pub-date": "2015-09-26T00:00:00Z", 
     "title": "Regulation of multispanning membrane protein topology via post-translational annealing", 
     "citations": {
         "bib39": {
@@ -1535,9 +1535,9 @@
     }, 
     "impact-statement": "Coarse-grained modeling reveals a new mechanism for multispanning membrane protein topogenesis, in which misintegrated configurations of the proteins undergo post-translational annealing to reach final, fully integrated multispanning topologies.", 
     "elocation-id": "e08697", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08697.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "membrane protein topology", 
@@ -1550,7 +1550,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08697", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

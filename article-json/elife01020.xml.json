@@ -19,7 +19,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5923"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5937"
         }, 
@@ -61,7 +61,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5924"
         }, 
@@ -83,7 +83,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5925"
         }, 
@@ -104,7 +104,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5940"
         }, 
@@ -128,7 +128,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4996"
         }, 
@@ -401,7 +401,7 @@
         }, 
         {
             "surname": "Goodnow", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christopher C", 
             "references": {
                 "competing-interest": [
@@ -428,13 +428,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5936"
         }, 
         {
             "surname": "Roose", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jeroen P", 
             "references": {
                 "competing-interest": [
@@ -457,7 +457,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5000"
         }, 
@@ -474,7 +474,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-12", 
+    "pub-date": "2013-12-12T00:00:00Z", 
     "title": "<italic>Rasgrp1</italic> mutation increases na\u00efve T-cell CD44 expression and drives mTOR-dependent accumulation of Helios<sup>+</sup> T cells and autoantibodies", 
     "citations": {
         "bib39": {
@@ -3711,9 +3711,9 @@
     }, 
     "impact-statement": "A single point mutation in a Ras activator leads to aberrant constitutive mTOR signaling in peripheral T cells that consequently accumulate as abnormal T helper cells and stimulate the production of autoantibodies by B cells.", 
     "elocation-id": "e01020", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01020.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "autoimmunity", 
@@ -3728,7 +3728,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01020", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

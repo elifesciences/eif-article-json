@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10609"
         }, 
@@ -48,7 +48,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10610"
         }, 
@@ -157,7 +157,7 @@
         }, 
         {
             "surname": "Sun", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yi", 
             "references": {
                 "affiliation": [
@@ -194,7 +194,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-21", 
+    "pub-date": "2014-08-21T00:00:00Z", 
     "title": "Ribosomal protein S27-like is a physiological regulator of p53 that suppresses genomic instability and tumorigenesis", 
     "citations": {
         "bib48": {
@@ -3892,9 +3892,9 @@
     }, 
     "impact-statement": "The ribosomal protein, Rps27l, plays an oncogenic role by promoting p53 degradation via stabilizing the Mdm2-Mdm4 complex, but a tumor suppressor role by preventing the aneuploidy and loss of p53 heterozygosity.", 
     "elocation-id": "e02236", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02236.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "p53", 
@@ -3910,7 +3910,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02236", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

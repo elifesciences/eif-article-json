@@ -131,7 +131,7 @@
         }, 
         {
             "surname": "Davidson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Irwin", 
             "references": {
                 "competing-interest": [
@@ -173,7 +173,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-10", 
+    "pub-date": "2014-09-10T00:00:00Z", 
     "title": "TAF4, a subunit of transcription factor II D, directs promoter occupancy of nuclear receptor HNF4A during post-natal hepatocyte differentiation", 
     "citations": {
         "bib39": {
@@ -2490,9 +2490,9 @@
     }, 
     "impact-statement": "Physical and functional interactions between HNF4A and TAF4 coordinate HNF4A genomic occupancy with pre-initiation complex formation to activate post-natal hepatocyte gene expression.", 
     "elocation-id": "e03613", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03613.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "developmental biology", 
@@ -2504,7 +2504,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03613", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

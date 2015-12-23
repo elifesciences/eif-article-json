@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Schwartz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "dept": "Department of Biology", 
@@ -27,7 +27,7 @@
             "id": "author-3844"
         }
     ], 
-    "pub-date": "2014-05-27", 
+    "pub-date": "2014-05-27T00:00:00Z", 
     "title": "Finding the missing link", 
     "citations": {
         "bib11": {
@@ -441,9 +441,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03128.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "membrane traffic", 
@@ -459,7 +459,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03128", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

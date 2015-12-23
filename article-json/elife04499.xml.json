@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Akeju", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Oluwaseun", 
             "references": {
                 "competing-interest": [
@@ -26,13 +26,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17923"
         }, 
         {
             "surname": "Loggia", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Marco L", 
             "references": {
                 "affiliation": [
@@ -52,7 +52,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-18870"
         }, 
@@ -286,7 +286,7 @@
         }, 
         {
             "surname": "Purdon", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Patrick L", 
             "references": {
                 "affiliation": [
@@ -322,7 +322,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-28", 
+    "pub-date": "2014-11-28T00:00:00Z", 
     "title": "Disruption of thalamic functional connectivity is a neural correlate of dexmedetomidine-induced unconsciousness", 
     "citations": {
         "bib39": {
@@ -3479,9 +3479,9 @@
     }, 
     "impact-statement": "Patterns of communication between the thalamus and the cortex are correlated with anesthesia-induced loss of consciousness and recovery.", 
     "elocation-id": "e04499", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04499.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "dexmedetomidine", 
@@ -3496,7 +3496,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04499", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The author declare that no competing interests exist."

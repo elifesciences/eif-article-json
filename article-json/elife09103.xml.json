@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Kislinger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-32521"
         }
     ], 
-    "pub-date": "2015-07-02", 
+    "pub-date": "2015-07-02T00:00:00Z", 
     "title": "Using proteomics to probe neurons", 
     "citations": {
         "bib10": {
@@ -408,9 +408,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09103.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "alternative splicing", 
@@ -425,7 +425,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09103", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

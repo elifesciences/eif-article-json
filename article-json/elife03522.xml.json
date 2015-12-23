@@ -75,7 +75,7 @@
         }, 
         {
             "surname": "Ali", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Maruf MU", 
             "references": {
                 "affiliation": [
@@ -111,7 +111,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-18", 
+    "pub-date": "2015-02-18T00:00:00Z", 
     "title": "Noncanonical binding of BiP ATPase domain to Ire1 and Perk is dissociated by unfolded protein C<sub>H</sub>1 to initiate ER stress signaling", 
     "citations": {
         "bib9": {
@@ -904,9 +904,9 @@
     }, 
     "impact-statement": "The chaperone protein BiP forms complexes with Ire1 and Perk that dissociate when unfolded proteins bind to BiP to activate the unfolded protein response in the ER.", 
     "elocation-id": "e03522", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03522.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "UPR", 
@@ -921,7 +921,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03522", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "MRC Laboratory of Molecular Biology, University of Cambridge, Cambridge, United Kingdom"

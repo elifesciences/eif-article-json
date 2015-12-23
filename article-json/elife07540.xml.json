@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Barrett", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steven P", 
             "references": {
                 "affiliation": [
@@ -47,7 +47,7 @@
         }, 
         {
             "surname": "Salzman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Julia", 
             "references": {
                 "affiliation": [
@@ -86,7 +86,7 @@
             "id": "author-2085"
         }
     ], 
-    "pub-date": "2015-06-09", 
+    "pub-date": "2015-06-09T00:00:00Z", 
     "title": "Circular RNA biogenesis can proceed through an exon-containing lariat precursor", 
     "citations": {
         "bib39": {
@@ -1535,9 +1535,9 @@
     }, 
     "impact-statement": "Systematic splice site mutagenesis and the identification of splicing intermediates provides evidence that the dominant mechanism for the generation of circular RNA in fission yeast proceeds through an exon-containing lariat precursor.", 
     "elocation-id": "e07540", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07540.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "splicing", 
@@ -1551,7 +1551,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07540", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

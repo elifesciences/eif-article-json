@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Menet", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jerome S", 
             "references": {
                 "affiliation": [
@@ -66,7 +66,7 @@
         }, 
         {
             "surname": "Rosbash", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael", 
             "references": {
                 "affiliation": [
@@ -101,7 +101,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-11-13", 
+    "pub-date": "2012-11-13T00:00:00Z", 
     "title": "Nascent-Seq reveals novel features of mouse circadian transcriptional regulation", 
     "citations": {
         "bib39": {
@@ -1460,9 +1460,9 @@
     }, 
     "impact-statement": "Genome-wide measurements on mouse liver cells show that transcription, and a particular key transcription factor, have a smaller than expected influence on the mouse circadian system.", 
     "elocation-id": "e00011", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00011.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "Circadian rhythms", 
@@ -1477,7 +1477,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00011", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors have declared that no competing interests exist"

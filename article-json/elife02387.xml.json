@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Sandler", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "dept": "Department of Microbiology", 
@@ -27,7 +27,7 @@
             "id": "author-7705"
         }
     ], 
-    "pub-date": "2014-03-04", 
+    "pub-date": "2014-03-04T00:00:00Z", 
     "title": "Vive la r\u00e9sistance!", 
     "citations": {
         "bib1": {
@@ -229,9 +229,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02387.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "DNA repair", 
@@ -245,7 +245,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02387", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

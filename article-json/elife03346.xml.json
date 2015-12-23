@@ -27,7 +27,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13943"
         }, 
@@ -58,7 +58,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14205"
         }, 
@@ -87,7 +87,7 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14206"
         }, 
@@ -301,7 +301,7 @@
         }, 
         {
             "surname": "Wolfrum", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christian", 
             "references": {
                 "competing-interest": [
@@ -331,7 +331,7 @@
         }, 
         {
             "surname": "Deplancke", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Bart", 
             "references": {
                 "competing-interest": [
@@ -372,7 +372,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-27", 
+    "pub-date": "2014-08-27T00:00:00Z", 
     "title": "Identification of the transcription factor ZEB1 as a central component of the adipogenic gene regulatory network", 
     "citations": {
         "bib7a": {
@@ -6216,9 +6216,9 @@
     }, 
     "impact-statement": "A large-scale transcription factor screen reveals over twenty novel adipogenic regulators: most notably ZEB1, which exerts essential transcriptional control of fat cell differentiation.", 
     "elocation-id": "e03346", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03346.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "adipogenesis", 
@@ -6233,7 +6233,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03346", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Laboratory of Immuno-Genomics and Systems Biology, Institute of Life Sciences, Bhubaneswar, India", 

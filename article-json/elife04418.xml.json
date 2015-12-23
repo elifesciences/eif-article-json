@@ -51,7 +51,7 @@
         }, 
         {
             "surname": "Walter", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Peter", 
             "references": {
                 "affiliation": [
@@ -77,7 +77,7 @@
         }, 
         {
             "surname": "Puglisi", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joseph D", 
             "references": {
                 "affiliation": [
@@ -113,7 +113,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-30", 
+    "pub-date": "2014-10-30T00:00:00Z", 
     "title": "Real-time observation of signal recognition particle binding to actively translating ribosomes", 
     "citations": {
         "bib9": {
@@ -1141,9 +1141,9 @@
     }, 
     "impact-statement": "The signal recognition particle only stably engages translating ribosome nascent-chain complexes exposing a functional signal sequence.", 
     "elocation-id": "e04418", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04418.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "signal recognition particle", 
@@ -1156,7 +1156,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04418", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff4": {

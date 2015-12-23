@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Clardy", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jon", 
             "role": "Reviewing Editor", 
             "references": {
@@ -33,7 +33,7 @@
             "id": "author-1060"
         }
     ], 
-    "pub-date": "2013-07-09", 
+    "pub-date": "2013-07-09T00:00:00Z", 
     "title": "Closing in on a new treatment for sleeping sickness", 
     "citations": {
         "bib1": {
@@ -230,9 +230,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01042.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "chemical biology", 
@@ -247,7 +247,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01042", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

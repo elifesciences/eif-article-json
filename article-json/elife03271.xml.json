@@ -23,7 +23,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0001-9347-304X", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13839"
         }, 
@@ -49,7 +49,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-8121-235X", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13841"
         }, 
@@ -78,7 +78,7 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13840"
         }, 
@@ -124,7 +124,7 @@
         }, 
         {
             "surname": "Bergmann", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dominique C", 
             "references": {
                 "affiliation": [
@@ -161,7 +161,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-10", 
+    "pub-date": "2014-10-10T00:00:00Z", 
     "title": "Irreversible fate commitment in the <italic>Arabidopsis</italic> stomatal lineage requires a FAMA and RETINOBLASTOMA-RELATED module", 
     "citations": {
         "bib39": {
@@ -1730,9 +1730,9 @@
     }, 
     "impact-statement": "An adult stem-cell lineage terminally differentiates via recruitment of the RETINOBLASTOMA-RELATED protein by a lineage specific transcription factor.", 
     "elocation-id": "e03271", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03271.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "retinoblastoma", 
@@ -1745,7 +1745,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03271", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Institut des Sciences de la Vie, Universit\u00e9 Catholique de Louvain, Louvain-la-Neuve, Belgium", 

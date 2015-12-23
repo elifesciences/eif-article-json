@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Roberts", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Anthony J", 
             "references": {
                 "affiliation": [
@@ -46,7 +46,7 @@
         }, 
         {
             "surname": "Reck-Peterson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Samara L", 
             "references": {
                 "affiliation": [
@@ -82,7 +82,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-10", 
+    "pub-date": "2014-06-10T00:00:00Z", 
     "title": "Reconstitution of dynein transport to the microtubule plus end by kinesin", 
     "citations": {
         "bib39": {
@@ -2101,9 +2101,9 @@
     }, 
     "impact-statement": "In vitro reconstitution reveals how a system of molecules works together to transport the motor protein dynein to the start of its track.", 
     "elocation-id": "e02641", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02641.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "dynein", 
@@ -2117,7 +2117,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02641", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

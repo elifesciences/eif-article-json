@@ -31,7 +31,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-1104-0126", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-38550"
         }, 
@@ -60,7 +60,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-9653-3842", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-38551"
         }, 
@@ -160,7 +160,7 @@
         }, 
         {
             "surname": "Rout", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael P", 
             "references": {
                 "competing-interest": [
@@ -190,7 +190,7 @@
         }, 
         {
             "surname": "Cowburn", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "competing-interest": [
@@ -236,7 +236,7 @@
             "id": "author-1079"
         }
     ], 
-    "pub-date": "2015-09-15", 
+    "pub-date": "2015-09-15T00:00:00Z", 
     "title": "The molecular mechanism of nuclear transport revealed by atomic-scale measurements", 
     "citations": {
         "bib124": {
@@ -4375,9 +4375,9 @@
     }, 
     "impact-statement": "NMR spectroscopy has been used to explain a central unresolved issue of nuclear transport, namely how it can be both fast and specific.", 
     "elocation-id": "e10027", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "10027.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "nuclear magnetic resonance", 
@@ -4390,7 +4390,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.10027", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

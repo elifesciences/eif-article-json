@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6482"
         }, 
@@ -50,7 +50,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6485"
         }, 
@@ -117,7 +117,7 @@
         }, 
         {
             "surname": "Brehm", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Paul", 
             "references": {
                 "affiliation": [
@@ -153,7 +153,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-24", 
+    "pub-date": "2013-12-24T00:00:00Z", 
     "title": "Synchronous and asynchronous modes of synaptic transmission utilize different calcium sources", 
     "citations": {
         "bib9": {
@@ -739,9 +739,9 @@
     }, 
     "impact-statement": "The delayed-onset of asynchronous transmitter release seen in neurons that fire repeatedly is triggered by a different source of calcium from that which triggers synchronous transmitter release.", 
     "elocation-id": "e01206", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01206.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "synaptopHluorin", 
@@ -753,7 +753,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01206", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Brain and Spine Institute (ICM), Paris, France"

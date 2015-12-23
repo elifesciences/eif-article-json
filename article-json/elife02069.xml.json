@@ -21,7 +21,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10113"
         }, 
@@ -44,7 +44,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10114"
         }, 
@@ -88,7 +88,7 @@
         }, 
         {
             "surname": "Reth", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael", 
             "references": {
                 "affiliation": [
@@ -128,7 +128,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-24", 
+    "pub-date": "2014-06-24T00:00:00Z", 
     "title": "B cell activation involves nanoscale receptor reorganizations and inside-out signaling by Syk", 
     "citations": {
         "bib39": {
@@ -1999,9 +1999,9 @@
     }, 
     "impact-statement": "Studying the earliest events in B cell activation reveals that the B cell antigen receptor is opened and activated via the phosphorylation and binding by the spleen tyrosine kinase (Syk).", 
     "elocation-id": "e02069", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02069.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "B cell antigen receptor", 
@@ -2013,7 +2013,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02069", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

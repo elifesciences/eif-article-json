@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Albergante", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Luca", 
             "references": {
                 "affiliation": [
@@ -29,7 +29,7 @@
         }, 
         {
             "surname": "Blow", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "J Julian", 
             "references": {
                 "competing-interest": [
@@ -53,13 +53,13 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12403"
         }, 
         {
             "surname": "Newman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Timothy J", 
             "references": {
                 "competing-interest": [
@@ -84,7 +84,7 @@
                     "cor3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12404"
         }, 
@@ -101,7 +101,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-02", 
+    "pub-date": "2014-09-02T00:00:00Z", 
     "title": "Buffered Qualitative Stability explains the robustness and evolvability of transcriptional networks", 
     "citations": {
         "bib39": {
@@ -4078,9 +4078,9 @@
     }, 
     "impact-statement": "The theory of Buffered Qualitative Stability uses the importance of biological robustness to explain many features of gene regulatory networks in a wide range of organisms, and has implications for diverse biological phenomena including the ability of bacteria and cancer cells to \u2018loosen\u2019 their robustness and hence evade treatment.", 
     "elocation-id": "e02863", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02863.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "robustness", 
@@ -4098,7 +4098,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02863", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

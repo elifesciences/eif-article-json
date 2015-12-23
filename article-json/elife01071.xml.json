@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5863"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5864"
         }, 
@@ -187,7 +187,7 @@
         }, 
         {
             "surname": "van Breugel", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Mark", 
             "references": {
                 "competing-interest": [
@@ -227,7 +227,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-09-17", 
+    "pub-date": "2013-09-17T00:00:00Z", 
     "title": "Crystal structures of the CPAP/STIL complex reveal its role in centriole assembly and human microcephaly", 
     "citations": {
         "bib39": {
@@ -2743,9 +2743,9 @@
     }, 
     "impact-statement": "Structural analyses of the centriole proteins CPAP and STIL identify domains that are critical for centriole formation and provide a structural explanation for a mutation that causes human microcephaly.", 
     "elocation-id": "e01071", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01071.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "centriole", 
@@ -2761,7 +2761,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01071", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

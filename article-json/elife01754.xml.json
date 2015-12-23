@@ -40,7 +40,7 @@
         }, 
         {
             "surname": "Bonifacino", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Juan S", 
             "references": {
                 "affiliation": [
@@ -65,7 +65,7 @@
         }, 
         {
             "surname": "Hurley", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "James H", 
             "references": {
                 "affiliation": [
@@ -101,7 +101,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-01-28", 
+    "pub-date": "2014-01-28T00:00:00Z", 
     "title": "How HIV-1 Nef hijacks the AP-2 clathrin adaptor to downregulate CD4", 
     "citations": {
         "bib39": {
@@ -2359,9 +2359,9 @@
     }, 
     "impact-statement": "The structure of the Nef:AP-2 complex has been determined and used as the basis of a model that explains how HIV-1 Nef downregulates the CD4 receptor from the surface of the infected cells.", 
     "elocation-id": "e01754", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01754.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "HIV-1", 
@@ -2373,7 +2373,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01754", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

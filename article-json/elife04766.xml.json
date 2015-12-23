@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3700"
         }, 
@@ -52,7 +52,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-18809"
         }, 
@@ -78,7 +78,7 @@
         }, 
         {
             "surname": "Doudna", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jennifer A", 
             "references": {
                 "affiliation": [
@@ -116,7 +116,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-15", 
+    "pub-date": "2014-12-15T00:00:00Z", 
     "title": "Enhanced homology-directed human genome engineering by controlled timing of CRISPR/Cas9 delivery", 
     "citations": {
         "bib9": {
@@ -1260,9 +1260,9 @@
         }
     ], 
     "elocation-id": "e04766", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04766.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "CRISPR/Cas9", 
@@ -1277,7 +1277,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04766", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

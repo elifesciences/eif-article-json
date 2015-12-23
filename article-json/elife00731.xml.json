@@ -30,7 +30,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4533"
         }, 
@@ -59,7 +59,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4534"
         }, 
@@ -341,7 +341,7 @@
         }, 
         {
             "surname": "Burbano", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hern\u00e1n A", 
             "references": {
                 "competing-interest": [
@@ -382,7 +382,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-05-28", 
+    "pub-date": "2013-05-28T00:00:00Z", 
     "title": "The rise and fall of the <italic>Phytophthora infestans</italic> lineage that triggered the Irish potato famine", 
     "citations": {
         "bib39": {
@@ -2345,9 +2345,9 @@
         }
     ], 
     "elocation-id": "e00731", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00731.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Phytophthora infestans", 
@@ -2360,7 +2360,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00731", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

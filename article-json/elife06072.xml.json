@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Benichoux", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Victor", 
             "references": {
                 "affiliation": [
@@ -84,7 +84,7 @@
         }, 
         {
             "surname": "Joris", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Philip X", 
             "references": {
                 "competing-interest": [
@@ -110,13 +110,13 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-9759-5375", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-23186"
         }, 
         {
             "surname": "Brette", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Romain", 
             "references": {
                 "competing-interest": [
@@ -143,7 +143,7 @@
                     "cor3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-23180"
         }, 
@@ -161,7 +161,7 @@
             "id": "author-16662"
         }
     ], 
-    "pub-date": "2015-04-27", 
+    "pub-date": "2015-04-27T00:00:00Z", 
     "title": "Neural tuning matches frequency-dependent time differences between the ears", 
     "citations": {
         "bib39": {
@@ -1276,9 +1276,9 @@
     }, 
     "impact-statement": "Complex properties of space-sensitive auditory neurons in cats mirror the complexity of acoustical environments.", 
     "elocation-id": "e06072", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06072.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "electrophysiology", 
@@ -1290,7 +1290,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06072", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

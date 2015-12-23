@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15744"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15745"
         }, 
@@ -343,7 +343,7 @@
         }, 
         {
             "surname": "Steele", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrew D", 
             "references": {
                 "affiliation": [
@@ -381,7 +381,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-12", 
+    "pub-date": "2014-09-12T00:00:00Z", 
     "title": "Dopamine receptor 1 neurons in the dorsal striatum regulate food anticipatory circadian activity rhythms in mice", 
     "citations": {
         "bib39": {
@@ -2408,9 +2408,9 @@
     }, 
     "impact-statement": "For mice, knowing when it is time to feed is dependent on the neurotransmitter dopamine and the D1R receptor of neurons in the dorsal striatum.", 
     "elocation-id": "e03781", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03781.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "food entrainment", 
@@ -2423,7 +2423,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03781", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biology, Stanford University, Palo Alto, United States"

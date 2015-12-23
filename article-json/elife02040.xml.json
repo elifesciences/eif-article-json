@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6418"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6422"
         }, 
@@ -70,13 +70,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6423"
         }, 
         {
             "surname": "Howard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Martin", 
             "references": {
                 "affiliation": [
@@ -100,7 +100,7 @@
         }, 
         {
             "surname": "Chang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Fred", 
             "references": {
                 "affiliation": [
@@ -135,7 +135,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-18", 
+    "pub-date": "2014-03-18T00:00:00Z", 
     "title": "Cortical regulation of cell size by a sizer cdr2p", 
     "citations": {
         "bib39": {
@@ -1397,9 +1397,9 @@
     }, 
     "impact-statement": "It is shown that fission yeast cells sense their size by measuring their surface area through a membrane-associated sizer protein cdr2p.", 
     "elocation-id": "e02040", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02040.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cell size control", 
@@ -1412,7 +1412,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02040", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

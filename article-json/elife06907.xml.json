@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Unni", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Arun M", 
             "references": {
                 "competing-interest": [
@@ -26,13 +26,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-28375"
         }, 
         {
             "surname": "Lockwood", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "William W", 
             "references": {
                 "present-address": [
@@ -58,7 +58,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29158"
         }, 
@@ -104,7 +104,7 @@
         }, 
         {
             "surname": "Varmus", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Harold", 
             "references": {
                 "affiliation": [
@@ -140,7 +140,7 @@
             "id": "author-1069"
         }
     ], 
-    "pub-date": "2015-06-05", 
+    "pub-date": "2015-06-05T00:00:00Z", 
     "title": "Evidence that synthetic lethality underlies the mutual exclusivity of oncogenic KRAS and EGFR mutations in lung adenocarcinoma", 
     "citations": {
         "bib39": {
@@ -4008,9 +4008,9 @@
     }, 
     "impact-statement": "Co-mutation of two powerful oncogenes in certain cell types may have a lethal effect that explains the mutual exclusivity of the mutations.", 
     "elocation-id": "e06907", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06907.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "lung cancer", 
@@ -4023,7 +4023,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06907", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Integrative Oncology, British Columbia Cancer Research Centre, Vancouver, Canada", 

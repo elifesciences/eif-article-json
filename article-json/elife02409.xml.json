@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10969"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10970"
         }, 
@@ -212,7 +212,7 @@
         }, 
         {
             "surname": "Alberti", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Simon", 
             "references": {
                 "affiliation": [
@@ -247,7 +247,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-25", 
+    "pub-date": "2014-04-25T00:00:00Z", 
     "title": "Filament formation by metabolic enzymes is a specific adaptation to an advanced state of cellular starvation", 
     "citations": {
         "bib39": {
@@ -1881,9 +1881,9 @@
     }, 
     "impact-statement": "A starvation-induced drop in cytosolic pH promotes assembly of budding yeast glutamine synthetase into enzymatically inactive filaments that function as enzyme storage depots.", 
     "elocation-id": "e02409", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02409.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "metabolic enzyme", 
@@ -1898,7 +1898,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02409", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

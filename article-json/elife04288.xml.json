@@ -46,7 +46,7 @@
                     "aff1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17614"
         }, 
@@ -70,13 +70,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20201"
         }, 
         {
             "surname": "Serio", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tricia R", 
             "references": {
                 "affiliation": [
@@ -105,7 +105,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-09", 
+    "pub-date": "2014-12-09T00:00:00Z", 
     "title": "Spatial quality control bypasses cell-based limitations on proteostasis to promote prion curing", 
     "citations": {
         "bib48": {
@@ -3238,9 +3238,9 @@
     }, 
     "impact-statement": "Cell division imposes a limit on proteostasis capacity by reducing chaperone accumulation, but chaperone-substrate interactions reverse these events to allow clearance of even chronically misfolded protein amyloids.", 
     "elocation-id": "e04288", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04288.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "chaperone", 
@@ -3253,7 +3253,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04288", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Max Planck Institute of Biochemistry, Munich, Germany", 

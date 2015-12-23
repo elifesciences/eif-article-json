@@ -106,7 +106,7 @@
         }, 
         {
             "surname": "Smith", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Catherine C", 
             "references": {
                 "affiliation": [
@@ -127,7 +127,7 @@
         }, 
         {
             "surname": "Shah", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Neil P", 
             "references": {
                 "affiliation": [
@@ -152,7 +152,7 @@
         }, 
         {
             "surname": "Shokat", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Kevan M", 
             "references": {
                 "affiliation": [
@@ -189,7 +189,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-22", 
+    "pub-date": "2014-12-22T00:00:00Z", 
     "title": "Overcoming myelosuppression due to synthetic lethal toxicity for FLT3-targeted acute myeloid leukemia therapy", 
     "citations": {
         "bib39": {
@@ -2568,9 +2568,9 @@
     }, 
     "impact-statement": "Anti-targets are proteins that cause problems when inhibited along with an intended target and our novel chemical strategy affords unprecedented selectivity in the context of FLT3 vs. KIT inhibition for treatment of a devastating blood cancer.", 
     "elocation-id": "e03445", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03445.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "staurosporine", 
@@ -2585,7 +2585,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03445", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Rape", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-3855"
         }
     ], 
-    "pub-date": "2013-08-08", 
+    "pub-date": "2013-08-08T00:00:00Z", 
     "title": "Caught in the act", 
     "citations": {
         "bib11": {
@@ -551,9 +551,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01127.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "ubiquitin", 
@@ -568,7 +568,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01127", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

@@ -44,7 +44,7 @@
             }, 
             "type": "author", 
             "id": "author-15860", 
-            "deceased": "yes"
+            "deceased": true
         }, 
         {
             "type": "author", 
@@ -68,7 +68,7 @@
         }, 
         {
             "surname": "Lu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Zhe", 
             "references": {
                 "affiliation": [
@@ -103,7 +103,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-14", 
+    "pub-date": "2014-10-14T00:00:00Z", 
     "title": "Counteracting suppression of CFTR and voltage-gated K<sup>+</sup> channels by a bacterial pathogenic factor with the natural product tannic acid", 
     "citations": {
         "bib9": {
@@ -926,9 +926,9 @@
     }, 
     "impact-statement": "Tannic acid acts as an \u2018antidote\u2019 against the negative effects of a bacterial enzyme, which can both aggravate cystic fibrosis and enable the anthrax bacteria to evade the immune responses elicited by a typical live vaccine.", 
     "elocation-id": "e03683", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03683.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "potassium channels", 
@@ -943,7 +943,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03683", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

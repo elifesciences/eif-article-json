@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30472"
         }, 
@@ -44,7 +44,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0003-2097-8439", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-35956"
         }, 
@@ -207,13 +207,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-35965"
         }, 
         {
             "surname": "Vandekerckhove", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Linos", 
             "references": {
                 "competing-interest": [
@@ -239,7 +239,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-8600-1631", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-35618"
         }, 
@@ -256,7 +256,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-06", 
+    "pub-date": "2015-10-06T00:00:00Z", 
     "title": "Impact of a decade of successful antiretroviral therapy initiated at HIV-1 seroconversion on blood and rectal reservoirs", 
     "citations": {
         "bib39": {
@@ -4649,9 +4649,9 @@
     }, 
     "impact-statement": "An early start to long-term antiretroviral therapy limits the size of the HIV-1 reservoir more effectively than treatment that starts later.", 
     "elocation-id": "e09115", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09115.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "HIV-1 reservoir", 
@@ -4665,7 +4665,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09115", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

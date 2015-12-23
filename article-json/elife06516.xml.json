@@ -179,7 +179,7 @@
         }, 
         {
             "surname": "Comai", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Luca", 
             "references": {
                 "competing-interest": [
@@ -227,7 +227,7 @@
             }, 
             "type": "author", 
             "id": "author-32924", 
-            "deceased": "yes"
+            "deceased": true
         }, 
         {
             "surname": "de Massy", 
@@ -243,7 +243,7 @@
             "id": "author-1529"
         }
     ], 
-    "pub-date": "2015-05-15", 
+    "pub-date": "2015-05-15T00:00:00Z", 
     "title": "Catastrophic chromosomal restructuring during genome elimination in plants", 
     "citations": {
         "bib9": {
@@ -1894,9 +1894,9 @@
     }, 
     "impact-statement": "Complex chromosomal rearrangements similar to those described in cancer and developmental syndromes occur in plants during postzygotic genome elimination, a centromeric-derived incompatibility.", 
     "elocation-id": "e06516", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06516.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "genome instability", 
@@ -1908,7 +1908,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06516", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

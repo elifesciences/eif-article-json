@@ -27,7 +27,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12352"
         }, 
@@ -53,7 +53,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-8772-6845", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12398"
         }, 
@@ -78,7 +78,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12399"
         }, 
@@ -104,7 +104,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0001-8880-9311", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12400"
         }, 
@@ -321,7 +321,7 @@
         }, 
         {
             "surname": "Lambrechts", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Diether", 
             "references": {
                 "affiliation": [
@@ -359,7 +359,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-01", 
+    "pub-date": "2014-08-01T00:00:00Z", 
     "title": "Mismatch repair deficiency endows tumors with a unique mutation signature and sensitivity to DNA double-strand breaks", 
     "citations": {
         "bib39": {
@@ -4872,9 +4872,9 @@
     }, 
     "impact-statement": "A comprehensive catalogue of somatic mutations accumulating in MMR-deficient tumors highlights their relevance in the context of human genetic evolution, for the diagnosis of microsatellite instability and the provision of targeted treatment options.", 
     "elocation-id": "e02725", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02725.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "whole-genome sequencing", 
@@ -4889,7 +4889,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02725", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

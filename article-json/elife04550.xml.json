@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-18096"
         }, 
@@ -44,7 +44,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19276"
         }, 
@@ -193,7 +193,7 @@
         }, 
         {
             "surname": "van Oosterhout", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Cock", 
             "references": {
                 "affiliation": [
@@ -217,7 +217,7 @@
         }, 
         {
             "surname": "Jones", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan DG", 
             "references": {
                 "affiliation": [
@@ -254,7 +254,7 @@
             "id": "author-1030"
         }
     ], 
-    "pub-date": "2015-02-27", 
+    "pub-date": "2015-02-27T00:00:00Z", 
     "title": "Evidence for suppression of immunity as a driver for genomic introgressions and host range expansion in races of <italic>Albugo candida</italic>, a generalist parasite", 
     "citations": {
         "bib48": {
@@ -5044,9 +5044,9 @@
     }, 
     "impact-statement": "Hybridization and introgression blur species boundaries and broaden genetic diversity available for adaptation; and widespread introgression underpins the evolution of races of the generalist pathogen <italic>Albugo candida</italic> that specialise on different host plant species.", 
     "elocation-id": "e04550", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04550.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "<italic>Albugo candida</italic>", 
@@ -5062,7 +5062,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04550", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

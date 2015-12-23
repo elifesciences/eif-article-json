@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Lomvardas", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stavros", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-1810"
         }
     ], 
-    "pub-date": "2012-12-13", 
+    "pub-date": "2012-12-13T00:00:00Z", 
     "title": "How keeping active pays off in the olfactory system", 
     "citations": {
         "bib10": {
@@ -313,9 +313,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00326.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "histone", 
@@ -327,7 +327,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00326", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

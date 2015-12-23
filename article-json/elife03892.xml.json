@@ -75,7 +75,7 @@
         }, 
         {
             "surname": "Rieke", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Fred", 
             "references": {
                 "affiliation": [
@@ -111,7 +111,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-01", 
+    "pub-date": "2014-09-01T00:00:00Z", 
     "title": "Cross-synaptic synchrony and transmission of signal and noise across the mouse retina", 
     "citations": {
         "bib39": {
@@ -1654,9 +1654,9 @@
     }, 
     "impact-statement": "Cells within the retina synchronize transmitter release across their output synapses in the dark, reducing the impact of noise generated at these synapses and allowing light-dependent signals to be transmitted with minimal added synaptic noise.", 
     "elocation-id": "e03892", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03892.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "synaptic transmission", 
@@ -1668,7 +1668,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03892", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

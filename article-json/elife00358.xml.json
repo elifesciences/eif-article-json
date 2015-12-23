@@ -112,7 +112,7 @@
         }, 
         {
             "surname": "Elledge", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stephen J", 
             "references": {
                 "affiliation": [
@@ -149,7 +149,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-04-30", 
+    "pub-date": "2013-04-30T00:00:00Z", 
     "title": "A role for PVRL4-driven cell\u2013cell interactions in tumorigenesis", 
     "citations": {
         "bib39": {
@@ -1596,9 +1596,9 @@
     }, 
     "impact-statement": "A protein called PVRL4 has a central role in a number of cancers that originate in epithelial tissue, and anti-PVRL4 antibodies could be used to treat some of these cancers.", 
     "elocation-id": "e00358", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00358.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "anchorage-independence", 
@@ -1611,7 +1611,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00358", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department I of Internal Medicine, University Hospital Cologne and Center for Integrated Oncology Koln-Bonn, Cologne, Germany"

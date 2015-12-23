@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7509"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7510"
         }, 
@@ -94,7 +94,7 @@
         }, 
         {
             "surname": "Arenkiel", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Benjamin R", 
             "references": {
                 "affiliation": [
@@ -134,7 +134,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-01-28", 
+    "pub-date": "2014-01-28T00:00:00Z", 
     "title": "Cell type-specific and time-dependent light exposure contribute to silencing in neurons expressing Channelrhodopsin-2", 
     "citations": {
         "bib39": {
@@ -3206,9 +3206,9 @@
     }, 
     "impact-statement": "Optogenetic techniques, whereby light is used to activate neuronal cells, are quickly becoming widely used in neuroscience; but excessive exposure to light can actually silence certain types of neuronal cells.", 
     "elocation-id": "e01481", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01481.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "optogenetics", 
@@ -3222,7 +3222,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01481", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

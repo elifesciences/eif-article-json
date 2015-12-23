@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2290"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2291"
         }, 
@@ -98,7 +98,7 @@
         }, 
         {
             "surname": "Hell", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stefan W", 
             "references": {
                 "affiliation": [
@@ -119,7 +119,7 @@
         }, 
         {
             "surname": "Jakobs", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stefan", 
             "references": {
                 "affiliation": [
@@ -156,7 +156,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-12-31", 
+    "pub-date": "2012-12-31T00:00:00Z", 
     "title": "rsEGFP2 enables fast RESOLFT nanoscopy of living cells", 
     "citations": {
         "bib9": {
@@ -1243,9 +1243,9 @@
         }
     ], 
     "elocation-id": "e00248", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00248.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "confocal microscopy", 
@@ -1260,7 +1260,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00248", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The remaining have declared that no competing interests exist.", 

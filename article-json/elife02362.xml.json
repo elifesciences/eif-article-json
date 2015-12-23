@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10663"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10749"
         }, 
@@ -127,7 +127,7 @@
         }, 
         {
             "surname": "Guatelli", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John", 
             "references": {
                 "affiliation": [
@@ -154,7 +154,7 @@
         }, 
         {
             "surname": "Xiong", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yong", 
             "references": {
                 "competing-interest": [
@@ -193,7 +193,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-29", 
+    "pub-date": "2014-04-29T00:00:00Z", 
     "title": "Structural basis of HIV-1 Vpu-mediated BST2 antagonism via hijacking of the clathrin adaptor protein complex 1", 
     "citations": {
         "bib48": {
@@ -3731,9 +3731,9 @@
     }, 
     "impact-statement": "HIV-1 viral protein u (Vpu) can stimulate novel versions of canonical interactions with the clathrin adaptor AP1 to counteract the host antiviral protein BST2.", 
     "elocation-id": "e02362", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02362.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "BST2", 
@@ -3748,7 +3748,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02362", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

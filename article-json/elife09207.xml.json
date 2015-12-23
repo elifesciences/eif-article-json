@@ -25,13 +25,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-35458"
         }, 
         {
             "surname": "Barbieri", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christopher E", 
             "references": {
                 "competing-interest": [
@@ -57,7 +57,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-35995"
         }, 
@@ -351,7 +351,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-36011"
         }, 
@@ -373,13 +373,13 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-36012"
         }, 
         {
             "surname": "Rubin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Mark A", 
             "references": {
                 "competing-interest": [
@@ -405,7 +405,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-35472"
         }, 
@@ -423,7 +423,7 @@
             "id": "author-1082"
         }
     ], 
-    "pub-date": "2015-09-16", 
+    "pub-date": "2015-09-16T00:00:00Z", 
     "title": "<italic>SPOP</italic> mutation leads to genomic instability in prostate cancer", 
     "citations": {
         "bib9": {
@@ -3418,9 +3418,9 @@
     }, 
     "impact-statement": "<italic>SPOP</italic> mutations underlie a novel, genomically unstable subclass of prostate cancer by altering DNA repair.", 
     "elocation-id": "e09207", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09207.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "prostate cancer", 
@@ -3435,7 +3435,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09207", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "The other authors declare that no competing interests exist.", 

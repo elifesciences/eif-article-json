@@ -55,7 +55,7 @@
         }, 
         {
             "surname": "Lohman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Timothy M", 
             "references": {
                 "affiliation": [
@@ -79,7 +79,7 @@
         }, 
         {
             "surname": "Chemla", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yann R", 
             "references": {
                 "affiliation": [
@@ -117,7 +117,7 @@
             "id": "author-1018"
         }
     ], 
-    "pub-date": "2015-08-25", 
+    "pub-date": "2015-08-25T00:00:00Z", 
     "title": "Structural dynamics of <italic>E. coli</italic> single-stranded DNA binding protein reveal DNA wrapping and unwrapping pathways", 
     "citations": {
         "bib39": {
@@ -1718,9 +1718,9 @@
     }, 
     "impact-statement": "Single-molecule force and fluorescence spectroscopy reveal the structural states and dynamics of <italic>E. coli</italic> single-stranded DNA binding proteins and the energy landscape of the nucleo\u2013protein complex.", 
     "elocation-id": "e08193", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08193.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "single stranded DNA binding protein", 
@@ -1734,7 +1734,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08193", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

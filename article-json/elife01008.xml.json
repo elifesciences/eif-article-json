@@ -22,7 +22,7 @@
                     "aff1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5567"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5694"
         }, 
@@ -144,7 +144,7 @@
         }, 
         {
             "surname": "Rosen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael K", 
             "references": {
                 "affiliation": [
@@ -170,7 +170,7 @@
         }, 
         {
             "surname": "Gelles", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jeff", 
             "references": {
                 "affiliation": [
@@ -206,7 +206,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-09-03", 
+    "pub-date": "2013-09-03T00:00:00Z", 
     "title": "Three-color single molecule imaging shows WASP detachment from Arp2/3 complex triggers actin filament branch formation", 
     "citations": {
         "bib39": {
@@ -2135,9 +2135,9 @@
         }
     ], 
     "elocation-id": "e01008", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01008.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "TIRF", 
@@ -2153,7 +2153,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01008", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Biogen Idec, Cambridge, United States"

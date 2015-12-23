@@ -39,7 +39,7 @@
         }, 
         {
             "surname": "Simpson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Julie H", 
             "references": {
                 "affiliation": [
@@ -64,7 +64,7 @@
         }, 
         {
             "surname": "Seeds", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrew M", 
             "references": {
                 "affiliation": [
@@ -98,7 +98,7 @@
             "id": "author-6613"
         }
     ], 
-    "pub-date": "2015-09-07", 
+    "pub-date": "2015-09-07T00:00:00Z", 
     "title": "A neural command circuit for grooming movement control", 
     "citations": {
         "bib7a": {
@@ -2612,9 +2612,9 @@
     }, 
     "impact-statement": "The identification of a neural circuit that drives a specific grooming movement in <italic>Drosophila</italic> reveals that it may also control movement parameters, such as duration.", 
     "elocation-id": "e08758", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08758.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "command neurons", 
@@ -2629,7 +2629,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08758", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

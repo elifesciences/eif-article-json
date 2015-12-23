@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Araki", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Keigo", 
             "references": {
                 "affiliation": [
@@ -82,7 +82,7 @@
         }, 
         {
             "surname": "Taya", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yoichi", 
             "references": {
                 "affiliation": [
@@ -118,7 +118,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-03", 
+    "pub-date": "2013-12-03T00:00:00Z", 
     "title": "Cytoplasmic translocation of the retinoblastoma protein disrupts sarcomeric organization", 
     "citations": {
         "bib39": {
@@ -1424,9 +1424,9 @@
         }
     ], 
     "elocation-id": "e01228", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01228.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "retinoblastoma protein", 
@@ -1439,7 +1439,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01228", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Mechanobiology Institute, National University of Singapore, Singapore, Singapore"

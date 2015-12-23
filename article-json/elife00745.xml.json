@@ -27,7 +27,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4574"
         }, 
@@ -48,7 +48,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4575"
         }, 
@@ -142,7 +142,7 @@
         }, 
         {
             "surname": "Weis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Karsten", 
             "references": {
                 "affiliation": [
@@ -166,7 +166,7 @@
         }, 
         {
             "surname": "Schwartz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas U", 
             "references": {
                 "competing-interest": [
@@ -205,7 +205,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-06-11", 
+    "pub-date": "2013-06-11T00:00:00Z", 
     "title": "Scaffold nucleoporins Nup188 and Nup192 share structural and functional properties with nuclear transport receptors", 
     "citations": {
         "bib39": {
@@ -2078,9 +2078,9 @@
     }, 
     "impact-statement": "Components of the nuclear pore complex share structural and functional features with soluble nuclear transport receptors, which suggests that there may be an evolutionary relationship between these two types of protein.", 
     "elocation-id": "e00745", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00745.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "nucleocytoplasmic transport", 
@@ -2093,7 +2093,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00745", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

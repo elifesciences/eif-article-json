@@ -38,7 +38,7 @@
         }, 
         {
             "surname": "Patel", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Smita S", 
             "references": {
                 "affiliation": [
@@ -74,7 +74,7 @@
             "id": "author-7480"
         }
     ], 
-    "pub-date": "2015-05-13", 
+    "pub-date": "2015-05-13T00:00:00Z", 
     "title": "Cooperative base pair melting by helicase and polymerase positioned one nucleotide from each other", 
     "citations": {
         "bib39": {
@@ -1468,9 +1468,9 @@
     }, 
     "impact-statement": "A detailed model of the T7 replisome with the precise positions of the helicase and polymerase at the replication fork explains how catalysis by the two enzymes is coordinated.", 
     "elocation-id": "e06562", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06562.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "bacteriophage", 
@@ -1486,7 +1486,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06562", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

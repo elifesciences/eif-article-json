@@ -80,7 +80,7 @@
         }, 
         {
             "surname": "Sternberg", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Paul W", 
             "references": {
                 "affiliation": [
@@ -116,7 +116,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-01", 
+    "pub-date": "2014-12-01T00:00:00Z", 
     "title": "LINKIN, a new transmembrane protein necessary for cell adhesion", 
     "citations": {
         "bib69": {
@@ -2358,9 +2358,9 @@
     }, 
     "impact-statement": "LINKIN and three of its interactors-RUVBL1, RUVBL2, and \u03b1-tubulin-are required for cells to migrate together during organogenesis.", 
     "elocation-id": "e04449", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04449.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "human cells", 
@@ -2374,7 +2374,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04449", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Pharmacy, University of California, San Francisco, San Francisco, United States"

@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8214"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8215"
         }, 
@@ -101,7 +101,7 @@
         }, 
         {
             "surname": "Manstein", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dietmar J", 
             "references": {
                 "affiliation": [
@@ -138,7 +138,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-02-11", 
+    "pub-date": "2014-02-11T00:00:00Z", 
     "title": "Small molecule-mediated refolding and activation of myosin motor function", 
     "citations": {
         "bib39": {
@@ -2085,9 +2085,9 @@
         }
     ], 
     "elocation-id": "e01603", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01603.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "myosin", 
@@ -2102,7 +2102,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01603", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

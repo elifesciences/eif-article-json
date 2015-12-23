@@ -48,7 +48,7 @@
         }, 
         {
             "surname": "Hobbs", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Helen H", 
             "references": {
                 "affiliation": [
@@ -76,7 +76,7 @@
         }, 
         {
             "surname": "Cohen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan C", 
             "references": {
                 "affiliation": [
@@ -113,7 +113,7 @@
             "id": "author-1205"
         }
     ], 
-    "pub-date": "2015-06-26", 
+    "pub-date": "2015-06-26T00:00:00Z", 
     "title": "Flux analysis of cholesterol biosynthesis in vivo reveals multiple tissue and cell-type specific pathways", 
     "citations": {
         "bib39": {
@@ -1276,9 +1276,9 @@
     }, 
     "impact-statement": "Cells use two interdigitated biosynthetic pathways that can be regulated independently to produce diverse bioactive sterols.", 
     "elocation-id": "e07999", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07999.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "mass spectrometry", 
@@ -1292,7 +1292,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07999", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

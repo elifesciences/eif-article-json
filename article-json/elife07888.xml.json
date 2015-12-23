@@ -29,7 +29,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32371"
         }, 
@@ -59,7 +59,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32372"
         }, 
@@ -86,7 +86,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-31766"
         }, 
@@ -113,7 +113,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32373"
         }, 
@@ -191,7 +191,7 @@
         }, 
         {
             "surname": "Maier", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Timm", 
             "references": {
                 "competing-interest": [
@@ -233,7 +233,7 @@
             "id": "author-1161"
         }
     ], 
-    "pub-date": "2015-07-18", 
+    "pub-date": "2015-07-18T00:00:00Z", 
     "title": "STIL binding to Polo-box 3 of PLK4 regulates centriole duplication", 
     "citations": {
         "bib48": {
@@ -3684,9 +3684,9 @@
     }, 
     "impact-statement": "Binding of STIL to PLK4's characteristic Polo-box 3 links PLK4 kinase activation to STIL self-association and is a crucial regulatory step for the localized recruitment of downstream factors in centriole duplication.", 
     "elocation-id": "e07888", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07888.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "centriole duplication", 
@@ -3699,7 +3699,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07888", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

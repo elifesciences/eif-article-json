@@ -76,7 +76,7 @@
         }, 
         {
             "surname": "Nelson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "W James", 
             "references": {
                 "affiliation": [
@@ -102,7 +102,7 @@
         }, 
         {
             "surname": "Nachury", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Maxence V", 
             "references": {
                 "affiliation": [
@@ -138,7 +138,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-08-06", 
+    "pub-date": "2013-08-06T00:00:00Z", 
     "title": "Single molecule imaging reveals a major role for diffusion in the exploration of ciliary space by signaling receptors", 
     "citations": {
         "bib9": {
@@ -1151,9 +1151,9 @@
     }, 
     "impact-statement": "Membrane receptor proteins move through primary cilia largely by passive diffusion rather than by active intraflagellar transport.", 
     "elocation-id": "e00654", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00654.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "cilia", 
@@ -1168,7 +1168,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00654", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

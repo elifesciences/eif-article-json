@@ -84,7 +84,7 @@
         }, 
         {
             "surname": "Bard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Frederic A", 
             "references": {
                 "affiliation": [
@@ -120,7 +120,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-11", 
+    "pub-date": "2014-03-11T00:00:00Z", 
     "title": "ERK8 is a negative regulator of O-GalNAc glycosylation and cell migration", 
     "citations": {
         "bib39": {
@@ -2464,9 +2464,9 @@
     }, 
     "impact-statement": "The ERK8 kinase blocks the export of glycosyl-tranferases from the Golgi to the endoplasmic reticulum, and thus subsequent O-glycosylation of proteins that otherwise enhance cell motility and tissue invasion.", 
     "elocation-id": "e01828", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01828.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "golgi", 
@@ -2482,7 +2482,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01828", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Novartis Institutes for BioMedical Research, Basel, Switzerland"

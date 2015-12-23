@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9511"
         }, 
@@ -48,7 +48,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9512"
         }, 
@@ -75,7 +75,7 @@
         }, 
         {
             "surname": "Bell", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stephen P", 
             "references": {
                 "competing-interest": [
@@ -104,7 +104,7 @@
         }, 
         {
             "surname": "Enemark", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eric J", 
             "references": {
                 "competing-interest": [
@@ -145,7 +145,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-01", 
+    "pub-date": "2014-04-01T00:00:00Z", 
     "title": "A conserved MCM single-stranded DNA binding element is essential for replication initiation", 
     "citations": {
         "bib39": {
@@ -2026,9 +2026,9 @@
         }
     ], 
     "elocation-id": "e01993", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01993.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "DNA replication", 
@@ -2043,7 +2043,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01993", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

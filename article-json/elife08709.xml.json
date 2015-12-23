@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-34131"
         }, 
@@ -56,7 +56,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-34132"
         }, 
@@ -212,7 +212,7 @@
         }, 
         {
             "surname": "Banfield", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "MJ", 
             "references": {
                 "competing-interest": [
@@ -256,7 +256,7 @@
             "id": "author-1152"
         }
     ], 
-    "pub-date": "2015-08-25", 
+    "pub-date": "2015-08-25T00:00:00Z", 
     "title": "Structural basis of pathogen recognition by an integrated HMA domain in a plant NLR immune receptor", 
     "citations": {
         "bib39": {
@@ -2874,9 +2874,9 @@
     }, 
     "impact-statement": "Structure/function studies of a plant pathogen effector in complex with a host disease resistance protein domain reveal the molecular basis for recognition and underpin future engineering of immunity in crops.", 
     "elocation-id": "e08709", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08709.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "rice", 
@@ -2890,7 +2890,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08709", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

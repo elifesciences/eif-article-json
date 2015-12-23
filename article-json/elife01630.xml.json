@@ -174,7 +174,7 @@
         }, 
         {
             "surname": "Lamond", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Angus I", 
             "references": {
                 "competing-interest": [
@@ -217,7 +217,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-04", 
+    "pub-date": "2014-03-04T00:00:00Z", 
     "title": "A proteomic chronology of gene expression through the cell cycle in human myeloid leukemia cells", 
     "citations": {
         "bib48": {
@@ -3833,9 +3833,9 @@
     }, 
     "impact-statement": "Quantitative analysis of protein and mRNA expression across a minimally perturbed cell cycle in human myeloid cells has identified myeloid-specific and cell cycle-regulated gene expression, including examples of isoform- and phosphorylation-specific regulation, with all data made available in a searchable, online database.", 
     "elocation-id": "e01630", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01630.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "proteomics", 
@@ -3849,7 +3849,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01630", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

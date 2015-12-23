@@ -26,7 +26,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10385"
         }, 
@@ -53,7 +53,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10386"
         }, 
@@ -197,7 +197,7 @@
         }, 
         {
             "surname": "Inz\u00e9", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dirk", 
             "references": {
                 "affiliation": [
@@ -235,7 +235,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-29", 
+    "pub-date": "2014-04-29T00:00:00Z", 
     "title": "Combining growth-promoting genes leads to positive epistasis in <italic>Arabidopsis thaliana</italic>", 
     "citations": {
         "bib39": {
@@ -3588,9 +3588,9 @@
     }, 
     "impact-statement": "Pairwise combinations of growth-promoting genes regulating distinct cellular mechanisms lead to synergistic effects on leaf growth, and hence greatly increased leaf size.", 
     "elocation-id": "e02252", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02252.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "leaf growth", 
@@ -3605,7 +3605,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02252", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

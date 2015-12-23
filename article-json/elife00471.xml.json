@@ -94,7 +94,7 @@
         }, 
         {
             "surname": "Doudna", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jennifer", 
             "references": {
                 "affiliation": [
@@ -132,7 +132,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-01-29", 
+    "pub-date": "2013-01-29T00:00:00Z", 
     "title": "RNA-programmed genome editing in human cells", 
     "citations": {
         "bib11": {
@@ -542,9 +542,9 @@
         }
     ], 
     "elocation-id": "e00471", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00471.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Cas9", 
@@ -556,7 +556,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00471", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff4": {

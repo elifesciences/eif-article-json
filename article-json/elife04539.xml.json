@@ -72,7 +72,7 @@
         }, 
         {
             "surname": "Whitby", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Matthew C", 
             "references": {
                 "affiliation": [
@@ -108,7 +108,7 @@
             "id": "author-7480"
         }
     ], 
-    "pub-date": "2015-03-25", 
+    "pub-date": "2015-03-25T00:00:00Z", 
     "title": "Recombination occurs within minutes of replication blockage by <italic>RTS1</italic> producing restarted forks that are prone to collapse", 
     "citations": {
         "bib39": {
@@ -1958,9 +1958,9 @@
     }, 
     "impact-statement": "Homologous recombination is the default response to replication impedance by the <italic>RTS1</italic> barrier, leading to restarted replication forks that suffer frequent collapse, triggering further rounds of recombination downstream of the barrier.", 
     "elocation-id": "e04539", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04539.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "homologous recombination", 
@@ -1973,7 +1973,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04539", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

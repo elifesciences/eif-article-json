@@ -25,7 +25,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16033"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16035"
         }, 
@@ -75,7 +75,7 @@
         }, 
         {
             "surname": "Andino", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Raul", 
             "references": {
                 "affiliation": [
@@ -112,7 +112,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-30", 
+    "pub-date": "2015-01-30T00:00:00Z", 
     "title": "Experimentally guided models reveal replication principles that shape the mutation distribution of RNA viruses", 
     "citations": {
         "bib39": {
@@ -1367,9 +1367,9 @@
     }, 
     "impact-statement": "A mathematical model that combines stochasticity and spatial structure describes the dynamics of the viral population during an infection cycle, and fitting the model to RNA and virus abundances over time shows that poliovirus follows a geometric replication mode.", 
     "elocation-id": "e03753", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03753.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "stochastic mathematical modeling", 
@@ -1382,7 +1382,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03753", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

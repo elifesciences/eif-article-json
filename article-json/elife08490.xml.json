@@ -70,7 +70,7 @@
         }, 
         {
             "surname": "Sullivan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Matthew B", 
             "references": {
                 "present-address": [
@@ -110,7 +110,7 @@
             "id": "author-1701"
         }
     ], 
-    "pub-date": "2015-07-22", 
+    "pub-date": "2015-07-22T00:00:00Z", 
     "title": "Viral dark matter and virus\u2013host interactions resolved from publicly available microbial genomes", 
     "citations": {
         "bib39": {
@@ -2823,9 +2823,9 @@
     }, 
     "impact-statement": "From public microbial genomes, VirSorter revealed 12,498 viral genome sequences that expand the map of the global virosphere and whose analyses improve understanding of viral taxonomy, evolution and virus-host interactions.", 
     "elocation-id": "e08490", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08490.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "virus", 
@@ -2838,7 +2838,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08490", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Microbiology, The Ohio State University, Columbus, United States", 

@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5006"
         }, 
@@ -56,7 +56,7 @@
                     "con4"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5007"
         }, 
@@ -84,7 +84,7 @@
                     "con5"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5008"
         }, 
@@ -111,7 +111,7 @@
                     "con6"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5009"
         }, 
@@ -140,7 +140,7 @@
                     "con7"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5010"
         }, 
@@ -299,7 +299,7 @@
         }, 
         {
             "surname": "Heinz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dirk W", 
             "references": {
                 "competing-interest": [
@@ -327,7 +327,7 @@
         }, 
         {
             "surname": "Dal Peraro", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Matteo", 
             "references": {
                 "competing-interest": [
@@ -357,7 +357,7 @@
         }, 
         {
             "surname": "Cornelis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Guy R", 
             "references": {
                 "competing-interest": [
@@ -386,7 +386,7 @@
         }, 
         {
             "surname": "Stahlberg", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Henning", 
             "references": {
                 "competing-interest": [
@@ -428,7 +428,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-30", 
+    "pub-date": "2013-07-30T00:00:00Z", 
     "title": "In situ structural analysis of the <italic>Yersinia enterocolitica</italic> injectisome", 
     "citations": {
         "bib39": {
@@ -2703,9 +2703,9 @@
     }, 
     "impact-statement": "The basal body of the type-III secretion system of <italic>Yersinia enterocolitica</italic> within bacterial membranes shows elasticity and is longer than related isolated systems.", 
     "elocation-id": "e00792", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00792.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "<italic>Yersinia enterocolitica</italic>", 
@@ -2720,7 +2720,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00792", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

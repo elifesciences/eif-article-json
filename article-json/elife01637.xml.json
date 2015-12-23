@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Marcette", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jana Dorfman", 
             "references": {
                 "affiliation": [
@@ -42,7 +42,7 @@
         }, 
         {
             "surname": "Nonet", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael L", 
             "references": {
                 "affiliation": [
@@ -77,7 +77,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-02-25", 
+    "pub-date": "2014-02-25T00:00:00Z", 
     "title": "The <italic>Caenorhabditis elegans</italic> microtubule minus-end binding homolog PTRN-1 stabilizes synapses and neurites", 
     "citations": {
         "bib39": {
@@ -2250,9 +2250,9 @@
         }
     ], 
     "elocation-id": "e01637", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01637.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "PTRN-1", 
@@ -2266,7 +2266,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01637", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

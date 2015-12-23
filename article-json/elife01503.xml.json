@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7683"
         }, 
@@ -52,7 +52,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7684"
         }, 
@@ -200,7 +200,7 @@
         }, 
         {
             "surname": "Peng", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Weiqun", 
             "references": {
                 "competing-interest": [
@@ -228,7 +228,7 @@
         }, 
         {
             "surname": "Ge", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Kai", 
             "references": {
                 "competing-interest": [
@@ -266,7 +266,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-24", 
+    "pub-date": "2013-12-24T00:00:00Z", 
     "title": "H3K4 mono- and di-methyltransferase MLL4 is required for enhancer activation during cell differentiation", 
     "citations": {
         "bib39": {
@@ -4963,9 +4963,9 @@
     }, 
     "impact-statement": "MLL4 (KMT2D) is a major mammalian H3K4 mono- and di-methyltransferase that is essential for enhancer activation, cell-type-specific gene expression, and cell differentiation.", 
     "elocation-id": "e01503", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01503.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "enhancer chromatin modification", 
@@ -4984,7 +4984,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01503", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

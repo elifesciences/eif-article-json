@@ -199,7 +199,7 @@
         }, 
         {
             "surname": "Zhang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Xiuren", 
             "references": {
                 "competing-interest": [
@@ -242,7 +242,7 @@
             "id": "author-1030"
         }
     ], 
-    "pub-date": "2015-09-07", 
+    "pub-date": "2015-09-07T00:00:00Z", 
     "title": "Geminivirus-encoded TrAP suppressor inhibits the histone methyltransferase SUVH4/KYP to counter host defense", 
     "citations": {
         "bib39": {
@@ -2740,9 +2740,9 @@
     }, 
     "impact-statement": "A viral protein hijacks the key effector of transcriptional gene silencing, Su(var)3-9, to evade host plant surveillance.", 
     "elocation-id": "e06671", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06671.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "epigenetic silencing", 
@@ -2758,7 +2758,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06671", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

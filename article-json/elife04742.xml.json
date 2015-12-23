@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Deeks", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steven G", 
             "references": {
                 "affiliation": [
@@ -33,7 +33,7 @@
             "id": "author-16103"
         }
     ], 
-    "pub-date": "2014-10-16", 
+    "pub-date": "2014-10-16T00:00:00Z", 
     "title": "Biomarker reveals HIV's hidden reservoir", 
     "citations": {
         "bib11": {
@@ -1176,9 +1176,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04742.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "HIV-1", 
@@ -1192,7 +1192,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04742", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

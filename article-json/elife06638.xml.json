@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-28467"
         }, 
@@ -58,7 +58,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-28468"
         }, 
@@ -289,7 +289,7 @@
         }, 
         {
             "surname": "Banfield", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Mark J", 
             "references": {
                 "competing-interest": [
@@ -321,7 +321,7 @@
         }, 
         {
             "surname": "Schwarz-Linek", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ulrich", 
             "references": {
                 "competing-interest": [
@@ -363,7 +363,7 @@
             "id": "author-1181"
         }
     ], 
-    "pub-date": "2015-06-02", 
+    "pub-date": "2015-06-02T00:00:00Z", 
     "title": "An internal thioester in a pathogen surface protein mediates covalent host binding", 
     "citations": {
         "bib39": {
@@ -2527,9 +2527,9 @@
     }, 
     "impact-statement": "Bacterial-encoded covalent adhesion is a new molecular principle in host-microbe interactions and may play a key role in host colonization by a wide range of Gram-positive bacteria.", 
     "elocation-id": "e06638", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06638.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "<italic>Streptococcus pyogenes</italic>", 
@@ -2544,7 +2544,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06638", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Diagnostics and Biomedicine, Faculty of Health Sciences, Universiti Sultan Zainal Abidin, Kuala Terengganu, Malaysia", 

@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Javitch", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan A", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-4792"
         }
     ], 
-    "pub-date": "2013-07-02", 
+    "pub-date": "2013-07-02T00:00:00Z", 
     "title": "Getting to grips with ammonium", 
     "citations": {
         "bib11": {
@@ -366,9 +366,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01029.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "transport", 
@@ -383,7 +383,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01029", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

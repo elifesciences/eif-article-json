@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Kuiper", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael J", 
             "references": {
                 "affiliation": [
@@ -99,7 +99,7 @@
             "id": "author-17066"
         }
     ], 
-    "pub-date": "2015-05-07", 
+    "pub-date": "2015-05-07T00:00:00Z", 
     "title": "The biological function of an insect antifreeze protein simulated by molecular dynamics", 
     "citations": {
         "bib39": {
@@ -1724,9 +1724,9 @@
     }, 
     "impact-statement": "Simulations of the biological function of an antifreeze protein reveal its molecular interactions with the ice/water interface.", 
     "elocation-id": "e05142", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05142.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "antifreeze proteins", 
@@ -1740,7 +1740,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05142", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

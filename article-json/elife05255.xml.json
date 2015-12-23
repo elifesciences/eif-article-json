@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Dubin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Manu J", 
             "references": {
                 "competing-interest": [
@@ -31,7 +31,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20828"
         }, 
@@ -56,7 +56,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20829"
         }, 
@@ -81,7 +81,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20830"
         }, 
@@ -105,7 +105,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20831"
         }, 
@@ -384,7 +384,7 @@
         }, 
         {
             "surname": "Nordborg", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Magnus", 
             "references": {
                 "competing-interest": [
@@ -431,7 +431,7 @@
             "id": "author-1074"
         }
     ], 
-    "pub-date": "2015-05-05", 
+    "pub-date": "2015-05-05T00:00:00Z", 
     "title": "DNA methylation in <italic>Arabidopsis</italic> has a genetic basis and shows evidence of local adaptation", 
     "citations": {
         "bib39": {
@@ -2542,9 +2542,9 @@
     }, 
     "impact-statement": "The adaptation of <italic>Arabidopsis</italic> plants to the local environment is linked to DNA methylation.", 
     "elocation-id": "e05255", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05255.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "epigenetics", 
@@ -2557,7 +2557,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05255", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

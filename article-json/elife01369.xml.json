@@ -110,7 +110,7 @@
         }, 
         {
             "surname": "Ye", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yihong", 
             "references": {
                 "affiliation": [
@@ -145,7 +145,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-01-14", 
+    "pub-date": "2014-01-14T00:00:00Z", 
     "title": "USP13 antagonizes gp78 to maintain functionality of a chaperone in ER-associated degradation", 
     "citations": {
         "bib39": {
@@ -1907,9 +1907,9 @@
     }, 
     "impact-statement": "A deubiquitinase antagonizes the activity of an associated E3 ligase to prevent uncontrolled ubiquitination of a degradation machinery protein and thus maintain its functionality in protein quality control at the endoplasmic reticulum.", 
     "elocation-id": "e01369", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01369.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "ubiquitin", 
@@ -1924,7 +1924,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01369", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Gresham", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "dept": "Center for Genomics and Systems Biology, Department of Biology", 
@@ -27,7 +27,7 @@
             "id": "author-3100"
         }
     ], 
-    "pub-date": "2013-04-02", 
+    "pub-date": "2013-04-02T00:00:00Z", 
     "title": "A sticky solution", 
     "citations": {
         "bib8": {
@@ -277,9 +277,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00655.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Multicellularity", 
@@ -291,7 +291,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00655", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

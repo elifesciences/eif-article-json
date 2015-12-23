@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Engel", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Benjamin D", 
             "references": {
                 "competing-interest": [
@@ -27,7 +27,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-0941-4387", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19270"
         }, 
@@ -48,7 +48,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19419"
         }, 
@@ -114,7 +114,7 @@
         }, 
         {
             "surname": "Baumeister", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Wolfgang", 
             "references": {
                 "affiliation": [
@@ -152,7 +152,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-13", 
+    "pub-date": "2015-01-13T00:00:00Z", 
     "title": "Native architecture of the <italic>Chlamydomonas</italic> chloroplast revealed by in situ cryo-electron tomography", 
     "citations": {
         "bib124": {
@@ -3904,9 +3904,9 @@
     }, 
     "impact-statement": "The first 3D views of the native algal chloroplast provide new insights into thylakoid biogenesis, photosynthesis, and carbon fixation.", 
     "elocation-id": "e04889", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04889.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "<italic>Chlamydomonas</italic>", 
@@ -3921,7 +3921,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04889", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Chemistry and Biochemistry, University of California, San Diego, La Jolla, United States", 

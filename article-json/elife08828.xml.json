@@ -23,7 +23,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-9802-1955", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-34245"
         }, 
@@ -44,7 +44,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-34514"
         }, 
@@ -150,7 +150,7 @@
         }, 
         {
             "surname": "Lippincott-Schwartz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jennifer", 
             "references": {
                 "affiliation": [
@@ -186,7 +186,7 @@
             "id": "author-19580"
         }
     ], 
-    "pub-date": "2015-08-25", 
+    "pub-date": "2015-08-25T00:00:00Z", 
     "title": "A mitochondria-anchored isoform of the actin-nucleating spire protein regulates mitochondrial division", 
     "citations": {
         "bib39": {
@@ -2274,9 +2274,9 @@
     }, 
     "impact-statement": "An actin nucleating protein, Spire1C, localizes to the mitochondrial outer membrane and interacts with the endoplasmic reticulum-anchored formin protein INF2 to drive mitochondrial fission.", 
     "elocation-id": "e08828", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08828.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "actin", 
@@ -2292,7 +2292,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08828", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

@@ -68,7 +68,7 @@
         }, 
         {
             "surname": "Dean", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Caroline", 
             "references": {
                 "affiliation": [
@@ -93,7 +93,7 @@
         }, 
         {
             "surname": "Howard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Martin", 
             "references": {
                 "affiliation": [
@@ -130,7 +130,7 @@
             "id": "author-3046"
         }
     ], 
-    "pub-date": "2015-05-08", 
+    "pub-date": "2015-05-08T00:00:00Z", 
     "title": "Local chromatin environment of a Polycomb target gene instructs its own epigenetic inheritance", 
     "citations": {
         "bib39": {
@@ -1836,9 +1836,9 @@
     }, 
     "impact-statement": "Two copies of a Polycomb target gene in the same cell can be maintained in independently heritable expression states, demonstrating that long-term memory of gene expression is stored locally.", 
     "elocation-id": "e07205", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07205.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "epigenetics", 
@@ -1852,7 +1852,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07205", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

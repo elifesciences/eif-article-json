@@ -21,7 +21,7 @@
         }, 
         {
             "surname": "Emerson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Beverly M", 
             "references": {
                 "affiliation": [
@@ -58,7 +58,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-29", 
+    "pub-date": "2014-04-29T00:00:00Z", 
     "title": "p50-associated COX-2 extragenic RNA (PACER) activates <italic>COX-2</italic> gene expression by occluding repressive NF-\u03baB complexes", 
     "citations": {
         "bib39": {
@@ -3684,9 +3684,9 @@
     }, 
     "impact-statement": "A long non-coding RNA removes the transcriptional repressor p50 to regulate recruitment of co-activator p300 and RNA Polymerase II complexes to activate the COX-2 gene in human mammary epithelial cells and macrophages.", 
     "elocation-id": "e01776", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01776.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "long non-coding RNA", 
@@ -3701,7 +3701,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01776", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

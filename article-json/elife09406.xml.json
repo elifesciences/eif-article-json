@@ -430,7 +430,7 @@
         }, 
         {
             "surname": "Deo", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Rahul C", 
             "references": {
                 "affiliation": [
@@ -468,7 +468,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-16", 
+    "pub-date": "2015-10-16T00:00:00Z", 
     "title": "An internal promoter underlies the difference in disease severity between N- and C-terminal truncation mutations of Titin in zebrafish", 
     "citations": {
         "bib39": {
@@ -3100,9 +3100,9 @@
     }, 
     "impact-statement": "The newly discovered Titin internal promoter may explain why the severity of dilated cardiomyopathy in patients with truncating mutations in Titin varies dramatically depending on position of the mutation.", 
     "elocation-id": "e09406", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09406.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "genetics", 
@@ -3116,7 +3116,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09406", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -72,7 +72,7 @@
         }, 
         {
             "surname": "Gao", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ning", 
             "references": {
                 "affiliation": [
@@ -97,7 +97,7 @@
         }, 
         {
             "surname": "Sui", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sen-Fang", 
             "references": {
                 "affiliation": [
@@ -133,7 +133,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-12-15", 
+    "pub-date": "2015-12-15T00:00:00Z", 
     "title": "Mechanisms of ribosome stalling by SecM at multiple elongation steps", 
     "citations": {
         "bib48": {
@@ -3193,9 +3193,9 @@
     }, 
     "impact-statement": "Nascent regulatory peptides tune the translation rate through a continuous, dynamic reshaping of the functional center of the ribosome.", 
     "elocation-id": "e09684", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09684.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "electron microscopy", 
@@ -3207,7 +3207,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09684", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist"

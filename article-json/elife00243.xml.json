@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Ron", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "role": "Reviewing Editor", 
             "references": {
@@ -33,7 +33,7 @@
             "id": "author-1174"
         }
     ], 
-    "pub-date": "2012-10-15", 
+    "pub-date": "2012-10-15T00:00:00Z", 
     "title": "New twists in the unfolded protein response", 
     "citations": {
         "bib10": {
@@ -364,9 +364,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00243.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "Unfolded Protein Response", 
@@ -377,7 +377,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00243", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7446"
         }, 
@@ -53,7 +53,7 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7447"
         }, 
@@ -333,7 +333,7 @@
         }, 
         {
             "surname": "Keurentjes", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joost JB", 
             "references": {
                 "affiliation": [
@@ -357,7 +357,7 @@
         }, 
         {
             "surname": "Schneeberger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Korbinian", 
             "references": {
                 "competing-interest": [
@@ -395,7 +395,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-17", 
+    "pub-date": "2013-12-17T00:00:00Z", 
     "title": "The genomic landscape of meiotic crossovers and gene conversions in <italic>Arabidopsis thaliana</italic>", 
     "citations": {
         "bib39": {
@@ -3234,9 +3234,9 @@
     }, 
     "impact-statement": "A comprehensive and genome-wide description of the genomic make-up and frequency of meiotic recombination in <italic>Arabidopsis thaliana</italic> reveals regional preferences, including nucleosome-free regions, and two associated recombination motifs.", 
     "elocation-id": "e01426", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01426.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "meiotic recombination", 
@@ -3250,7 +3250,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01426", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

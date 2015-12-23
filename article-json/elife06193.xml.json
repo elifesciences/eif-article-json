@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Fellay", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jacques", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-4798"
         }
     ], 
-    "pub-date": "2015-02-03", 
+    "pub-date": "2015-02-03T00:00:00Z", 
     "title": "Adaptation on a genomic scale", 
     "citations": {
         "bib10": {
@@ -663,9 +663,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06193.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Candida albicans", 
@@ -679,7 +679,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06193", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

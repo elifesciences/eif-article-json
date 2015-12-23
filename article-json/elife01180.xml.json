@@ -60,7 +60,7 @@
         }, 
         {
             "surname": "Jin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yishi", 
             "references": {
                 "affiliation": [
@@ -97,7 +97,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-11-12", 
+    "pub-date": "2013-11-12T00:00:00Z", 
     "title": "Position of UNC-13 in the active zone regulates synaptic vesicle release probability and release kinetics", 
     "citations": {
         "bib39": {
@@ -2384,9 +2384,9 @@
     }, 
     "impact-statement": "The precise position of UNC-13 at the active zone near a synapse depends on the N-terminus of the protein, and the C<sub>2</sub>A domain in particular, and is essential for accelerating neurotransmitter release.", 
     "elocation-id": "e01180", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01180.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "UNC-13", 
@@ -2402,7 +2402,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01180", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biological Structure, University of Washington, Seattle, United States"

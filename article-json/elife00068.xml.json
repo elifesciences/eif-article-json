@@ -106,7 +106,7 @@
         }, 
         {
             "surname": "Green", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael R", 
             "references": {
                 "competing-interest": [
@@ -147,7 +147,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-11-13", 
+    "pub-date": "2012-11-13T00:00:00Z", 
     "title": "Non-canonical TAF complexes regulate active promoters in human embryonic stem cells", 
     "citations": {
         "bib39": {
@@ -1489,9 +1489,9 @@
     }, 
     "impact-statement": "The transcription machinery used to regulate gene expression and self-renewal in human embryonic stem cells is different from that found in other cells.", 
     "elocation-id": "e00068", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00068.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "transcription factors", 
@@ -1507,7 +1507,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00068", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors have declared that no competing interests exists"

@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-28002"
         }, 
@@ -53,7 +53,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-28003"
         }, 
@@ -189,7 +189,7 @@
         }, 
         {
             "surname": "Sundquist", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Wesley I", 
             "references": {
                 "competing-interest": [
@@ -220,7 +220,7 @@
         }, 
         {
             "surname": "Martin-Serrano", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Juan", 
             "references": {
                 "competing-interest": [
@@ -260,7 +260,7 @@
             "id": "author-1040"
         }
     ], 
-    "pub-date": "2015-05-26", 
+    "pub-date": "2015-05-26T00:00:00Z", 
     "title": "ULK3 regulates cytokinetic abscission by phosphorylating ESCRT-III proteins", 
     "citations": {
         "bib39": {
@@ -3414,9 +3414,9 @@
     }, 
     "impact-statement": "ULK3 is a kinase in the abscission checkpoint that temporarily inactivates ESCRT-III proteins via phosphorylation, which is required to delay cytokinesis in response to defects in mitosis.", 
     "elocation-id": "e06547", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06547.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "cytokinesis", 
@@ -3430,7 +3430,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06547", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Division of Cancer Studies, King's College London School of Medicine, London, United Kingdom"

@@ -105,7 +105,7 @@
             }
         }, 
         {
-            "corresp": "yes", 
+            "corresp": true, 
             "type": "author", 
             "group-author-key": "group-author-id1", 
             "references": {
@@ -212,7 +212,7 @@
             ]
         }
     ], 
-    "pub-date": "2015-09-01", 
+    "pub-date": "2015-09-01T00:00:00Z", 
     "title": "Registered report: Inhibition of BET recruitment to chromatin as an effective treatment for MLL-fusion leukemia", 
     "citations": {
         "bib9": {
@@ -2146,9 +2146,9 @@
         }
     }, 
     "article-id": "08997", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08997.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Reproducibility Project: Cancer Biology", 
@@ -2162,7 +2162,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08997", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff4": {

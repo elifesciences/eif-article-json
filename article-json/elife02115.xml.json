@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Missbach", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christine", 
             "references": {
                 "affiliation": [
@@ -129,13 +129,13 @@
                     "con6"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1769"
         }, 
         {
             "surname": "Grosse-Wilde", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ewald", 
             "references": {
                 "competing-interest": [
@@ -157,7 +157,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9847"
         }, 
@@ -174,7 +174,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-26", 
+    "pub-date": "2014-03-26T00:00:00Z", 
     "title": "Evolution of insect olfactory receptors", 
     "citations": {
         "bib39": {
@@ -2362,9 +2362,9 @@
     }, 
     "impact-statement": "Insect specific olfactory receptors are not an adaptation to a terrestrial insect lifestyle, but evolved later in insect evolution.", 
     "elocation-id": "e02115", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02115.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "insect olfactory receptors", 
@@ -2379,7 +2379,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02115", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

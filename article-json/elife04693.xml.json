@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Sunkara", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Adhira", 
             "references": {
                 "affiliation": [
@@ -45,13 +45,13 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11799"
         }, 
         {
             "surname": "Angelaki", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dora E", 
             "references": {
                 "competing-interest": [
@@ -73,7 +73,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-18789"
         }, 
@@ -90,7 +90,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-18", 
+    "pub-date": "2015-02-18T00:00:00Z", 
     "title": "Role of visual and non-visual cues in constructing a rotation-invariant representation of heading in parietal cortex", 
     "citations": {
         "bib39": {
@@ -1342,9 +1342,9 @@
     }, 
     "impact-statement": "Visual information (optic flow) can be used to discount self-generated rotations and aid in the accurate representation of heading.", 
     "elocation-id": "e04693", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04693.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "rhesus macaque", 
@@ -1359,7 +1359,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04693", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -21,7 +21,7 @@
             }, 
             "type": "author", 
             "id": "author-18144", 
-            "deceased": "yes"
+            "deceased": true
         }, 
         {
             "type": "author", 
@@ -59,7 +59,7 @@
         }, 
         {
             "surname": "Truman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "James W", 
             "references": {
                 "affiliation": [
@@ -95,7 +95,7 @@
             "id": "author-1097"
         }
     ], 
-    "pub-date": "2015-07-20", 
+    "pub-date": "2015-07-20T00:00:00Z", 
     "title": "Neuron hemilineages provide the functional ground plan for the <italic>Drosophila</italic> ventral nervous system", 
     "citations": {
         "bib69": {
@@ -3339,9 +3339,9 @@
     }, 
     "impact-statement": "Hemilineages link neuronal stem cells to behavioral functions by providing a conserved ground plan of neuronal types that evolution then uses to sculpt different types of walking and flight behaviors.", 
     "elocation-id": "e04493", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04493.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "neuroblasts", 
@@ -3355,7 +3355,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04493", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

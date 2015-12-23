@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Fluman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nir", 
             "references": {
                 "affiliation": [
@@ -66,7 +66,7 @@
         }, 
         {
             "surname": "Pilpel", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yitzhak", 
             "references": {
                 "affiliation": [
@@ -101,7 +101,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-18", 
+    "pub-date": "2014-08-18T00:00:00Z", 
     "title": "mRNA-programmed translation pauses in the targeting of <italic>E. coli</italic> membrane proteins", 
     "citations": {
         "bib39": {
@@ -1685,9 +1685,9 @@
     }, 
     "impact-statement": "Translation pauses occur in strategic positions to facilitate the production of properly folded membrane proteins in bacteria.", 
     "elocation-id": "e03440", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03440.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "membrane proteins", 
@@ -1700,7 +1700,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03440", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

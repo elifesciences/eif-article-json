@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30111"
         }, 
@@ -41,13 +41,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30112"
         }, 
         {
             "surname": "Duguid", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ian", 
             "references": {
                 "affiliation": [
@@ -72,7 +72,7 @@
         }, 
         {
             "surname": "H\u00e4usser", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael", 
             "references": {
                 "affiliation": [
@@ -109,7 +109,7 @@
             "id": "author-8100"
         }
     ], 
-    "pub-date": "2015-06-17", 
+    "pub-date": "2015-06-17T00:00:00Z", 
     "title": "Synaptic representation of locomotion in single cerebellar granule cells", 
     "citations": {
         "bib39": {
@@ -1267,9 +1267,9 @@
     }, 
     "impact-statement": "The first patch-clamp recordings from single cerebellar granule cells during locomotion reveal that the entire step sequence can be predicted from both excitatory synaptic input and output spikes from a single neuron.", 
     "elocation-id": "e07290", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07290.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "patch clamp", 
@@ -1283,7 +1283,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07290", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

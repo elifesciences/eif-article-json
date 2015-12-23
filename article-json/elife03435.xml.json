@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Srinivasan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ramanujam", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             }
         }
     ], 
-    "pub-date": "2014-06-24", 
+    "pub-date": "2014-06-24T00:00:00Z", 
     "title": "Bacteria spring a surprise", 
     "citations": {
         "bib11": {
@@ -397,9 +397,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03435.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Caulobacter crescentus", 
@@ -413,7 +413,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03435", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

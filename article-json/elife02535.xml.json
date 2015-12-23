@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Schumer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Molly", 
             "references": {
                 "competing-interest": [
@@ -155,7 +155,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-04", 
+    "pub-date": "2014-06-04T00:00:00Z", 
     "title": "High-resolution mapping reveals hundreds of genetic incompatibilities in hybridizing fish species", 
     "citations": {
         "bib48": {
@@ -2796,9 +2796,9 @@
     }, 
     "impact-statement": "Genetic incompatibilities are common and widely distributed throughout the genomes of swordtail fish, and prevent the regions of the genome around them from being exchanged between different species.", 
     "elocation-id": "e02535", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02535.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "hybridization", 
@@ -2811,7 +2811,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02535", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -169,7 +169,7 @@
         }, 
         {
             "surname": "Frank", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joachim", 
             "references": {
                 "affiliation": [
@@ -206,7 +206,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-06-04", 
+    "pub-date": "2013-06-04T00:00:00Z", 
     "title": "Cryo-EM visualization of the ribosome in termination complex with apo-RF3 and RF1", 
     "citations": {
         "bib39": {
@@ -1828,9 +1828,9 @@
     }, 
     "impact-statement": "Cryo-electron microscopy has been used to provide a structural interpretation of the complete action cycle of release factor 3 during translation termination, which includes a coordinated sequence of interactions with a class-I release factor and the ribosome.", 
     "elocation-id": "e00411", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00411.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Ribosome", 
@@ -1845,7 +1845,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00411", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

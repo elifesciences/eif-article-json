@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16530"
         }, 
@@ -50,7 +50,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16531"
         }, 
@@ -175,7 +175,7 @@
         }, 
         {
             "surname": "Tang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Chao", 
             "references": {
                 "affiliation": [
@@ -215,7 +215,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-15", 
+    "pub-date": "2015-01-15T00:00:00Z", 
     "title": "Reliable cell cycle commitment in budding yeast is ensured by signal integration", 
     "citations": {
         "bib39": {
@@ -2104,9 +2104,9 @@
     }, 
     "impact-statement": "The decision to commit to cell division-the Start transition-in budding yeast is governed by time integration of G1 cyclin-CDK activity by the transcription factor Whi5.", 
     "elocation-id": "e03977", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03977.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "cell cycle", 
@@ -2120,7 +2120,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03977", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Systems Biology, Harvard University, Boston, United States"

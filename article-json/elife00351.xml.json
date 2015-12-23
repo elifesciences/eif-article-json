@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Smith", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "email": "richardswsmith@yahoo.co.uk"
@@ -21,7 +21,7 @@
             "id": "author-2919"
         }
     ], 
-    "pub-date": "2012-12-13", 
+    "pub-date": "2012-12-13T00:00:00Z", 
     "title": "Bad medicine", 
     "citations": {
         "bib1": {
@@ -154,9 +154,9 @@
         }
     }, 
     "article-id": "00351", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00351.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "ben goldacre", 
@@ -166,7 +166,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00351", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The author reviewed Goldacre's first book for the BMJ, and is mentioned briefly in Bad Pharma. Over the years he has had some meals paid for by drug companies and spoken at meetings sponsored by drug companies (as has Goldacre), which is hard to avoid if you speak at all as a doctor. 30 years ago he won an award from the Medical Journalists' Association that was sponsored by Eli Lilly, and discovered that the company thought it had bought him. Since then he has avoided prizes awarded by drug companies."

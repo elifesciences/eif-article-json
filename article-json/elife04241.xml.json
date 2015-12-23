@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17159"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17445"
         }, 
@@ -120,7 +120,7 @@
         }, 
         {
             "surname": "de Bono", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Mario", 
             "references": {
                 "affiliation": [
@@ -156,7 +156,7 @@
             "id": "author-1071"
         }
     ], 
-    "pub-date": "2015-03-11", 
+    "pub-date": "2015-03-11T00:00:00Z", 
     "title": "Decoding a neural circuit controlling global animal state in <italic>C. elegans</italic>", 
     "citations": {
         "bib48": {
@@ -3063,9 +3063,9 @@
     }, 
     "impact-statement": "Sensory neurons that monitor ambient oxygen control a cascade of responses across multiple layers of interneurons to switch the global state of the nematode <italic>C. elegans</italic>, reprogramming behavior and gene expression to enable escape from or adaptation to surface exposure.", 
     "elocation-id": "e04241", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04241.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "neural circuit", 
@@ -3079,7 +3079,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04241", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

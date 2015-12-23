@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30803"
         }, 
@@ -51,7 +51,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30865"
         }, 
@@ -123,7 +123,7 @@
         }, 
         {
             "surname": "Klein", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Franz", 
             "references": {
                 "competing-interest": [
@@ -153,7 +153,7 @@
         }, 
         {
             "surname": "Hochwagen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andreas", 
             "references": {
                 "competing-interest": [
@@ -194,7 +194,7 @@
             "id": "author-1110"
         }
     ], 
-    "pub-date": "2015-08-10", 
+    "pub-date": "2015-08-10T00:00:00Z", 
     "title": "Transcription dynamically patterns the meiotic chromosome-axis interface", 
     "citations": {
         "bib39": {
@@ -2395,9 +2395,9 @@
     }, 
     "impact-statement": "Distributed cohesin rings flexibly tether the axial element structure of meiotic chromosomes to the underlying chromatin to readily accommodate ongoing transcription.", 
     "elocation-id": "e07424", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07424.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "meiosis", 
@@ -2412,7 +2412,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07424", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Sackler Institute of Graduate Biomedical Sciences, School of Medicine, New York University, New York, United States"

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Neher", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Richard A", 
             "references": {
                 "affiliation": [
@@ -49,7 +49,7 @@
         }, 
         {
             "surname": "Shraiman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Boris I", 
             "references": {
                 "affiliation": [
@@ -84,7 +84,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-11", 
+    "pub-date": "2014-11-11T00:00:00Z", 
     "title": "Predicting evolution from the shape of genealogical trees", 
     "citations": {
         "bib9": {
@@ -1239,9 +1239,9 @@
     }, 
     "impact-statement": "A general method for inferring fitness from a sample of nucleotide sequences can predict the progenitor of next year's seasonal influenza.", 
     "elocation-id": "e03568", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03568.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "vaccine strain selection", 
@@ -1253,7 +1253,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03568", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

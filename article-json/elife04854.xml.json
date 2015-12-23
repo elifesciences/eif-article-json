@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Cazettes", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Fanny", 
             "references": {
                 "affiliation": [
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19369"
         }, 
@@ -64,7 +64,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7081"
         }, 
@@ -81,7 +81,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-22", 
+    "pub-date": "2014-12-22T00:00:00Z", 
     "title": "Spatial cue reliability drives frequency tuning in the barn Owl's midbrain", 
     "citations": {
         "bib15a": {
@@ -1205,9 +1205,9 @@
     }, 
     "impact-statement": "Space-specific neurons in the owl's auditory midbrain are selective for the frequencies that yield the most reliable sound localization cues.", 
     "elocation-id": "e04854", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04854.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "barn owl", 
@@ -1220,7 +1220,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04854", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

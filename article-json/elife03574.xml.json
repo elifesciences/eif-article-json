@@ -98,7 +98,7 @@
         }, 
         {
             "surname": "Brown", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eric D", 
             "references": {
                 "competing-interest": [
@@ -137,7 +137,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-18", 
+    "pub-date": "2014-09-18T00:00:00Z", 
     "title": "Discovery of a small molecule that inhibits bacterial ribosome biogenesis", 
     "citations": {
         "bib39": {
@@ -1843,9 +1843,9 @@
     }, 
     "impact-statement": "The anticonvulsant drug lamotrigine inhibits bacterial ribosome biogenesis and reveals an unexplored role for initiation factor 2 (IF2) in ribosome assembly.", 
     "elocation-id": "e03574", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03574.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cold sensitivity", 
@@ -1858,7 +1858,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03574", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

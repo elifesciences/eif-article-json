@@ -135,7 +135,7 @@
         }, 
         {
             "surname": "G\u00f6nczy", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Pierre", 
             "references": {
                 "affiliation": [
@@ -160,7 +160,7 @@
         }, 
         {
             "surname": "Vakonakis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ioannis", 
             "references": {
                 "competing-interest": [
@@ -201,7 +201,7 @@
             "id": "author-1110"
         }
     ], 
-    "pub-date": "2015-05-29", 
+    "pub-date": "2015-05-29T00:00:00Z", 
     "title": "The <italic>Caenorhabditis elegans</italic> protein SAS-5 forms large oligomeric assemblies critical for centriole formation", 
     "citations": {
         "bib39": {
@@ -2735,9 +2735,9 @@
         }
     ], 
     "elocation-id": "e07410", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07410.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "centrioles", 
@@ -2749,7 +2749,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07410", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6988"
         }, 
@@ -52,7 +52,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7016"
         }, 
@@ -79,13 +79,13 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5829"
         }, 
         {
             "surname": "Gonen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tamir", 
             "references": {
                 "competing-interest": [
@@ -123,7 +123,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-11-19", 
+    "pub-date": "2013-11-19T00:00:00Z", 
     "title": "Three-dimensional electron crystallography of protein microcrystals", 
     "citations": {
         "bib39": {
@@ -1364,9 +1364,9 @@
         }
     ], 
     "elocation-id": "e01345", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01345.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "electron crystallography", 
@@ -1381,7 +1381,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01345", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

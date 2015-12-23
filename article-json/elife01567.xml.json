@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8167"
         }, 
@@ -52,7 +52,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8168"
         }, 
@@ -80,7 +80,7 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8169"
         }, 
@@ -109,7 +109,7 @@
         }, 
         {
             "surname": "Hardtke", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christian S", 
             "references": {
                 "competing-interest": [
@@ -148,7 +148,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-02-11", 
+    "pub-date": "2014-02-11T00:00:00Z", 
     "title": "Automated quantitative histology reveals vascular morphodynamics during Arabidopsis hypocotyl secondary growth", 
     "citations": {
         "bib9": {
@@ -963,9 +963,9 @@
     }, 
     "impact-statement": "Combining high-resolution imaging with automated image segmentation and supervised machine learning achieves accurate cellular feature extraction and automated cell type recognition in a large-scale developmental process.", 
     "elocation-id": "e01567", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01567.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "secondary growth", 
@@ -980,7 +980,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01567", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

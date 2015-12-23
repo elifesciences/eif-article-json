@@ -21,7 +21,7 @@
         }, 
         {
             "surname": "Smith", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "William C", 
             "references": {
                 "affiliation": [
@@ -44,7 +44,7 @@
             "id": "author-21601"
         }
     ], 
-    "pub-date": "2015-03-25", 
+    "pub-date": "2015-03-25T00:00:00Z", 
     "title": "An organismal perspective on <italic>C. intestinalis</italic> development, origins and diversification", 
     "citations": {
         "bib39": {
@@ -1820,9 +1820,9 @@
         }
     ], 
     "elocation-id": "e06024", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06024.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "the natural history of model organisms", 
@@ -1835,7 +1835,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06024", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

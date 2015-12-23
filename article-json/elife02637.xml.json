@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11689"
         }, 
@@ -52,7 +52,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11920"
         }, 
@@ -134,7 +134,7 @@
         }, 
         {
             "surname": "Reinberg", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Danny", 
             "references": {
                 "competing-interest": [
@@ -173,7 +173,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-01", 
+    "pub-date": "2014-07-01T00:00:00Z", 
     "title": "Interactions with RNA direct the Polycomb group protein SCML2 to chromatin where it represses target genes", 
     "citations": {
         "bib39": {
@@ -3265,9 +3265,9 @@
     }, 
     "impact-statement": "The Polycomb group protein SCML2 contributes to the assembly and gene silencing function of Polycomb Repressive Complex 1 (PRC1) and requires an RNA-binding region to reach chromatin targets.", 
     "elocation-id": "e02637", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02637.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Polycomb", 
@@ -3282,7 +3282,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02637", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Cell and Developmental Biology, Perelman School of Medicine, University of Pennsylvania, Philadelphia, United States", 

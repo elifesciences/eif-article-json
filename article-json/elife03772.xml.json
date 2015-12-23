@@ -203,7 +203,7 @@
         }, 
         {
             "surname": "Leahy", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Daniel J", 
             "references": {
                 "affiliation": [
@@ -240,7 +240,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-25", 
+    "pub-date": "2014-09-25T00:00:00Z", 
     "title": "How IGF-1 activates its receptor", 
     "citations": {
         "bib48": {
@@ -3770,9 +3770,9 @@
     }, 
     "impact-statement": "Ligand binding to the ectodomain of the insulin-like growth factor receptor destabilises an autoinhibitory inter-subunit interaction, which allows the transmembrane domains to associate and the intracellular regions to autophosphorylate.", 
     "elocation-id": "e03772", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03772.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "IGF1 receptor", 
@@ -3785,7 +3785,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03772", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

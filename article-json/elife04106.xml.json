@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16213"
         }, 
@@ -57,7 +57,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16612"
         }, 
@@ -89,7 +89,7 @@
         }, 
         {
             "surname": "DeRisi", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joseph L", 
             "references": {
                 "competing-interest": [
@@ -130,7 +130,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-10", 
+    "pub-date": "2014-12-10T00:00:00Z", 
     "title": "Genome-wide regulatory dynamics of translation in the <italic>Plasmodium falciparum</italic> asexual blood stages", 
     "citations": {
         "bib39": {
@@ -2396,9 +2396,9 @@
     }, 
     "impact-statement": "Ribosome profiling has bridged the knowledge gap between transcription and translation during malaria blood stage development and provided a comprehensive gene expression resource for this parasite.", 
     "elocation-id": "e04106", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04106.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "<italic>Plasmodium falciparum</italic>", 
@@ -2411,7 +2411,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04106", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

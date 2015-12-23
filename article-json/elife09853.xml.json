@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Becker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Lindsay A", 
             "references": {
                 "affiliation": [
@@ -20,7 +20,7 @@
         }, 
         {
             "surname": "Gitler", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Aaron D", 
             "references": {
                 "affiliation": [
@@ -34,7 +34,7 @@
             "id": "author-8365"
         }
     ], 
-    "pub-date": "2015-08-05", 
+    "pub-date": "2015-08-05T00:00:00Z", 
     "title": "It's all starting to come together", 
     "citations": {
         "bib10": {
@@ -515,9 +515,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09853.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "phase separation", 
@@ -533,7 +533,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09853", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

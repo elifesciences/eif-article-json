@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Baker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Edward N", 
             "references": {
                 "affiliation": [
@@ -33,7 +33,7 @@
             }
         }
     ], 
-    "pub-date": "2015-06-11", 
+    "pub-date": "2015-06-11T00:00:00Z", 
     "title": "Convergent weaponry in a biological arms race", 
     "citations": {
         "bib8": {
@@ -358,9 +358,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08710.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "<italic>Streptococcus pyogenes</italic>", 
@@ -375,7 +375,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08710", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

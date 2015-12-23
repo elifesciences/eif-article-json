@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Schekman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "id": "author-1032", 
             "given-names": "Randy", 
             "role": "Editor-in-Chief", 
@@ -41,7 +41,7 @@
             "id": "author-1030"
         }
     ], 
-    "pub-date": "2013-04-30", 
+    "pub-date": "2013-04-30T00:00:00Z", 
     "title": "The <italic>eLife</italic> approach to peer review", 
     "citations": {
         "bib1": {
@@ -69,9 +69,9 @@
         }
     }, 
     "article-id": "00799", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00799.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "scientific publishing", 
@@ -81,7 +81,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00799", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "DW is employed by the Max Planck Society.", 

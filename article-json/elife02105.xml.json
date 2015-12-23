@@ -39,7 +39,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9814"
         }, 
@@ -77,7 +77,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9994"
         }, 
@@ -357,7 +357,7 @@
         }, 
         {
             "surname": "Eick", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dirk", 
             "references": {
                 "competing-interest": [
@@ -395,7 +395,7 @@
         }, 
         {
             "surname": "Andrau", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jean-Christophe", 
             "references": {
                 "affiliation": [
@@ -444,7 +444,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-09", 
+    "pub-date": "2014-05-09T00:00:00Z", 
     "title": "Tyrosine phosphorylation of RNA polymerase II CTD is associated with antisense promoter transcription and active enhancers in mammalian cells", 
     "citations": {
         "bib9": {
@@ -2263,9 +2263,9 @@
         }
     ], 
     "elocation-id": "e02105", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02105.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "RNA polymerase II", 
@@ -2280,7 +2280,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02105", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

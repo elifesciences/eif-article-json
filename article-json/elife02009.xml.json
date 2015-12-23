@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9709"
         }, 
@@ -42,7 +42,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9430"
         }, 
@@ -253,7 +253,7 @@
         }, 
         {
             "surname": "Mironov", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alexandre A", 
             "references": {
                 "affiliation": [
@@ -277,7 +277,7 @@
         }, 
         {
             "surname": "Luini", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alberto", 
             "references": {
                 "affiliation": [
@@ -315,7 +315,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-27", 
+    "pub-date": "2014-05-27T00:00:00Z", 
     "title": "Transport of soluble proteins through the Golgi occurs by diffusion via continuities across cisternae", 
     "citations": {
         "bib48": {
@@ -3150,9 +3150,9 @@
     }, 
     "impact-statement": "The soluble cargo protein albumin traverses the Golgi stack at much faster rates than procollagen aggregates, by diffusion via intercisternal continuities.", 
     "elocation-id": "e02009", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02009.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "intracellular trafficking", 
@@ -3166,7 +3166,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02009", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

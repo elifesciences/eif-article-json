@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Cox", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "dept": "Department of Biochemistry", 
@@ -27,7 +27,7 @@
             "id": "author-4002"
         }
     ], 
-    "pub-date": "2013-10-29", 
+    "pub-date": "2013-10-29T00:00:00Z", 
     "title": "Proteins pinpoint double strand breaks", 
     "citations": {
         "bib11": {
@@ -324,9 +324,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01561.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "DNA double-strand breaks", 
@@ -343,7 +343,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01561", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Thompson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dawn A", 
             "references": {
                 "competing-interest": [
@@ -30,7 +30,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1388"
         }, 
@@ -62,7 +62,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1603"
         }, 
@@ -269,7 +269,7 @@
         }, 
         {
             "surname": "Regev", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Aviv", 
             "references": {
                 "affiliation": [
@@ -309,7 +309,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-06-18", 
+    "pub-date": "2013-06-18T00:00:00Z", 
     "title": "Evolutionary principles of modular gene regulation in yeasts", 
     "citations": {
         "bib39": {
@@ -2418,9 +2418,9 @@
         }
     ], 
     "elocation-id": "e00603", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00603.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "regulatory evolution", 
@@ -2436,7 +2436,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00603", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Biostatistics and Medical Informatics, University of Wisconsin, Madison, United States", 

@@ -117,7 +117,7 @@
         }, 
         {
             "surname": "Brock", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Matthias", 
             "references": {
                 "present-address": [
@@ -161,7 +161,7 @@
             "id": "author-1060"
         }
     ], 
-    "pub-date": "2015-07-14", 
+    "pub-date": "2015-07-14T00:00:00Z", 
     "title": "Phytotoxin production in <italic>Aspergillus terreus</italic> is regulated by independent environmental signals", 
     "citations": {
         "bib39": {
@@ -2865,9 +2865,9 @@
     }, 
     "impact-statement": "Elevated methionine levels, or a shortage of nitrogen or iron, induce terrein production in the fungus <italic>Aspergillus terreus.</italic>", 
     "elocation-id": "e07861", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07861.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "<italic>Aspergillus terreus</italic>", 
@@ -2882,7 +2882,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07861", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Microbial Biochemistry and Physiology, Leibniz Institute for Natural Product Research and Infection Biology, Hans Knoell Institute, Jena, Germany"

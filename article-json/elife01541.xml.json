@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Rock", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jason R", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-5653"
         }
     ], 
-    "pub-date": "2013-10-22", 
+    "pub-date": "2013-10-22T00:00:00Z", 
     "title": "What silent mutations say about the human airways", 
     "citations": {
         "bib1": {
@@ -289,9 +289,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01541.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Human lineage tracing", 
@@ -306,7 +306,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01541", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Sekhar", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ashok", 
             "references": {
                 "affiliation": [
@@ -115,7 +115,7 @@
         }, 
         {
             "surname": "Meiering", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Elizabeth M", 
             "references": {
                 "competing-interest": [
@@ -142,7 +142,7 @@
         }, 
         {
             "surname": "Kay", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Lewis E", 
             "references": {
                 "competing-interest": [
@@ -187,7 +187,7 @@
             "id": "author-1079"
         }
     ], 
-    "pub-date": "2015-06-23", 
+    "pub-date": "2015-06-23T00:00:00Z", 
     "title": "Thermal fluctuations of immature SOD1 lead to separate folding and misfolding pathways", 
     "citations": {
         "bib48": {
@@ -3343,9 +3343,9 @@
     }, 
     "impact-statement": "Solution NMR spectroscopy reveals the energy landscape of immature Cu, Zn-superoxide dismutase and leads to atomic resolution structural models of transiently populated non-native oligomers.", 
     "elocation-id": "e07296", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07296.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "human Cu, Zn superoxide dismutase", 
@@ -3360,7 +3360,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07296", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30067"
         }, 
@@ -61,7 +61,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30068"
         }, 
@@ -86,7 +86,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30069"
         }, 
@@ -129,7 +129,7 @@
         }, 
         {
             "surname": "Sheng", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Guojun", 
             "references": {
                 "affiliation": [
@@ -150,7 +150,7 @@
         }, 
         {
             "surname": "Ladher", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Raj K", 
             "references": {
                 "affiliation": [
@@ -184,7 +184,7 @@
             "id": "author-1179"
         }
     ], 
-    "pub-date": "2015-09-11", 
+    "pub-date": "2015-09-11T00:00:00Z", 
     "title": "Characterization of the finch embryo supports evolutionary conservation of the naive stage of development in amniotes", 
     "citations": {
         "bib39": {
@@ -3302,9 +3302,9 @@
     }, 
     "impact-statement": "Finch embryos are laid at an earlier stage than other avian embryos and contain cells with similar properties to pluripotent embryonic stem cells from mice.", 
     "elocation-id": "e07178", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07178.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "zebra finch", 
@@ -3317,7 +3317,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07178", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

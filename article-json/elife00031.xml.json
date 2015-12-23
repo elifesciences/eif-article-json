@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Pretto", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Paolo", 
             "references": {
                 "competing-interest": [
@@ -26,7 +26,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1360"
         }, 
@@ -51,7 +51,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1412"
         }, 
@@ -74,7 +74,7 @@
         }, 
         {
             "surname": "B\u00fclthoff", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Heinrich H", 
             "references": {
                 "affiliation": [
@@ -109,7 +109,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-10-30", 
+    "pub-date": "2012-10-30T00:00:00Z", 
     "title": "Foggy perception slows us down", 
     "citations": {
         "bib9": {
@@ -723,9 +723,9 @@
         }
     ], 
     "elocation-id": "e00031", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00031.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "motion perception", 
@@ -738,7 +738,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00031", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors have declared that no competing interests exist"

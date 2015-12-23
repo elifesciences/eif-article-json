@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7824"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7825"
         }, 
@@ -141,7 +141,7 @@
         }, 
         {
             "surname": "Lumpkin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ellen A", 
             "references": {
                 "affiliation": [
@@ -178,7 +178,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-01-21", 
+    "pub-date": "2014-01-21T00:00:00Z", 
     "title": "Computation identifies structural features that govern neuronal firing properties in slowly adapting touch receptors", 
     "citations": {
         "bib39": {
@@ -1795,9 +1795,9 @@
     }, 
     "impact-statement": "Computer simulations show that the firing patterns of branched touch receptors can be set in part by the organization of their sensory endings in the skin.", 
     "elocation-id": "e01488", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01488.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "tactile", 
@@ -1812,7 +1812,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01488", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "The Gladstone Institutes, San Francisco, United States"

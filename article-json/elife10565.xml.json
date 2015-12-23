@@ -264,7 +264,7 @@
         }, 
         {
             "surname": "Kentsis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alex", 
             "references": {
                 "competing-interest": [
@@ -312,7 +312,7 @@
             "id": "author-1049"
         }
     ], 
-    "pub-date": "2015-09-25", 
+    "pub-date": "2015-09-25T00:00:00Z", 
     "title": "Genomic DNA transposition induced by human PGBD5", 
     "citations": {
         "bib39": {
@@ -2561,9 +2561,9 @@
     }, 
     "impact-statement": "The human <italic>PGBD5</italic> gene encodes an active DNA transposase.", 
     "elocation-id": "e10565", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "10565.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "DNA transposition", 
@@ -2575,7 +2575,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.10565", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

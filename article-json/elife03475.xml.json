@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "de Bruin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robertus Antonius Maria", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-13269"
         }
     ], 
-    "pub-date": "2014-07-01", 
+    "pub-date": "2014-07-01T00:00:00Z", 
     "title": "Turning cell cycle entry on its head", 
     "citations": {
         "bib10": {
@@ -349,9 +349,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03475.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cell cycle", 
@@ -368,7 +368,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03475", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

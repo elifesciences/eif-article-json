@@ -105,7 +105,7 @@
         }, 
         {
             "surname": "Weissman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan S", 
             "references": {
                 "competing-interest": [
@@ -148,7 +148,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-03", 
+    "pub-date": "2013-12-03T00:00:00Z", 
     "title": "Ribosome profiling reveals pervasive and regulated stop codon readthrough in <italic>Drosophila melanogaster</italic>", 
     "citations": {
         "bib69": {
@@ -2305,9 +2305,9 @@
     }, 
     "impact-statement": "Ribosomes translate through stop codons far more often than previously thought, yielding C-terminally extended proteins in a variety of eukaryotes.", 
     "elocation-id": "e01179", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01179.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "ribosome", 
@@ -2324,7 +2324,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01179", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

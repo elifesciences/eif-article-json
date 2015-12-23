@@ -65,7 +65,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32587"
         }, 
@@ -98,7 +98,7 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32588"
         }, 
@@ -498,7 +498,7 @@
         }, 
         {
             "surname": "Petersen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jillian M", 
             "references": {
                 "present-address": [
@@ -548,7 +548,7 @@
             "id": "author-1050"
         }
     ], 
-    "pub-date": "2015-09-15", 
+    "pub-date": "2015-09-15T00:00:00Z", 
     "title": "Abundant toxin-related genes in the genomes of beneficial symbionts from deep-sea hydrothermal vent mussels", 
     "citations": {
         "bib124": {
@@ -7235,9 +7235,9 @@
     }, 
     "impact-statement": "Beneficial symbiotic bacteria encode an exceptional number of toxin-related genes that are all expressed by the symbionts in the host, supporting their key role in host-microbe interactions.", 
     "elocation-id": "e07966", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07966.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "symbiosis", 
@@ -7250,7 +7250,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07966", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Microbiology and Ecosystem Science, Division of Microbial Ecology, Research Network Chemistry Meets Microbiology, University of Vienna, Vienna, Austria"

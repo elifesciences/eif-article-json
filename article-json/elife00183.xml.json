@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2126"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2127"
         }, 
@@ -166,7 +166,7 @@
         }, 
         {
             "surname": "Blanc", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "St\u00e9phane", 
             "references": {
                 "affiliation": [
@@ -190,7 +190,7 @@
         }, 
         {
             "surname": "Drucker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Martin", 
             "references": {
                 "affiliation": [
@@ -225,7 +225,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-01-22", 
+    "pub-date": "2013-01-22T00:00:00Z", 
     "title": "A virus responds instantly to the presence of the vector on the host and forms transmission morphs", 
     "citations": {
         "bib39": {
@@ -1313,9 +1313,9 @@
     }, 
     "impact-statement": "Cauliflower mosaic virus reacts immediately when aphids feed on the host plant, and this boosts its chances of being taken up and transmitted by the insects to a new plant.", 
     "elocation-id": "e00183", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00183.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "aphids", 
@@ -1329,7 +1329,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00183", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interest exist"

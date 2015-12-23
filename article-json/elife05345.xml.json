@@ -31,7 +31,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20903"
         }, 
@@ -55,7 +55,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20905"
         }, 
@@ -391,7 +391,7 @@
         }, 
         {
             "surname": "Lea", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Susan M", 
             "references": {
                 "competing-interest": [
@@ -424,7 +424,7 @@
         }, 
         {
             "surname": "Kaufman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jim", 
             "references": {
                 "competing-interest": [
@@ -472,7 +472,7 @@
             "id": "author-9459"
         }
     ], 
-    "pub-date": "2015-04-10", 
+    "pub-date": "2015-04-10T00:00:00Z", 
     "title": "Expression levels of MHC class I molecules are inversely correlated with promiscuity of peptide binding", 
     "citations": {
         "bib39": {
@@ -4921,9 +4921,9 @@
     }, 
     "impact-statement": "The number of different peptides presented by major histocompatibility complex class I molecules to the immune system's T lymphocytes is inversely correlated with cell surface expression and is strongly associated with the response to infectious disease.", 
     "elocation-id": "e05345", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05345.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "HIV", 
@@ -4938,7 +4938,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05345", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biochemistry, University of Oxford, Oxford, United Kingdom"

@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5983"
         }, 
@@ -54,7 +54,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5984"
         }, 
@@ -156,7 +156,7 @@
         }, 
         {
             "surname": "Raunser", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stefan", 
             "references": {
                 "competing-interest": [
@@ -196,7 +196,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-11-28", 
+    "pub-date": "2013-11-28T00:00:00Z", 
     "title": "The role of Cdc42 and Gic1 in the regulation of septin filament formation and dissociation", 
     "citations": {
         "bib9": {
@@ -1251,9 +1251,9 @@
     }, 
     "impact-statement": "Imaging with electron microscopy and cryo-electron tomography reveals that competition between Cdc42 and Gic1 for the same subunit within septins controls the formation and breakdown of septin filaments.", 
     "elocation-id": "e01085", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01085.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "septin", 
@@ -1267,7 +1267,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01085", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

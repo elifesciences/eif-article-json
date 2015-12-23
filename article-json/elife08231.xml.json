@@ -168,7 +168,7 @@
         }, 
         {
             "surname": "Lill", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Roland", 
             "references": {
                 "affiliation": [
@@ -208,7 +208,7 @@
             "id": "author-33913"
         }
     ], 
-    "pub-date": "2015-07-16", 
+    "pub-date": "2015-07-16T00:00:00Z", 
     "title": "The deca-GX<sub>3</sub> proteins Yae1-Lto1 function as adaptors recruiting the ABC protein Rli1 for iron-sulfur cluster insertion", 
     "citations": {
         "bib39": {
@@ -3471,9 +3471,9 @@
     }, 
     "impact-statement": "Two newly identified assembly factors for the ribosome-associated iron-sulfur protein Rli1 reveal a general mechanism for how the cytosolic iron-sulfur protein assembly (CIA) machinery recruits apoproteins.", 
     "elocation-id": "e08231", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08231.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "post-translational modification", 
@@ -3488,7 +3488,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08231", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Friedrich Miescher Institute for Biomedical Research, Basel, Switzerland"

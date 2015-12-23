@@ -65,7 +65,7 @@
         }, 
         {
             "surname": "Schejter", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eyal D", 
             "references": {
                 "affiliation": [
@@ -89,7 +89,7 @@
         }, 
         {
             "surname": "Shilo", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ben-Zion", 
             "references": {
                 "affiliation": [
@@ -125,7 +125,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-09", 
+    "pub-date": "2013-07-09T00:00:00Z", 
     "title": "Apical targeting of the formin Diaphanous in <italic>Drosophila</italic> tubular epithelia", 
     "citations": {
         "bib9": {
@@ -1368,9 +1368,9 @@
     }, 
     "impact-statement": "Synergistic interactions with PI(4,5)P2 and activated Rho1, which are enriched at the apical membrane of tubular organs, facilitate tight apical targeting of the formin Diaphanous.", 
     "elocation-id": "e00666", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00666.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Diaphanous", 
@@ -1385,7 +1385,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00666", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Chemistry and Molecular Biosciences, University of Queensland, Brisbane, Australia"

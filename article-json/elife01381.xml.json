@@ -197,7 +197,7 @@
         }, 
         {
             "surname": "Durbin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Richard", 
             "references": {
                 "affiliation": [
@@ -233,7 +233,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-25", 
+    "pub-date": "2014-04-25T00:00:00Z", 
     "title": "Genetic interactions affecting human gene expression identified by variance association mapping", 
     "citations": {
         "bib39": {
@@ -3102,9 +3102,9 @@
     }, 
     "impact-statement": "Multiple replicated examples of epistasis affecting gene expression in humans are identified, some explaining a substantial proportion of the variation in expression.", 
     "elocation-id": "e01381", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01381.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "gene expression", 
@@ -3116,7 +3116,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01381", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

@@ -81,7 +81,7 @@
         }, 
         {
             "surname": "Vendruscolo", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michele", 
             "references": {
                 "affiliation": [
@@ -117,7 +117,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-09", 
+    "pub-date": "2015-01-09T00:00:00Z", 
     "title": "Structure of a low-population intermediate state in the release of an enzyme product", 
     "citations": {
         "bib39": {
@@ -1557,9 +1557,9 @@
     }, 
     "impact-statement": "Product release from human lysozyme is mediated by an intermediate state with transient weak interactions between the product and enzyme.", 
     "elocation-id": "e02777", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02777.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "NMR spectroscopy", 
@@ -1571,7 +1571,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02777", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

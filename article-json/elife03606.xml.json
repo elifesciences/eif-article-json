@@ -180,7 +180,7 @@
         }, 
         {
             "surname": "Cui", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jianmin", 
             "references": {
                 "affiliation": [
@@ -217,7 +217,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-23", 
+    "pub-date": "2014-12-23T00:00:00Z", 
     "title": "Domain\u2013domain interactions determine the gating, permeation, pharmacology, and subunit modulation of the IKs ion channel", 
     "citations": {
         "bib48": {
@@ -3105,9 +3105,9 @@
     }, 
     "impact-statement": "Contrary to a generally accepted principle, the pore properties of KCNQ1 channels depend on the states of voltage-sensing domains activation; KCNE1 alters the voltage-sensing domains-pore coupling to modulate KCNQ1 channel properties.", 
     "elocation-id": "e03606", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03606.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "ion channel", 
@@ -3122,7 +3122,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03606", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

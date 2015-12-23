@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14967"
         }, 
@@ -52,7 +52,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14968"
         }, 
@@ -194,7 +194,7 @@
         }, 
         {
             "surname": "Schroeder", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Julian I", 
             "references": {
                 "affiliation": [
@@ -232,7 +232,7 @@
             "id": "author-1030"
         }
     ], 
-    "pub-date": "2015-07-20", 
+    "pub-date": "2015-07-20T00:00:00Z", 
     "title": "Calcium specificity signaling mechanisms in abscisic acid signal transduction in <italic>Arabidopsis</italic> guard cells", 
     "citations": {
         "bib48": {
@@ -4062,9 +4062,9 @@
     }, 
     "impact-statement": "The calcium-dependent signaling pathway during ABA-dependent stomatal closure requires the calcium-independent pathway, and calcium signaling specificity is mediated by PP2C protein phosphatases.", 
     "elocation-id": "e03599", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03599.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "calcium specificity", 
@@ -4079,7 +4079,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03599", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Structural Plant Biology Laboratory, Department for Botany and Plant Biology, University of Geneva, Geneva, Switzerland", 

@@ -54,7 +54,7 @@
             }
         }, 
         {
-            "corresp": "yes", 
+            "corresp": true, 
             "type": "author", 
             "group-author-key": "group-author-id1", 
             "references": {
@@ -161,7 +161,7 @@
             ]
         }
     ], 
-    "pub-date": "2015-05-22", 
+    "pub-date": "2015-05-22T00:00:00Z", 
     "title": "Registered report: Coadministration of a tumor-penetrating peptide enhances the efficacy of cancer drugs", 
     "citations": {
         "bib10": {
@@ -569,9 +569,9 @@
         }
     }, 
     "article-id": "06959", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06959.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "tumor penetrating peptide", 
@@ -583,7 +583,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06959", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Seeds", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrew M", 
             "references": {
                 "affiliation": [
@@ -94,7 +94,7 @@
             }, 
             "type": "author", 
             "id": "author-12727", 
-            "deceased": "yes"
+            "deceased": true
         }, 
         {
             "type": "author", 
@@ -115,7 +115,7 @@
         }, 
         {
             "surname": "Simpson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Julie H", 
             "references": {
                 "affiliation": [
@@ -150,7 +150,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-19", 
+    "pub-date": "2014-08-19T00:00:00Z", 
     "title": "A suppression hierarchy among competing motor programs drives sequential grooming in <italic>Drosophila</italic>", 
     "citations": {
         "bib39": {
@@ -1500,9 +1500,9 @@
         }
     ], 
     "elocation-id": "e02951", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02951.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "serial behavior", 
@@ -1517,7 +1517,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02951", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

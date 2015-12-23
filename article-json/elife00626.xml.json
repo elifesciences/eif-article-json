@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Churcher", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas S", 
             "references": {
                 "competing-interest": [
@@ -175,7 +175,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-05-21", 
+    "pub-date": "2013-05-21T00:00:00Z", 
     "title": "Predicting mosquito infection from <italic>Plasmodium falciparum</italic> gametocyte density and estimating the reservoir of infection", 
     "citations": {
         "bib39": {
@@ -1406,9 +1406,9 @@
     }, 
     "impact-statement": "Identifying and treating those groups of individuals that are most likely to transmit the malaria parasite to mosquitoes could help to control the spread of the disease.", 
     "elocation-id": "e00626", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00626.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Malaria", 
@@ -1422,7 +1422,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00626", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -153,7 +153,7 @@
         }, 
         {
             "surname": "L\u00fchrmann", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Reinhard", 
             "references": {
                 "affiliation": [
@@ -177,7 +177,7 @@
         }, 
         {
             "surname": "Wahl", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Markus C", 
             "references": {
                 "competing-interest": [
@@ -219,7 +219,7 @@
             "id": "author-22520"
         }
     ], 
-    "pub-date": "2015-07-10", 
+    "pub-date": "2015-07-10T00:00:00Z", 
     "title": "A composite double-/single-stranded RNA-binding region in protein Prp3 supports tri-snRNP stability and splicing", 
     "citations": {
         "bib39": {
@@ -2475,9 +2475,9 @@
     }, 
     "impact-statement": "Structural and functional analyses show how the spliceosomal Prp3 protein concomitantly binds double- and single- stranded regions in U4/U6 di-snRNAs and serves to stabilize the U4/U6\u2022U5 tri-snRNP for splicing.", 
     "elocation-id": "e07320", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07320.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "small nuclear ribonucleoprotein particle", 
@@ -2491,7 +2491,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07320", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

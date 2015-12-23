@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4174"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4344"
         }, 
@@ -118,7 +118,7 @@
         }, 
         {
             "surname": "Smith", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alison M", 
             "references": {
                 "affiliation": [
@@ -145,7 +145,7 @@
         }, 
         {
             "surname": "Howard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Martin", 
             "references": {
                 "affiliation": [
@@ -180,7 +180,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-06-25", 
+    "pub-date": "2013-06-25T00:00:00Z", 
     "title": "Arabidopsis plants perform arithmetic division to prevent starvation at night", 
     "citations": {
         "bib9": {
@@ -985,9 +985,9 @@
     }, 
     "impact-statement": "Plants implement arithmetic division to optimize use of carbohydrate reserves and thus maintain metabolism and growth at night.", 
     "elocation-id": "e00669", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00669.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Brachypodium", 
@@ -1000,7 +1000,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00669", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Laboratory of Plant Biotechnology, ETH Zurich, Zurich, Switzerland"

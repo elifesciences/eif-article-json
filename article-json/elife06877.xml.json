@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Hultmark", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dan", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-23737"
         }
     ], 
-    "pub-date": "2015-03-12", 
+    "pub-date": "2015-03-12T00:00:00Z", 
     "title": "New ways to make a blood cell", 
     "citations": {
         "bib11": {
@@ -399,9 +399,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06877.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "hematopoiesis", 
@@ -414,7 +414,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06877", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

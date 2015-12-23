@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "London", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alex John", 
             "references": {
                 "affiliation": [
@@ -19,7 +19,7 @@
         }, 
         {
             "surname": "Kimmelman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan", 
             "references": {
                 "affiliation": [
@@ -33,7 +33,7 @@
             "id": "author-33491"
         }
     ], 
-    "pub-date": "2015-11-24", 
+    "pub-date": "2015-11-24T00:00:00Z", 
     "title": "Why clinical translation cannot succeed without failure", 
     "citations": {
         "bib9": {
@@ -699,9 +699,9 @@
         }
     }, 
     "article-id": "12844", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "12844.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "preclinical research", 
@@ -713,7 +713,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.12844", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Abraham", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nixon M", 
             "references": {
                 "competing-interest": [
@@ -27,7 +27,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9881"
         }, 
@@ -49,7 +49,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9882"
         }, 
@@ -98,7 +98,7 @@
         }, 
         {
             "surname": "Carleton", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alan", 
             "references": {
                 "affiliation": [
@@ -141,7 +141,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-18", 
+    "pub-date": "2014-03-18T00:00:00Z", 
     "title": "Long term functional plasticity of sensory inputs mediated by olfactory learning", 
     "citations": {
         "bib39": {
@@ -1765,9 +1765,9 @@
     }, 
     "impact-statement": "Associative learning, but not passive odorant exposure, induces a novel long lasting functional plasticity in the periphery of mouse olfactory system, making previously encountered odors easier to detect in the future.", 
     "elocation-id": "e02109", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02109.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "sensory perception", 
@@ -1779,7 +1779,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02109", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

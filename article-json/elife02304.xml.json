@@ -119,7 +119,7 @@
         }, 
         {
             "surname": "Theobald", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Douglas L", 
             "references": {
                 "competing-interest": [
@@ -166,7 +166,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-25", 
+    "pub-date": "2014-06-25T00:00:00Z", 
     "title": "An atomic-resolution view of neofunctionalization in the evolution of apicomplexan lactate dehydrogenases", 
     "citations": {
         "bib48": {
@@ -3229,9 +3229,9 @@
     }, 
     "impact-statement": "The convergent evolution of unusually strict substrate specificity in apicomplexan LDHs arose by classic neofunctionalization of a duplicated MDH gene via few mutations of large effect.", 
     "elocation-id": "e02304", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02304.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "ancestral sequence reconstruction", 
@@ -3246,7 +3246,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02304", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

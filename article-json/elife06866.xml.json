@@ -92,7 +92,7 @@
         }, 
         {
             "surname": "Arold", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stefan T", 
             "references": {
                 "affiliation": [
@@ -113,7 +113,7 @@
         }, 
         {
             "surname": "Mills", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Gordon B", 
             "references": {
                 "affiliation": [
@@ -150,7 +150,7 @@
             "id": "author-1072"
         }
     ], 
-    "pub-date": "2015-07-29", 
+    "pub-date": "2015-07-29T00:00:00Z", 
     "title": "Regulation of the PI3K pathway through a p85\u03b1 monomer\u2013homodimer equilibrium", 
     "citations": {
         "bib39": {
@@ -2199,9 +2199,9 @@
     }, 
     "impact-statement": "The p85\u03b1 homodimer plays a role in the PI3K pathway by regulating PTEN function.", 
     "elocation-id": "e06866", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06866.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "PI3K", 
@@ -2216,7 +2216,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06866", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

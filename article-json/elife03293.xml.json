@@ -24,7 +24,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13766"
         }, 
@@ -53,7 +53,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13850"
         }, 
@@ -99,7 +99,7 @@
         }, 
         {
             "surname": "Jan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yuh Nung", 
             "references": {
                 "affiliation": [
@@ -136,7 +136,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-30", 
+    "pub-date": "2014-10-30T00:00:00Z", 
     "title": "Identification of motor neurons and a mechanosensitive sensory neuron in the defecation circuitry of <italic>Drosophila</italic> larvae", 
     "citations": {
         "bib39": {
@@ -1681,9 +1681,9 @@
     }, 
     "impact-statement": "The neural circuit underlying defecation behavior in <italic>Drosophila</italic> larvae has been identified and characterized.", 
     "elocation-id": "e03293", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03293.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "mechanotransduction", 
@@ -1695,7 +1695,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03293", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

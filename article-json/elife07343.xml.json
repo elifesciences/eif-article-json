@@ -45,7 +45,7 @@
         }, 
         {
             "surname": "Su", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yi-Hsien", 
             "references": {
                 "affiliation": [
@@ -71,7 +71,7 @@
         }, 
         {
             "surname": "Arnone", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Maria Ina", 
             "references": {
                 "affiliation": [
@@ -109,7 +109,7 @@
             "id": "author-1055"
         }
     ], 
-    "pub-date": "2015-07-28", 
+    "pub-date": "2015-07-28T00:00:00Z", 
     "title": "Logics and properties of a genetic regulatory program that drives embryonic muscle development in an echinoderm", 
     "citations": {
         "bib48": {
@@ -2679,9 +2679,9 @@
     }, 
     "impact-statement": "A gene regulatory network model provides a simplified explanation of the molecular interactions that orchestrate muscle development in the sea urchin embryo.", 
     "elocation-id": "e07343", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07343.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "gene regulatory network", 
@@ -2696,7 +2696,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07343", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Sars International Centre for Marine Molecular Biology, University of Bergen, Bergen, Norway"

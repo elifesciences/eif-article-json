@@ -24,7 +24,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32763"
         }, 
@@ -208,7 +208,7 @@
         }, 
         {
             "surname": "Walter", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Peter", 
             "references": {
                 "affiliation": [
@@ -234,7 +234,7 @@
         }, 
         {
             "surname": "Weissman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan S", 
             "references": {
                 "affiliation": [
@@ -286,7 +286,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-3819-7019", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-31951"
         }, 
@@ -304,7 +304,7 @@
             "id": "author-1075"
         }
     ], 
-    "pub-date": "2015-09-01", 
+    "pub-date": "2015-09-01T00:00:00Z", 
     "title": "Paradoxical resistance of multiple myeloma to proteasome inhibitors by decreased levels of 19S proteasomal subunits", 
     "citations": {
         "bib39": {
@@ -3066,9 +3066,9 @@
         }
     ], 
     "elocation-id": "e08153", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08153.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "proteasome", 
@@ -3082,7 +3082,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08153", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biochemistry and Biophysics and Institute for Neurodegenerative Diseases, University of California, San Francisco, San Francisco, United States"

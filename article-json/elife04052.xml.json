@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Lowe", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alan R", 
             "references": {
                 "affiliation": [
@@ -27,7 +27,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16805"
         }, 
@@ -54,7 +54,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4576"
         }, 
@@ -141,7 +141,7 @@
         }, 
         {
             "surname": "Weis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Karsten", 
             "references": {
                 "affiliation": [
@@ -168,7 +168,7 @@
         }, 
         {
             "surname": "Liphardt", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jan T", 
             "references": {
                 "affiliation": [
@@ -213,7 +213,7 @@
             "id": "author-1133"
         }
     ], 
-    "pub-date": "2015-03-06", 
+    "pub-date": "2015-03-06T00:00:00Z", 
     "title": "Importin-\u03b2 modulates the permeability of the nuclear pore complex in a Ran-dependent manner", 
     "citations": {
         "bib38": {
@@ -2175,9 +2175,9 @@
     }, 
     "impact-statement": "The Ran GTPase plays a role in defining the physical properties of the nuclear pore complex transport channel by remodeling the binding interactions of importin-\u03b2 with the nucleoporin Nup153 at the nuclear face of the pore.", 
     "elocation-id": "e04052", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04052.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "nuclear pore complex", 
@@ -2190,7 +2190,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04052", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

@@ -33,7 +33,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4430"
         }, 
@@ -64,7 +64,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4171"
         }, 
@@ -225,7 +225,7 @@
         }, 
         {
             "surname": "Chiu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Wah", 
             "references": {
                 "competing-interest": [
@@ -268,7 +268,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-09", 
+    "pub-date": "2013-07-09T00:00:00Z", 
     "title": "TRiC\u2019s tricks inhibit huntingtin aggregation", 
     "citations": {
         "bib39": {
@@ -1538,9 +1538,9 @@
     }, 
     "impact-statement": "Cryo-electron tomography reveals how a chaperone protein called TRiC reduces the ability of pathogenic mutant huntingtin proteins to form aggregates.", 
     "elocation-id": "e00710", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00710.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Cryo electron microscopy (cryoEM)", 
@@ -1555,7 +1555,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00710", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Center for Cellular Imaging and NanoAnalytics, Department of Biosystems Science and Engineering, Structural Biology and Biophysics, University Basel, Basel, Switzerland", 

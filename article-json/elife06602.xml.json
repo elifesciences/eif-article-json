@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Roosing", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Susanne", 
             "references": {
                 "affiliation": [
@@ -760,7 +760,7 @@
         }, 
         {
             "surname": "Gleeson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joseph G", 
             "references": {
                 "affiliation": [
@@ -802,7 +802,7 @@
             "id": "author-1077"
         }
     ], 
-    "pub-date": "2015-05-30", 
+    "pub-date": "2015-05-30T00:00:00Z", 
     "title": "Functional genome-wide siRNA screen identifies <italic>KIAA0586</italic> as mutated in Joubert syndrome", 
     "citations": {
         "bib9": {
@@ -3449,9 +3449,9 @@
     }, 
     "impact-statement": "A supervised learning approach on a high-content genome-wide siRNA screen has identified 591 likely candidates for ciliopathies and facilitated in the discovery of <italic>KIAA0586</italic> mutations in individuals with Joubert syndrome.", 
     "elocation-id": "e06602", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06602.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Joubert syndrome", 
@@ -3466,7 +3466,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06602", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Laboratory for Pediatric Brain Disease, New York Genome Center, Howard Hughes Medical Institute, The Rockefeller University, New York, United States"

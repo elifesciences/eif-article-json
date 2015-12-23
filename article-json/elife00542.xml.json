@@ -56,7 +56,7 @@
         {
             "surname": "Marr", 
             "suffix": "II", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael T", 
             "references": {
                 "affiliation": [
@@ -91,7 +91,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-16", 
+    "pub-date": "2013-07-16T00:00:00Z", 
     "title": "The insulin receptor cellular IRES confers resistance to eIF4A inhibition", 
     "citations": {
         "bib39": {
@@ -1528,9 +1528,9 @@
     }, 
     "impact-statement": "Utilizing a conserved mechanism, a ribosome can initiate translation from a site within the insulin receptor mRNA to maintain protein synthesis even when standard mechanisms of initiating translation have been inhibited by stress.", 
     "elocation-id": "e00542", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00542.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Foxo", 
@@ -1546,7 +1546,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00542", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

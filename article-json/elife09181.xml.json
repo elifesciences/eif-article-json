@@ -41,7 +41,7 @@
         }, 
         {
             "surname": "Capaldi", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrew P", 
             "references": {
                 "affiliation": [
@@ -76,7 +76,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-06", 
+    "pub-date": "2015-10-06T00:00:00Z", 
     "title": "Snf1/AMPK promotes the formation of Kog1/Raptor-bodies to increase the activation threshold of TORC1 in budding yeast", 
     "citations": {
         "bib39": {
@@ -2229,9 +2229,9 @@
     }, 
     "impact-statement": "The key Target of Rapamycin Complex (TORC1) component Kog1 moves into bodies during glucose starvation to limit reactivation of the complex.", 
     "elocation-id": "e09181", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09181.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "TORC1", 
@@ -2243,7 +2243,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09181", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

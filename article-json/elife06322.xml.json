@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Zhang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Zhenghua", 
             "references": {
                 "competing-interest": [
@@ -28,7 +28,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-23794"
         }, 
@@ -50,7 +50,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-24294"
         }, 
@@ -430,7 +430,7 @@
         }, 
         {
             "surname": "Jiang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Zhengwen", 
             "references": {
                 "affiliation": [
@@ -464,7 +464,7 @@
             "id": "author-1106"
         }
     ], 
-    "pub-date": "2015-07-23", 
+    "pub-date": "2015-07-23T00:00:00Z", 
     "title": "Genomic variations of the mevalonate pathway in porokeratosis", 
     "citations": {
         "bib9": {
@@ -1802,9 +1802,9 @@
     }, 
     "impact-statement": "Mutations in four members of the mevalonate pathway have been identified from 134 index porokeratosis patients, including some that correlate with specific clinical manifestations of the disease.", 
     "elocation-id": "e06322", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06322.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "porokeratosis", 
@@ -1816,7 +1816,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06322", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

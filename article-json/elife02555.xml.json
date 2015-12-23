@@ -39,7 +39,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11872"
         }, 
@@ -60,7 +60,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11873"
         }, 
@@ -81,7 +81,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14873"
         }, 
@@ -102,7 +102,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11875"
         }, 
@@ -176,7 +176,7 @@
         }, 
         {
             "surname": "Zhang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ying E", 
             "references": {
                 "affiliation": [
@@ -200,7 +200,7 @@
         }, 
         {
             "surname": "Cheng", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steven Y", 
             "references": {
                 "affiliation": [
@@ -236,7 +236,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-12", 
+    "pub-date": "2014-06-12T00:00:00Z", 
     "title": "Requirement of Smurf-mediated endocytosis of Patched1 in sonic hedgehog signal reception", 
     "citations": {
         "bib39": {
@@ -3000,9 +3000,9 @@
     }, 
     "impact-statement": "Smurf1 and Smurf2 have essential functions in the mammalian Shh signaling pathway, binding to and ubiquitylating Patched1, leading to its endocytosis and subsequent degradation in lysosomes.", 
     "elocation-id": "e02555", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02555.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "sonic Hedgehog", 
@@ -3016,7 +3016,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02555", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

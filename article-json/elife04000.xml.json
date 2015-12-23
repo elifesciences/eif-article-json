@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Lindstr\u00f6m", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nils O", 
             "references": {
                 "affiliation": [
@@ -62,7 +62,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16629"
         }, 
@@ -86,7 +86,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16633"
         }, 
@@ -107,7 +107,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16630"
         }, 
@@ -128,7 +128,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16631"
         }, 
@@ -256,7 +256,7 @@
         }, 
         {
             "surname": "Hohenstein", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Peter", 
             "references": {
                 "affiliation": [
@@ -293,7 +293,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-03", 
+    "pub-date": "2015-02-03T00:00:00Z", 
     "title": "Integrated \u03b2-catenin, BMP, PTEN, and Notch signalling patterns the nephron", 
     "citations": {
         "bib39": {
@@ -3379,9 +3379,9 @@
     }, 
     "impact-statement": "The patterning of the nephron is driven by a gradient in the activity of \u03b2-catenin and further defined by a network of BMP, PTEN and NOTCH signalling.", 
     "elocation-id": "e04000", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04000.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "kidney development", 
@@ -3396,7 +3396,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04000", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

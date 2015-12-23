@@ -87,7 +87,7 @@
         }, 
         {
             "surname": "Jin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yishi", 
             "references": {
                 "affiliation": [
@@ -115,7 +115,7 @@
         }, 
         {
             "surname": "Chisholm", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrew D", 
             "references": {
                 "affiliation": [
@@ -153,7 +153,7 @@
             "id": "author-1027"
         }
     ], 
-    "pub-date": "2015-09-04", 
+    "pub-date": "2015-09-04T00:00:00Z", 
     "title": "Axon injury triggers EFA-6 mediated destabilization of axonal microtubules via TACC and doublecortin like kinase", 
     "citations": {
         "bib39": {
@@ -2577,9 +2577,9 @@
     }, 
     "impact-statement": "Severing axons in <italic>C. elegans</italic> reveals a mechanism by which the axons sense acute damage and respond by sequential remodeling of their microtubule cytoskeleton.", 
     "elocation-id": "e08695", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08695.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "microtubules", 
@@ -2591,7 +2591,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08695", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff4": {

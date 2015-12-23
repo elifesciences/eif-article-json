@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1791"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3937"
         }, 
@@ -126,7 +126,7 @@
         }, 
         {
             "surname": "S\u00fcdhof", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas C", 
             "references": {
                 "affiliation": [
@@ -152,7 +152,7 @@
         }, 
         {
             "surname": "Brunger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Axel T", 
             "references": {
                 "affiliation": [
@@ -191,7 +191,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-04-30", 
+    "pub-date": "2013-04-30T00:00:00Z", 
     "title": "Native \u03b1-synuclein induces clustering of synaptic-vesicle mimics via binding to phospholipids and synaptobrevin-2/VAMP2", 
     "citations": {
         "bib39": {
@@ -2176,9 +2176,9 @@
     }, 
     "impact-statement": "Experiments on synthetic models of synaptic vesicles have shed new light on the role of the protein \u03b1-synuclein in the central nervous system.", 
     "elocation-id": "e00592", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00592.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Parkinson's disease", 
@@ -2190,7 +2190,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00592", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Chemistry and Biochemistry, University of Maryland, Baltimore County, Baltimore, United States"

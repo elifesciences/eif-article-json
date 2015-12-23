@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12579"
         }, 
@@ -40,13 +40,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12580"
         }, 
         {
             "surname": "Soderling", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Scott H", 
             "references": {
                 "affiliation": [
@@ -72,7 +72,7 @@
         }, 
         {
             "surname": "Yasuda", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ryohei", 
             "references": {
                 "affiliation": [
@@ -111,7 +111,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-08", 
+    "pub-date": "2014-07-08T00:00:00Z", 
     "title": "Loss of Cdc42 leads to defects in synaptic plasticity and remote memory recall", 
     "citations": {
         "bib39": {
@@ -1412,9 +1412,9 @@
     }, 
     "impact-statement": "Conditional knockout of the small GTPase Cdc42 in excitatory neurons of the mouse forebrain leads to impaired long-term synaptic plasticity and impaired retrieval of remote memory.", 
     "elocation-id": "e02839", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02839.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "small GTPase", 
@@ -1428,7 +1428,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02839", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

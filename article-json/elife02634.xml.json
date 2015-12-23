@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "van den Ent", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Fusinita", 
             "references": {
                 "competing-interest": [
@@ -37,7 +37,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11685"
         }, 
@@ -61,7 +61,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11842"
         }, 
@@ -149,7 +149,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-02", 
+    "pub-date": "2014-05-02T00:00:00Z", 
     "title": "Bacterial actin MreB forms antiparallel double filaments", 
     "citations": {
         "bib48": {
@@ -2852,9 +2852,9 @@
     }, 
     "impact-statement": "The prokaryotic actin homologue MreB forms antiparallel double filaments in vitro and in vivo, an architecture that is unprecedented among the actin family of proteins.", 
     "elocation-id": "e02634", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02634.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "<italic>Caulobacter crescentus</italic>", 
@@ -2867,7 +2867,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02634", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

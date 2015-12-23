@@ -99,7 +99,7 @@
         }, 
         {
             "surname": "Dixon", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jack E", 
             "references": {
                 "affiliation": [
@@ -134,7 +134,7 @@
             "id": "author-1016"
         }
     ], 
-    "pub-date": "2015-03-19", 
+    "pub-date": "2015-03-19T00:00:00Z", 
     "title": "A secretory kinase complex regulates extracellular protein phosphorylation", 
     "citations": {
         "bib39": {
@@ -2993,9 +2993,9 @@
     }, 
     "impact-statement": "A pseudokinase in the secretory pathway, Fam20A, activates the real Golgi casein kinase, Fam20C, via a unique mechanism that is lost in human diseases.", 
     "elocation-id": "e06120", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06120.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "kinase complex", 
@@ -3010,7 +3010,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06120", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "State Key Laboratory of Protein and Plant Gene Research, School of Life Sciences, Peking University, Beijing, China", 

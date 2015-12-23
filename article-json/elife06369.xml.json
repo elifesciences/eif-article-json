@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Wheeler", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Glen", 
             "references": {
                 "affiliation": [
@@ -62,7 +62,7 @@
         }, 
         {
             "surname": "Smirnoff", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nicholas", 
             "references": {
                 "affiliation": [
@@ -99,7 +99,7 @@
             "id": "author-1048"
         }
     ], 
-    "pub-date": "2015-03-13", 
+    "pub-date": "2015-03-13T00:00:00Z", 
     "title": "Evolution of alternative biosynthetic pathways for vitamin C following plastid acquisition in photosynthetic eukaryotes", 
     "citations": {
         "bib48": {
@@ -4165,9 +4165,9 @@
     }, 
     "impact-statement": "Genomic evidence suggests that L-gulonolactone oxidase-the terminal enzyme in vitamin C synthesis, which has been repeatedly lost throughout animal evolution-was lost in plants and other photosynthetic eukaryotes following plastid acquisition.", 
     "elocation-id": "e06369", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06369.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "vitamin C", 
@@ -4181,7 +4181,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06369", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

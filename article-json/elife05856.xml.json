@@ -25,7 +25,7 @@
         }, 
         {
             "surname": "Silander", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Olin K", 
             "references": {
                 "present-address": [
@@ -53,7 +53,7 @@
         }, 
         {
             "surname": "van Nimwegen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Erik", 
             "references": {
                 "affiliation": [
@@ -90,7 +90,7 @@
             "id": "author-9239"
         }
     ], 
-    "pub-date": "2015-06-17", 
+    "pub-date": "2015-06-17T00:00:00Z", 
     "title": "Expression noise facilitates the evolution of gene regulation", 
     "citations": {
         "bib39": {
@@ -2092,9 +2092,9 @@
     }, 
     "impact-statement": "In-lab evolution of synthetic promoters has revealed a novel general mechanism for de novo evolution of gene regulation, and highlights the crucial role of expression noise in this process.", 
     "elocation-id": "e05856", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05856.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "gene regulation", 
@@ -2107,7 +2107,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05856", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Roche Pharma Research and Early Development, Roche Innovation Center Basel, F. Hoffmann-La Roche Ltd, Basel, Switzerland", 

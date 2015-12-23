@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9043"
         }, 
@@ -47,7 +47,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9044"
         }, 
@@ -128,7 +128,7 @@
         }, 
         {
             "surname": "Barral", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yves", 
             "references": {
                 "affiliation": [
@@ -164,7 +164,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-06", 
+    "pub-date": "2014-05-06T00:00:00Z", 
     "title": "A sphingolipid-dependent diffusion barrier confines ER stress to the yeast mother cell", 
     "citations": {
         "bib39": {
@@ -1992,9 +1992,9 @@
     }, 
     "impact-statement": "Sphingolipids govern the compartmentalization of yeast cells through the assembly of lateral diffusion barriers in ER membranes.", 
     "elocation-id": "e01883", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01883.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "diffusion barrier", 
@@ -2008,7 +2008,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01883", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

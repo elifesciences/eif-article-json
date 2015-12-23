@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3053"
         }, 
@@ -53,7 +53,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2164"
         }, 
@@ -224,7 +224,7 @@
         }, 
         {
             "surname": "Ponting", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Chris P", 
             "references": {
                 "competing-interest": [
@@ -251,7 +251,7 @@
         }, 
         {
             "surname": "Klose", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert J", 
             "references": {
                 "competing-interest": [
@@ -291,7 +291,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-02-26", 
+    "pub-date": "2013-02-26T00:00:00Z", 
     "title": "Epigenetic conservation at gene regulatory elements revealed by non-methylated DNA profiling in seven vertebrates", 
     "citations": {
         "bib39": {
@@ -2387,9 +2387,9 @@
         }
     ], 
     "elocation-id": "e00348", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00348.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "CpG islands", 
@@ -2407,7 +2407,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00348", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

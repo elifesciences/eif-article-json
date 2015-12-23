@@ -43,7 +43,7 @@
         }, 
         {
             "surname": "Evans", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Cory J", 
             "references": {
                 "affiliation": [
@@ -64,7 +64,7 @@
         }, 
         {
             "surname": "Banerjee", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Utpal", 
             "references": {
                 "affiliation": [
@@ -102,7 +102,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-08", 
+    "pub-date": "2014-09-08T00:00:00Z", 
     "title": "Pvr expression regulators in equilibrium signal control and maintenance of <italic>Drosophila</italic> blood progenitors", 
     "citations": {
         "bib39": {
@@ -3481,9 +3481,9 @@
     }, 
     "impact-statement": "The THAP-domain protein Bip1, along with other proteins Nup98 and RpS8, controls the expression of the protein Pvr, a critical non-cell-autonomous regulator of <italic>Drosophila</italic> blood progenitor maintenance.", 
     "elocation-id": "e03626", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03626.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "hematopoiesis", 
@@ -3498,7 +3498,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03626", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff5": {

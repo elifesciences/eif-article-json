@@ -178,11 +178,11 @@
             }, 
             "type": "author", 
             "id": "author-5307", 
-            "deceased": "yes"
+            "deceased": true
         }, 
         {
             "surname": "Michaely", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Peter", 
             "references": {
                 "competing-interest": [
@@ -221,7 +221,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-09-24", 
+    "pub-date": "2013-09-24T00:00:00Z", 
     "title": "Cavin-3 dictates the balance between ERK and Akt signaling", 
     "citations": {
         "bib48": {
@@ -3167,9 +3167,9 @@
         }
     ], 
     "elocation-id": "e00905", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00905.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Cavin-3", 
@@ -3185,7 +3185,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00905", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

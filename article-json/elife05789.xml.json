@@ -41,7 +41,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-22514"
         }, 
@@ -63,7 +63,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-22515"
         }, 
@@ -86,7 +86,7 @@
         }, 
         {
             "surname": "Strutt", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "affiliation": [
@@ -123,7 +123,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-24", 
+    "pub-date": "2015-02-24T00:00:00Z", 
     "title": "Cellular interpretation of the long-range gradient of Four-jointed activity in the <italic>Drosophila</italic> wing", 
     "citations": {
         "bib39": {
@@ -1248,9 +1248,9 @@
     }, 
     "impact-statement": "Opposing gradients of Fat and Dachsous phosphorylation are sufficient to explain the observed pattern of Fat-Dachsous planar polarisation across the <italic>Drosophila</italic> wing.", 
     "elocation-id": "e05789", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05789.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "PCP", 
@@ -1263,7 +1263,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05789", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

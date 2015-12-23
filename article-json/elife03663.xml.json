@@ -68,7 +68,7 @@
         }, 
         {
             "surname": "Medina", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Javier F", 
             "references": {
                 "affiliation": [
@@ -104,7 +104,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-09", 
+    "pub-date": "2014-09-09T00:00:00Z", 
     "title": "Coding of stimulus strength via analog calcium signals in Purkinje cell dendrites of awake mice", 
     "citations": {
         "bib48": {
@@ -2437,9 +2437,9 @@
     }, 
     "impact-statement": "Sensory-driven calcium spikes in Purkinje cells are not binary; instead, they are graded and can provide information about the strength of a periocular airpuff stimulus known to drive learning.", 
     "elocation-id": "e03663", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03663.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cerebellum", 
@@ -2454,7 +2454,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03663", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Cold Spring Harbor Laboratory, Cold Spring Harbor, United States"

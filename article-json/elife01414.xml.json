@@ -32,7 +32,7 @@
         }, 
         {
             "surname": "Wang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michelle D", 
             "references": {
                 "affiliation": [
@@ -46,7 +46,7 @@
             "id": "author-3088"
         }
     ], 
-    "pub-date": "2013-09-24", 
+    "pub-date": "2013-09-24T00:00:00Z", 
     "title": "On the move", 
     "citations": {
         "bib10": {
@@ -347,9 +347,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01414.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "RNA polymerase II", 
@@ -364,7 +364,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01414", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

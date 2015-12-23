@@ -133,7 +133,7 @@
         }, 
         {
             "surname": "Jones", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nick S", 
             "references": {
                 "affiliation": [
@@ -169,7 +169,7 @@
             "id": "author-1151"
         }
     ], 
-    "pub-date": "2015-06-02", 
+    "pub-date": "2015-06-02T00:00:00Z", 
     "title": "Stochastic modelling, Bayesian inference, and new in vivo measurements elucidate the debated mtDNA bottleneck mechanism", 
     "citations": {
         "bib39": {
@@ -2552,9 +2552,9 @@
     }, 
     "impact-statement": "New modelling, statistics, and experiments show that cellular populations of mitochondrial DNA (mtDNA) evolve during development according to solvable stochastic dynamics involving binomial partitioning and random turnover, facilitating a predictive and quantitative theory of the mtDNA bottleneck.", 
     "elocation-id": "e07464", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07464.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "mtDNA", 
@@ -2568,7 +2568,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07464", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff9": {

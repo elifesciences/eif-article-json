@@ -49,7 +49,7 @@
         }, 
         {
             "surname": "Manning", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Gerard", 
             "references": {
                 "present-address": [
@@ -76,7 +76,7 @@
         }, 
         {
             "surname": "Noel", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joseph P", 
             "references": {
                 "affiliation": [
@@ -114,7 +114,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-10", 
+    "pub-date": "2013-12-10T00:00:00Z", 
     "title": "Discovery of a metabolic alternative to the classical mevalonate pathway", 
     "citations": {
         "bib39": {
@@ -1807,9 +1807,9 @@
     }, 
     "impact-statement": "A combination of phylogenetic and biochemical analyses suggest that some unexpected variations in the synthesis of isoprenoids may be widespread across all three domains of life.", 
     "elocation-id": "e00672", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00672.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Mevalonate pathway", 
@@ -1825,7 +1825,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00672", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Bioinformatics and Computational Biology, Genentech, San Francisco, United States"

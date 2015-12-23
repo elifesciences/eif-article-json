@@ -47,7 +47,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12970"
         }, 
@@ -71,7 +71,7 @@
                     "aff5"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12971"
         }, 
@@ -270,7 +270,7 @@
         }, 
         {
             "surname": "Taverna", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sean D", 
             "references": {
                 "affiliation": [
@@ -307,7 +307,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-26", 
+    "pub-date": "2014-08-26T00:00:00Z", 
     "title": "Methylation of histone H3K23 blocks DNA damage in pericentric heterochromatin during meiosis", 
     "citations": {
         "bib39": {
@@ -3162,9 +3162,9 @@
     }, 
     "impact-statement": "A previously unappreciated histone methylation pathway helps limit DNA double-strand break formation and recombination in heterochromatin during meiosis.", 
     "elocation-id": "e02996", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02996.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "<italic>Tetrahymena thermophila</italic>", 
@@ -3180,7 +3180,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02996", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Division of Endocrinology, Diabetes, &amp; Metabolism, Department of Medicine, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, United States", 

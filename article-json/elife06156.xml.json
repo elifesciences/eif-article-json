@@ -94,7 +94,7 @@
         }, 
         {
             "surname": "Zerial", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Marino", 
             "references": {
                 "affiliation": [
@@ -131,7 +131,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-04", 
+    "pub-date": "2015-02-04T00:00:00Z", 
     "title": "Regulation of EGFR signal transduction by analogue-to-digital conversion in endosomes", 
     "citations": {
         "bib39": {
@@ -3025,9 +3025,9 @@
     }, 
     "impact-statement": "Cells package active receptors in endosomes at fairly constant amounts and can determine different cell-fate decisions by regulating the number and lifetime of receptor packages.", 
     "elocation-id": "e06156", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06156.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "signal transduction", 
@@ -3041,7 +3041,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06156", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

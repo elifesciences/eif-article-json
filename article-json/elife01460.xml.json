@@ -164,7 +164,7 @@
         }, 
         {
             "surname": "Green", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael R", 
             "references": {
                 "competing-interest": [
@@ -194,7 +194,7 @@
         }, 
         {
             "surname": "Wajapeyee", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Narendra", 
             "references": {
                 "competing-interest": [
@@ -234,7 +234,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-02-18", 
+    "pub-date": "2014-02-18T00:00:00Z", 
     "title": "miR-146a promotes the initiation and progression of melanoma by activating Notch signaling", 
     "citations": {
         "bib39": {
@@ -3109,9 +3109,9 @@
     }, 
     "impact-statement": "The microRNA, miR-146a, is regulated by mutant BRAF/NRAS proteins, and promotes the development of melanoma via increasing Notch signaling pathway, suggesting that combining drugs targeting BRAF/NRAS and Notch may provide an effective melanoma treatment.", 
     "elocation-id": "e01460", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01460.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "miRNA", 
@@ -3124,7 +3124,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01460", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

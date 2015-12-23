@@ -58,7 +58,7 @@
         }, 
         {
             "surname": "Pitt", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Geoffrey S", 
             "references": {
                 "affiliation": [
@@ -97,7 +97,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-30", 
+    "pub-date": "2014-09-30T00:00:00Z", 
     "title": "FGF14 modulates resurgent sodium current in mouse cerebellar Purkinje neurons", 
     "citations": {
         "bib9": {
@@ -1216,9 +1216,9 @@
     }, 
     "impact-statement": "The N-terminus of the FGF14b isoform promotes the inactivation of voltage-gated Na<sup>+</sup> channels to regulate the resurgent Na<sup>+</sup> channel current needed for high frequency action potentials.", 
     "elocation-id": "e04193", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04193.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "resurgent sodium current", 
@@ -1232,7 +1232,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04193", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

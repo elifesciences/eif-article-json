@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7678"
         }, 
@@ -44,7 +44,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7528"
         }, 
@@ -91,7 +91,7 @@
         }, 
         {
             "surname": "Taunton", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jack", 
             "references": {
                 "affiliation": [
@@ -127,7 +127,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-02-04", 
+    "pub-date": "2014-02-04T00:00:00Z", 
     "title": "An allosteric Sec61 inhibitor traps nascent transmembrane helices at the lateral gate", 
     "citations": {
         "bib39": {
@@ -1828,9 +1828,9 @@
     }, 
     "impact-statement": "A small molecule, cotransin, blocks transmembrane domains form integrating into cell membranes by allosterically \u2018locking\u2019 the lateral gate of the Sec61 translocation channel.", 
     "elocation-id": "e01483", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01483.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cotransin", 
@@ -1842,7 +1842,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01483", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "MRC Laboratory of Molecular Biology, Cambridge, United Kingdom"

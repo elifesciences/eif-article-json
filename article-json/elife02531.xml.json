@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Bastin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Philippe", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-8257"
         }
     ], 
-    "pub-date": "2014-03-18", 
+    "pub-date": "2014-03-18T00:00:00Z", 
     "title": "Boarder control on the IFT train", 
     "citations": {
         "bib10": {
@@ -478,9 +478,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02531.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "chlamydomonas", 
@@ -494,7 +494,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02531", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

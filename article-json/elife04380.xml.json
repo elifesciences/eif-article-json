@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17725"
         }, 
@@ -44,7 +44,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4896"
         }, 
@@ -65,7 +65,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16130"
         }, 
@@ -125,7 +125,7 @@
         }, 
         {
             "surname": "Biron", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "affiliation": [
@@ -164,7 +164,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-04", 
+    "pub-date": "2014-12-04T00:00:00Z", 
     "title": "Homeostasis in <italic>C. elegans</italic> sleep is characterized by two behaviorally and genetically distinct mechanisms", 
     "citations": {
         "bib48": {
@@ -2584,9 +2584,9 @@
     }, 
     "impact-statement": "The sleep cycle of nematode worms adjusts to compensate for sleep disturbances, with neuropeptide Y involved in the response to minor disruptions, and the transcription factor DAF-16/FOXO in the response to major disruptions.", 
     "elocation-id": "e04380", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04380.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "sleep", 
@@ -2601,7 +2601,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04380", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

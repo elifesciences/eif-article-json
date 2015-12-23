@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Pfeffer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Suzanne R", 
             "role": "Reviewing Editor", 
             "references": {
@@ -33,7 +33,7 @@
             "id": "author-1160"
         }
     ], 
-    "pub-date": "2014-02-11", 
+    "pub-date": "2014-02-11T00:00:00Z", 
     "title": "Mutant enzymes challenge all assumptions", 
     "citations": {
         "bib10": {
@@ -369,9 +369,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02171.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Membrane traffic", 
@@ -383,7 +383,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02171", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

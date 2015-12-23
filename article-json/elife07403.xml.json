@@ -22,7 +22,7 @@
                     "aff1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30716"
         }, 
@@ -46,7 +46,7 @@
                     "aff2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30717"
         }, 
@@ -109,7 +109,7 @@
         }, 
         {
             "surname": "Block", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steven M", 
             "references": {
                 "affiliation": [
@@ -146,7 +146,7 @@
             "id": "author-8518"
         }
     ], 
-    "pub-date": "2015-04-22", 
+    "pub-date": "2015-04-22T00:00:00Z", 
     "title": "Examining kinesin processivity within a general gating framework", 
     "citations": {
         "bib39": {
@@ -2353,9 +2353,9 @@
     }, 
     "impact-statement": "A general framework for gating reveals that inter-head tension is not essential for coordinating kinesin stepping, and that neck-linker length is tuned to enhance processivity and velocity.", 
     "elocation-id": "e07403", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07403.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "optical trap", 
@@ -2368,7 +2368,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07403", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Genetics, Stanford University School of Medicine, Stanford University, Stanford, United States", 

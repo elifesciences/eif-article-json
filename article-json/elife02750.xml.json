@@ -25,7 +25,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12336"
         }, 
@@ -51,7 +51,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12337"
         }, 
@@ -79,7 +79,7 @@
         }, 
         {
             "surname": "Goldstein", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Raymond E", 
             "references": {
                 "affiliation": [
@@ -116,7 +116,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-29", 
+    "pub-date": "2014-07-29T00:00:00Z", 
     "title": "Flagellar synchronization through direct hydrodynamic interactions", 
     "citations": {
         "bib39": {
@@ -1022,9 +1022,9 @@
     }, 
     "impact-statement": "A combination of experiment and theory shows that pairs of eukaryotic flagella can achieve robust synchronization solely through the action of the fluid that surrounds them.", 
     "elocation-id": "e02750", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02750.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "flagella", 
@@ -1036,7 +1036,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02750", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

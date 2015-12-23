@@ -96,7 +96,7 @@
         }, 
         {
             "surname": "Duboule", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Denis", 
             "references": {
                 "competing-interest": [
@@ -136,7 +136,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-29", 
+    "pub-date": "2014-04-29T00:00:00Z", 
     "title": "Temporal dynamics and developmental memory of 3D chromatin architecture at <italic>Hox</italic> gene loci", 
     "citations": {
         "bib39": {
@@ -2218,9 +2218,9 @@
     }, 
     "impact-statement": "<italic>Hox</italic> genes are activated sequentially and, at the same time, undergo a transition from an inactive to an active chromatin compartment, most likely to prevent posterior genes being activated too early.", 
     "elocation-id": "e02557", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02557.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "chromatin domains", 
@@ -2233,7 +2233,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02557", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

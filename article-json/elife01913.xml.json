@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9394"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9395"
         }, 
@@ -90,7 +90,7 @@
         }, 
         {
             "surname": "Friedman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jeffrey M", 
             "references": {
                 "affiliation": [
@@ -127,7 +127,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-08", 
+    "pub-date": "2014-09-08T00:00:00Z", 
     "title": "A critical role for mTORC1 in erythropoiesis and anemia", 
     "citations": {
         "bib39": {
@@ -2593,9 +2593,9 @@
     }, 
     "impact-statement": "Transcription profiling of activated cells using Phospho-Trap, a new method for identifying activated cells, reveals a critical role for mTOR signaling in red blood cell development and the pathogenesis of anemia", 
     "elocation-id": "e01913", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01913.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "mTOR", 
@@ -2609,7 +2609,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01913", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Neuroscience Graduate Program, University of California, San Francisco, San Francisco, United States", 

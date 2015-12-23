@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12141"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5175"
         }, 
@@ -113,7 +113,7 @@
         }, 
         {
             "surname": "Jan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Lily Yeh", 
             "references": {
                 "affiliation": [
@@ -140,7 +140,7 @@
         }, 
         {
             "surname": "Yang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Huanghe", 
             "references": {
                 "affiliation": [
@@ -177,7 +177,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-30", 
+    "pub-date": "2014-06-30T00:00:00Z", 
     "title": "A comprehensive search for calcium binding sites critical for TMEM16A calcium-activated chloride channel activity", 
     "citations": {
         "bib39": {
@@ -2074,9 +2074,9 @@
     }, 
     "impact-statement": "The identification of four acidic amino acids as potential calcium-binding residues in the TMEM16A calcium-activated chloride channel furthers the molecular understanding of this ion channel family.", 
     "elocation-id": "e02772", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02772.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "TMEM16 channels", 
@@ -2094,7 +2094,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02772", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

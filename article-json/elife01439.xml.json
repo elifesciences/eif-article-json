@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7548"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7549"
         }, 
@@ -175,7 +175,7 @@
         }, 
         {
             "surname": "Wallingford", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John B", 
             "references": {
                 "competing-interest": [
@@ -218,7 +218,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-01-14", 
+    "pub-date": "2014-01-14T00:00:00Z", 
     "title": "Coordinated genomic control of ciliogenesis and cell movement by RFX2", 
     "citations": {
         "bib39": {
@@ -3694,9 +3694,9 @@
     }, 
     "impact-statement": "Systems-level analysis in vertebrate ciliated epithelial cells shows that the network of genes activated by the transcription factor Rfx2 controls the development, migration, insertion and function of these cells.", 
     "elocation-id": "e01439", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01439.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cilia", 
@@ -3715,7 +3715,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01439", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

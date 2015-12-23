@@ -80,7 +80,7 @@
         }, 
         {
             "surname": "Tjian", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert", 
             "references": {
                 "affiliation": [
@@ -118,7 +118,7 @@
             "id": "author-3033"
         }
     ], 
-    "pub-date": "2015-09-22", 
+    "pub-date": "2015-09-22T00:00:00Z", 
     "title": "A specific E3 ligase/deubiquitinase pair modulates TBP protein levels during muscle differentiation", 
     "citations": {
         "bib39": {
@@ -1260,9 +1260,9 @@
     }, 
     "impact-statement": "Proteasome-mediated degradation of the TATA-box binding protein (TBP) during terminal differentiation is regulated by the E3 ligase Huwe1 and the deubiquitinase USP10.", 
     "elocation-id": "e08536", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08536.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "TBP", 
@@ -1277,7 +1277,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08536", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The authors declare that no competing interests exist.", 

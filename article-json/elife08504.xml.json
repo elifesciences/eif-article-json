@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-33504"
         }, 
@@ -49,7 +49,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-33505"
         }, 
@@ -93,7 +93,7 @@
         }, 
         {
             "surname": "Darst", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Seth A", 
             "references": {
                 "competing-interest": [
@@ -136,7 +136,7 @@
             "id": "author-2915"
         }
     ], 
-    "pub-date": "2015-09-08", 
+    "pub-date": "2015-09-08T00:00:00Z", 
     "title": "Structure of a bacterial RNA polymerase holoenzyme open promoter complex", 
     "citations": {
         "bib48": {
@@ -2779,9 +2779,9 @@
         }
     ], 
     "elocation-id": "e08504", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08504.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "open promoter compex", 
@@ -2796,7 +2796,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08504", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

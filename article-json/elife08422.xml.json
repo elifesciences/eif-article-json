@@ -100,7 +100,7 @@
         }, 
         {
             "surname": "Simon", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andr\u00e1s", 
             "references": {
                 "affiliation": [
@@ -139,7 +139,7 @@
             "id": "author-1179"
         }
     ], 
-    "pub-date": "2015-10-20", 
+    "pub-date": "2015-10-20T00:00:00Z", 
     "title": "Environmental changes in oxygen tension reveal ROS-dependent neurogenesis and regeneration in the adult newt brain", 
     "citations": {
         "bib39": {
@@ -1579,9 +1579,9 @@
     }, 
     "impact-statement": "Control of neural stem cells by reactive oxygen species (ROS) provides a link between systemic shifts in oxygen tension and neuronal regeneration, and suggests an evolutionary driving force for the inherent ability of newts to regenerate their brain cells.", 
     "elocation-id": "e08422", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08422.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "newt", 
@@ -1595,7 +1595,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08422", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Medicine, Johns Hopkins University, Baltimore, United States"

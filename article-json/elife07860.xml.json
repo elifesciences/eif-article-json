@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32410"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32411"
         }, 
@@ -70,7 +70,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32412"
         }, 
@@ -91,7 +91,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1655"
         }, 
@@ -199,7 +199,7 @@
         }, 
         {
             "surname": "Dulac", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Catherine", 
             "references": {
                 "competing-interest": [
@@ -239,7 +239,7 @@
             "id": "author-1149"
         }
     ], 
-    "pub-date": "2015-07-03", 
+    "pub-date": "2015-07-03T00:00:00Z", 
     "title": "Quantitative and functional interrogation of parent-of-origin allelic expression biases in the brain", 
     "citations": {
         "bib48": {
@@ -4418,9 +4418,9 @@
     }, 
     "impact-statement": "A subset of genes in the mouse brain show dynamically regulated and unequal expression of maternally and paternally derived variants, with implications for brain development and function.", 
     "elocation-id": "e07860", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07860.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "genomic imprinting", 
@@ -4435,7 +4435,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07860", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

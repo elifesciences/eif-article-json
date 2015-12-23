@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12081"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12082"
         }, 
@@ -131,7 +131,7 @@
         }, 
         {
             "surname": "Morrison", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sean J", 
             "references": {
                 "affiliation": [
@@ -168,7 +168,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-07", 
+    "pub-date": "2014-05-07T00:00:00Z", 
     "title": "Prospective identification of functionally distinct stem cells and neurosphere-initiating cells in adult mouse forebrain", 
     "citations": {
         "bib39": {
@@ -2799,9 +2799,9 @@
     }, 
     "impact-statement": "Flow cytometric isolation and fate mapping shows that neurosphere-initiating cells are highly mitotically active and persist only transiently in vivo, and are distinct from quiescent, long-lived neural stem cells.", 
     "elocation-id": "e02669", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02669.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "stem cell", 
@@ -2815,7 +2815,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02669", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

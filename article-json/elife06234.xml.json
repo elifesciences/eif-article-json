@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-23888"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21722"
         }, 
@@ -194,7 +194,7 @@
         }, 
         {
             "surname": "Richard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "St\u00e9phane", 
             "references": {
                 "affiliation": [
@@ -234,7 +234,7 @@
             "id": "author-3359"
         }
     ], 
-    "pub-date": "2015-08-12", 
+    "pub-date": "2015-08-12T00:00:00Z", 
     "title": "Aven recognition of RNA G-quadruplexes regulates translation of the <italic>mixed lineage leukemia</italic> protooncogenes", 
     "citations": {
         "bib48": {
@@ -3676,9 +3676,9 @@
     }, 
     "impact-statement": "Arginine methylation regulates mRNA translation of key protooncogenes via an RGG/RG motif-containing protein called Aven.", 
     "elocation-id": "e06234", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06234.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "G-quadruplex", 
@@ -3693,7 +3693,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06234", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

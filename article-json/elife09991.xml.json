@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-38829"
         }, 
@@ -44,7 +44,7 @@
                     "aff3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-18422"
         }, 
@@ -67,7 +67,7 @@
         }, 
         {
             "surname": "Hoegh-Guldberg", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ove", 
             "references": {
                 "affiliation": [
@@ -91,7 +91,7 @@
         }, 
         {
             "surname": "Levy", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Oren", 
             "references": {
                 "affiliation": [
@@ -123,7 +123,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-12-15", 
+    "pub-date": "2015-12-15T00:00:00Z", 
     "title": "Signaling cascades and the importance of moonlight in coral broadcast mass spawning", 
     "citations": {
         "bib9": {
@@ -1204,9 +1204,9 @@
     }, 
     "impact-statement": "Artificial light causes changes to gene expression and cellular signaling cascades that coordinate mass spawning events for a species of coral from the Great Barrier Reef.", 
     "elocation-id": "e09991", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09991.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "coral", 
@@ -1221,7 +1221,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09991", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Media Lab, Massachusetts Institute of Technology, Cambridge, United States"

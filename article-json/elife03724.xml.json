@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16037"
         }, 
@@ -45,7 +45,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16038"
         }, 
@@ -69,7 +69,7 @@
         }, 
         {
             "surname": "Peterson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas", 
             "references": {
                 "affiliation": [
@@ -105,7 +105,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-18", 
+    "pub-date": "2014-11-18T00:00:00Z", 
     "title": "Transposition-mediated DNA re-replication in maize", 
     "citations": {
         "bib39": {
@@ -2597,9 +2597,9 @@
     }, 
     "impact-statement": "Transposition reactions that occur during DNA replication and involve the termini of adjacent transposons can induce genome expansion by re-replication of transposon-flanking sequences.", 
     "elocation-id": "e03724", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03724.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "transposition", 
@@ -2614,7 +2614,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03724", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

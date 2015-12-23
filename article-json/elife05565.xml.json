@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Cheng", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tammy MK", 
             "references": {
                 "competing-interest": [
@@ -162,7 +162,7 @@
         }, 
         {
             "surname": "Bates", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Paul A", 
             "references": {
                 "affiliation": [
@@ -186,7 +186,7 @@
         }, 
         {
             "surname": "Uhlmann", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Frank", 
             "references": {
                 "competing-interest": [
@@ -225,7 +225,7 @@
             "id": "author-1520"
         }
     ], 
-    "pub-date": "2015-04-29", 
+    "pub-date": "2015-04-29T00:00:00Z", 
     "title": "A simple biophysical model emulates budding yeast chromosome condensation", 
     "citations": {
         "bib39": {
@@ -2188,9 +2188,9 @@
     }, 
     "impact-statement": "A computational model of a yeast chromosome, based on first principles, recapitulates in vivo chromosome behavior, and thus provides unprecedented insight into what the inside of a chromosome is likely to look like.", 
     "elocation-id": "e05565", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05565.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "chromosome architecture", 
@@ -2202,7 +2202,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05565", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

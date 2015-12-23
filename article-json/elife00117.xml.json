@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1843"
         }, 
@@ -55,7 +55,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1846"
         }, 
@@ -86,7 +86,7 @@
         }, 
         {
             "surname": "Amon", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Angelika", 
             "references": {
                 "competing-interest": [
@@ -119,7 +119,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-12-18", 
+    "pub-date": "2012-12-18T00:00:00Z", 
     "title": "Meiosis I chromosome segregation is established through regulation of microtubule\u2013kinetochore interactions", 
     "citations": {
         "bib39": {
@@ -1867,9 +1867,9 @@
         }
     ], 
     "elocation-id": "e00117", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00117.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "meiosis", 
@@ -1884,7 +1884,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00117", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors have declared that no competing interests exist"

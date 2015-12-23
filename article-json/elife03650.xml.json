@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15394"
         }, 
@@ -54,7 +54,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15395"
         }, 
@@ -85,7 +85,7 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15396"
         }, 
@@ -112,7 +112,7 @@
         }, 
         {
             "surname": "O'Toole", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "George A", 
             "references": {
                 "competing-interest": [
@@ -141,7 +141,7 @@
         }, 
         {
             "surname": "Sondermann", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Holger", 
             "references": {
                 "competing-interest": [
@@ -183,7 +183,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-02", 
+    "pub-date": "2014-09-02T00:00:00Z", 
     "title": "Mechanistic insight into the conserved allosteric regulation of periplasmic proteolysis by the signaling molecule cyclic-di-GMP", 
     "citations": {
         "bib39": {
@@ -2386,9 +2386,9 @@
     }, 
     "impact-statement": "Structure-function analyses reveal the mechanistic underpinnings of inside-out transmembrane signaling that controls periplasmic proteolysis, and thereby biofilm formation, in bacteria and may be relevant in the context of other signaling proteins with similar control elements.", 
     "elocation-id": "e03650", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03650.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "biofilm formation", 
@@ -2403,7 +2403,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03650", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Molecular Biology Program, Sloan-Kettering Institute, New York, United States", 

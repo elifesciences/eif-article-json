@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15831"
         }, 
@@ -42,7 +42,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15832"
         }, 
@@ -126,7 +126,7 @@
         }, 
         {
             "surname": "Stacey", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Gary", 
             "references": {
                 "affiliation": [
@@ -163,7 +163,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-23", 
+    "pub-date": "2014-10-23T00:00:00Z", 
     "title": "The kinase LYK5 is a major chitin receptor in <italic>Arabidopsis</italic> and forms a chitin-induced complex with related kinase CERK1", 
     "citations": {
         "bib39": {
@@ -2942,9 +2942,9 @@
     }, 
     "impact-statement": "The chitin-triggered immune response is mediated by a LYK5 and CERK1 receptor complex in Arabidopsis.", 
     "elocation-id": "e03766", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03766.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "<italic>Arabidoposis</italic>", 
@@ -2958,7 +2958,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03766", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Plant Pathology, Washington State University, Pullman, United States"

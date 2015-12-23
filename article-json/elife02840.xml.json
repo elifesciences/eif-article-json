@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Werner", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Finn", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-12305"
         }
     ], 
-    "pub-date": "2014-04-22", 
+    "pub-date": "2014-04-22T00:00:00Z", 
     "title": "A new spanner in the works of bacterial transcription", 
     "citations": {
         "bib9": {
@@ -411,9 +411,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02840.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "RNA polymerase", 
@@ -428,7 +428,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02840", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

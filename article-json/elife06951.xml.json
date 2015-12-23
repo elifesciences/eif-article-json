@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29053"
         }, 
@@ -41,7 +41,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29054"
         }, 
@@ -62,13 +62,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29059"
         }, 
         {
             "surname": "Chen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Chuangfu", 
             "references": {
                 "affiliation": [
@@ -89,7 +89,7 @@
         }, 
         {
             "surname": "Ni", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Wei", 
             "references": {
                 "affiliation": [
@@ -249,7 +249,7 @@
         }, 
         {
             "surname": "Ouyang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hongsheng", 
             "references": {
                 "affiliation": [
@@ -282,7 +282,7 @@
             "id": "author-12145"
         }
     ], 
-    "pub-date": "2015-06-19", 
+    "pub-date": "2015-06-19T00:00:00Z", 
     "title": "Transgenic shRNA pigs reduce susceptibility to foot and mouth disease virus infection", 
     "citations": {
         "bib9": {
@@ -1561,9 +1561,9 @@
     }, 
     "impact-statement": "A transgenic small hairpin RNA can provide a viable tool for enhancing resistance to viral infection in livestock and improve animal well-being.", 
     "elocation-id": "e06951", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06951.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "FMDV", 
@@ -1575,7 +1575,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06951", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

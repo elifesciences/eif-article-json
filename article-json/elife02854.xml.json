@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Walter", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Johannes", 
             "role": "Reviewing Editor", 
             "references": {
@@ -33,7 +33,7 @@
             "id": "author-1199"
         }
     ], 
-    "pub-date": "2014-04-29", 
+    "pub-date": "2014-04-29T00:00:00Z", 
     "title": "Molecular watchdogs on genome patrol", 
     "citations": {
         "bib11": {
@@ -394,9 +394,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02854.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Pif1 family helicases", 
@@ -410,7 +410,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02854", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

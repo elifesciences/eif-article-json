@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9255"
         }, 
@@ -41,7 +41,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9346"
         }, 
@@ -118,7 +118,7 @@
         }, 
         {
             "surname": "Hamant", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Olivier", 
             "references": {
                 "affiliation": [
@@ -142,7 +142,7 @@
         }, 
         {
             "surname": "J\u00f6nsson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Henrik", 
             "references": {
                 "affiliation": [
@@ -169,7 +169,7 @@
         }, 
         {
             "surname": "Meyerowitz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Elliot M", 
             "references": {
                 "affiliation": [
@@ -207,7 +207,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-16", 
+    "pub-date": "2014-04-16T00:00:00Z", 
     "title": "Subcellular and supracellular mechanical stress prescribes cytoskeleton behavior in <italic>Arabidopsis</italic> cotyledon pavement cells", 
     "citations": {
         "bib39": {
@@ -2180,9 +2180,9 @@
     }, 
     "impact-statement": "In the Arabidopsis epidermis, the internal mechanical stress of a cell competes with the external stress to control microtubule behavior, providing a framework to understand the mechanical feedbacks that underlie plant morphogenesis.", 
     "elocation-id": "e01967", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01967.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "microtubule", 
@@ -2196,7 +2196,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01967", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

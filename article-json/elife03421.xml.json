@@ -117,7 +117,7 @@
         }, 
         {
             "surname": "Harding", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Heather P", 
             "references": {
                 "affiliation": [
@@ -140,7 +140,7 @@
         }, 
         {
             "surname": "Ron", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "affiliation": [
@@ -179,7 +179,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-29", 
+    "pub-date": "2014-07-29T00:00:00Z", 
     "title": "Intact protein folding in the glutathione-depleted endoplasmic reticulum implicates alternative protein thiol reductants", 
     "citations": {
         "bib39": {
@@ -1446,9 +1446,9 @@
     }, 
     "impact-statement": "Adapting a cytosolic enzyme that breaks down glutathione to function in the lumen of the endoplasmic reticulum challenges the long-held view that reduced glutathione fuels disulfide rearrangements during protein folding.", 
     "elocation-id": "e03421", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03421.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "protein folding", 
@@ -1461,7 +1461,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03421", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

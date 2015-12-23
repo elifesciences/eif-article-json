@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11371"
         }, 
@@ -52,7 +52,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11065"
         }, 
@@ -79,7 +79,7 @@
         }, 
         {
             "surname": "Gatfield", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "competing-interest": [
@@ -123,7 +123,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-27", 
+    "pub-date": "2014-05-27T00:00:00Z", 
     "title": "MicroRNAs shape circadian hepatic gene expression on a transcriptome-wide scale", 
     "citations": {
         "bib48": {
@@ -5082,9 +5082,9 @@
     }, 
     "impact-statement": "In the liver, microRNAs exert widespread functions in the modulation of phases and amplitudes of clock-controlled gene expression, but their influence on the core clock is remarkably mild.", 
     "elocation-id": "e02510", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02510.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "circadian clocks", 
@@ -5097,7 +5097,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02510", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

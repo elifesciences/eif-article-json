@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Williams", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Amy L", 
             "references": {
                 "present-address": [
@@ -295,7 +295,7 @@
             "id": "author-1529"
         }
     ], 
-    "pub-date": "2015-03-25", 
+    "pub-date": "2015-03-25T00:00:00Z", 
     "title": "Non-crossover gene conversions show strong GC bias and unexpected clustering in humans", 
     "citations": {
         "bib39": {
@@ -2610,9 +2610,9 @@
     }, 
     "impact-statement": "In humans, non-crossover gene conversion events transmit GC alleles in 68% of cases and exhibit a complex pattern of multiple disconnected tracts clustered within 20\u201330 kilobase intervals.", 
     "elocation-id": "e04637", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04637.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "recombination", 
@@ -2627,7 +2627,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04637", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biological Statistics and Computational Biology, Cornell University, Ithaca, United States"

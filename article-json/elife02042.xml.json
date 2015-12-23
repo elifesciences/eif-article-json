@@ -75,7 +75,7 @@
         }, 
         {
             "surname": "Henikoff", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steven", 
             "references": {
                 "competing-interest": [
@@ -115,7 +115,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-15", 
+    "pub-date": "2014-04-15T00:00:00Z", 
     "title": "The nucleosomal barrier to promoter escape by RNA polymerase II is overcome by the chromatin remodeler Chd1", 
     "citations": {
         "bib39": {
@@ -2508,9 +2508,9 @@
     }, 
     "impact-statement": "The ATP-dependent chromatin remodeler Chd1 controls nucleosome turnover to allow RNA Polymerase to transcribe in vivo.", 
     "elocation-id": "e02042", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02042.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "transcription", 
@@ -2523,7 +2523,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02042", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

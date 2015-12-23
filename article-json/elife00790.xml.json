@@ -27,7 +27,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3511"
         }, 
@@ -52,7 +52,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3514"
         }, 
@@ -113,7 +113,7 @@
         }, 
         {
             "surname": "Thomma", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Bart PHJ", 
             "references": {
                 "competing-interest": [
@@ -142,13 +142,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3427"
         }, 
         {
             "surname": "Mesters", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jeroen R", 
             "references": {
                 "competing-interest": [
@@ -174,7 +174,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3516"
         }, 
@@ -191,7 +191,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-02", 
+    "pub-date": "2013-07-02T00:00:00Z", 
     "title": "Fungal effector Ecp6 outcompetes host immune receptor for chitin binding through intrachain LysM dimerization", 
     "citations": {
         "bib39": {
@@ -1558,9 +1558,9 @@
     }, 
     "impact-statement": "Structural and biochemical analysis of a protein called Ecp6, which is produced by a tomato fungus, reveals how the protein prevents plants from launching an immune response to the chitin in fungal cell walls.", 
     "elocation-id": "e00790", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00790.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Cladosporium", 
@@ -1574,7 +1574,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00790", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

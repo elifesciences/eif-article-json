@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Jones", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alexander M", 
             "references": {
                 "affiliation": [
@@ -97,7 +97,7 @@
         }, 
         {
             "surname": "Frommer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Wolf B", 
             "references": {
                 "affiliation": [
@@ -132,7 +132,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-15", 
+    "pub-date": "2014-04-15T00:00:00Z", 
     "title": "Abscisic acid dynamics in roots detected with genetically encoded FRET sensors", 
     "citations": {
         "bib124": {
@@ -5619,9 +5619,9 @@
         }
     ], 
     "elocation-id": "e01741", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01741.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "<italic>Saccharomyces cerevisiae</italic>", 
@@ -5636,7 +5636,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01741", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

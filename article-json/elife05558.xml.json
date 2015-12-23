@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Fu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yu", 
             "references": {
                 "competing-interest": [
@@ -26,7 +26,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21590"
         }, 
@@ -50,7 +50,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12370"
         }, 
@@ -93,7 +93,7 @@
         }, 
         {
             "surname": "Stryker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael P", 
             "references": {
                 "affiliation": [
@@ -128,7 +128,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-27", 
+    "pub-date": "2015-01-27T00:00:00Z", 
     "title": "A cortical disinhibitory circuit for enhancing adult plasticity", 
     "citations": {
         "bib39": {
@@ -1517,9 +1517,9 @@
         }
     ], 
     "elocation-id": "e05558", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05558.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "visual cortex", 
@@ -1534,7 +1534,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05558", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

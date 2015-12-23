@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Patterson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "id": "author-1002", 
             "given-names": "Mark", 
             "role": "Executive Director", 
@@ -54,7 +54,7 @@
             "id": "author-1030"
         }
     ], 
-    "pub-date": "2014-08-13", 
+    "pub-date": "2014-08-13T00:00:00Z", 
     "title": "Advancing research", 
     "citations": {
         "bib1": {
@@ -252,9 +252,9 @@
         }
     }, 
     "article-id": "03980", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03980.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "scientific publishing", 
@@ -263,7 +263,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03980", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "DW is employed by the Max Planck Society.", 

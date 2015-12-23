@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Schekman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "id": "author-1032", 
             "given-names": "Randy", 
             "role": "Editor-in-Chief", 
@@ -48,12 +48,12 @@
             "id": "author-1030"
         }
     ], 
-    "pub-date": "2012-10-15", 
+    "pub-date": "2012-10-15T00:00:00Z", 
     "title": "Launching <italic>eLife</italic>, Part 1", 
     "article-id": "00270", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00270.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "publishing", 
@@ -63,7 +63,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00270", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "DW is employed by the Max Planck Society", 

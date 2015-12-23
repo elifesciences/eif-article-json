@@ -20,7 +20,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0001-7706-1096", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21835"
         }, 
@@ -45,7 +45,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0001-7003-188X", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21802"
         }, 
@@ -194,7 +194,7 @@
         }, 
         {
             "surname": "Chua", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John JE", 
             "references": {
                 "affiliation": [
@@ -216,7 +216,7 @@
         }, 
         {
             "surname": "Jahn", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Reinhard", 
             "references": {
                 "affiliation": [
@@ -249,7 +249,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-02", 
+    "pub-date": "2015-02-02T00:00:00Z", 
     "title": "The GTPase Rab26 links synaptic vesicles to the autophagy pathway", 
     "citations": {
         "bib48": {
@@ -9409,9 +9409,9 @@
     }, 
     "impact-statement": "Rab26 selectively directs synaptic and secretory vesicles into preautophagosomal structures, suggesting the presence of a novel pathway (vesiculophagy) for degradation of synaptic vesicles.", 
     "elocation-id": "e05597", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05597.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "synaptic vesicles", 
@@ -9425,7 +9425,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05597", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biochemistry and Molecular Genetics, University of Illinois at Chicago, Ashland, United States", 

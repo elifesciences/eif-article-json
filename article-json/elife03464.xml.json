@@ -47,7 +47,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14453"
         }, 
@@ -73,7 +73,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14454"
         }, 
@@ -473,7 +473,7 @@
         }, 
         {
             "surname": "Silke", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John", 
             "references": {
                 "affiliation": [
@@ -517,7 +517,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-02", 
+    "pub-date": "2014-12-02T00:00:00Z", 
     "title": "TNFR1-dependent cell death drives inflammation in <italic>Sharpin</italic>-deficient mice", 
     "citations": {
         "bib39": {
@@ -3777,9 +3777,9 @@
         }
     ], 
     "elocation-id": "e03464", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03464.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "apoptosis", 
@@ -3794,7 +3794,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03464", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

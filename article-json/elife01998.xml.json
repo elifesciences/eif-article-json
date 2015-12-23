@@ -85,7 +85,7 @@
         }, 
         {
             "surname": "Weis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "William I", 
             "references": {
                 "affiliation": [
@@ -122,7 +122,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-18", 
+    "pub-date": "2014-03-18T00:00:00Z", 
     "title": "Structural basis of GSK-3 inhibition by N-terminal phosphorylation and by the Wnt receptor LRP6", 
     "citations": {
         "bib39": {
@@ -2421,9 +2421,9 @@
     }, 
     "impact-statement": "Phosphorylation of the Wnt receptor LRP6 directly inhibits glycogen synthase kinase-3 by acting as a pseudosubstrate that stabilizes an active conformation of the enzyme, identical to autoinhibition by phosphorylation of its N terminus.", 
     "elocation-id": "e01998", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01998.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "GSK-3", 
@@ -2436,7 +2436,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01998", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

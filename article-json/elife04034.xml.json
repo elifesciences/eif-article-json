@@ -37,7 +37,7 @@
             }
         }, 
         {
-            "corresp": "yes", 
+            "corresp": true, 
             "type": "author", 
             "group-author-key": "group-author-id1", 
             "references": {
@@ -134,7 +134,7 @@
             ]
         }
     ], 
-    "pub-date": "2014-12-10", 
+    "pub-date": "2014-12-10T00:00:00Z", 
     "title": "Registered report: Tumour micro-environment elicits innate resistance to RAF inhibitors through HGF secretion", 
     "citations": {
         "bib11": {
@@ -904,9 +904,9 @@
         }
     }, 
     "article-id": "04034", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04034.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Reproducibility Project: Cancer Biology", 
@@ -918,7 +918,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04034", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

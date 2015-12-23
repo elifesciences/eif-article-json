@@ -172,7 +172,7 @@
         }, 
         {
             "surname": "Jansen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Lars ET", 
             "references": {
                 "affiliation": [
@@ -210,7 +210,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-15", 
+    "pub-date": "2014-07-15T00:00:00Z", 
     "title": "The quantitative architecture of centromeric chromatin", 
     "citations": {
         "bib48": {
@@ -3433,9 +3433,9 @@
     }, 
     "impact-statement": "The number of CENP-A molecules at human centromeres helps to explain how this structure is built and epigenetically inherited.", 
     "elocation-id": "e02137", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02137.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "centromere", 
@@ -3450,7 +3450,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02137", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Baker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Adam P", 
             "references": {
                 "affiliation": [
@@ -134,7 +134,7 @@
         }, 
         {
             "surname": "Woolrich", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Mark", 
             "references": {
                 "affiliation": [
@@ -172,7 +172,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-25", 
+    "pub-date": "2014-03-25T00:00:00Z", 
     "title": "Fast transient networks in spontaneous human brain activity", 
     "citations": {
         "bib39": {
@@ -2275,16 +2275,16 @@
     }, 
     "impact-statement": "Non-invasive MEG recordings reveal that patterns of spontaneous activity in the resting brain are shorter lived than previously thought.", 
     "elocation-id": "e01867", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01867.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "research-organism": [
             "human"
         ]
     }, 
     "doi": "10.7554/eLife.01867", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "The Schlumberger Gould Research Center, Cambridge, United Kingdom"

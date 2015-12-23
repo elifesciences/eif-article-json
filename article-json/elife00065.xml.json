@@ -241,7 +241,7 @@
         }, 
         {
             "surname": "Kliewer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steven A", 
             "references": {
                 "affiliation": [
@@ -266,7 +266,7 @@
         }, 
         {
             "surname": "Mangelsdorf", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David J", 
             "references": {
                 "affiliation": [
@@ -303,7 +303,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-10-15", 
+    "pub-date": "2012-10-15T00:00:00Z", 
     "title": "The starvation hormone, fibroblast growth factor-21, extends lifespan in mice", 
     "citations": {
         "bib9": {
@@ -1400,9 +1400,9 @@
         }
     ], 
     "elocation-id": "e00065", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00065.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "longevity", 
@@ -1416,7 +1416,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00065", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors have declared that no competing interests exist"

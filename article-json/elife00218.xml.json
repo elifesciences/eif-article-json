@@ -27,7 +27,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2205"
         }, 
@@ -56,7 +56,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2206"
         }, 
@@ -117,7 +117,7 @@
         }, 
         {
             "surname": "Vonck", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Janet", 
             "references": {
                 "competing-interest": [
@@ -157,7 +157,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-03-05", 
+    "pub-date": "2013-03-05T00:00:00Z", 
     "title": "De novo modeling of the F<sub>420</sub>-reducing [NiFe]-hydrogenase from a methanogenic archaeon by cryo-electron microscopy", 
     "citations": {
         "bib39": {
@@ -1933,9 +1933,9 @@
     }, 
     "impact-statement": "The structure of a large hydrogenase complex involved in the production of methane by microbes has been determined with cryo-electron microscopy.", 
     "elocation-id": "e00218", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00218.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Methanothermobacter marburgensis", 
@@ -1948,7 +1948,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00218", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical School, Boston, MA, United States"

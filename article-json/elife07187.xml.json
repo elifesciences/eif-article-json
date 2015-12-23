@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29860"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29861"
         }, 
@@ -132,7 +132,7 @@
         }, 
         {
             "surname": "Carlos Pastor-Pareja", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jos\u00e9", 
             "references": {
                 "affiliation": [
@@ -171,7 +171,7 @@
             "id": "author-1348"
         }
     ], 
-    "pub-date": "2015-06-19", 
+    "pub-date": "2015-06-19T00:00:00Z", 
     "title": "Plasma membrane overgrowth causes fibrotic collagen accumulation and immune activation in <italic>Drosophila</italic> adipocytes", 
     "citations": {
         "bib39": {
@@ -2882,9 +2882,9 @@
     }, 
     "impact-statement": "Excess membrane can trap outgoing extracellular matrix proteins in secreting cells, leading to pericellular deposits that cause tissue damage.", 
     "elocation-id": "e07187", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07187.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "extracellular matrix", 
@@ -2896,7 +2896,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07187", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

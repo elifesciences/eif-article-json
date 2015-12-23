@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Ciferri", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Claudio", 
             "references": {
                 "affiliation": [
@@ -110,7 +110,7 @@
         }, 
         {
             "surname": "Nogales", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eva", 
             "references": {
                 "affiliation": [
@@ -148,7 +148,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-10-30", 
+    "pub-date": "2012-10-30T00:00:00Z", 
     "title": "Molecular architecture of human polycomb repressive complex 2", 
     "citations": {
         "bib39": {
@@ -1512,9 +1512,9 @@
     }, 
     "impact-statement": "Electron microscopy has been used to produce the first three-dimensional image of the PRC2 gene-silencing complex.", 
     "elocation-id": "e00005", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00005.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "cryo-EM", 
@@ -1528,7 +1528,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00005", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Novartis Vaccines and Diagnostics, Cambridge, United States"

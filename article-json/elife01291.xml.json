@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Bennett", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jean", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-5242"
         }
     ], 
-    "pub-date": "2013-08-27", 
+    "pub-date": "2013-08-27T00:00:00Z", 
     "title": "Stem cells set their sights on retinitis pigmentosa", 
     "citations": {
         "bib11": {
@@ -441,9 +441,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01291.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "ophthalmology", 
@@ -459,7 +459,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01291", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

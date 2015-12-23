@@ -28,7 +28,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-5766-0873", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-18425"
         }, 
@@ -57,7 +57,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-18426"
         }, 
@@ -111,7 +111,7 @@
         }, 
         {
             "surname": "L\u00f6we", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jan", 
             "references": {
                 "competing-interest": [
@@ -151,7 +151,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-09", 
+    "pub-date": "2014-12-09T00:00:00Z", 
     "title": "Architecture of the ring formed by the tubulin homologue FtsZ in bacterial cell division", 
     "citations": {
         "bib39": {
@@ -1607,9 +1607,9 @@
     }, 
     "impact-statement": "The architecture of the bacterial cytokinetic ring in cells and in artificial liposome reconstitutions has been described using electron microscopy, leading to a mechanism of constriction.", 
     "elocation-id": "e04601", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04601.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "bacterial cytoskeleton", 
@@ -1624,7 +1624,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04601", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

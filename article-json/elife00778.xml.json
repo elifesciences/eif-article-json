@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4813"
         }, 
@@ -48,7 +48,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4814"
         }, 
@@ -97,7 +97,7 @@
         }, 
         {
             "surname": "Groves", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jay T", 
             "references": {
                 "affiliation": [
@@ -133,7 +133,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-03", 
+    "pub-date": "2013-07-03T00:00:00Z", 
     "title": "Direct single molecule measurement of TCR triggering by agonist pMHC in living primary T cells", 
     "citations": {
         "bib38": {
@@ -1705,9 +1705,9 @@
     }, 
     "impact-statement": "Quantitative observations of single-molecule binding between antigen and T cell receptor (TCR) in living primary T cells reveals unbinding kinetics, stoichiometry and signaling molecule recruitment, providing insights into the mechanisms of antigen recognition by the immune system.", 
     "elocation-id": "e00778", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00778.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "TCR triggering", 
@@ -1719,7 +1719,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00778", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

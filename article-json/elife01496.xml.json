@@ -79,7 +79,7 @@
         }, 
         {
             "surname": "Nelson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nathan", 
             "references": {
                 "competing-interest": [
@@ -119,7 +119,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-01-28", 
+    "pub-date": "2014-01-28T00:00:00Z", 
     "title": "Crystal structures of virus-like photosystem I complexes from the mesophilic cyanobacterium <italic>Synechocystis</italic> PCC 6803", 
     "citations": {
         "bib39": {
@@ -1947,9 +1947,9 @@
     }, 
     "impact-statement": "The structure of the photosystem I (PSI) complex from <italic>Synechocystis</italic> is determined, and reaction center subunits engineered to resemble a viral PSI are found to promote promiscuous electron acceptor properties.", 
     "elocation-id": "e01496", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01496.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cyanobacteria", 
@@ -1963,7 +1963,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01496", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

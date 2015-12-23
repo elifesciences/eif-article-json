@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Mendell", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joshua T", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-5438"
         }
     ], 
-    "pub-date": "2013-10-15", 
+    "pub-date": "2013-10-15T00:00:00Z", 
     "title": "When 19 is greater than 92", 
     "citations": {
         "bib10": {
@@ -418,9 +418,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01514.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "microRNAs", 
@@ -434,7 +434,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01514", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

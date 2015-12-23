@@ -93,7 +93,7 @@
         }, 
         {
             "surname": "Zamir", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eli", 
             "references": {
                 "affiliation": [
@@ -128,7 +128,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-03", 
+    "pub-date": "2014-06-03T00:00:00Z", 
     "title": "Symmetric exchange of multi-protein building blocks between stationary focal adhesions and the cytosol", 
     "citations": {
         "bib39": {
@@ -1428,9 +1428,9 @@
     }, 
     "impact-statement": "In the cytosol, the proteins constituting cell-matrix adhesion sites form multi-protein building blocks which enter and leave these sites unaltered, thereby contributing to their rapid and correct self-assembly.", 
     "elocation-id": "e02257", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02257.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "integrin adhesome", 
@@ -1445,7 +1445,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02257", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Cell Biology and Biophysics Unit, European Molecular Biology Laboratory, Heidelberg, Germany", 

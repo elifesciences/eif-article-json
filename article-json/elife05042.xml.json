@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Dubrulle", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Julien", 
             "references": {
                 "affiliation": [
@@ -58,7 +58,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19981"
         }, 
@@ -79,7 +79,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19982"
         }, 
@@ -123,7 +123,7 @@
         }, 
         {
             "surname": "Schier", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alexander F", 
             "references": {
                 "affiliation": [
@@ -163,7 +163,7 @@
             "id": "author-1725"
         }
     ], 
-    "pub-date": "2015-04-14", 
+    "pub-date": "2015-04-14T00:00:00Z", 
     "title": "Response to Nodal morphogen gradient is determined by the kinetics of target gene induction", 
     "citations": {
         "bib48": {
@@ -3583,9 +3583,9 @@
     }, 
     "impact-statement": "A kinetic model of morphogen interpretation is more suitable than classic threshold or ratchet models to understand how a signal gradient generates different target gene expression patterns.", 
     "elocation-id": "e05042", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05042.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "morphogen gradient", 
@@ -3598,7 +3598,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05042", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-36882"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-44177"
         }, 
@@ -338,7 +338,7 @@
         }, 
         {
             "surname": "Yrlid", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ulf", 
             "references": {
                 "affiliation": [
@@ -365,7 +365,7 @@
         }, 
         {
             "surname": "Kohler", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jennifer J", 
             "references": {
                 "affiliation": [
@@ -403,7 +403,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-29", 
+    "pub-date": "2015-10-29T00:00:00Z", 
     "title": "Fucosylation and protein glycosylation create functional receptors for cholera toxin", 
     "citations": {
         "bib39": {
@@ -2582,9 +2582,9 @@
     }, 
     "impact-statement": "Cholera intoxication of human colonic epithelial cells is dependent on recognition of protein glycosylation and fucosylation, not exclusively on ganglioside recognition as proposed previously.", 
     "elocation-id": "e09545", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09545.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "glycoprotein", 
@@ -2599,7 +2599,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09545", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "National Institute of Diabetes and Digestive and Kidney Diseases, National Institutes of Health, Bethesda, United States"

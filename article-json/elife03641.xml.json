@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Yizhak", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Keren", 
             "references": {
                 "competing-interest": [
@@ -28,7 +28,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14936"
         }, 
@@ -52,7 +52,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15176"
         }, 
@@ -145,13 +145,13 @@
                     "equal-contrib2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15181"
         }, 
         {
             "surname": "Ruppin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eytan", 
             "references": {
                 "competing-interest": [
@@ -176,7 +176,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15182"
         }, 
@@ -193,7 +193,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-21", 
+    "pub-date": "2014-11-21T00:00:00Z", 
     "title": "Phenotype-based cell-specific metabolic modeling reveals metabolic liabilities of cancer", 
     "citations": {
         "bib39": {
@@ -3170,9 +3170,9 @@
     }, 
     "impact-statement": "Genome-scale metabolic modeling of individual cancer cells and healthy human cells identifies specific and selective metabolic vulnerabilities.", 
     "elocation-id": "e03641", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03641.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "genome-scale metabolic modeling", 
@@ -3185,7 +3185,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03641", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19726"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19727"
         }, 
@@ -140,7 +140,7 @@
         }, 
         {
             "surname": "Lamia", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Katja A", 
             "references": {
                 "affiliation": [
@@ -179,7 +179,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-03-10", 
+    "pub-date": "2015-03-10T00:00:00Z", 
     "title": "DNA damage shifts circadian clock time via Hausp-dependent Cry1 stabilization", 
     "citations": {
         "bib39": {
@@ -3455,9 +3455,9 @@
     }, 
     "impact-statement": "The circadian clock proteins, cryptochrome 1 (Cry1) and 2 (Cry2), evolved from bacterial light-activated DNA repair enzymes to detect DNA damage and coordinate the gene expression response.", 
     "elocation-id": "e04883", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04883.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "circadian rhythm", 
@@ -3472,7 +3472,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04883", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

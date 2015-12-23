@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-22191"
         }, 
@@ -43,13 +43,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-22192"
         }, 
         {
             "surname": "Yu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Xiaochun", 
             "references": {
                 "competing-interest": [
@@ -91,7 +91,7 @@
             "id": "author-3033"
         }
     ], 
-    "pub-date": "2015-03-19", 
+    "pub-date": "2015-03-19T00:00:00Z", 
     "title": "The zinc finger proteins ZNF644 and WIZ regulate the G9a/GLP complex for gene repression", 
     "citations": {
         "bib9": {
@@ -1728,9 +1728,9 @@
     }, 
     "impact-statement": "Repression of gene expression by the histone methyltransferase G9a is guided by two zinc finger proteins that can recognize consensus sequences in DNA.", 
     "elocation-id": "e05606", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05606.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "G9a", 
@@ -1743,7 +1743,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05606", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

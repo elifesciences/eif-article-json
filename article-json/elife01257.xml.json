@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Lareau", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Liana F", 
             "references": {
                 "present-address": [
@@ -33,7 +33,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13459"
         }, 
@@ -61,7 +61,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6693"
         }, 
@@ -124,7 +124,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-09", 
+    "pub-date": "2014-05-09T00:00:00Z", 
     "title": "Distinct stages of the translation elongation cycle revealed by sequencing ribosome-protected mRNA fragments", 
     "citations": {
         "bib39": {
@@ -1352,9 +1352,9 @@
     }, 
     "impact-statement": "The size of the mRNA fragment protected by a ribosome depends on the ribosome's conformation, which enables studies of the distinct steps of decoding and translocation at single-codon resolution.", 
     "elocation-id": "e01257", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01257.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "ribosome profiling", 
@@ -1366,7 +1366,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01257", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "California Institute for Quantitative Biosciences, University of California, Berkeley, United States"

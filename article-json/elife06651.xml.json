@@ -24,7 +24,7 @@
         }, 
         {
             "surname": "Lazar", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Aurel A", 
             "references": {
                 "affiliation": [
@@ -77,7 +77,7 @@
             "id": "author-1056"
         }
     ], 
-    "pub-date": "2015-05-14", 
+    "pub-date": "2015-05-14T00:00:00Z", 
     "title": "Projection neurons in <italic>Drosophila</italic> antennal lobes signal the acceleration of odor concentrations", 
     "citations": {
         "bib9": {
@@ -836,9 +836,9 @@
     }, 
     "impact-statement": "Neurons in the fruit fly olfactory system respond most strongly to the sudden appearance of an odor, and to odors that are changing rapidly in strength, but are relatively insensitive to the absolute levels of an odor.", 
     "elocation-id": "e06651", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06651.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "olfactory sensory neurons", 
@@ -853,7 +853,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06651", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "The Rockefeller University, New York, United States"

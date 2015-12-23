@@ -105,7 +105,7 @@
         }, 
         {
             "surname": "Tanimoto", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hiromu", 
             "references": {
                 "affiliation": [
@@ -149,7 +149,7 @@
             "id": "author-1097"
         }
     ], 
-    "pub-date": "2015-11-17", 
+    "pub-date": "2015-11-17T00:00:00Z", 
     "title": "Reward signal in a recurrent circuit drives appetitive long-term memory formation", 
     "citations": {
         "bib39": {
@@ -2917,9 +2917,9 @@
     }, 
     "impact-statement": "A recurrent reward circuit in <italic>Drosophila</italic>, comprised of specific dopamine neurons and a single class of mushroom body output neurons, transforms a nascent memory trace into a stable long-term memory.", 
     "elocation-id": "e10719", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "10719.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "behavioral genetics", 
@@ -2931,7 +2931,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.10719", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

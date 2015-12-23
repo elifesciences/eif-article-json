@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5863"
         }, 
@@ -50,7 +50,7 @@
                     "aff1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30151"
         }, 
@@ -96,7 +96,7 @@
         }, 
         {
             "surname": "Raff", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jordan W", 
             "references": {
                 "affiliation": [
@@ -120,7 +120,7 @@
         }, 
         {
             "surname": "Lea", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Susan M", 
             "references": {
                 "competing-interest": [
@@ -160,7 +160,7 @@
             "id": "author-1110"
         }
     ], 
-    "pub-date": "2015-05-23", 
+    "pub-date": "2015-05-23T00:00:00Z", 
     "title": "The homo-oligomerisation of both Sas-6 and Ana2 is required for efficient centriole assembly in flies", 
     "citations": {
         "bib39": {
@@ -3381,9 +3381,9 @@
         }
     ], 
     "elocation-id": "e07236", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07236.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "centriole", 
@@ -3399,7 +3399,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07236", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Division of Cell Biology, MRC-Laboratory of Molecular Biology, Cambridge, United Kingdom"

@@ -58,7 +58,7 @@
         }, 
         {
             "surname": "Ryan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Timothy A", 
             "references": {
                 "affiliation": [
@@ -91,7 +91,7 @@
             "id": "author-1071"
         }
     ], 
-    "pub-date": "2015-07-21", 
+    "pub-date": "2015-07-21T00:00:00Z", 
     "title": "The active-zone protein Munc13 controls the use-dependence of presynaptic voltage-gated calcium channels", 
     "citations": {
         "bib39": {
@@ -1526,9 +1526,9 @@
     }, 
     "impact-statement": "Munc13, a protein that is essential for exocytosis, controls the behavior of voltage gated calcium channels and shapes synaptic plasticity on fast time scales.", 
     "elocation-id": "e07728", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07728.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Munc13", 
@@ -1540,7 +1540,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07728", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

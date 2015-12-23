@@ -31,7 +31,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2464"
         }, 
@@ -60,7 +60,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2572"
         }, 
@@ -293,7 +293,7 @@
         }, 
         {
             "surname": "Belmont", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John W", 
             "references": {
                 "competing-interest": [
@@ -360,7 +360,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-16", 
+    "pub-date": "2013-07-16T00:00:00Z", 
     "title": "Integrative genomic analysis of the human immune response to influenza vaccination", 
     "citations": {
         "bib9": {
@@ -1356,9 +1356,9 @@
         }
     ], 
     "elocation-id": "e00299", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00299.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Complex-trait genetics", 
@@ -1373,7 +1373,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00299", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Public Health, University of Alabama at Birmingham, Birmingham, United States"

@@ -27,7 +27,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-33544"
         }, 
@@ -48,7 +48,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-34322"
         }, 
@@ -108,7 +108,7 @@
         }, 
         {
             "surname": "Halassa", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael M", 
             "references": {
                 "competing-interest": [
@@ -130,13 +130,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-27867"
         }, 
         {
             "surname": "Brown", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Emery N", 
             "references": {
                 "competing-interest": [
@@ -162,7 +162,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6386"
         }, 
@@ -179,7 +179,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-13", 
+    "pub-date": "2015-10-13T00:00:00Z", 
     "title": "Thalamic reticular nucleus induces fast and local modulation of arousal state", 
     "citations": {
         "bib39": {
@@ -2379,9 +2379,9 @@
     }, 
     "impact-statement": "A neural circuit that can selectively induce sleep-like patterns in small regions of the brain demonstrates how sleep and arousal states may be controlled in local brain regions.", 
     "elocation-id": "e08760", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08760.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "electrophysiology", 
@@ -2396,7 +2396,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08760", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "ENB: Reviewing editor, <italic>eLife</italic>.", 

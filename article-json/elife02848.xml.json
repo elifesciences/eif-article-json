@@ -109,7 +109,7 @@
         }, 
         {
             "surname": "Ryder", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sean P", 
             "references": {
                 "affiliation": [
@@ -145,7 +145,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-16", 
+    "pub-date": "2014-06-16T00:00:00Z", 
     "title": "Allosteric inhibition of a stem cell RNA-binding protein by an intermediary metabolite", 
     "citations": {
         "bib48": {
@@ -4144,9 +4144,9 @@
     }, 
     "impact-statement": "The RNA-binding protein MSI1, which is required for stem cell and cancer cell proliferation in the brain and epithelial tissues, also directly senses the concentration of long non-esterified omega-9 fatty acids.", 
     "elocation-id": "e02848", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02848.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "RNA-binding protein", 
@@ -4161,7 +4161,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02848", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

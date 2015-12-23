@@ -30,7 +30,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7163"
         }, 
@@ -61,7 +61,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14989"
         }, 
@@ -91,7 +91,7 @@
         }, 
         {
             "surname": "Yildiz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "\u00d6zkan", 
             "references": {
                 "competing-interest": [
@@ -120,7 +120,7 @@
         }, 
         {
             "surname": "K\u00fchlbrandt", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Werner", 
             "references": {
                 "competing-interest": [
@@ -163,7 +163,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-26", 
+    "pub-date": "2014-11-26T00:00:00Z", 
     "title": "Structure and transport mechanism of the sodium/proton antiporter MjNhaP1", 
     "citations": {
         "bib39": {
@@ -1676,9 +1676,9 @@
     }, 
     "impact-statement": "The inward-open and outward-open structures of MjNhaP1 explain the mechanism of electroneutral sodium-proton antiport across the cell membrane.", 
     "elocation-id": "e03583", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03583.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Methanocaldococcus jannaschii", 
@@ -1693,7 +1693,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03583", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

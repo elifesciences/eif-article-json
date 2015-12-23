@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Warren", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robin M", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-20774"
         }
     ], 
-    "pub-date": "2015-03-03", 
+    "pub-date": "2015-03-03T00:00:00Z", 
     "title": "Fighting an old disease with next-generation sequencing", 
     "citations": {
         "bib1": {
@@ -366,9 +366,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06782.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "tuberculosis", 
@@ -380,7 +380,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06782", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

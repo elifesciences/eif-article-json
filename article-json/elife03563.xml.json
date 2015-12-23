@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14959"
         }, 
@@ -46,13 +46,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14960"
         }, 
         {
             "surname": "Cech", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas R", 
             "references": {
                 "affiliation": [
@@ -88,7 +88,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-01", 
+    "pub-date": "2014-10-01T00:00:00Z", 
     "title": "Identification of human TERT elements necessary for telomerase recruitment to telomeres", 
     "citations": {
         "bib39": {
@@ -1717,9 +1717,9 @@
     }, 
     "impact-statement": "The TEN-domain of human telomerase mediates the direct interaction with TPP1 to drive telomerase recruitment to telomeres.", 
     "elocation-id": "e03563", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03563.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "telomerase", 
@@ -1733,7 +1733,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03563", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

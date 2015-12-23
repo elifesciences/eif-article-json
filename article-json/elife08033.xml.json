@@ -36,7 +36,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32314"
         }, 
@@ -60,13 +60,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32315"
         }, 
         {
             "surname": "Rieke", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Fred", 
             "references": {
                 "affiliation": [
@@ -103,7 +103,7 @@
             "id": "author-1056"
         }
     ], 
-    "pub-date": "2015-06-22", 
+    "pub-date": "2015-06-22T00:00:00Z", 
     "title": "A simple retinal mechanism contributes to perceptual interactions between rod- and cone-mediated responses in primates", 
     "citations": {
         "bib9": {
@@ -651,9 +651,9 @@
     }, 
     "impact-statement": "A combination of physiological and perceptual experiments show that the responses of rod photoreceptors inhibit those of cones more than vice versa, and reveal both the site of the retinal interaction and the underlying mechanism.", 
     "elocation-id": "e08033", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08033.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "parallel processing", 
@@ -667,7 +667,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08033", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

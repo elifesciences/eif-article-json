@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21598"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-28180"
         }, 
@@ -94,7 +94,7 @@
         }, 
         {
             "surname": "Smith", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "William C", 
             "references": {
                 "affiliation": [
@@ -130,7 +130,7 @@
             "id": "author-1027"
         }
     ], 
-    "pub-date": "2015-04-13", 
+    "pub-date": "2015-04-13T00:00:00Z", 
     "title": "Reciprocal and dynamic polarization of planar cell polarity core components and myosin", 
     "citations": {
         "bib39": {
@@ -1815,9 +1815,9 @@
     }, 
     "impact-statement": "Planar cell polarity (PCP) components and myosin show a parallel temporal polarization in the <italic>Ciona</italic> notochord and the mutual interaction between these proteins is required for proper tissue-wide polarity.", 
     "elocation-id": "e05361", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05361.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Ciona", 
@@ -1829,7 +1829,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05361", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

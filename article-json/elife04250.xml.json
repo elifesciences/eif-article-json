@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Jonas", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eric", 
             "references": {
                 "competing-interest": [
@@ -66,7 +66,7 @@
             "id": "author-14764"
         }
     ], 
-    "pub-date": "2015-04-30", 
+    "pub-date": "2015-04-30T00:00:00Z", 
     "title": "Automatic discovery of cell types and microcircuitry from neural connectomics", 
     "citations": {
         "bib8": {
@@ -912,9 +912,9 @@
     }, 
     "impact-statement": "An algorithm for analysing brain connectivity data identifies cell types and connections in simple (<italic>C. elegans</italic>) and complex (mouse) nervous systems, and can even resolve structure and connectivity in a man-made microprocessor.", 
     "elocation-id": "e04250", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04250.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "connectomics", 
@@ -927,7 +927,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04250", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

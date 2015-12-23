@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14101"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14102"
         }, 
@@ -185,7 +185,7 @@
         }, 
         {
             "surname": "Locasale", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jason W", 
             "references": {
                 "affiliation": [
@@ -225,7 +225,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-09", 
+    "pub-date": "2014-07-09T00:00:00Z", 
     "title": "Quantitative determinants of aerobic glycolysis identify flux through the enzyme GAPDH as a limiting step", 
     "citations": {
         "bib39": {
@@ -2030,9 +2030,9 @@
     }, 
     "impact-statement": "A new computational model of the Warburg Effect reveals that the rate-limiting step of glycolysis is variable, identifies new control mechanisms, and could help to predict the responses to targeting glycolysis to treat cancer.", 
     "elocation-id": "e03342", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03342.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "metabolism", 
@@ -2047,7 +2047,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03342", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

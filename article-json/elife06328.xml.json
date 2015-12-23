@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32501"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32502"
         }, 
@@ -269,7 +269,7 @@
         }, 
         {
             "surname": "Shimizu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Takao", 
             "references": {
                 "affiliation": [
@@ -308,7 +308,7 @@
             "id": "author-1065"
         }
     ], 
-    "pub-date": "2015-04-21", 
+    "pub-date": "2015-04-21T00:00:00Z", 
     "title": "Fatty acid remodeling by LPCAT3 enriches arachidonate in phospholipid membranes and regulates triglyceride transport", 
     "citations": {
         "bib39": {
@@ -2492,9 +2492,9 @@
     }, 
     "impact-statement": "LPCAT3 incorporates arachidonic acid into membrane phospholipids, which promotes lipoprotein assembly by enabling triacylgylcerols to cluster in the membrane.", 
     "elocation-id": "e06328", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06328.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "arachidonic acid", 
@@ -2508,7 +2508,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06328", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "SMT: Department of Lipidomics, the University of Tokyo is financially supported by Shimadzu Co., and ONO Phamraceutical Col. Ltd.", 

@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20390"
         }, 
@@ -45,7 +45,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20391"
         }, 
@@ -68,7 +68,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-4841-9949", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16372"
         }, 
@@ -153,7 +153,7 @@
         }, 
         {
             "surname": "Nogales", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eva", 
             "references": {
                 "affiliation": [
@@ -180,7 +180,7 @@
         }, 
         {
             "surname": "Hurley", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "James H", 
             "references": {
                 "affiliation": [
@@ -217,7 +217,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-09", 
+    "pub-date": "2014-12-09T00:00:00Z", 
     "title": "Architecture and dynamics of the autophagic phosphatidylinositol 3-kinase complex", 
     "citations": {
         "bib39": {
@@ -2334,9 +2334,9 @@
     }, 
     "impact-statement": "The first three-dimensional structure of the PI3KC3 complex I, which is involved in autophagy, provides a framework for understanding the allosteric regulation of lipid kinase activity.", 
     "elocation-id": "e05115", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05115.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "autophagy", 
@@ -2350,7 +2350,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05115", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Laboratory of Signal Transduction, National Institute of Environmental Health Sciences, Department of Health and Human Services, National Institutes of Health, Bethesda, United States"

@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16155"
         }, 
@@ -43,13 +43,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16156"
         }, 
         {
             "surname": "Griffith", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Leslie C", 
             "references": {
                 "affiliation": [
@@ -84,7 +84,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-07", 
+    "pub-date": "2015-01-07T00:00:00Z", 
     "title": "A single pair of neurons links sleep to memory consolidation in <italic>Drosophila melanogaster</italic>", 
     "citations": {
         "bib48": {
@@ -3704,9 +3704,9 @@
     }, 
     "impact-statement": "Dorsal paired medial neurons, which are required for memory consolidation, promote sleep by inhibiting the excitation of mushroom body neurons.", 
     "elocation-id": "e03868", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03868.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "learning and memory", 
@@ -3718,7 +3718,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03868", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

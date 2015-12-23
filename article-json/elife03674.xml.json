@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15562"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15563"
         }, 
@@ -83,7 +83,7 @@
         }, 
         {
             "surname": "Takahashi", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joseph S", 
             "references": {
                 "affiliation": [
@@ -109,7 +109,7 @@
         }, 
         {
             "surname": "Green", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Carla B", 
             "references": {
                 "affiliation": [
@@ -133,7 +133,7 @@
         }, 
         {
             "surname": "Zheng", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ning", 
             "references": {
                 "affiliation": [
@@ -170,7 +170,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-15", 
+    "pub-date": "2014-08-15T00:00:00Z", 
     "title": "Molecular assembly of the period-cryptochrome circadian transcriptional repressor complex", 
     "citations": {
         "bib9": {
@@ -1717,9 +1717,9 @@
     }, 
     "impact-statement": "X-ray crystallography reveals the structural framework for understanding the function of mammalian transcriptional repression in the cellular circadian clock.", 
     "elocation-id": "e03674", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03674.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "circadian rhythm", 
@@ -1731,7 +1731,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03674", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

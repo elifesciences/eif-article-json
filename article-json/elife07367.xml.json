@@ -109,7 +109,7 @@
         }, 
         {
             "surname": "Corbett", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Kevin D", 
             "references": {
                 "competing-interest": [
@@ -155,7 +155,7 @@
             "id": "author-1054"
         }
     ], 
-    "pub-date": "2015-04-28", 
+    "pub-date": "2015-04-28T00:00:00Z", 
     "title": "TRIP13 is a protein-remodeling AAA+ ATPase that catalyzes MAD2 conformation switching", 
     "citations": {
         "bib48": {
@@ -3264,9 +3264,9 @@
     }, 
     "impact-statement": "TRIP13 inactivates the spindle assembly checkpoint by converting MAD2 from its active \u2018closed\u2019 state to its inactive \u2018open\u2019 state.", 
     "elocation-id": "e07367", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07367.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "spindle assembly checkpoint", 
@@ -3279,7 +3279,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07367", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

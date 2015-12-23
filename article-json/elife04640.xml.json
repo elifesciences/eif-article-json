@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Korkut", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Anil", 
             "references": {
                 "competing-interest": [
@@ -33,7 +33,7 @@
         }, 
         {
             "surname": "Wang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Weiqing", 
             "references": {
                 "competing-interest": [
@@ -224,7 +224,7 @@
         }, 
         {
             "surname": "Sander", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Chris", 
             "references": {
                 "competing-interest": [
@@ -266,7 +266,7 @@
             "id": "author-16436"
         }
     ], 
-    "pub-date": "2015-08-18", 
+    "pub-date": "2015-08-18T00:00:00Z", 
     "title": "Perturbation biology nominates upstream\u2013downstream drug combinations in RAF inhibitor resistant melanoma cells", 
     "citations": {
         "bib39": {
@@ -5818,9 +5818,9 @@
     }, 
     "impact-statement": "Data-driven systems biology models of signaling predict cellular response to untested perturbations and can nominate drug combinations to overcome drug resistance in cancer cells.", 
     "elocation-id": "e04640", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04640.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "network modeling", 
@@ -5835,7 +5835,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04640", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

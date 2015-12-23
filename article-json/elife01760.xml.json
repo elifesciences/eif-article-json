@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Brickman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joshua M", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-4800"
         }
     ], 
-    "pub-date": "2013-11-26", 
+    "pub-date": "2013-11-26T00:00:00Z", 
     "title": "Survival of the fattest", 
     "citations": {
         "bib11": {
@@ -423,9 +423,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01760.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Cell fate choice", 
@@ -440,7 +440,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01760", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

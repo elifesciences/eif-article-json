@@ -140,7 +140,7 @@
         }, 
         {
             "surname": "Torres", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Eduardo M", 
             "references": {
                 "competing-interest": [
@@ -181,7 +181,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-29", 
+    "pub-date": "2014-07-29T00:00:00Z", 
     "title": "Quantitative proteomic analysis reveals posttranslational responses to aneuploidy in yeast", 
     "citations": {
         "bib39": {
@@ -2529,9 +2529,9 @@
     }, 
     "impact-statement": "Aneuploidy produces a protein expression signature characteristic of altered metabolism and redox homeostasis, and the loss of UBP6 ameliorates several aneuploidy-associated phenotypes.", 
     "elocation-id": "e03023", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03023.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "aneuploidy", 
@@ -2544,7 +2544,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03023", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

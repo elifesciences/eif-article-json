@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Wilson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "dept": "Laboratory of Structural Biology, National Institute of Environmental Health Sciences", 
@@ -27,7 +27,7 @@
             "id": "author-9831"
         }
     ], 
-    "pub-date": "2014-05-20", 
+    "pub-date": "2014-05-20T00:00:00Z", 
     "title": "The dark side of DNA repair", 
     "citations": {
         "bib1": {
@@ -356,9 +356,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03068.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "DNA repair", 
@@ -371,7 +371,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03068", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

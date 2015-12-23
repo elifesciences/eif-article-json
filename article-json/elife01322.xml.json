@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7403"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7404"
         }, 
@@ -220,7 +220,7 @@
         }, 
         {
             "surname": "Cox", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael M", 
             "references": {
                 "affiliation": [
@@ -255,7 +255,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-04", 
+    "pub-date": "2014-03-04T00:00:00Z", 
     "title": "Evolution of extreme resistance to ionizing radiation via genetic adaptation of DNA repair", 
     "citations": {
         "bib39": {
@@ -1351,9 +1351,9 @@
         }
     ], 
     "elocation-id": "e01322", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01322.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "DNA repair", 
@@ -1367,7 +1367,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01322", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

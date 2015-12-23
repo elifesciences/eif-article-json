@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8405"
         }, 
@@ -49,7 +49,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8591"
         }, 
@@ -74,7 +74,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8592"
         }, 
@@ -488,7 +488,7 @@
         }, 
         {
             "surname": "Arlotta", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Paola", 
             "references": {
                 "competing-interest": [
@@ -520,7 +520,7 @@
         }, 
         {
             "surname": "Rinn", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John L", 
             "references": {
                 "competing-interest": [
@@ -562,7 +562,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-31", 
+    "pub-date": "2013-12-31T00:00:00Z", 
     "title": "Multiple knockout mouse models reveal lincRNAs are required for life and brain development", 
     "citations": {
         "bib39": {
@@ -4114,9 +4114,9 @@
         }
     ], 
     "elocation-id": "e01749", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01749.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "long noncoding RNAs", 
@@ -4130,7 +4130,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01749", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "GDY: Employee of Regeneron Pharmaceuticals.", 

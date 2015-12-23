@@ -54,7 +54,7 @@
             }
         }, 
         {
-            "corresp": "yes", 
+            "corresp": true, 
             "type": "author", 
             "group-author-key": "group-author-id1", 
             "references": {
@@ -161,7 +161,7 @@
             ]
         }
     ], 
-    "pub-date": "2015-06-25", 
+    "pub-date": "2015-06-25T00:00:00Z", 
     "title": "Registered report: BET bromodomain inhibition as a therapeutic strategy to target c-Myc", 
     "citations": {
         "bib9": {
@@ -1700,9 +1700,9 @@
         }
     }, 
     "article-id": "07072", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07072.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Reproducibility Project: Cancer Biology", 
@@ -1717,7 +1717,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07072", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

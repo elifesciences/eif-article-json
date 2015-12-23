@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Hatori", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Megumi", 
             "references": {
                 "present-address": [
@@ -26,7 +26,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14342"
         }, 
@@ -47,7 +47,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14343"
         }, 
@@ -108,7 +108,7 @@
         }, 
         {
             "surname": "Panda", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Satchidananda", 
             "references": {
                 "affiliation": [
@@ -144,7 +144,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-17", 
+    "pub-date": "2014-07-17T00:00:00Z", 
     "title": "Lhx1 maintains synchrony among circadian oscillator neurons of the SCN", 
     "citations": {
         "bib39": {
@@ -2090,9 +2090,9 @@
     }, 
     "impact-statement": "A transcription factor called Lhx1 coordinates the activity of the brain's master circadian clock, the suprachiasmatic nucleus, by controlling communication between its constituent cells.", 
     "elocation-id": "e03357", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03357.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "circadian rhythm", 
@@ -2106,7 +2106,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03357", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Medicine, Keio University, Tokyo, Japan"

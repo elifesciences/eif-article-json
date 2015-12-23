@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Jopling", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "dept": "School of Pharmacy", 
@@ -27,7 +27,7 @@
             "id": "author-13720"
         }
     ], 
-    "pub-date": "2014-09-09", 
+    "pub-date": "2014-09-09T00:00:00Z", 
     "title": "Stop that nonsense!", 
     "citations": {
         "bib10": {
@@ -393,9 +393,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04300.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "microRNA", 
@@ -410,7 +410,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04300", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

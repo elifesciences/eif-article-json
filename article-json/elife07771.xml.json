@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Shaw", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrey S", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-6408"
         }
     ], 
-    "pub-date": "2015-05-06", 
+    "pub-date": "2015-05-06T00:00:00Z", 
     "title": "What is the point of pseudokinases?", 
     "citations": {
         "bib11": {
@@ -521,9 +521,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07771.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "kinase complex", 
@@ -538,7 +538,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07771", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

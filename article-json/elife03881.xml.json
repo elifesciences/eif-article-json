@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16090"
         }, 
@@ -65,13 +65,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16091"
         }, 
         {
             "surname": "Li", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Zhe", 
             "references": {
                 "competing-interest": [
@@ -115,7 +115,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-21", 
+    "pub-date": "2014-11-21T00:00:00Z", 
     "title": "RUNX1, a transcription factor mutated in breast cancer, controls the fate of ER-positive mammary luminal cells", 
     "citations": {
         "bib39": {
@@ -3871,9 +3871,9 @@
     }, 
     "impact-statement": "Loss of RUNX1, a key regulator of estrogen receptor-positive luminal breast cells, impairs mammary epithelial differentiation and contributes to luminal breast cancer via genetic interactions with a loss of p53 or RB1.", 
     "elocation-id": "e03881", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03881.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "RUNX1", 
@@ -3889,7 +3889,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03881", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

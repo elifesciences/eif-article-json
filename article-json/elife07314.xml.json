@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Sidrauski", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Carmela", 
             "references": {
                 "present-address": [
@@ -30,7 +30,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3459"
         }, 
@@ -56,7 +56,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0001-5202-722X", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30186"
         }, 
@@ -321,7 +321,7 @@
         }, 
         {
             "surname": "Walter", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Peter", 
             "references": {
                 "affiliation": [
@@ -358,7 +358,7 @@
             "id": "author-1118"
         }
     ], 
-    "pub-date": "2015-04-15", 
+    "pub-date": "2015-04-15T00:00:00Z", 
     "title": "Pharmacological dimerization and activation of the exchange factor eIF2B antagonizes the integrated stress response", 
     "citations": {
         "bib39": {
@@ -2733,9 +2733,9 @@
     }, 
     "impact-statement": "A drug-like molecule called ISRIB, which activates the translation initiation factor eIF2B, antagonizes stress responses as diverse as protein misfolding and nutrient deprivation, and restores protein synthesis, enhancing memory.", 
     "elocation-id": "e07314", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07314.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "eIF2B", 
@@ -2750,7 +2750,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07314", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Calico LLC, South San Francisco, United States"

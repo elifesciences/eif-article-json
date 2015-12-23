@@ -45,7 +45,7 @@
         }, 
         {
             "surname": "Svoboda", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Karel", 
             "references": {
                 "affiliation": [
@@ -69,7 +69,7 @@
         }, 
         {
             "surname": "Golomb", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "affiliation": [
@@ -107,7 +107,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-11-19", 
+    "pub-date": "2013-11-19T00:00:00Z", 
     "title": "Tapered whiskers are required for active tactile sensation", 
     "citations": {
         "bib39": {
@@ -1476,9 +1476,9 @@
     }, 
     "impact-statement": "The tapered, conical shape of rodent whiskers is essential for sensor mobility in constrained spaces and feature extraction from textured surfaces.", 
     "elocation-id": "e01350", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01350.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Whisker", 
@@ -1490,7 +1490,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01350", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff4": {

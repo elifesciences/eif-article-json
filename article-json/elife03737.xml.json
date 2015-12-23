@@ -70,7 +70,7 @@
         }, 
         {
             "surname": "Kaplan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tommy", 
             "references": {
                 "competing-interest": [
@@ -96,13 +96,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1961"
         }, 
         {
             "surname": "Eisen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael B", 
             "references": {
                 "competing-interest": [
@@ -130,7 +130,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6229"
         }, 
@@ -147,7 +147,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-14", 
+    "pub-date": "2014-10-14T00:00:00Z", 
     "title": "Establishment of regions of genomic activity during the <italic>Drosophila</italic> maternal to zygotic transition", 
     "citations": {
         "bib39": {
@@ -3287,9 +3287,9 @@
     }, 
     "impact-statement": "Drosophila melanogaster embryos undergo a dramatic genomic transformation in the hour preceding gastrulation, as thousands of promoters and regulatory regions become biochemically distinct before they become active.", 
     "elocation-id": "e03737", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03737.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "chromatin", 
@@ -3302,7 +3302,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03737", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

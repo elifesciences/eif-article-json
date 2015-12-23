@@ -297,7 +297,7 @@
         }, 
         {
             "surname": "Mello", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Craig C", 
             "references": {
                 "affiliation": [
@@ -333,7 +333,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-25", 
+    "pub-date": "2014-06-25T00:00:00Z", 
     "title": "A single vertebrate DNA virus protein disarms invertebrate immunity to RNA virus infection", 
     "citations": {
         "bib39": {
@@ -2734,9 +2734,9 @@
     }, 
     "impact-statement": "Novel virus-host systems yield insights into how Lepidopterans (moths and butterflies) combat RNA virus infection and reveal that poxvirus A51R proteins can suppress the host's immune system and stabilize microtubules in host cells.", 
     "elocation-id": "e02910", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02910.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Lymantria dispar", 
@@ -2753,7 +2753,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02910", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Multidrug-resistant Organism Repository and Surveillance Network, Walter Reed Army Institute of Research, Silver Spring, United States", 

@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2997"
         }, 
@@ -43,7 +43,7 @@
                     "aff1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3290"
         }, 
@@ -69,7 +69,7 @@
         }, 
         {
             "surname": "Stocker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hugo", 
             "references": {
                 "affiliation": [
@@ -104,7 +104,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-09", 
+    "pub-date": "2013-07-09T00:00:00Z", 
     "title": "Nutrient restriction enhances the proliferative potential of cells lacking the tumor suppressor PTEN in mitotic tissues", 
     "citations": {
         "bib39": {
@@ -1825,9 +1825,9 @@
     }, 
     "impact-statement": "Nutrient limitation elicits differential responses in cells lacking the tumor suppressor PTEN and in normal cells, resulting in hyperplastic overgrowth of <italic>PTEN</italic> mutant tissue independent of additional mutations.", 
     "elocation-id": "e00380", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00380.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "tumor suppression", 
@@ -1842,7 +1842,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00380", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Experimental and Health Sciences, Universitat Pompeu Fabra, Barcelona, Spain"

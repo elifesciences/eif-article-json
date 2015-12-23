@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Strick", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Terence R", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-8826"
         }
     ], 
-    "pub-date": "2014-01-28", 
+    "pub-date": "2014-01-28T00:00:00Z", 
     "title": "Watching single molecules in action", 
     "citations": {
         "bib11": {
@@ -476,9 +476,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02061.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "single-molecule", 
@@ -494,7 +494,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02061", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

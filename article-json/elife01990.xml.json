@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10289"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10288"
         }, 
@@ -214,7 +214,7 @@
         }, 
         {
             "surname": "N\u00fcrnberger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thorsten", 
             "references": {
                 "affiliation": [
@@ -238,7 +238,7 @@
         }, 
         {
             "surname": "Gust", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrea A", 
             "references": {
                 "affiliation": [
@@ -273,7 +273,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-23", 
+    "pub-date": "2014-06-23T00:00:00Z", 
     "title": "Host-induced bacterial cell wall decomposition mediates pattern-triggered immunity in Arabidopsis", 
     "citations": {
         "bib48": {
@@ -3127,9 +3127,9 @@
     }, 
     "impact-statement": "Arabidopsis lysozyme LYS1 generates soluble peptidoglycan fragments to mediate pattern-triggered immunity.", 
     "elocation-id": "e01990", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01990.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "peptidoglycan", 
@@ -3143,7 +3143,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01990", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

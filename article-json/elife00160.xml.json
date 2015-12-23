@@ -44,7 +44,7 @@
         }, 
         {
             "surname": "Schekman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Randy", 
             "references": {
                 "affiliation": [
@@ -79,7 +79,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-01-08", 
+    "pub-date": "2013-01-08T00:00:00Z", 
     "title": "A novel GTP-binding protein\u2013adaptor protein complex responsible for export of Vangl2 from the <italic>trans</italic> Golgi network", 
     "citations": {
         "bib39": {
@@ -1907,9 +1907,9 @@
         }
     ], 
     "elocation-id": "e00160", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00160.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "TGN sorting", 
@@ -1921,7 +1921,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00160", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Crystallography, Birkbeck College, London, United Kingdom"

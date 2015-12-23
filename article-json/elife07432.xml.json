@@ -112,7 +112,7 @@
         }, 
         {
             "surname": "Auble", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David T", 
             "references": {
                 "competing-interest": [
@@ -140,7 +140,7 @@
         }, 
         {
             "surname": "Hopfner", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Karl-Peter", 
             "references": {
                 "competing-interest": [
@@ -184,7 +184,7 @@
             "id": "author-1018"
         }
     ], 
-    "pub-date": "2015-08-10", 
+    "pub-date": "2015-08-10T00:00:00Z", 
     "title": "Structural basis for recognition and remodeling of the TBP:DNA:NC2 complex by Mot1", 
     "citations": {
         "bib48": {
@@ -3599,9 +3599,9 @@
     }, 
     "impact-statement": "A structural analysis of the transcription regulator Mot1 in complex with promoter DNA and the proteins TBP and NC2 provides a first structural framework for how a Swi2/Snf2 type remodeler interacts with a histone fold protein:DNA complex.", 
     "elocation-id": "e07432", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07432.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Mot1", 
@@ -3616,7 +3616,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07432", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

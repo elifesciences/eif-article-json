@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Eichenbaum", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Howard", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-1081"
         }
     ], 
-    "pub-date": "2013-03-20", 
+    "pub-date": "2013-03-20T00:00:00Z", 
     "title": "What's new is older", 
     "citations": {
         "bib11": {
@@ -400,9 +400,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00605.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "learning and memory", 
@@ -417,7 +417,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00605", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

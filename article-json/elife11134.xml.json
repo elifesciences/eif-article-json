@@ -20,7 +20,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-7941-0357", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-41139"
         }, 
@@ -41,13 +41,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-41140"
         }, 
         {
             "surname": "Scheres", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sjors HW", 
             "references": {
                 "affiliation": [
@@ -72,7 +72,7 @@
         }, 
         {
             "surname": "Lamers", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Meindert H", 
             "references": {
                 "affiliation": [
@@ -107,7 +107,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-24", 
+    "pub-date": "2015-10-24T00:00:00Z", 
     "title": "cryo-EM structures of the <italic>E. coli</italic> replicative DNA polymerase reveal its dynamic interactions with the DNA sliding clamp, exonuclease and <bold>\u03c4</bold>", 
     "citations": {
         "bib39": {
@@ -1852,9 +1852,9 @@
     }, 
     "impact-statement": "Structures of the replicative DNA polymerase Pol III\u03b1, the DNA sliding clamp, the proofreading exonuclease, and the processivity switch Tau (\u03c4) suggest a mechanism for quick release during lagging strand synthesis.", 
     "elocation-id": "e11134", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "11134.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "DNA replication", 
@@ -1866,7 +1866,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.11134", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "SHWS: Reviewing editor, <italic>eLife.</italic>", 

@@ -400,13 +400,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32685"
         }, 
         {
             "surname": "Davey", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Megan G", 
             "references": {
                 "competing-interest": [
@@ -429,13 +429,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21312"
         }, 
         {
             "surname": "Bolz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hanno J", 
             "references": {
                 "competing-interest": [
@@ -478,7 +478,7 @@
             "id": "author-1077"
         }
     ], 
-    "pub-date": "2015-09-19", 
+    "pub-date": "2015-09-19T00:00:00Z", 
     "title": "TALPID3 controls centrosome and cell polarity and the human ortholog <italic>KIAA0586</italic> is mutated in Joubert syndrome (<italic>JBTS23</italic>)", 
     "citations": {
         "bib39": {
@@ -4064,9 +4064,9 @@
         }
     ], 
     "elocation-id": "e08077", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08077.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Joubert syndrome", 
@@ -4083,7 +4083,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08077", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

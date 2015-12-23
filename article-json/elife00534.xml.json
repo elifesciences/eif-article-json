@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3693"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3746"
         }, 
@@ -173,7 +173,7 @@
         }, 
         {
             "surname": "Neuberger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael S", 
             "references": {
                 "affiliation": [
@@ -208,7 +208,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-04-16", 
+    "pub-date": "2013-04-16T00:00:00Z", 
     "title": "DNA deaminases induce break-associated mutation showers with implication of APOBEC3B and 3A in breast cancer kataegis", 
     "citations": {
         "bib9": {
@@ -1168,9 +1168,9 @@
     }, 
     "impact-statement": "Enzymes that remove amine groups from cytosine bases in DNA are likely involved in generating the clusters of mutations (kataegis) seen in breast cancer.", 
     "elocation-id": "e00534", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00534.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Hypermutation", 
@@ -1186,7 +1186,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00534", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -23,7 +23,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-2404-7351", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29920"
         }, 
@@ -47,7 +47,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29921"
         }, 
@@ -71,7 +71,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29922"
         }, 
@@ -132,7 +132,7 @@
         }, 
         {
             "surname": "Levine", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tim P", 
             "references": {
                 "affiliation": [
@@ -165,7 +165,7 @@
             "id": "author-4234"
         }
     ], 
-    "pub-date": "2015-05-22", 
+    "pub-date": "2015-05-22T00:00:00Z", 
     "title": "A new family of StART domain proteins at membrane contact sites has a role in ER-PM sterol transport", 
     "citations": {
         "bib38": {
@@ -2983,9 +2983,9 @@
     }, 
     "impact-statement": "A new family of sterol-specific lipid transfer proteins has been found that anchors in the endoplasmic reticulum; some of these proteins stretch across membrane contacts and mediate sterol traffic from the plasma membrane.", 
     "elocation-id": "e07253", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07253.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "membrane contact sites", 
@@ -3001,7 +3001,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07253", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

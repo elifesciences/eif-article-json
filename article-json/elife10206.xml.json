@@ -41,7 +41,7 @@
         }, 
         {
             "surname": "Sternson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Scott M", 
             "references": {
                 "affiliation": [
@@ -77,7 +77,7 @@
             "id": "author-1155"
         }
     ], 
-    "pub-date": "2015-09-11", 
+    "pub-date": "2015-09-11T00:00:00Z", 
     "title": "Cell type-specific pharmacology of NMDA receptors using masked MK801", 
     "citations": {
         "bib9": {
@@ -942,9 +942,9 @@
     }, 
     "impact-statement": "The small molecule NMDA-receptor antagonist MK801 has been genetically targeted to specific cell types in brain tissue to examine the role of NMDA receptors in cocaine-induced synaptic plasticity.", 
     "elocation-id": "e10206", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "10206.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "NMDA receptor", 
@@ -958,7 +958,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.10206", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Neuroscience and Physiology, State University of New York Upstate Medical University, Syracuse, United States"

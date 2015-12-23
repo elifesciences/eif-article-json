@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8186"
         }, 
@@ -67,7 +67,7 @@
                     "con4"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8187"
         }, 
@@ -345,7 +345,7 @@
         }, 
         {
             "surname": "Daujat", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sylvain", 
             "references": {
                 "affiliation": [
@@ -366,7 +366,7 @@
         }, 
         {
             "surname": "Schneider", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert", 
             "references": {
                 "affiliation": [
@@ -406,7 +406,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-25", 
+    "pub-date": "2014-03-25T00:00:00Z", 
     "title": "Acetylation of histone H3 at lysine 64 regulates nucleosome dynamics and facilitates transcription", 
     "citations": {
         "bib39": {
@@ -2727,9 +2727,9 @@
     }, 
     "impact-statement": "The acetylation of histones at specific sites close to DNA can regulate transcription.", 
     "elocation-id": "e01632", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01632.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "histone", 
@@ -2742,7 +2742,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01632", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "The John Curtin School of Medical Research, The Australian National University, Canberra, Australia"

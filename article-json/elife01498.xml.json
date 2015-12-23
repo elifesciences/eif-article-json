@@ -99,7 +99,7 @@
         }, 
         {
             "surname": "Shen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Kang", 
             "references": {
                 "affiliation": [
@@ -135,7 +135,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-02-25", 
+    "pub-date": "2014-02-25T00:00:00Z", 
     "title": "PTRN-1, a microtubule minus end-binding CAMSAP homolog, promotes microtubule function in <italic>Caenorhabditis elegans</italic> neurons", 
     "citations": {
         "bib39": {
@@ -2191,9 +2191,9 @@
         }
     ], 
     "elocation-id": "e01498", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01498.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "neurons", 
@@ -2205,7 +2205,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01498", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Metabolic Engineering and Systems Biology, Biogen Indec, Cambridge, United States"

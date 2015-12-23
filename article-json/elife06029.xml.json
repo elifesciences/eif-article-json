@@ -48,7 +48,7 @@
         }, 
         {
             "surname": "Pfeffer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Suzanne R", 
             "references": {
                 "affiliation": [
@@ -86,7 +86,7 @@
             "id": "author-1032"
         }
     ], 
-    "pub-date": "2015-03-30", 
+    "pub-date": "2015-03-30T00:00:00Z", 
     "title": "The Rab6-regulated KIF1C kinesin motor domain contributes to Golgi organization", 
     "citations": {
         "bib39": {
@@ -2031,9 +2031,9 @@
     }, 
     "impact-statement": "Rab6A binds directly to both the C-terminus and the N-terminal motor domain of the kinesin KIF1C to regulate vesicle motility and Golgi organization.", 
     "elocation-id": "e06029", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06029.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Golgi complex", 
@@ -2047,7 +2047,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06029", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Genentech, South San Francisco, United States"

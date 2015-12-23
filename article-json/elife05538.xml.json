@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21396"
         }, 
@@ -51,7 +51,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-22083"
         }, 
@@ -125,7 +125,7 @@
         }, 
         {
             "surname": "Sidow", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Arend", 
             "references": {
                 "affiliation": [
@@ -162,7 +162,7 @@
             "id": "author-1083"
         }
     ], 
-    "pub-date": "2015-04-14", 
+    "pub-date": "2015-04-14T00:00:00Z", 
     "title": "Constraint and divergence of global gene expression in the mammalian embryo", 
     "citations": {
         "bib39": {
@@ -2354,9 +2354,9 @@
     }, 
     "impact-statement": "Embryonic gene expression is strongly influenced by maternal genetic variation and by embryonic variation that acts in <italic>cis</italic> but not in <italic>trans</italic>.", 
     "elocation-id": "e05538", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05538.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "allele-specific expression", 
@@ -2369,7 +2369,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05538", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Google Inc., Mountain View, United States"

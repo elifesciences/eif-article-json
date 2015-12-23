@@ -23,7 +23,7 @@
                     "aff2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4471"
         }, 
@@ -44,7 +44,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4472"
         }, 
@@ -66,7 +66,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4486"
         }, 
@@ -275,7 +275,7 @@
         }, 
         {
             "surname": "Wade", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Herschel", 
             "references": {
                 "affiliation": [
@@ -296,7 +296,7 @@
         }, 
         {
             "surname": "Song", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hongjun", 
             "references": {
                 "affiliation": [
@@ -324,7 +324,7 @@
         }, 
         {
             "surname": "Qian", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jiang", 
             "references": {
                 "affiliation": [
@@ -348,7 +348,7 @@
         }, 
         {
             "surname": "Zhu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Heng", 
             "references": {
                 "affiliation": [
@@ -384,7 +384,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-09-03", 
+    "pub-date": "2013-09-03T00:00:00Z", 
     "title": "DNA methylation presents distinct binding sites for human transcription factors", 
     "citations": {
         "bib39": {
@@ -1838,9 +1838,9 @@
         }
     ], 
     "elocation-id": "e00726", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00726.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "DNA methylation", 
@@ -1855,7 +1855,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00726", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "CDI Laboratories, Baltimore, United States"

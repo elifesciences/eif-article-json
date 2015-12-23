@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Jambor", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Helena", 
             "references": {
                 "affiliation": [
@@ -117,7 +117,7 @@
         }, 
         {
             "surname": "Tomancak", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Pavel", 
             "references": {
                 "affiliation": [
@@ -157,7 +157,7 @@
             "id": "author-1201"
         }
     ], 
-    "pub-date": "2015-04-02", 
+    "pub-date": "2015-04-02T00:00:00Z", 
     "title": "Systematic imaging reveals features and changing localization of mRNAs in <italic>Drosophila</italic> development", 
     "citations": {
         "bib39": {
@@ -2486,9 +2486,9 @@
     }, 
     "impact-statement": "Genome wide analysis reveals that many transcripts are localized in cells of the ovary and that the localization status of mRNAs changes over time and in different cell types.", 
     "elocation-id": "e05003", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05003.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "RNA localization", 
@@ -2500,7 +2500,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05003", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

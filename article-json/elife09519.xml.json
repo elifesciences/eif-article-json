@@ -19,7 +19,7 @@
         }, 
         {
             "surname": "Elledge", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stephen J", 
             "references": {
                 "affiliation": [
@@ -34,7 +34,7 @@
             "id": "author-2970"
         }
     ], 
-    "pub-date": "2015-07-21", 
+    "pub-date": "2015-07-21T00:00:00Z", 
     "title": "Taking the brakes off telomerase", 
     "citations": {
         "bib1": {
@@ -657,9 +657,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09519.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "telomerase TERT", 
@@ -674,7 +674,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09519", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

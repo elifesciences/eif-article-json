@@ -213,7 +213,7 @@
         }, 
         {
             "surname": "Taipale", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jussi", 
             "references": {
                 "competing-interest": [
@@ -256,7 +256,7 @@
             "id": "author-1721"
         }
     ], 
-    "pub-date": "2015-03-17", 
+    "pub-date": "2015-03-17T00:00:00Z", 
     "title": "Conservation of transcription factor binding specificities across 600 million years of bilateria evolution", 
     "citations": {
         "bib39": {
@@ -3521,9 +3521,9 @@
     }, 
     "impact-statement": "<italic>Drosophila</italic> has almost all transcription factor binding specificities available to humans; and human transcription factors with divergent specificities operate in cell types that are not found in fruit flies.", 
     "elocation-id": "e04837", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04837.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "transcription factors", 
@@ -3537,7 +3537,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04837", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

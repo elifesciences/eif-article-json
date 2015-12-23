@@ -78,7 +78,7 @@
         }, 
         {
             "surname": "Cam", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hugh P", 
             "references": {
                 "competing-interest": [
@@ -117,7 +117,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-15", 
+    "pub-date": "2014-12-15T00:00:00Z", 
     "title": "Heterochromatin assembly and transcriptome repression by Set1 in coordination with a class II histone deacetylase", 
     "citations": {
         "bib39": {
@@ -2943,9 +2943,9 @@
     }, 
     "impact-statement": "Set1 has roles in chromatin organization and transcriptome control that are largely independent of histone H3 lysine 4 methylation.", 
     "elocation-id": "e04506", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04506.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "set1", 
@@ -2960,7 +2960,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04506", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

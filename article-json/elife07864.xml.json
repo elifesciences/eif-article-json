@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30184"
         }, 
@@ -46,13 +46,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-31986"
         }, 
         {
             "surname": "Thornton", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joseph W", 
             "references": {
                 "affiliation": [
@@ -90,7 +90,7 @@
             "id": "author-1030"
         }
     ], 
-    "pub-date": "2015-06-15", 
+    "pub-date": "2015-06-15T00:00:00Z", 
     "title": "Intermolecular epistasis shaped the function and evolution of an ancient transcription factor and its DNA binding sites", 
     "citations": {
         "bib48": {
@@ -3100,9 +3100,9 @@
     }, 
     "impact-statement": "Experimental mapping of the joint sequence space of an ancient transcription factor (TF) and its DNA binding sites reveals that epistasis across the molecular interface permitted the evolution of a new and specific TF-DNA complex.", 
     "elocation-id": "e07864", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07864.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "evolution", 
@@ -3117,7 +3117,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07864", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

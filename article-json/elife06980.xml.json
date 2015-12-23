@@ -28,7 +28,7 @@
         }, 
         {
             "surname": "Grigorieff", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nikolaus", 
             "references": {
                 "competing-interest": [
@@ -70,7 +70,7 @@
             "id": "author-1190"
         }
     ], 
-    "pub-date": "2015-05-29", 
+    "pub-date": "2015-05-29T00:00:00Z", 
     "title": "Measuring the optimal exposure for single particle cryo-EM using a 2.6 \u00c5 reconstruction of rotavirus VP6", 
     "citations": {
         "bib39": {
@@ -1443,9 +1443,9 @@
     }, 
     "impact-statement": "The resolution of electron cryo-microscopy can be improved by using optimal exposure values to filter video frames.", 
     "elocation-id": "e06980", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06980.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "high-dose imaging", 
@@ -1460,7 +1460,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06980", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

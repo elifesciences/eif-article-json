@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30302"
         }, 
@@ -42,7 +42,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30303"
         }, 
@@ -214,13 +214,13 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30312"
         }, 
         {
             "surname": "Djouad", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Farida", 
             "references": {
                 "competing-interest": [
@@ -243,7 +243,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29671"
         }, 
@@ -261,7 +261,7 @@
             "id": "author-1042"
         }
     ], 
-    "pub-date": "2015-07-08", 
+    "pub-date": "2015-07-08T00:00:00Z", 
     "title": "Identification of polarized macrophage subsets in zebrafish", 
     "citations": {
         "bib9": {
@@ -1269,9 +1269,9 @@
     }, 
     "impact-statement": "The discovery of evolutionarily conserved macrophage subsets in zebrafish paves the way for a comprehensive study of macrophage behaviour and function.", 
     "elocation-id": "e07288", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07288.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "zebrafish", 
@@ -1283,7 +1283,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07288", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

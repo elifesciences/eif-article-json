@@ -127,7 +127,7 @@
         }, 
         {
             "surname": "Appelbaum", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Lior", 
             "references": {
                 "affiliation": [
@@ -166,7 +166,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-01", 
+    "pub-date": "2015-10-01T00:00:00Z", 
     "title": "Hypocretin neuron-specific transcriptome profiling identifies the sleep modulator Kcnh4a", 
     "citations": {
         "bib48": {
@@ -4148,9 +4148,9 @@
     }, 
     "impact-statement": "Comprehensive gene profiling of the hypothalamic hypocretin neurons, high resolution imaging and behavioral assays have revealed the molecular signature of these versatile neurons and identified a potassium channel that is required for nighttime sleep.", 
     "elocation-id": "e08638", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08638.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "hypocretin", 
@@ -4164,7 +4164,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08638", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

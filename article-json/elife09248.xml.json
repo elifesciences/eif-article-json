@@ -175,7 +175,7 @@
         }, 
         {
             "surname": "Baker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "affiliation": [
@@ -212,7 +212,7 @@
             "id": "author-4398"
         }
     ], 
-    "pub-date": "2015-09-03", 
+    "pub-date": "2015-09-03T00:00:00Z", 
     "title": "Large-scale determination of previously unsolved protein structures using evolutionary information", 
     "citations": {
         "bib39": {
@@ -2923,9 +2923,9 @@
     }, 
     "impact-statement": "A new method of protein structure prediction that incorporates residue\u2013residue co-evolution information into the Rosetta structure prediction program was used to develop models for 58 large protein families that had no previous structural information.", 
     "elocation-id": "e09248", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09248.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "co-evolution", 
@@ -2941,7 +2941,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09248", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

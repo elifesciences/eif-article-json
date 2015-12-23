@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Kolter", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "country": "United States", 
@@ -24,7 +24,7 @@
             "id": "author-1123"
         }
     ], 
-    "pub-date": "2012-11-13", 
+    "pub-date": "2012-11-13T00:00:00Z", 
     "title": "Histones join the fight against bacteria inside cells", 
     "citations": {
         "bib1": {
@@ -212,9 +212,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00302.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "innate immunity", 
@@ -230,7 +230,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00302", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The author declares that no competing interests exist"

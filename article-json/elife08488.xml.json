@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-33796"
         }, 
@@ -41,7 +41,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-2426-2844", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29714"
         }, 
@@ -188,7 +188,7 @@
         }, 
         {
             "surname": "Bronchain", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Odile", 
             "references": {
                 "affiliation": [
@@ -209,7 +209,7 @@
         }, 
         {
             "surname": "Perron", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Muriel", 
             "references": {
                 "affiliation": [
@@ -251,7 +251,7 @@
             "id": "author-1140"
         }
     ], 
-    "pub-date": "2015-09-22", 
+    "pub-date": "2015-09-22T00:00:00Z", 
     "title": "YAP controls retinal stem cell DNA replication timing and genomic stability", 
     "citations": {
         "bib39": {
@@ -2455,9 +2455,9 @@
     }, 
     "impact-statement": "The Hippo pathway downstream effector YAP regulates S-phase progression to protect neural stem cells of the retina from experiencing genomic instability.", 
     "elocation-id": "e08488", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08488.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "retina", 
@@ -2471,7 +2471,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08488", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

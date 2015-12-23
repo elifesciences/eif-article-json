@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4326"
         }, 
@@ -53,7 +53,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4327"
         }, 
@@ -100,7 +100,7 @@
         }, 
         {
             "surname": "Chalmers", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ronald", 
             "references": {
                 "affiliation": [
@@ -135,7 +135,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-06-18", 
+    "pub-date": "2013-06-18T00:00:00Z", 
     "title": "The autoregulation of a eukaryotic DNA transposon", 
     "citations": {
         "bib39": {
@@ -1528,9 +1528,9 @@
     }, 
     "impact-statement": "A DNA transposon, or \u2018jumping gene\u2019, controls its amplification within a genome through a competition between the enzyme multimers that are responsible for its mobility.", 
     "elocation-id": "e00668", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00668.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "DNA recombination", 
@@ -1545,7 +1545,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00668", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Molecular Biology Program, Howard Hughes Medical Institute, Memorial Sloan-Kettering Cancer Center, New York, United States"

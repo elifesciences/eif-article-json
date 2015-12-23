@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20807"
         }, 
@@ -51,7 +51,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4626"
         }, 
@@ -72,7 +72,7 @@
                     "equal-contrib2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4627"
         }, 
@@ -93,7 +93,7 @@
                     "equal-contrib2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4628"
         }, 
@@ -241,7 +241,7 @@
         }, 
         {
             "surname": "Thompson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dawn A", 
             "references": {
                 "affiliation": [
@@ -262,7 +262,7 @@
         }, 
         {
             "surname": "Regev", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Aviv", 
             "references": {
                 "affiliation": [
@@ -302,7 +302,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-03", 
+    "pub-date": "2015-02-03T00:00:00Z", 
     "title": "The evolution of drug resistance in clinical isolates of <italic>Candida albicans</italic>", 
     "citations": {
         "bib48": {
@@ -3990,9 +3990,9 @@
     }, 
     "impact-statement": "Loss-of-heterozygosity mutations, but not aneuploidies, are linked to the evolution of drug resistance in <italic>Candida albicans</italic> isolated from immunocompromised patients.", 
     "elocation-id": "e00662", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00662.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Candida albicans", 
@@ -4006,7 +4006,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00662", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

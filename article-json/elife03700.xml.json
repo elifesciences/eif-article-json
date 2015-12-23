@@ -65,7 +65,7 @@
         }, 
         {
             "surname": "Zamore", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Phillip D", 
             "references": {
                 "affiliation": [
@@ -90,7 +90,7 @@
         }, 
         {
             "surname": "Moore", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Melissa J", 
             "references": {
                 "affiliation": [
@@ -124,7 +124,7 @@
             "id": "author-1171"
         }
     ], 
-    "pub-date": "2015-04-13", 
+    "pub-date": "2015-04-13T00:00:00Z", 
     "title": "Assessing long-distance RNA sequence connectivity via RNA-templated DNA\u2013DNA ligation", 
     "citations": {
         "bib39": {
@@ -2925,9 +2925,9 @@
     }, 
     "impact-statement": "SeqZip is a new DNA ligation-based method to condense and maintain exon connectivity information within individual RNA molecules, which can provide new insights into alternative splicing.", 
     "elocation-id": "e03700", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03700.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "ligation", 
@@ -2943,7 +2943,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03700", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

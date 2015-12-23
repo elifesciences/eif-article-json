@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5411"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5412"
         }, 
@@ -336,7 +336,7 @@
         }, 
         {
             "surname": "He", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Lin", 
             "references": {
                 "affiliation": [
@@ -375,7 +375,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-10-15", 
+    "pub-date": "2013-10-15T00:00:00Z", 
     "title": "A component of the <italic>mir-17-92</italic> polycistronic oncomir promotes oncogene-dependent apoptosis", 
     "citations": {
         "bib39": {
@@ -2200,9 +2200,9 @@
         }
     ], 
     "elocation-id": "e00822", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00822.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "microRNAs", 
@@ -2216,7 +2216,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00822", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Vollum Institute, Oregon Health and Science University, Portland, United States"

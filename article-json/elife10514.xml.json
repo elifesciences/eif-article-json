@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-19503"
         }, 
@@ -41,7 +41,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-39355"
         }, 
@@ -64,7 +64,7 @@
         }, 
         {
             "surname": "Nickels", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Bryce E", 
             "references": {
                 "affiliation": [
@@ -88,7 +88,7 @@
         }, 
         {
             "surname": "Hochschild", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ann", 
             "references": {
                 "affiliation": [
@@ -124,7 +124,7 @@
             "id": "author-1188"
         }
     ], 
-    "pub-date": "2015-09-15", 
+    "pub-date": "2015-09-15T00:00:00Z", 
     "title": "The primary \u03c3 factor in <italic>Escherichia coli</italic> can access the transcription elongation complex from solution in vivo", 
     "citations": {
         "bib39": {
@@ -1855,9 +1855,9 @@
     }, 
     "impact-statement": "The sigma subunit of bacterial RNA polymerase, classically known as an initiation factor, can also operate as an elongation factor with effects that vary with growth phase.", 
     "elocation-id": "e10514", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "10514.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "bacterial transcription", 
@@ -1871,7 +1871,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.10514", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

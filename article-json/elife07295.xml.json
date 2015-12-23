@@ -93,7 +93,7 @@
         }, 
         {
             "surname": "Somssich", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Imre E", 
             "references": {
                 "competing-interest": [
@@ -134,7 +134,7 @@
             "id": "author-1094"
         }
     ], 
-    "pub-date": "2015-06-15", 
+    "pub-date": "2015-06-15T00:00:00Z", 
     "title": "Negative regulation of ABA signaling by WRKY33 is critical for <italic>Arabidopsis</italic> immunity towards <italic>Botrytis cinerea</italic> 2100", 
     "citations": {
         "bib48": {
@@ -3694,9 +3694,9 @@
     }, 
     "impact-statement": "A genome-wide view of the gene regulatory network governed by WRKY33 has identified key targets that negatively regulate ABA biosynthesis to provide immunity against infection by a necrotrophic fungus.", 
     "elocation-id": "e07295", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07295.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "global <italic>Arabidopsis</italic> WRKY33 binding sites", 
@@ -3710,7 +3710,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07295", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Tea Research Institute, Chinese Academy of Agricultural Sciences, Hangzhou, China"

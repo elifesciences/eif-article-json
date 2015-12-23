@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Morselli", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Marco", 
             "references": {
                 "competing-interest": [
@@ -191,7 +191,7 @@
         }, 
         {
             "surname": "Jacobsen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steven E", 
             "references": {
                 "affiliation": [
@@ -218,7 +218,7 @@
         }, 
         {
             "surname": "Pellegrini", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Matteo", 
             "references": {
                 "affiliation": [
@@ -255,7 +255,7 @@
             "id": "author-1721"
         }
     ], 
-    "pub-date": "2015-04-07", 
+    "pub-date": "2015-04-07T00:00:00Z", 
     "title": "In vivo targeting of de novo DNA methylation by histone modifications in yeast and mouse", 
     "citations": {
         "bib39": {
@@ -2862,9 +2862,9 @@
     }, 
     "impact-statement": "DNA methylation deposition is dependent on the presence of H3K4me3 and H3K36me3 histone marks.", 
     "elocation-id": "e06205", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06205.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "DNMT3", 
@@ -2879,7 +2879,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06205", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

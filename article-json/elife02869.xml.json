@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Wang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jiguang", 
             "references": {
                 "competing-interest": [
@@ -30,7 +30,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12588"
         }, 
@@ -56,7 +56,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12589"
         }, 
@@ -83,7 +83,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12590"
         }, 
@@ -252,7 +252,7 @@
         }, 
         {
             "surname": "Rabadan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Raul", 
             "references": {
                 "affiliation": [
@@ -292,7 +292,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-11", 
+    "pub-date": "2014-12-11T00:00:00Z", 
     "title": "Tumor evolutionary directed graphs and the history of chronic lymphocytic leukemia", 
     "citations": {
         "bib39": {
@@ -4664,9 +4664,9 @@
     }, 
     "impact-statement": "A general framework captures the evolutionary routes leading to the formation and progression of tumors.", 
     "elocation-id": "e02869", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02869.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "tumor evolutionary", 
@@ -4678,7 +4678,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02869", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

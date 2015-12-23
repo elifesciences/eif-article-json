@@ -102,7 +102,7 @@
         }, 
         {
             "surname": "Hockemeyer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dirk", 
             "references": {
                 "affiliation": [
@@ -140,7 +140,7 @@
             "id": "author-2227"
         }
     ], 
-    "pub-date": "2015-07-21", 
+    "pub-date": "2015-07-21T00:00:00Z", 
     "title": "Cancer-associated TERT promoter mutations abrogate telomerase silencing", 
     "citations": {
         "bib39": {
@@ -4674,9 +4674,9 @@
     }, 
     "impact-statement": "TERT promoter mutations impair TERT silencing upon cellular differentiation and are sufficient to facilitate cellular immortalization without additional tumor selected changes, explaining why they are associated with a very specific tumor spectrum.", 
     "elocation-id": "e07918", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07918.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "telomerase TERT", 
@@ -4691,7 +4691,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07918", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

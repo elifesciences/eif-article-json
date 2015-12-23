@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Hladik", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Florian", 
             "references": {
                 "affiliation": [
@@ -47,7 +47,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20161"
         }, 
@@ -68,7 +68,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20162"
         }, 
@@ -353,7 +353,7 @@
         }, 
         {
             "surname": "McGowan", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ian", 
             "references": {
                 "affiliation": [
@@ -390,7 +390,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-03", 
+    "pub-date": "2015-02-03T00:00:00Z", 
     "title": "Mucosal effects of tenofovir 1% gel", 
     "citations": {
         "bib9": {
@@ -3159,9 +3159,9 @@
     }, 
     "impact-statement": "Mucosal application of the anti-retroviral drug tenofovir, which is intended to prevent HIV transmission, has many off-target effects on the mucosa itself.", 
     "elocation-id": "e04525", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04525.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "HIV/AIDS", 
@@ -3175,7 +3175,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04525", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Hedglin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Mark", 
             "references": {
                 "affiliation": [
@@ -62,7 +62,7 @@
         }, 
         {
             "surname": "Benkovic", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Stephen", 
             "references": {
                 "affiliation": [
@@ -97,7 +97,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-04-02", 
+    "pub-date": "2013-04-02T00:00:00Z", 
     "title": "Stepwise assembly of the human replicative polymerase holoenzyme", 
     "citations": {
         "bib39": {
@@ -1606,9 +1606,9 @@
     }, 
     "impact-statement": "Fluorescence resonance energy transfer has been used to explore the interactions between DNA polymerases, sliding clamps and clamp loaders as DNA is replicated in human cells.", 
     "elocation-id": "e00278", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00278.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "DNA polymerase holoenzyme assembly", 
@@ -1622,7 +1622,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00278", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

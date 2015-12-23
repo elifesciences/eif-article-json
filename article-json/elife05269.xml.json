@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21096"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5803"
         }, 
@@ -135,7 +135,7 @@
         }, 
         {
             "surname": "Musacchio", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andrea", 
             "references": {
                 "affiliation": [
@@ -172,7 +172,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-22", 
+    "pub-date": "2015-01-22T00:00:00Z", 
     "title": "A molecular basis for the differential roles of Bub1 and BubR1 in the spindle assembly checkpoint", 
     "citations": {
         "bib39": {
@@ -2291,9 +2291,9 @@
     }, 
     "impact-statement": "The mechanism behind the recruitment of the spindle assembly checkpoint protein BubR1 to the kinetochore illustrates how gene duplication and sub-functionalization can influence the functional complexity of a protein network.", 
     "elocation-id": "e05269", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05269.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "cell division", 
@@ -2307,7 +2307,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05269", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

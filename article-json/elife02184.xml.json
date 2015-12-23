@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10181"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10182"
         }, 
@@ -109,7 +109,7 @@
         }, 
         {
             "surname": "Hanson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Phyllis I", 
             "references": {
                 "affiliation": [
@@ -144,7 +144,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-30", 
+    "pub-date": "2014-05-30T00:00:00Z", 
     "title": "Structure of cellular ESCRT-III spirals and their relationship to HIV budding", 
     "citations": {
         "bib39": {
@@ -2862,9 +2862,9 @@
     }, 
     "impact-statement": "Electron microscopy on native membranes reveals the shape and potential function of protein machinery responsible for budding vesicles and viruses away from the cytoplasm.", 
     "elocation-id": "e02184", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02184.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "ESCRT", 
@@ -2879,7 +2879,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02184", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

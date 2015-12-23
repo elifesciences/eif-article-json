@@ -157,7 +157,7 @@
         }, 
         {
             "surname": "Zheng", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ping", 
             "references": {
                 "affiliation": [
@@ -201,7 +201,7 @@
             "id": "author-13988"
         }
     ], 
-    "pub-date": "2015-07-24", 
+    "pub-date": "2015-07-24T00:00:00Z", 
     "title": "Morphine disinhibits glutamatergic input to VTA dopamine neurons and promotes dopamine neuron excitation", 
     "citations": {
         "bib39": {
@@ -1319,9 +1319,9 @@
     }, 
     "impact-statement": "Experiments examining the actions of morphine on single neurons from one of the brain's reward centers, the VTA, reveal the mechanism by which the drug exerts its hedonic effects.", 
     "elocation-id": "e09275", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "09275.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "dopamine neurons", 
@@ -1337,7 +1337,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.09275", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

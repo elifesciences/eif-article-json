@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "de Greef", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tom FA", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-39344"
         }
     ], 
-    "pub-date": "2015-12-10", 
+    "pub-date": "2015-12-10T00:00:00Z", 
     "title": "How to make an oscillator", 
     "citations": {
         "bib11": {
@@ -352,9 +352,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "12260.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "synthetic biology", 
@@ -367,7 +367,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.12260", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

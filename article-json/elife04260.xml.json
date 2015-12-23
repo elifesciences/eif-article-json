@@ -247,13 +247,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17390"
         }, 
         {
             "surname": "Glatzel", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Markus", 
             "references": {
                 "competing-interest": [
@@ -278,7 +278,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-7720-8817", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17220"
         }, 
@@ -295,7 +295,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-05", 
+    "pub-date": "2015-02-05T00:00:00Z", 
     "title": "The sheddase ADAM10 is a potent modulator of prion disease", 
     "citations": {
         "bib48": {
@@ -5209,9 +5209,9 @@
     }, 
     "impact-statement": "A lack of ADAM10-mediated shedding increases prion protein levels at the plasma membrane and promotes the generation of pathological prion proteins, which accelerates prion disease in mice.", 
     "elocation-id": "e04260", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04260.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "ADAM10", 
@@ -5225,7 +5225,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04260", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

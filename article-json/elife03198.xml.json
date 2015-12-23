@@ -109,7 +109,7 @@
         }, 
         {
             "surname": "Gehring", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Mary", 
             "references": {
                 "competing-interest": [
@@ -151,7 +151,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-07-03", 
+    "pub-date": "2014-07-03T00:00:00Z", 
     "title": "Natural epigenetic polymorphisms lead to intraspecific variation in Arabidopsis gene imprinting", 
     "citations": {
         "bib39": {
@@ -2730,9 +2730,9 @@
     }, 
     "impact-statement": "By examining natural variation in DNA methylation for effects on parent-of-origin specific expression, it is demonstrated that epiallelic variation intersects with genomic imprinting mechanisms to produce novel gene expression patterns in seeds.", 
     "elocation-id": "e03198", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03198.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "genomic imprinting", 
@@ -2747,7 +2747,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03198", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Taylor", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Benjamin JM", 
             "references": {
                 "affiliation": [
@@ -50,7 +50,7 @@
         }, 
         {
             "surname": "Rada", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Cristina", 
             "references": {
                 "affiliation": [
@@ -86,7 +86,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-19", 
+    "pub-date": "2014-09-19T00:00:00Z", 
     "title": "Active RNAP pre-initiation sites are highly mutated by cytidine deaminases in yeast, with AID targeting small RNA genes", 
     "citations": {
         "bib39": {
@@ -3435,9 +3435,9 @@
     }, 
     "impact-statement": "Transcribed promoters are highly susceptible to mutation by cytidine deaminases, implicating stable exposure of single stranded DNA structures, rather than cofactors, in localising mutation during tumourigenesis and antibody maturation.", 
     "elocation-id": "e03553", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03553.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cancer", 
@@ -3453,7 +3453,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03553", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

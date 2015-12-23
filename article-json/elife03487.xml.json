@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14439"
         }, 
@@ -55,7 +55,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14763"
         }, 
@@ -112,7 +112,7 @@
         }, 
         {
             "surname": "Agard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David A", 
             "references": {
                 "affiliation": [
@@ -148,7 +148,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-22", 
+    "pub-date": "2014-12-22T00:00:00Z", 
     "title": "A novel N-terminal extension in mitochondrial TRAP1 serves as a thermal regulator of chaperone activity", 
     "citations": {
         "bib39": {
@@ -1461,9 +1461,9 @@
     }, 
     "impact-statement": "Cytosolic and organellar Hsp90s from higher eukaryotes have evolved a variable, and environmentally responsive N-terminal extension to regulate their activity.", 
     "elocation-id": "e03487", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03487.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "chaperone", 
@@ -1478,7 +1478,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03487", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Global Blood Therapeutics, South San Francisco, United States", 

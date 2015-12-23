@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Goaillard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jean-Marc", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             }
         }
     ], 
-    "pub-date": "2014-04-01", 
+    "pub-date": "2014-04-01T00:00:00Z", 
     "title": "The pros and cons of degeneracy", 
     "citations": {
         "bib11": {
@@ -324,9 +324,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02615.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "neuropathic pain", 
@@ -341,7 +341,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02615", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

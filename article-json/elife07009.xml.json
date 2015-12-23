@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Yachdav", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Guy", 
             "references": {
                 "affiliation": [
@@ -369,7 +369,7 @@
         }, 
         {
             "surname": "Corpas", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Manuel", 
             "references": {
                 "affiliation": [
@@ -392,7 +392,7 @@
             "id": "author-28968"
         }
     ], 
-    "pub-date": "2015-07-08", 
+    "pub-date": "2015-07-08T00:00:00Z", 
     "title": "Anatomy of BioJS, an open source community for the life sciences", 
     "citations": {
         "bib9": {
@@ -2030,9 +2030,9 @@
     }, 
     "impact-statement": "Community nurturing is the single most important factor in determining the sustainability of an open source project such as BioJS.", 
     "elocation-id": "e07009", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07009.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "cutting edge", 
@@ -2047,7 +2047,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07009", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff19": {

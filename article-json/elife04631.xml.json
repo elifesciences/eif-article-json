@@ -169,7 +169,7 @@
         }, 
         {
             "surname": "Benoist", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christophe", 
             "references": {
                 "affiliation": [
@@ -192,7 +192,7 @@
         }, 
         {
             "surname": "Mathis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Diane", 
             "references": {
                 "affiliation": [
@@ -229,7 +229,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-19", 
+    "pub-date": "2014-11-19T00:00:00Z", 
     "title": "Epigenetic modulation of type-1 diabetes via a dual effect on pancreatic macrophages and \u03b2 cells", 
     "citations": {
         "bib48": {
@@ -4414,9 +4414,9 @@
     }, 
     "impact-statement": "A short treatment of the NOD mouse model of type-1 diabetes with I-BET151, a small molecule bromodomain blocker, provides long-term protection from disease by inducing macrophages to adapt an anti-inflammatory tenor whilst promoting islet \u03b2 cell regeneration.", 
     "elocation-id": "e04631", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04631.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "autoimmune diabetes", 
@@ -4428,7 +4428,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04631", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Pediatrics, University of California, San Diego, La Jolla, United States", 

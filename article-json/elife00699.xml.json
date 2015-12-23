@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Teki", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sundeep", 
             "references": {
                 "competing-interest": [
@@ -26,7 +26,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2973"
         }, 
@@ -51,7 +51,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-4307"
         }, 
@@ -128,7 +128,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-23", 
+    "pub-date": "2013-07-23T00:00:00Z", 
     "title": "Segregation of complex acoustic scenes based on temporal coherence", 
     "citations": {
         "bib68": {
@@ -1632,9 +1632,9 @@
         }
     ], 
     "elocation-id": "e00699", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00699.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "auditory scene analysis", 
@@ -1647,7 +1647,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00699", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

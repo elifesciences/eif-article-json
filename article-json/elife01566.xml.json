@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Ishikawa", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hiroaki", 
             "references": {
                 "affiliation": [
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7921"
         }, 
@@ -67,7 +67,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7922"
         }, 
@@ -91,7 +91,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-7931"
         }, 
@@ -238,7 +238,7 @@
         }, 
         {
             "surname": "Marshall", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Wallace F", 
             "references": {
                 "affiliation": [
@@ -275,7 +275,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-03-04", 
+    "pub-date": "2014-03-04T00:00:00Z", 
     "title": "TTC26/DYF13 is an intraflagellar transport protein required for transport of motility-related proteins into flagella", 
     "citations": {
         "bib39": {
@@ -3416,9 +3416,9 @@
         }
     ], 
     "elocation-id": "e01566", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01566.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Chlamydomonas", 
@@ -3432,7 +3432,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01566", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Physical Therapy, Faculty of Community Health Care, Teikyo Heisei University, Chiba, Japan"

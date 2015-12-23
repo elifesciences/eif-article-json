@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Lavieu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Gregory", 
             "references": {
                 "affiliation": [
@@ -42,7 +42,7 @@
         }, 
         {
             "surname": "Rothman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "James E", 
             "references": {
                 "affiliation": [
@@ -74,7 +74,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-06-04", 
+    "pub-date": "2013-06-04T00:00:00Z", 
     "title": "Stapled Golgi cisternae remain in place as cargo passes through the stack", 
     "citations": {
         "bib9": {
@@ -915,9 +915,9 @@
     }, 
     "impact-statement": "The cisternae of the Golgi contain two functionally distinct domains: the central areas, which remain stationary, and the edges or rims, which are mobile.", 
     "elocation-id": "e00558", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00558.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Golgi", 
@@ -929,7 +929,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00558", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

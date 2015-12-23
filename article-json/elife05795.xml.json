@@ -96,7 +96,7 @@
         }, 
         {
             "surname": "Speck", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christian", 
             "references": {
                 "affiliation": [
@@ -120,7 +120,7 @@
         }, 
         {
             "surname": "Weinreich", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael", 
             "references": {
                 "affiliation": [
@@ -156,7 +156,7 @@
             "id": "author-1199"
         }
     ], 
-    "pub-date": "2015-08-25", 
+    "pub-date": "2015-08-25T00:00:00Z", 
     "title": "Cdc6 ATPase activity disengages Cdc6 from the pre-replicative complex to promote DNA replication", 
     "citations": {
         "bib39": {
@@ -1370,9 +1370,9 @@
     }, 
     "impact-statement": "Biochemical and genetic characterization of the Cdc6 replication initiator reveals similarities in the helicase loading reaction between bacteria and eukaryotes.", 
     "elocation-id": "e05795", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05795.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "DNA replication", 
@@ -1385,7 +1385,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05795", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Medical Research Council Protein Phosphorylation and Ubiquitylation Unit, College of Life Sciences, University of Dundee, Dundee, United Kingdom"

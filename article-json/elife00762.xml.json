@@ -105,7 +105,7 @@
         }, 
         {
             "surname": "Chang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Howard Y", 
             "references": {
                 "competing-interest": [
@@ -145,7 +145,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-23", 
+    "pub-date": "2013-07-23T00:00:00Z", 
     "title": "A mammalian pseudogene lncRNA at the interface of inflammation and anti-inflammatory therapeutics", 
     "citations": {
         "bib39": {
@@ -1768,9 +1768,9 @@
     }, 
     "impact-statement": "A long non-coding RNA regulates the expression of genes that encode proteins involved in the inflammatory response.", 
     "elocation-id": "e00762", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00762.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "noncoding RNA", 
@@ -1782,7 +1782,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00762", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

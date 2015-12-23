@@ -64,7 +64,7 @@
         }, 
         {
             "surname": "King", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nicole", 
             "references": {
                 "competing-interest": [
@@ -105,7 +105,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-09", 
+    "pub-date": "2014-10-09T00:00:00Z", 
     "title": "The <italic>rosetteless</italic> gene controls development in the choanoflagellate <italic>S. rosetta</italic>", 
     "citations": {
         "bib39": {
@@ -2357,9 +2357,9 @@
     }, 
     "impact-statement": "The establishment of forward genetics in <italic>S. rosetta</italic> reveals the first gene known to be required for choanoflagellate multicellular development.", 
     "elocation-id": "e04070", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04070.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "choanoflagellate", 
@@ -2373,7 +2373,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04070", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

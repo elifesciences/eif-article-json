@@ -64,7 +64,7 @@
         }, 
         {
             "surname": "Barral", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yves", 
             "references": {
                 "affiliation": [
@@ -99,7 +99,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-17", 
+    "pub-date": "2014-11-17T00:00:00Z", 
     "title": "Role of SAGA in the asymmetric segregation of DNA circles during yeast ageing", 
     "citations": {
         "bib39": {
@@ -2251,9 +2251,9 @@
     }, 
     "impact-statement": "The SAGA complex binds non-chromosomal DNA circles and prevents their spreading by attaching them to nuclear pores, thereby leading to the concomitant accumulation of DNA circles and pores in ageing yeast mother cells.", 
     "elocation-id": "e03790", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03790.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "ageing", 
@@ -2265,7 +2265,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03790", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

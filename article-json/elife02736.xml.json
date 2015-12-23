@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12314"
         }, 
@@ -42,7 +42,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12315"
         }, 
@@ -99,7 +99,7 @@
         }, 
         {
             "surname": "Kida", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Satoshi", 
             "references": {
                 "affiliation": [
@@ -141,7 +141,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-24", 
+    "pub-date": "2014-06-24T00:00:00Z", 
     "title": "Enhancement of fear memory by retrieval through reconsolidation", 
     "citations": {
         "bib39": {
@@ -1574,9 +1574,9 @@
     }, 
     "impact-statement": "Retrieval enhances fear memory through reconsolidation by activating calcineurin-induced protein degradation and CREB-mediated gene expression in amygdala, hippocampus, and mPFC.", 
     "elocation-id": "e02736", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02736.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "reconsolidation", 
@@ -1591,7 +1591,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02736", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

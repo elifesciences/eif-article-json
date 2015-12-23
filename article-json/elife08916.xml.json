@@ -95,7 +95,7 @@
         }, 
         {
             "surname": "Stanley", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Pamela", 
             "references": {
                 "affiliation": [
@@ -131,7 +131,7 @@
             "id": "author-7744"
         }
     ], 
-    "pub-date": "2015-09-15", 
+    "pub-date": "2015-09-15T00:00:00Z", 
     "title": "GnT1IP-L specifically inhibits MGAT1 in the Golgi via its luminal domain", 
     "citations": {
         "bib9": {
@@ -1751,9 +1751,9 @@
     }, 
     "impact-statement": "GnT1IP-L is a membrane bound glycoprotein that interacts with MGAT1 in the Golgi, but not in the endoplasmic reticulum, to regulate complex N-glycan synthesis.", 
     "elocation-id": "e08916", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08916.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "GnT1IP-L", 
@@ -1768,7 +1768,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08916", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

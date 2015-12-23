@@ -42,7 +42,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20927"
         }, 
@@ -68,7 +68,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-9995-1580", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20928"
         }, 
@@ -165,7 +165,7 @@
         }, 
         {
             "surname": "Raz", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Erez", 
             "references": {
                 "affiliation": [
@@ -198,7 +198,7 @@
             "id": "author-1052"
         }
     ], 
-    "pub-date": "2015-04-15", 
+    "pub-date": "2015-04-15T00:00:00Z", 
     "title": "Dynamic filopodia are required for chemokine-dependent intracellular polarization during guided cell migration in vivo", 
     "citations": {
         "bib39": {
@@ -2302,9 +2302,9 @@
     }, 
     "impact-statement": "Functional analysis of filopodia by specific interference with their formation and distribution reveals a critical role in conferring intracellular polarity and in controlling the dynamic properties of chemokine-guided cell migration in vivo.", 
     "elocation-id": "e05279", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05279.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "chemotaxis", 
@@ -2317,7 +2317,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05279", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

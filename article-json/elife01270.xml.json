@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Kingston", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert E", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-1379"
         }
     ], 
-    "pub-date": "2013-08-20", 
+    "pub-date": "2013-08-20T00:00:00Z", 
     "title": "Assembly, remodelled", 
     "citations": {
         "bib9": {
@@ -290,9 +290,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01270.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "chromatin assembly", 
@@ -308,7 +308,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01270", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

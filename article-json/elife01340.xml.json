@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6889"
         }, 
@@ -56,7 +56,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6992"
         }, 
@@ -199,7 +199,7 @@
         }, 
         {
             "surname": "Siebold", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christian", 
             "references": {
                 "affiliation": [
@@ -224,7 +224,7 @@
         }, 
         {
             "surname": "Rohatgi", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Rajat", 
             "references": {
                 "affiliation": [
@@ -261,7 +261,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-10-29", 
+    "pub-date": "2013-10-29T00:00:00Z", 
     "title": "Structure and function of the Smoothened extracellular domain in vertebrate Hedgehog signaling", 
     "citations": {
         "bib48": {
@@ -2963,9 +2963,9 @@
         }
     ], 
     "elocation-id": "e01340", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01340.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "Hedgehog signaling", 
@@ -2978,7 +2978,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01340", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

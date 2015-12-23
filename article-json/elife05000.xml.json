@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Reichert", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Heinrich", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-4848"
         }
     ], 
-    "pub-date": "2014-11-06", 
+    "pub-date": "2014-11-06T00:00:00Z", 
     "title": "Maintaining neural stem cell identity in the brain", 
     "citations": {
         "bib10": {
@@ -352,9 +352,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05000.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "neuroblast", 
@@ -369,7 +369,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05000", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

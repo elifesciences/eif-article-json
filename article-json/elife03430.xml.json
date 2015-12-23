@@ -27,7 +27,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-7476-9539", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14388"
         }, 
@@ -57,7 +57,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-6689-6423", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14389"
         }, 
@@ -81,7 +81,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-14390"
         }, 
@@ -125,7 +125,7 @@
         }, 
         {
             "surname": "Sander", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Chris", 
             "references": {
                 "competing-interest": [
@@ -152,7 +152,7 @@
         }, 
         {
             "surname": "Bonvin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alexandre M J J", 
             "references": {
                 "affiliation": [
@@ -177,7 +177,7 @@
         }, 
         {
             "surname": "Marks", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Debora S", 
             "references": {
                 "competing-interest": [
@@ -216,7 +216,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-25", 
+    "pub-date": "2014-09-25T00:00:00Z", 
     "title": "Sequence co-evolution gives 3D contacts and structures of protein complexes", 
     "citations": {
         "bib39": {
@@ -2460,9 +2460,9 @@
     }, 
     "impact-statement": "Interactions in protein complexes can be predicted from evolutionary information from genomic sequences.", 
     "elocation-id": "e03430", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03430.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "co-evolution", 
@@ -2474,7 +2474,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03430", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -23,7 +23,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17467"
         }, 
@@ -49,7 +49,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17468"
         }, 
@@ -316,7 +316,7 @@
         }, 
         {
             "surname": "Saibil", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Helen R", 
             "references": {
                 "competing-interest": [
@@ -344,13 +344,13 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2059"
         }, 
         {
             "surname": "Hoogenboom", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Bart W", 
             "references": {
                 "competing-interest": [
@@ -377,7 +377,7 @@
                     "cor2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17175"
         }, 
@@ -394,7 +394,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-02", 
+    "pub-date": "2014-12-02T00:00:00Z", 
     "title": "Stepwise visualization of membrane pore formation by suilysin, a bacterial cholesterol-dependent cytolysin", 
     "citations": {
         "bib39": {
@@ -1813,9 +1813,9 @@
     }, 
     "impact-statement": "Electron and atomic force microscopy show how bacterial toxins bind to a host membrane and assemble into arcs and rings, before undergoing a dramatic, concerted conformational change to insert into the membrane.", 
     "elocation-id": "e04247", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04247.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cholesterol-dependent cytolysins", 
@@ -1829,7 +1829,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04247", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

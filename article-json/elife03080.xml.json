@@ -32,7 +32,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13189"
         }, 
@@ -63,7 +63,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3345"
         }, 
@@ -94,7 +94,7 @@
                     "con3"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13190"
         }, 
@@ -204,7 +204,7 @@
         }, 
         {
             "surname": "Baum", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jake", 
             "references": {
                 "present-address": [
@@ -243,7 +243,7 @@
         }, 
         {
             "surname": "Scheres", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sjors HW", 
             "references": {
                 "competing-interest": [
@@ -284,7 +284,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-09", 
+    "pub-date": "2014-06-09T00:00:00Z", 
     "title": "Cryo-EM structure of the <italic>Plasmodium falciparum</italic> 80S ribosome bound to the anti-protozoan drug emetine", 
     "citations": {
         "bib39": {
@@ -2240,9 +2240,9 @@
     }, 
     "impact-statement": "The molecular mechanism behind how emetine inhibits the ribosome of the human malaria parasite, along with structural details of the complex formed, is revealed at high resolution using cryo-electron microscopy.", 
     "elocation-id": "e03080", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03080.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "malaria", 
@@ -2256,7 +2256,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03080", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Life Sciences, Imperial College London, London, United Kingdom"

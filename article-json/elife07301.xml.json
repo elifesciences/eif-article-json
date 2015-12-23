@@ -105,7 +105,7 @@
             }
         }, 
         {
-            "corresp": "yes", 
+            "corresp": true, 
             "type": "author", 
             "group-author-key": "group-author-id1", 
             "references": {
@@ -200,7 +200,7 @@
             ]
         }
     ], 
-    "pub-date": "2015-08-19", 
+    "pub-date": "2015-08-19T00:00:00Z", 
     "title": "Registered report: Wnt activity defines colon cancer stem cells and is regulated by the microenvironment", 
     "citations": {
         "bib11": {
@@ -1148,9 +1148,9 @@
         }
     }, 
     "article-id": "07301", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07301.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Reproducibility Project: Cancer Biology", 
@@ -1164,7 +1164,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07301", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

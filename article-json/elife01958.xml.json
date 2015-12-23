@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9402"
         }, 
@@ -67,7 +67,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9403"
         }, 
@@ -130,7 +130,7 @@
         }, 
         {
             "surname": "Guo", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ming", 
             "references": {
                 "affiliation": [
@@ -172,7 +172,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-04", 
+    "pub-date": "2014-06-04T00:00:00Z", 
     "title": "MUL1 acts in parallel to the PINK1/parkin pathway in regulating mitofusin and compensates for loss of PINK1/parkin", 
     "citations": {
         "bib39": {
@@ -3381,9 +3381,9 @@
     }, 
     "impact-statement": "By reducing mitochondrial fusion, MUL1 compensates for the mutations in PINK1 or parkin that underlie certain cases of Parkinson's disease.", 
     "elocation-id": "e01958", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01958.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Parkinson's disease", 
@@ -3400,7 +3400,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01958", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, United States"

@@ -20,7 +20,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2212"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-30113"
         }, 
@@ -208,7 +208,7 @@
         }, 
         {
             "surname": "Coffey", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert J", 
             "references": {
                 "affiliation": [
@@ -236,7 +236,7 @@
         }, 
         {
             "surname": "Patton", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "James G", 
             "references": {
                 "affiliation": [
@@ -273,7 +273,7 @@
             "id": "author-1206"
         }
     ], 
-    "pub-date": "2015-07-01", 
+    "pub-date": "2015-07-01T00:00:00Z", 
     "title": "<italic>KRAS</italic>-dependent sorting of miRNA to exosomes", 
     "citations": {
         "bib39": {
@@ -3792,9 +3792,9 @@
     }, 
     "impact-statement": "In isogenically matched colorectal cancer (CRC) cell lines, mutant <italic>KRAS</italic> alters the composition of secreted miRNAs in extracellular vesicles that can then transfer repressive activity to wild type cells.", 
     "elocation-id": "e07197", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07197.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "cancer", 
@@ -3808,7 +3808,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07197", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

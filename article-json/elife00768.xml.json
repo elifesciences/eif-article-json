@@ -47,7 +47,7 @@
         }, 
         {
             "surname": "Newmark", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Phillip A", 
             "references": {
                 "competing-interest": [
@@ -88,7 +88,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-07-30", 
+    "pub-date": "2013-07-30T00:00:00Z", 
     "title": "Functional genomic characterization of neoblast-like stem cells in larval <italic>Schistosoma mansoni</italic>", 
     "citations": {
         "bib39": {
@@ -1629,9 +1629,9 @@
     }, 
     "impact-statement": "Cells that give rise to the infectious form of parasitic flatworms called schistosomes show similar patterns of gene expression to stem cells in free-living flatworms.", 
     "elocation-id": "e00768", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00768.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "<italic>Schistosoma mansoni</italic>", 
@@ -1645,7 +1645,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00768", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

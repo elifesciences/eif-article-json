@@ -312,7 +312,7 @@
         }, 
         {
             "surname": "Glynn", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "JR", 
             "references": {
                 "competing-interest": [
@@ -351,7 +351,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-03-03", 
+    "pub-date": "2015-03-03T00:00:00Z", 
     "title": "Large-scale whole genome sequencing of <italic>M. tuberculosis</italic> provides insights into transmission in a high prevalence area", 
     "citations": {
         "bib39": {
@@ -2588,9 +2588,9 @@
     }, 
     "impact-statement": "A study of tuberculosis cases in the Karonga district of Malawi reveals that the main lineages of <italic>M. tuberculosis</italic> differ in their transmission patterns and virulence.", 
     "elocation-id": "e05166", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05166.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Tuberculosis", 
@@ -2602,7 +2602,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05166", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2301"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-2302"
         }, 
@@ -63,7 +63,7 @@
         }, 
         {
             "surname": "Reddien", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Peter W", 
             "references": {
                 "affiliation": [
@@ -100,7 +100,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-09-10", 
+    "pub-date": "2013-09-10T00:00:00Z", 
     "title": "Tissue absence initiates regeneration through Follistatin-mediated inhibition of Activin signaling", 
     "citations": {
         "bib9": {
@@ -1268,9 +1268,9 @@
         }
     ], 
     "elocation-id": "e00247", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00247.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "planarian regeneration", 
@@ -1283,7 +1283,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00247", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

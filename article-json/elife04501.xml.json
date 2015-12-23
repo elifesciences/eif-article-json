@@ -162,7 +162,7 @@
         }, 
         {
             "surname": "Berger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Fr\u00e9d\u00e9ric", 
             "references": {
                 "affiliation": [
@@ -198,7 +198,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-10", 
+    "pub-date": "2014-10-10T00:00:00Z", 
     "title": "Dynamic F-actin movement is essential for fertilization in <italic>Arabidopsis thaliana</italic>", 
     "citations": {
         "bib39": {
@@ -2411,9 +2411,9 @@
     }, 
     "impact-statement": "The movement of F-actin filaments, which is regulated by actin-myosin interactions together with a female gamete-specific Rho-GTPase, enables migration of the Arabidopsis sperm cell nucleus towards the female nucleus; which might account for the loss of centrosomes in flowering plants.", 
     "elocation-id": "e04501", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04501.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "fertilization", 
@@ -2428,7 +2428,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04501", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Gregor Mendel Institute, Vienna, Austria"

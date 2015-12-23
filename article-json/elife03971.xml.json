@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Andreev", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dmitry E", 
             "references": {
                 "competing-interest": [
@@ -32,7 +32,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16472"
         }, 
@@ -57,7 +57,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0003-1085-2795", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16464"
         }, 
@@ -187,7 +187,7 @@
         }, 
         {
             "surname": "Shatsky", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ivan N", 
             "references": {
                 "affiliation": [
@@ -211,7 +211,7 @@
         }, 
         {
             "surname": "Baranov", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Pavel V", 
             "references": {
                 "competing-interest": [
@@ -251,7 +251,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-01-26", 
+    "pub-date": "2015-01-26T00:00:00Z", 
     "title": "Translation of 5\u2032 leaders is pervasive in genes resistant to eIF2 repression", 
     "citations": {
         "bib39": {
@@ -3076,9 +3076,9 @@
     }, 
     "impact-statement": "Most of the mRNAs whose translation is resistant to the stress-induced repression of protein synthesis contain upstream open reading frames that are efficiently translated under normal conditions.", 
     "elocation-id": "e03971", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03971.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "upstream open reading frame (uORF)", 
@@ -3093,7 +3093,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03971", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

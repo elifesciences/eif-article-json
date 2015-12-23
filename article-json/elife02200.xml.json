@@ -49,7 +49,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10271"
         }, 
@@ -74,7 +74,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10270"
         }, 
@@ -102,7 +102,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-10269"
         }, 
@@ -226,7 +226,7 @@
         }, 
         {
             "surname": "Dowell", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robin D", 
             "references": {
                 "competing-interest": [
@@ -255,7 +255,7 @@
         }, 
         {
             "surname": "Espinosa", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joaquin M", 
             "references": {
                 "competing-interest": [
@@ -297,7 +297,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-27", 
+    "pub-date": "2014-05-27T00:00:00Z", 
     "title": "Global analysis of p53-regulated transcription identifies its direct targets and unexpected regulatory mechanisms", 
     "citations": {
         "bib39": {
@@ -2682,9 +2682,9 @@
     }, 
     "impact-statement": "The first global analysis of the effects of the transcription factor p53 on RNA synthesis illuminates several novels aspects of the molecular mechanism of action of this potent tumor suppressor.", 
     "elocation-id": "e02200", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02200.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "tumor supressor", 
@@ -2699,7 +2699,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02200", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

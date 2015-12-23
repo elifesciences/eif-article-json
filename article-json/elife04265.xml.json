@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Weaver", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Benjamin P", 
             "references": {
                 "competing-interest": [
@@ -26,7 +26,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17335"
         }, 
@@ -50,7 +50,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-17336"
         }, 
@@ -145,7 +145,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-30", 
+    "pub-date": "2014-12-30T00:00:00Z", 
     "title": "CED-3 caspase acts with miRNAs to regulate non-apoptotic gene expression dynamics for robust development in <italic>C. elegans</italic>", 
     "citations": {
         "bib68": {
@@ -2515,9 +2515,9 @@
     }, 
     "impact-statement": "A broadly used gene expression regulatory mechanism inactivates targets by CED-3-caspase-mediated proteolysis and works in parallel to miRNAs for diverse non-apoptotic developmental functions.", 
     "elocation-id": "e04265", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04265.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "GW182", 
@@ -2532,7 +2532,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04265", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

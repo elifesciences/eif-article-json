@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Martin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "James F", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-7046"
         }
     ], 
-    "pub-date": "2013-11-19", 
+    "pub-date": "2013-11-19T00:00:00Z", 
     "title": "MicroRNAs get to the heart of development", 
     "citations": {
         "bib1": {
@@ -211,9 +211,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01710.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "microRNA-1", 
@@ -228,7 +228,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01710", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

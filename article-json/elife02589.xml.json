@@ -18,7 +18,7 @@
         }, 
         {
             "surname": "Barr", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Maureen M", 
             "references": {
                 "affiliation": [
@@ -32,7 +32,7 @@
             "id": "author-9433"
         }
     ], 
-    "pub-date": "2014-03-25", 
+    "pub-date": "2014-03-25T00:00:00Z", 
     "title": "Tomography gives a new dimension to an ancient organelle", 
     "citations": {
         "bib9": {
@@ -280,9 +280,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02589.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "cilia", 
@@ -294,7 +294,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02589", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

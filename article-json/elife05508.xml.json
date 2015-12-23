@@ -48,7 +48,7 @@
         }, 
         {
             "surname": "Baldock", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Clair", 
             "references": {
                 "affiliation": [
@@ -73,7 +73,7 @@
         }, 
         {
             "surname": "Ashe", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Hilary L", 
             "references": {
                 "affiliation": [
@@ -109,7 +109,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-02-02", 
+    "pub-date": "2015-02-02T00:00:00Z", 
     "title": "Synthetic enzyme-substrate tethering obviates the Tolloid-ECM interaction during <italic>Drosophila</italic> BMP gradient formation", 
     "citations": {
         "bib39": {
@@ -1744,9 +1744,9 @@
     }, 
     "impact-statement": "The in vivo activity of Tolloid during <italic>Drosophila</italic> dorsal-ventral patterning is regulated by the differential specificity of its non-catalytic domains in mediating substrate and Collagen IV interaction.", 
     "elocation-id": "e05508", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05508.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "BMP", 
@@ -1760,7 +1760,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05508", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Division of Physiology and Metabolism, Medical Research Council National Institute for Medical Research, London, United Kingdom"

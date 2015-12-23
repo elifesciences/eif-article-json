@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1791"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-1792"
         }, 
@@ -240,7 +240,7 @@
         }, 
         {
             "surname": "Brunger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Axel T", 
             "references": {
                 "affiliation": [
@@ -276,7 +276,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2012-12-13", 
+    "pub-date": "2012-12-13T00:00:00Z", 
     "title": "Synaptic proteins promote calcium-triggered fast transition from point contact to full fusion", 
     "citations": {
         "bib39": {
@@ -2253,9 +2253,9 @@
     }, 
     "impact-statement": "A combination of advanced optical imaging and cryogenic electron microscopy has been used to explore membrane fusion in a synthetic system and provide new insights into neurotransmitter release.", 
     "elocation-id": "e00109", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00109.1", 
-    "volume": "1", 
+    "volume": 1, 
     "keywords": {
         "author-keywords": [
             "neurotransmitter release", 
@@ -2269,7 +2269,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00109", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Chemistry and Biochemistry, University of Maryland, Baltimore County, USA"

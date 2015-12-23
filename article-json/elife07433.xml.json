@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Mazor", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Yuval", 
             "references": {
                 "competing-interest": [
@@ -54,7 +54,7 @@
         }, 
         {
             "surname": "Nelson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nathan", 
             "references": {
                 "competing-interest": [
@@ -93,7 +93,7 @@
             "id": "author-1125"
         }
     ], 
-    "pub-date": "2015-06-15", 
+    "pub-date": "2015-06-15T00:00:00Z", 
     "title": "The structure of plant photosystem I super-complex at 2.8 \u00c5 resolution", 
     "citations": {
         "bib39": {
@@ -1817,9 +1817,9 @@
     }, 
     "impact-statement": "The crystal structure of higher plant PSI-LHCI complex reveals intricate details responsible for light harvesting.", 
     "elocation-id": "e07433", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07433.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "<italic>Pisum Sativum</italic>", 
@@ -1833,7 +1833,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07433", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

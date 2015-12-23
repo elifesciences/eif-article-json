@@ -25,7 +25,7 @@
         }, 
         {
             "surname": "Doe", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Chris Q", 
             "references": {
                 "affiliation": [
@@ -61,7 +61,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-29", 
+    "pub-date": "2014-10-29T00:00:00Z", 
     "title": "Transient nuclear Prospero induces neural progenitor quiescence", 
     "citations": {
         "bib39": {
@@ -1501,9 +1501,9 @@
     }, 
     "impact-statement": "A low-level pulse of the nuclear Prospero protein is necessary and sufficient to cause neural progenitor cells to enter a quiescent state.", 
     "elocation-id": "e03363", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03363.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "quiescence", 
@@ -1515,7 +1515,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03363", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff2": {

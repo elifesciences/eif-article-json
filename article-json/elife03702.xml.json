@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Edwards", 
-            "corresp": "yes", 
+            "corresp": true, 
             "affiliations": [
                 {
                     "country": "United States", 
@@ -26,7 +26,7 @@
             "id": "author-11650"
         }
     ], 
-    "pub-date": "2014-07-22", 
+    "pub-date": "2014-07-22T00:00:00Z", 
     "title": "The inevitability of C<sub>4</sub> photosynthesis", 
     "citations": {
         "bib11": {
@@ -540,9 +540,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03702.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "Flaveria", 
@@ -555,7 +555,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03702", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

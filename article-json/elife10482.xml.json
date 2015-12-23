@@ -3,7 +3,7 @@
     "article-type": "research-article", 
     "contributors": [
         {
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "given-names": "Jeremy S", 
             "surname": "Treger", 
             "references": {
@@ -26,7 +26,7 @@
             "type": "author"
         }, 
         {
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "given-names": "Michael F", 
             "surname": "Priest", 
             "references": {
@@ -49,7 +49,7 @@
             "type": "author"
         }, 
         {
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Francisco", 
             "surname": "Bezanilla", 
             "references": {
@@ -85,7 +85,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-11-24", 
+    "pub-date": "2015-11-24T00:00:00Z", 
     "title": "Single-molecule fluorimetry and gating currents inspire an improved optical voltage indicator", 
     "citations": {
         "bib39": {
@@ -1769,9 +1769,9 @@
     }, 
     "impact-statement": "ArcLight, a popular optogenetic reporter of voltage, is studied at both single-molecule and macroscopic levels, which leads to new mechanistic understanding and to the rational design of a faster reporter. ", 
     "elocation-id": "e10482", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "10482.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "single-molecule fluorescence", 
@@ -1786,7 +1786,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.10482", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15705"
         }, 
@@ -50,7 +50,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0003-0760-757X", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-16539"
         }, 
@@ -114,7 +114,7 @@
         }, 
         {
             "surname": "Larson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Daniel R", 
             "references": {
                 "affiliation": [
@@ -150,7 +150,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-01", 
+    "pub-date": "2014-10-01T00:00:00Z", 
     "title": "Kinetic competition during the transcription cycle results in stochastic RNA processing", 
     "citations": {
         "bib39": {
@@ -2656,9 +2656,9 @@
     }, 
     "impact-statement": "Real-time single-molecule visualization of transcription and splicing in living cells reveals that RNA synthesis and processing can occur through multiple pathways on the same gene.", 
     "elocation-id": "e03939", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03939.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "transcription", 
@@ -2672,7 +2672,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03939", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Physics, Boise State University, Boise, United States"

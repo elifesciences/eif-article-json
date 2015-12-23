@@ -71,7 +71,7 @@
             }
         }, 
         {
-            "corresp": "yes", 
+            "corresp": true, 
             "type": "author", 
             "group-author-key": "group-author-id1", 
             "references": {
@@ -178,7 +178,7 @@
             ]
         }
     ], 
-    "pub-date": "2015-09-03", 
+    "pub-date": "2015-09-03T00:00:00Z", 
     "title": "Registered report: A coding-independent function of gene and pseudogene mRNAs regulates tumour biology", 
     "citations": {
         "bib39": {
@@ -2245,9 +2245,9 @@
         }
     }, 
     "article-id": "08245", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08245.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Reproducibility Project: Cancer Biology", 
@@ -2261,7 +2261,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08245", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-27251"
         }, 
@@ -40,13 +40,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-24032"
         }, 
         {
             "surname": "Sabatini", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Bernardo L", 
             "references": {
                 "affiliation": [
@@ -79,7 +79,7 @@
             "id": "author-1149"
         }
     ], 
-    "pub-date": "2015-02-27", 
+    "pub-date": "2015-02-27T00:00:00Z", 
     "title": "Corelease of acetylcholine and GABA from cholinergic forebrain neurons", 
     "citations": {
         "bib9": {
@@ -1645,9 +1645,9 @@
     }, 
     "impact-statement": "Neurons of the cholinergic system, which release the excitatory neurotransmitter acetycholine throughout the cortex, also release the inhibitory transmitter GABA, with potential implications for cognitive function.", 
     "elocation-id": "e06412", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06412.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "neurotransmitter corelease", 
@@ -1660,7 +1660,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06412", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6841"
         }, 
@@ -47,7 +47,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6842"
         }, 
@@ -195,7 +195,7 @@
         }, 
         {
             "surname": "Filipe", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "S\u00e9rgio Raposo", 
             "references": {
                 "affiliation": [
@@ -232,7 +232,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-01", 
+    "pub-date": "2014-04-01T00:00:00Z", 
     "title": "Bacterial autolysins trim cell surface peptidoglycan to prevent detection by the Drosophila innate immune system", 
     "citations": {
         "bib39": {
@@ -1540,9 +1540,9 @@
     }, 
     "impact-statement": "To avoid recognition by the immune system, bacteria use autolysins to trim fragments of peptidoglycans that are exposed on the bacterial cell wall.", 
     "elocation-id": "e02277", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02277.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "<italic>Staphylococcus aureus</italic>", 
@@ -1558,7 +1558,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02277", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

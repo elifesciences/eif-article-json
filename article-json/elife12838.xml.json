@@ -32,7 +32,7 @@
         }, 
         {
             "surname": "Garrity", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Paul A", 
             "references": {
                 "affiliation": [
@@ -47,7 +47,7 @@
             "id": "author-2262"
         }
     ], 
-    "pub-date": "2015-12-15", 
+    "pub-date": "2015-12-15T00:00:00Z", 
     "title": "Some like it hot, but not too hot", 
     "citations": {
         "bib10": {
@@ -338,9 +338,9 @@
             "type": "commentary-article"
         }
     ], 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "12838.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "<italic>Aedes aegypti</italic>", 
@@ -352,7 +352,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.12838", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff3": {

@@ -89,7 +89,7 @@
         }, 
         {
             "surname": "Kahne", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Daniel", 
             "references": {
                 "affiliation": [
@@ -114,7 +114,7 @@
         }, 
         {
             "surname": "Silhavy", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Thomas J", 
             "references": {
                 "affiliation": [
@@ -149,7 +149,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-31", 
+    "pub-date": "2014-12-31T00:00:00Z", 
     "title": "A mutant <italic>Escherichia coli</italic> that attaches peptidoglycan to lipopolysaccharide and displays cell wall on its surface", 
     "citations": {
         "bib39": {
@@ -1539,9 +1539,9 @@
     }, 
     "impact-statement": "A single mutation in <italic>Escherichia coli</italic> connects two essential cell envelope assembly pathways and confers vancomycin resistance by displaying molecular decoys at the cell surface.", 
     "elocation-id": "e05334", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05334.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "lipopolysaccharide", 
@@ -1556,7 +1556,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05334", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Syros Pharmaceuticals Inc., Watertown, USA"

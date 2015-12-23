@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15521"
         }, 
@@ -58,7 +58,7 @@
                     "con4"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-20365"
         }, 
@@ -145,7 +145,7 @@
         }, 
         {
             "surname": "Stern", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Claudio D", 
             "references": {
                 "competing-interest": [
@@ -185,7 +185,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-12", 
+    "pub-date": "2014-12-12T00:00:00Z", 
     "title": "The transcription factor Pitx2 positions the embryonic axis and regulates twinning", 
     "citations": {
         "bib39": {
@@ -2560,9 +2560,9 @@
     }, 
     "impact-statement": "In higher vertebrates, the position of the embryonic axis (the location at which gastrulation starts) is determined by the transcription factor Pitx2, which suggests that the mechanisms of this process, and hence those that regulate twinning, are related to those that set up the left\u2013right axis.", 
     "elocation-id": "e03743", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03743.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "gastrulation", 
@@ -2575,7 +2575,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03743", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Cardiovascular Research Institute, University of California, San Francisco, San Francisco, United States", 

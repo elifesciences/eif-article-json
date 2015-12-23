@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-34950"
         }, 
@@ -43,7 +43,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-34951"
         }, 
@@ -120,7 +120,7 @@
         }, 
         {
             "surname": "Martens", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sascha", 
             "references": {
                 "affiliation": [
@@ -181,7 +181,7 @@
             "id": "author-3855"
         }
     ], 
-    "pub-date": "2015-09-28", 
+    "pub-date": "2015-09-28T00:00:00Z", 
     "title": "Oligomerization of p62 allows for selection of ubiquitinated cargo and isolation membrane during selective autophagy", 
     "citations": {
         "bib39": {
@@ -2815,9 +2815,9 @@
     }, 
     "impact-statement": "Oligomerization of p62/SQSTM1 generates high avidity binding regions that enable it to spatially select for concentrated ubiquitin and ATG8-family proteins.", 
     "elocation-id": "e08941", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08941.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "selective autophagy", 
@@ -2829,7 +2829,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08941", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

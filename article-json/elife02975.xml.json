@@ -23,7 +23,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12663"
         }, 
@@ -51,7 +51,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-13006"
         }, 
@@ -203,7 +203,7 @@
         }, 
         {
             "surname": "De Camilli", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Pietro", 
             "references": {
                 "competing-interest": [
@@ -248,7 +248,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-08-08", 
+    "pub-date": "2014-08-08T00:00:00Z", 
     "title": "A role of OCRL in clathrin-coated pit dynamics and uncoating revealed by studies of Lowe syndrome cells", 
     "citations": {
         "bib48": {
@@ -3797,9 +3797,9 @@
     }, 
     "impact-statement": "Studies of Lowe syndrome patient cells, which lack the inositol 5-phosphatase OCRL, suggest that a defect in endocytosis plays a role in the pathological manifestations of the disease.", 
     "elocation-id": "e02975", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02975.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "clathrin-mediated endocytosis", 
@@ -3814,7 +3814,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02975", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

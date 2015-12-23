@@ -25,7 +25,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6724"
         }, 
@@ -52,7 +52,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6725"
         }, 
@@ -143,7 +143,7 @@
         }, 
         {
             "surname": "Gimelbrant", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Alexander A", 
             "references": {
                 "competing-interest": [
@@ -186,7 +186,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-31", 
+    "pub-date": "2013-12-31T00:00:00Z", 
     "title": "Chromatin signature of widespread monoallelic expression", 
     "citations": {
         "bib39": {
@@ -2957,9 +2957,9 @@
     }, 
     "impact-statement": "Active and repressive chromatin marks, asymmetrically distributed between alleles, distinguish gene bodies subject to epigenetically controlled monoallelic expression on autosomes in human cells.", 
     "elocation-id": "e01256", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01256.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "monoallelic expression", 
@@ -2973,7 +2973,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01256", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

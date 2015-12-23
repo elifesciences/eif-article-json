@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Sun", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Liou Y", 
             "references": {
                 "competing-interest": [
@@ -29,7 +29,7 @@
                     "cor1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-5978"
         }, 
@@ -50,7 +50,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6119"
         }, 
@@ -209,7 +209,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-10-29", 
+    "pub-date": "2013-10-29T00:00:00Z", 
     "title": "Growth hormone-releasing hormone disruption extends lifespan and regulates response to caloric restriction in mice", 
     "citations": {
         "bib39": {
@@ -1928,9 +1928,9 @@
     }, 
     "impact-statement": "Mice with a mutation that disrupts the release of growth hormone show greatly increased lifespan, which can be further increased by caloric restriction.", 
     "elocation-id": "e01098", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01098.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "mice", 
@@ -1943,7 +1943,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01098", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9874"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9875"
         }, 
@@ -70,7 +70,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9876"
         }, 
@@ -95,13 +95,13 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9877"
         }, 
         {
             "surname": "Raymond", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jennifer L", 
             "references": {
                 "affiliation": [
@@ -138,7 +138,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-22", 
+    "pub-date": "2014-04-22T00:00:00Z", 
     "title": "Gating of neural error signals during motor learning", 
     "citations": {
         "bib5a": {
@@ -2836,9 +2836,9 @@
     }, 
     "impact-statement": "Electrode recordings and optogenetics reveal that the cerebellum can modulate its response to error signals from the brainstem during motor learning.", 
     "elocation-id": "e02076", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02076.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "rhesus macaque", 
@@ -2854,7 +2854,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02076", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

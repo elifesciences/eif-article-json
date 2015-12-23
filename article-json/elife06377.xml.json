@@ -205,7 +205,7 @@
         }, 
         {
             "surname": "Vakoc", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Christopher R", 
             "references": {
                 "competing-interest": [
@@ -249,7 +249,7 @@
             "id": "author-1082"
         }
     ], 
-    "pub-date": "2015-04-28", 
+    "pub-date": "2015-04-28T00:00:00Z", 
     "title": "The transcriptional cofactor TRIM33 prevents apoptosis in B lymphoblastic leukemia by deactivating a single enhancer", 
     "citations": {
         "bib39": {
@@ -2690,9 +2690,9 @@
     }, 
     "impact-statement": "TRIM33 performs an essential function in B cell acute lymphoblastic leukemia through an association with a single <italic>cis</italic> element.", 
     "elocation-id": "e06377", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "06377.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Trim33", 
@@ -2708,7 +2708,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.06377", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "The Thomas N Sato BioMEC-X Laboratories, Advanced Telecommunications Research Institute International, Kyoto, Japan"

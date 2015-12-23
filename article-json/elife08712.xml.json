@@ -150,7 +150,7 @@
         {
             "surname": "Farese", 
             "suffix": "Jr", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert V", 
             "references": {
                 "affiliation": [
@@ -176,7 +176,7 @@
         }, 
         {
             "surname": "Walther", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tobias C", 
             "references": {
                 "affiliation": [
@@ -216,7 +216,7 @@
             "id": "author-1193"
         }
     ], 
-    "pub-date": "2015-09-10", 
+    "pub-date": "2015-09-10T00:00:00Z", 
     "title": "The GARP complex is required for cellular sphingolipid homeostasis", 
     "citations": {
         "bib39": {
@@ -3438,9 +3438,9 @@
     }, 
     "impact-statement": "The retrograde vesicular trafficking GARP complex, which is mutated in a neurodegenerative disease, is important for sphingolipid homeostasis in yeast and mammalian cells.", 
     "elocation-id": "e08712", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "08712.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "sphingolipid metabolism", 
@@ -3456,7 +3456,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.08712", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff7": {

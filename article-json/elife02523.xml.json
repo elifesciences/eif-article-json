@@ -30,7 +30,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11411"
         }, 
@@ -56,7 +56,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-11412"
         }, 
@@ -236,7 +236,7 @@
         }, 
         {
             "surname": "Stockwell", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Brent R", 
             "references": {
                 "competing-interest": [
@@ -282,7 +282,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-20", 
+    "pub-date": "2014-05-20T00:00:00Z", 
     "title": "Pharmacological inhibition of cystine\u2013glutamate exchange induces endoplasmic reticulum stress and ferroptosis", 
     "citations": {
         "bib39": {
@@ -3394,9 +3394,9 @@
     }, 
     "impact-statement": "Erastin and sorafenib inhibit system x<sub>c</sub><sup>-</sup> and induce ER stress, suggesting these may be useful tools for probing the functions of system x<sub>c</sub><sup>-</sup> and its role in inducing ER stress and ferroptosis.", 
     "elocation-id": "e02523", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02523.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "reactive oxygen species", 
@@ -3411,7 +3411,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02523", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Biology, Stanford University, Stanford, United States"

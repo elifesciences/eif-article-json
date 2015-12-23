@@ -65,7 +65,7 @@
         }, 
         {
             "surname": "Soriano", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Philippe", 
             "references": {
                 "affiliation": [
@@ -102,7 +102,7 @@
             "id": "author-1052"
         }
     ], 
-    "pub-date": "2015-05-07", 
+    "pub-date": "2015-05-07T00:00:00Z", 
     "title": "Receptor tyrosine kinases modulate distinct transcriptional programs by differential usage of intracellular pathways", 
     "citations": {
         "bib38": {
@@ -2528,9 +2528,9 @@
     }, 
     "impact-statement": "PDGF and FGF signal via distinct intracellular pathways to confer different cellular outcomes during craniofacial development.", 
     "elocation-id": "e07186", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07186.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "RTK", 
@@ -2544,7 +2544,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07186", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

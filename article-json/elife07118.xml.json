@@ -19,7 +19,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29288"
         }, 
@@ -40,7 +40,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-29623"
         }, 
@@ -232,7 +232,7 @@
         }, 
         {
             "surname": "den Blaauwen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Tanneke", 
             "references": {
                 "affiliation": [
@@ -256,7 +256,7 @@
         }, 
         {
             "surname": "Typas", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Athanasios", 
             "references": {
                 "affiliation": [
@@ -281,7 +281,7 @@
         }, 
         {
             "surname": "Gross", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Carol A", 
             "references": {
                 "affiliation": [
@@ -307,7 +307,7 @@
         }, 
         {
             "surname": "Vollmer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Waldemar", 
             "references": {
                 "affiliation": [
@@ -343,7 +343,7 @@
             "id": "author-1188"
         }
     ], 
-    "pub-date": "2015-05-07", 
+    "pub-date": "2015-05-07T00:00:00Z", 
     "title": "Coordination of peptidoglycan synthesis and outer membrane constriction during <italic>Escherichia coli</italic> cell division", 
     "citations": {
         "bib48": {
@@ -3716,9 +3716,9 @@
     }, 
     "impact-statement": "The protein CpoB regulates PBP1B activity in response to the Tol energy state, which facilitates feedback and synchronicity between envelope constriction processes during Gram-negative bacterial cell division.", 
     "elocation-id": "e07118", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07118.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "cell division", 
@@ -3731,7 +3731,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07118", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The other authors declare that no competing interests exist."

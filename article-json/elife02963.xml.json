@@ -27,7 +27,7 @@
         }, 
         {
             "surname": "Pellegrini", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Luca", 
             "references": {
                 "competing-interest": [
@@ -55,7 +55,7 @@
         }, 
         {
             "surname": "Davies", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Owen Richard", 
             "references": {
                 "present-address": [
@@ -97,7 +97,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-20", 
+    "pub-date": "2014-06-20T00:00:00Z", 
     "title": "A molecular model for the role of SYCP3 in meiotic chromosome organisation", 
     "citations": {
         "bib39": {
@@ -2354,9 +2354,9 @@
     }, 
     "impact-statement": "A structural and biochemical study of human SYCP3 provides the first molecular model for the three-dimensional organisation that is imposed upon chromosomal DNA during meiosis and is essential for genetic exchange and fertility.", 
     "elocation-id": "e02963", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02963.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "meiosis", 
@@ -2371,7 +2371,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02963", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Institute for Cell and Molecular Biosciences, Newcastle University, Newcastle upon Tyne, United Kingdom"

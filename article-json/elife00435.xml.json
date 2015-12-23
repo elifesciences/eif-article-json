@@ -39,7 +39,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3395"
         }, 
@@ -80,7 +80,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3396"
         }, 
@@ -203,7 +203,7 @@
         }, 
         {
             "surname": "Rossmann", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Michael G", 
             "references": {
                 "competing-interest": [
@@ -252,7 +252,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-04-02", 
+    "pub-date": "2013-04-02T00:00:00Z", 
     "title": "Structural analyses at pseudo atomic resolution of Chikungunya virus and antibodies show mechanisms of neutralization", 
     "citations": {
         "bib48": {
@@ -2614,9 +2614,9 @@
     }, 
     "impact-statement": "Electron cryo-microscopy has been used to determine the structure of Chikungunya virus-like particles and to provide new insights into their interactions with four different antibodies.", 
     "elocation-id": "e00435", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00435.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "neutralizing antibody", 
@@ -2631,7 +2631,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00435", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "8211 Scicor Drive, Indianapolis, United States", 

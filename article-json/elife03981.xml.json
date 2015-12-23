@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Morrison", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sean J", 
             "role": " Senior Editor", 
             "references": {
@@ -19,7 +19,7 @@
             "id": "author-1146"
         }
     ], 
-    "pub-date": "2014-12-10", 
+    "pub-date": "2014-12-10T00:00:00Z", 
     "title": "Time to do something about reproducibility", 
     "citations": {
         "bib11": {
@@ -422,9 +422,9 @@
         }
     }, 
     "article-id": "03981", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03981.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "reproducibility project: cancer biology", 
@@ -436,7 +436,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03981", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff1": {

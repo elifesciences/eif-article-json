@@ -120,7 +120,7 @@
         }, 
         {
             "surname": "Brunger", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Axel T", 
             "references": {
                 "affiliation": [
@@ -147,7 +147,7 @@
         }, 
         {
             "surname": "Weis", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "William I", 
             "references": {
                 "affiliation": [
@@ -187,7 +187,7 @@
             "id": "author-2915"
         }
     ], 
-    "pub-date": "2015-03-17", 
+    "pub-date": "2015-03-17T00:00:00Z", 
     "title": "Enabling X-ray free electron laser crystallography for challenging biological systems from a limited number of crystals", 
     "citations": {
         "bib39": {
@@ -2472,9 +2472,9 @@
     }, 
     "impact-statement": "Post-refinement methods enable the use of X-ray free electron lasers for biological crystallography of systems in which sample quantity is a limitation.", 
     "elocation-id": "e05421", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05421.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "X-ray crystallography", 
@@ -2486,7 +2486,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05421", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf2": "The other authors declare that no competing interests exist.", 

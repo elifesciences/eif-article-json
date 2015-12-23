@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Goodman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Dan FM", 
             "references": {
                 "present-address": [
@@ -56,7 +56,7 @@
         }, 
         {
             "surname": "Brette", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Romain", 
             "references": {
                 "affiliation": [
@@ -93,7 +93,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-12-03", 
+    "pub-date": "2013-12-03T00:00:00Z", 
     "title": "Decoding neural responses to temporal cues for sound localization", 
     "citations": {
         "bib39": {
@@ -1542,9 +1542,9 @@
     }, 
     "impact-statement": "Computer simulations of interaural time difference decoders show that heterogeneous tuning of binaural neurons leads to accurate sound localization in natural environments.", 
     "elocation-id": "e01312", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01312.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "sound localization", 
@@ -1556,7 +1556,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01312", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Eaton Peabody Laboratory, Massachusetts Eye and Ear Infirmary, Boston, United States", 

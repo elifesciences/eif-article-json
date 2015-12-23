@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Wisniewski", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jan", 
             "references": {
                 "affiliation": [
@@ -158,7 +158,7 @@
         }, 
         {
             "surname": "Wu", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Carl", 
             "references": {
                 "affiliation": [
@@ -195,7 +195,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-20", 
+    "pub-date": "2014-05-20T00:00:00Z", 
     "title": "Imaging the fate of histone Cse4 reveals <italic>de novo</italic> replacement in S phase and subsequent stable residence at centromeres", 
     "citations": {
         "bib39": {
@@ -2365,9 +2365,9 @@
     }, 
     "impact-statement": "Internally tagged, functional Cse4/CENP-A/CenH3 histone variant is exclusively centromeric and stable through the budding yeast cell cycle after replacement in S phase.", 
     "elocation-id": "e02203", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02203.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "centromeric nucleosome", 
@@ -2382,7 +2382,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02203", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Laboratoire Physico-Chimie, CNRS UMR168, Institut Curie, Paris, France"

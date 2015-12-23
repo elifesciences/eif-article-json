@@ -145,7 +145,7 @@
             }, 
             "type": "author", 
             "id": "author-14917", 
-            "deceased": "yes"
+            "deceased": true
         }, 
         {
             "type": "author", 
@@ -196,7 +196,7 @@
         }, 
         {
             "surname": "Cyster", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jason G", 
             "references": {
                 "competing-interest": [
@@ -237,7 +237,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-10-24", 
+    "pub-date": "2014-10-24T00:00:00Z", 
     "title": "Zinc finger protein Zfp335 is required for the formation of the na\u00efve T cell compartment", 
     "citations": {
         "bib39": {
@@ -3238,9 +3238,9 @@
     }, 
     "impact-statement": "A novel zinc finger transcription factor regulates expression of multiple genes in late stage thymocytes and recent thymic emigrants to promote formation of the na\u00efve T cell compartment.", 
     "elocation-id": "e03549", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03549.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "T cell development", 
@@ -3254,7 +3254,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03549", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Snyder Institute for Chronic Diseases, University of Calgary, Calgary, Canada"

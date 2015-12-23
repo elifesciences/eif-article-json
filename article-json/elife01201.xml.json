@@ -136,7 +136,7 @@
         }, 
         {
             "surname": "Black", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Douglas L", 
             "references": {
                 "competing-interest": [
@@ -177,7 +177,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-01-21", 
+    "pub-date": "2014-01-21T00:00:00Z", 
     "title": "The splicing regulator PTBP2 controls a program of embryonic splicing required for neuronal maturation", 
     "citations": {
         "bib39": {
@@ -2707,9 +2707,9 @@
     }, 
     "impact-statement": "PTBP2 ensures that adult protein variants are expressed only in mature neurons through regulation of alternative splicing during early neuronal development.", 
     "elocation-id": "e01201", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01201.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "alternative splicing", 
@@ -2722,7 +2722,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01201", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

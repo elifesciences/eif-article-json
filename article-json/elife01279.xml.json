@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6811"
         }, 
@@ -54,7 +54,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6810"
         }, 
@@ -101,7 +101,7 @@
         }, 
         {
             "surname": "Zhang", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Xuewu", 
             "references": {
                 "competing-interest": [
@@ -142,7 +142,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-10-01", 
+    "pub-date": "2013-10-01T00:00:00Z", 
     "title": "Structural basis for activation and non-canonical catalysis of the Rap GTPase activating protein domain of plexin", 
     "citations": {
         "bib39": {
@@ -2284,9 +2284,9 @@
     }, 
     "impact-statement": "The crystal structures of the intracellular part of the plexin receptor in the active dimer form, and its complex with a key downstream signalling protein Rap, provide insights into how plexin initiates a signalling cascade involved in axon guidance.", 
     "elocation-id": "e01279", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01279.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "plexin", 
@@ -2303,7 +2303,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01279", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "State Key Laboratory of Silkworm Genome Biology, Southwest University, Chongqing, China"

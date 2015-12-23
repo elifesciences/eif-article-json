@@ -26,7 +26,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12035"
         }, 
@@ -50,7 +50,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-12169"
         }, 
@@ -127,7 +127,7 @@
         }, 
         {
             "surname": "Darnell", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Robert B", 
             "references": {
                 "affiliation": [
@@ -152,7 +152,7 @@
         }, 
         {
             "surname": "Massagu\u00e9", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Joan", 
             "references": {
                 "competing-interest": [
@@ -192,7 +192,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-06-04", 
+    "pub-date": "2014-06-04T00:00:00Z", 
     "title": "Loss of the multifunctional RNA-binding protein RBM47 as a source of selectable metastatic traits in breast cancer", 
     "citations": {
         "bib39": {
@@ -5239,9 +5239,9 @@
     }, 
     "impact-statement": "Inactivation of a multifunctional RNA-binding protein can lead to the acquisition of pro-metastatic phenotypes, possibly by stabilizing large-scale transcriptomic changes that provide a selective advantage during cancer progression.", 
     "elocation-id": "e02734", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02734.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "metastasis", 
@@ -5254,7 +5254,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02734", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf3": "The other authors declare that no competing interests exist.", 

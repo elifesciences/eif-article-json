@@ -31,7 +31,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6655"
         }, 
@@ -65,7 +65,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-6936"
         }, 
@@ -100,7 +100,7 @@
         }, 
         {
             "surname": "Howard", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan C", 
             "references": {
                 "competing-interest": [
@@ -145,7 +145,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-10-29", 
+    "pub-date": "2013-10-29T00:00:00Z", 
     "title": "Reciprocal virulence and resistance polymorphism in the relationship between <italic>Toxoplasma gondii</italic> and the house mouse", 
     "citations": {
         "bib39": {
@@ -1958,9 +1958,9 @@
         }
     ], 
     "elocation-id": "e01298", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "01298.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "<italic>Toxoplasma gondii</italic>", 
@@ -1974,7 +1974,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.01298", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

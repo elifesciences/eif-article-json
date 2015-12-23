@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Richardson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Sandra R", 
             "references": {
                 "affiliation": [
@@ -86,7 +86,7 @@
         }, 
         {
             "surname": "Moran", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John V", 
             "references": {
                 "affiliation": [
@@ -123,7 +123,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-04-24", 
+    "pub-date": "2014-04-24T00:00:00Z", 
     "title": "APOBEC3A deaminates transiently exposed single-strand DNA during LINE-1 retrotransposition", 
     "citations": {
         "bib39": {
@@ -4269,9 +4269,9 @@
     }, 
     "impact-statement": "Combining in vitro and in vivo assays demonstrates that the cytidine deaminase APOBEC3A can inhibit LINE-1 retrotransposition by deaminating transiently exposed single-strand DNA that arises during the process of LINE-1 integration.", 
     "elocation-id": "e02008", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02008.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "LINE-1", 
@@ -4284,7 +4284,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02008", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff4": {

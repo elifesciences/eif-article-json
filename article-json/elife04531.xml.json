@@ -80,7 +80,7 @@
         }, 
         {
             "surname": "Simmonds", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Peter", 
             "references": {
                 "competing-interest": [
@@ -122,7 +122,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-12-09", 
+    "pub-date": "2014-12-09T00:00:00Z", 
     "title": "RNA virus attenuation by codon pair deoptimisation is an artefact of increases in CpG/UpA dinucleotide frequencies", 
     "citations": {
         "bib9": {
@@ -1439,9 +1439,9 @@
     }, 
     "impact-statement": "Attenuating candidate live virus vaccines by incorporating unfavoured codon pairs to reduce translation efficiency is actually mediated though changes in frequencies of CpG and UpA dinucleotides, which make viruses more visible to the innate immune system.", 
     "elocation-id": "e04531", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "04531.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "picornavirus", 
@@ -1459,7 +1459,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.04531", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

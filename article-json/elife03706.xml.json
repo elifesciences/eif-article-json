@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Puleston", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Daniel J", 
             "references": {
                 "affiliation": [
@@ -48,7 +48,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15608"
         }, 
@@ -72,7 +72,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15609"
         }, 
@@ -192,7 +192,7 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15614"
         }, 
@@ -216,13 +216,13 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15615"
         }, 
         {
             "surname": "Simon", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Anna Katharina", 
             "references": {
                 "affiliation": [
@@ -254,7 +254,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-11-11", 
+    "pub-date": "2014-11-11T00:00:00Z", 
     "title": "Autophagy is a critical regulator of memory CD8<sup>+</sup> T cell formation", 
     "citations": {
         "bib39": {
@@ -2618,9 +2618,9 @@
     }, 
     "impact-statement": "Autophagy is required for CD8<sup>+</sup> T cell memory formation; in aged individuals autophagy levels are diminished, and increasing autophagy enhances their CD8<sup>+</sup> T cell responses.", 
     "elocation-id": "e03706", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03706.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "autophagy", 
@@ -2635,7 +2635,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03706", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

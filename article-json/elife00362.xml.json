@@ -92,7 +92,7 @@
         }, 
         {
             "surname": "Kaufer", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Daniela", 
             "references": {
                 "affiliation": [
@@ -126,7 +126,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-04-16", 
+    "pub-date": "2013-04-16T00:00:00Z", 
     "title": "Acute stress enhances adult rat hippocampal neurogenesis and activation of newborn neurons via secreted astrocytic FGF2", 
     "citations": {
         "bib39": {
@@ -1758,9 +1758,9 @@
     }, 
     "impact-statement": "Exposing rats to acute stress increased the generation of new neurons in a subregion of the hippocampus, and improved the animals' performance in a memory task two weeks later.", 
     "elocation-id": "e00362", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00362.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "neurogenesis", 
@@ -1775,7 +1775,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00362", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Neurology, Stanford University, Stanford, United States"

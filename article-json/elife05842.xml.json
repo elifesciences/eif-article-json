@@ -22,7 +22,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-23598"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-23597"
         }, 
@@ -101,13 +101,13 @@
                     "equal-contrib1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-23603"
         }, 
         {
             "surname": "Dale", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "J Kim", 
             "references": {
                 "competing-interest": [
@@ -131,7 +131,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-9294-947X", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-21903"
         }, 
@@ -149,7 +149,7 @@
             "id": "author-1024"
         }
     ], 
-    "pub-date": "2015-09-10", 
+    "pub-date": "2015-09-10T00:00:00Z", 
     "title": "A balance of positive and negative regulators determines the pace of the segmentation clock", 
     "citations": {
         "bib68": {
@@ -2267,9 +2267,9 @@
     }, 
     "impact-statement": "Computational modelling together with experimental manipulation indicate that the stability and turnover of activated Notch is inextricably linked to the regulation of the pace of segmentation clock gene expression in the presomitic mesoderm.", 
     "elocation-id": "e05842", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "05842.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "Notch", 
@@ -2285,7 +2285,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.05842", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

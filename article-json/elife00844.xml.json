@@ -27,7 +27,7 @@
         }, 
         {
             "surname": "Hochwagen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Andreas", 
             "references": {
                 "competing-interest": [
@@ -67,7 +67,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-10-01", 
+    "pub-date": "2013-10-01T00:00:00Z", 
     "title": "ATR/Mec1 prevents lethal meiotic recombination initiation on partially replicated chromosomes in budding yeast", 
     "citations": {
         "bib38": {
@@ -1756,9 +1756,9 @@
     }, 
     "impact-statement": "During meiosis, budding yeast use a checkpoint involving the protein Mec1 to prevent the formation of double-strand breaks in DNA that has not completed replication.", 
     "elocation-id": "e00844", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00844.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "DNA replication", 
@@ -1773,7 +1773,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00844", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

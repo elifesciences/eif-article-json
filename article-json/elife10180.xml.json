@@ -40,7 +40,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-39209"
         }, 
@@ -82,7 +82,7 @@
                 ]
             }, 
             "orcid": "http://orcid.org/0000-0002-3343-9621", 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-39210"
         }, 
@@ -152,7 +152,7 @@
         }, 
         {
             "surname": "Walker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John E", 
             "references": {
                 "competing-interest": [
@@ -179,7 +179,7 @@
         }, 
         {
             "surname": "Grigorieff", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Nikolaus", 
             "references": {
                 "competing-interest": [
@@ -220,7 +220,7 @@
         }, 
         {
             "surname": "Rubinstein", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "John L", 
             "references": {
                 "competing-interest": [
@@ -275,7 +275,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2015-10-06", 
+    "pub-date": "2015-10-06T00:00:00Z", 
     "title": "Structure and conformational states of the bovine mitochondrial ATP synthase by cryo-EM", 
     "citations": {
         "bib39": {
@@ -1744,9 +1744,9 @@
     }, 
     "impact-statement": "Structural analysis of the ATP synthase \u2013 in combination with evolutionary covariance analysis \u2013 reveals the fold of the a subunit and shows that the enzyme can adopt several different conformations, which support the Brownian ratchet model for generating rotation.", 
     "elocation-id": "e10180", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "10180.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "cryo-EM", 
@@ -1761,7 +1761,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.10180", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

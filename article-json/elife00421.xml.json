@@ -28,7 +28,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3416"
         }, 
@@ -55,7 +55,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-3243"
         }, 
@@ -156,7 +156,7 @@
         }, 
         {
             "surname": "Baldwin", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Ian T", 
             "references": {
                 "competing-interest": [
@@ -183,7 +183,7 @@
         }, 
         {
             "surname": "Hansson", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Bill S", 
             "references": {
                 "competing-interest": [
@@ -221,7 +221,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2013-05-14", 
+    "pub-date": "2013-05-14T00:00:00Z", 
     "title": "Feeding-induced rearrangement of green leaf volatiles reduces moth oviposition", 
     "citations": {
         "bib48": {
@@ -2643,9 +2643,9 @@
     }, 
     "impact-statement": "The ability of Manduca moths to recognize changes in the profile of volatile compounds released by plants being attacked by Manduca caterpillars allows them to lay their eggs on plants that are less likely to be attacked by insects and other predators, and to avoid competing against other caterpillars of the same species for resources.", 
     "elocation-id": "e00421", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "00421.1", 
-    "volume": "2", 
+    "volume": 2, 
     "keywords": {
         "author-keywords": [
             "<italic>Manduca sexta</italic>", 
@@ -2659,7 +2659,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.00421", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "Department of Plant Physiology, Swammerdam Institute for Life Sciences, Amsterdam, Netherlands", 

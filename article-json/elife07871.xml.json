@@ -25,7 +25,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-31740"
         }, 
@@ -46,7 +46,7 @@
                     "equal-contrib"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-32253"
         }, 
@@ -89,7 +89,7 @@
         }, 
         {
             "surname": "Gage", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Fred H", 
             "references": {
                 "affiliation": [
@@ -129,7 +129,7 @@
             "id": "author-1880"
         }
     ], 
-    "pub-date": "2015-10-16", 
+    "pub-date": "2015-10-16T00:00:00Z", 
     "title": "Distinct roles of NMDA receptors at different stages of granule cell development in the adult brain", 
     "citations": {
         "bib39": {
@@ -1511,9 +1511,9 @@
     }, 
     "impact-statement": "NMDARs promote spine formation to control survival of adult-born granule cells, but gauge spine enlargement and recruitment of AMPARs in both developing and mature neurons.", 
     "elocation-id": "e07871", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07871.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "NMDA receptor", 
@@ -1525,7 +1525,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07871", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

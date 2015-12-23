@@ -25,7 +25,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15319"
         }, 
@@ -52,7 +52,7 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-15647"
         }, 
@@ -98,7 +98,7 @@
         }, 
         {
             "surname": "Brown", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "C Titus", 
             "references": {
                 "competing-interest": [
@@ -127,7 +127,7 @@
         }, 
         {
             "surname": "Swalla", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Billie J", 
             "references": {
                 "competing-interest": [
@@ -156,7 +156,7 @@
         }, 
         {
             "surname": "Christiaen", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Lionel", 
             "references": {
                 "competing-interest": [
@@ -197,7 +197,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-09-10", 
+    "pub-date": "2014-09-10T00:00:00Z", 
     "title": "Divergent mechanisms regulate conserved cardiopharyngeal development and gene expression in distantly related ascidians", 
     "citations": {
         "bib120": {
@@ -4229,9 +4229,9 @@
     }, 
     "impact-statement": "Embryos of distantly related sea squirt species are nearly identical but develop according to different gene regulatory mechanisms.", 
     "elocation-id": "e03728", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "03728.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "development", 
@@ -4246,7 +4246,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.03728", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

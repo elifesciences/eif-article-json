@@ -95,7 +95,7 @@
         }, 
         {
             "surname": "Grimes", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan M", 
             "references": {
                 "affiliation": [
@@ -132,7 +132,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-19", 
+    "pub-date": "2014-05-19T00:00:00Z", 
     "title": "Drastic changes in conformational dynamics of the antiterminator M2-1 regulate transcription efficiency in <italic>Pneumovirinae</italic>", 
     "citations": {
         "bib39": {
@@ -2317,9 +2317,9 @@
     }, 
     "impact-statement": "A combination of X-ray crystallography, molecular dynamics and small angle X-ray scattering shows that the transcription antiterminator M2-1 is a structurally dynamic homotetramer that undergoes large concerted conformational changes upon binding its target RNA.", 
     "elocation-id": "e02674", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02674.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "human metapneumovirus", 
@@ -2333,7 +2333,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02674", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

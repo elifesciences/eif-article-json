@@ -27,7 +27,7 @@
                     "con1"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-8806"
         }, 
@@ -55,13 +55,13 @@
                     "con2"
                 ]
             }, 
-            "equal-contrib": "yes", 
+            "equal-contrib": true, 
             "type": "author", 
             "id": "author-9601"
         }, 
         {
             "surname": "Baker", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "David", 
             "references": {
                 "competing-interest": [
@@ -101,7 +101,7 @@
             "type": "editor"
         }
     ], 
-    "pub-date": "2014-05-01", 
+    "pub-date": "2014-05-01T00:00:00Z", 
     "title": "Robust and accurate prediction of residue\u2013residue interactions across protein interfaces using evolutionary information", 
     "citations": {
         "bib39": {
@@ -2275,9 +2275,9 @@
     }, 
     "impact-statement": "Co-evolving residue pairs in the different components of a protein complex almost always make contact across the protein\u2013protein interface, thus providing powerful restraints for the modeling of protein complexes.", 
     "elocation-id": "e02030", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "02030.1", 
-    "volume": "3", 
+    "volume": 3, 
     "keywords": {
         "author-keywords": [
             "protein coevolution", 
@@ -2289,7 +2289,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.02030", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "competing-interest": {
             "conf1": "The authors declare that no competing interests exist."

@@ -181,7 +181,7 @@
         }, 
         {
             "surname": "Pierce-Shimomura", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan", 
             "references": {
                 "affiliation": [
@@ -217,7 +217,7 @@
             "id": "author-1084"
         }
     ], 
-    "pub-date": "2015-06-17", 
+    "pub-date": "2015-06-17T00:00:00Z", 
     "title": "Magnetosensitive neurons mediate geomagnetic orientation in <italic>Caenorhabditis elegans</italic>", 
     "citations": {
         "bib39": {
@@ -1906,9 +1906,9 @@
     }, 
     "impact-statement": "With the aid of a pair of sensory neurons, the nematode worm <italic>C. elegans</italic> is able to detect the Earth's magnetic field and use it to navigate towards food sources.", 
     "elocation-id": "e07493", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07493.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "magnetosensation", 
@@ -1920,7 +1920,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07493", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "present-address": {
             "pa1": "School of Biological Sciences, Illinois State University, Normal, United States"

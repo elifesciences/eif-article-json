@@ -4,7 +4,7 @@
     "contributors": [
         {
             "surname": "Newman", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Jonathan P", 
             "references": {
                 "affiliation": [
@@ -118,7 +118,7 @@
         }, 
         {
             "surname": "Potter", 
-            "corresp": "yes", 
+            "corresp": true, 
             "given-names": "Steve M", 
             "references": {
                 "affiliation": [
@@ -155,7 +155,7 @@
             "id": "author-16672"
         }
     ], 
-    "pub-date": "2015-07-03", 
+    "pub-date": "2015-07-03T00:00:00Z", 
     "title": "Optogenetic feedback control of neural activity", 
     "citations": {
         "bib39": {
@@ -1850,9 +1850,9 @@
     }, 
     "impact-statement": "The 'Optoclamp' is a feedback control technology that enables precise, continuously updated, closed-loop optical control of neural firing both in vitro and in vivo.", 
     "elocation-id": "e07192", 
-    "publish": "1", 
+    "publish": true, 
     "article-version-id": "07192.1", 
-    "volume": "4", 
+    "volume": 4, 
     "keywords": {
         "author-keywords": [
             "optoclamp", 
@@ -1867,7 +1867,7 @@
         ]
     }, 
     "doi": "10.7554/eLife.07192", 
-    "version": "1", 
+    "version": 1, 
     "referenced": {
         "affiliation": {
             "aff4": {
