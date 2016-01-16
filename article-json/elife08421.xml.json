@@ -57,9 +57,10 @@
             }
         }, 
         {
-            "type": "", 
+            "type": "author", 
             "given-names": "Yi", 
             "surname": "Shen", 
+            "id": "author-34075", 
             "references": {
                 "affiliation": [
                     "aff1"
@@ -1432,7 +1433,6 @@
                 "id-type": "FundRef"
             }, 
             "par-2": {
-                "award-id": "", 
                 "institution": "KC Wong Education Foundation"
             }, 
             "par-1": {
@@ -1549,7 +1549,7 @@
         }, 
         {
             "path": "content/4/e08421v1/decision", 
-            "doi": "10.7554/eLife.08421.017", 
+            "doi": "10.7554/eLife.08421.018", 
             "type": "sub-article", 
             "contributors": [
                 {
@@ -1569,7 +1569,15 @@
         }, 
         {
             "path": "content/4/e08421v1/response", 
-            "doi": "10.7554/eLife.08421.018", 
+            "fragments": [
+                {
+                    "path": "content/4/e08421v1/response/figure1", 
+                    "doi": "10.7554/eLife.08421.017", 
+                    "type": "fig", 
+                    "title": "Author response image 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08421.019", 
             "type": "sub-article", 
             "title": "Author response"
         }
