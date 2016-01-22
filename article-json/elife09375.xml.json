@@ -1642,7 +1642,7 @@
         }, 
         "funding": {
             "par-2": {
-                "id": "", 
+                "id": "http://dx.doi.org/10.13039/501100001659", 
                 "award-id": "SFB807", 
                 "institution": "Deutsche Forschungsgemeinschaft", 
                 "id-type": "FundRef"
@@ -1793,7 +1793,7 @@
         }, 
         {
             "path": "content/4/e09375v1/decision", 
-            "doi": "10.7554/eLife.09375.019", 
+            "doi": "10.7554/eLife.09375.022", 
             "type": "sub-article", 
             "contributors": [
                 {
@@ -1813,7 +1813,21 @@
         }, 
         {
             "path": "content/4/e09375v1/response", 
-            "doi": "10.7554/eLife.09375.020", 
+            "fragments": [
+                {
+                    "path": "content/4/e09375v1/response/figure1", 
+                    "doi": "10.7554/eLife.09375.018", 
+                    "type": "fig", 
+                    "title": "Author response image 1."
+                }, 
+                {
+                    "path": "content/4/e09375v1/response/figure2", 
+                    "doi": "10.7554/eLife.09375.019", 
+                    "type": "fig", 
+                    "title": "Author response image 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.09375.023", 
             "type": "sub-article", 
             "title": "Author response"
         }

@@ -3394,11 +3394,9 @@
         }, 
         "funding": {
             "par-11": {
-                "award-id": "", 
                 "institution": "Susan Horngren and Littlefield Funds"
             }, 
             "par-10": {
-                "award-id": "", 
                 "institution": "James and Carrie Anderson Fund for Epilepsy Research"
             }, 
             "par-9": {
@@ -3406,7 +3404,6 @@
                 "institution": "Stanford Bio-X"
             }, 
             "par-8": {
-                "award-id": "", 
                 "institution": "Mathers Charitable Foundation"
             }, 
             "par-7": {
@@ -3453,6 +3450,10 @@
             }
         }, 
         "affiliation": {
+            "aff8": {
+                "country": "United Kingdom", 
+                "institution": "University of Oxford"
+            }, 
             "aff7": {
                 "country": "United Kingdom", 
                 "institution": "University of Oxford"
@@ -3690,6 +3691,40 @@
             "doi": "10.7554/eLife.09215.027", 
             "type": "supplementary-material", 
             "title": "Source code 1."
+        }, 
+        {
+            "path": "content/4/e09215v1/decision", 
+            "doi": "10.7554/eLife.09215.029", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "King", 
+                    "given-names": "Andrew J", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United Kingdom", 
+                            "institution": "University of Oxford"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e09215v1/response", 
+            "fragments": [
+                {
+                    "path": "content/4/e09215v1/response/figure1", 
+                    "doi": "10.7554/eLife.09215.028", 
+                    "type": "fig", 
+                    "title": "Author response image 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.09215.030", 
+            "type": "sub-article", 
+            "title": "Author response"
         }
     ], 
     "article-id": "09215", 
