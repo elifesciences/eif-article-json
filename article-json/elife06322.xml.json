@@ -25,7 +25,7 @@
                     "con1"
                 ], 
                 "email": [
-                    "cor2"
+                    "cor1"
                 ]
             }, 
             "equal-contrib": true, 
@@ -444,7 +444,7 @@
                     "conf1"
                 ], 
                 "email": [
-                    "cor1"
+                    "cor2"
                 ]
             }, 
             "type": "author", 
@@ -452,16 +452,15 @@
         }, 
         {
             "surname": "Hobbs", 
+            "given-names": "Helen H", 
+            "role": "Reviewing editor", 
             "affiliations": [
                 {
                     "country": "United States", 
                     "institution": "University of Texas Southwestern Medical Center"
                 }
             ], 
-            "given-names": "Helen H", 
-            "role": "Reviewing editor", 
-            "type": "editor", 
-            "id": "author-1106"
+            "type": "editor"
         }
     ], 
     "pub-date": "2015-07-23T00:00:00Z", 
@@ -529,7 +528,7 @@
             "source": "Genome Research", 
             "doi": "10.1101/gr.229202", 
             "year": "2002", 
-            "title": "BLAT\u2014the BLAST-like alignment tool", 
+            "title": "BLAT---the BLAST-like alignment tool", 
             "authors": [
                 {
                     "group-type": "author", 
@@ -560,7 +559,7 @@
             "source": "The American Journal of Dermatopathology", 
             "doi": "10.1097/DAD.0000000000000039", 
             "year": "2015", 
-            "title": "Cornoid lamellation revisited: apropos of porokeratosis with emphasis on unusual clinicopathological variants", 
+            "title": "Cornoid lamellation revisited", 
             "authors": [
                 {
                     "group-type": "author", 
@@ -621,7 +620,7 @@
             "source": "Journal of Medical Genetics", 
             "doi": "10.1136/jmedgenet-2014-102486", 
             "year": "2014", 
-            "title": "Exome sequencing identifies SLC17A9 pathogenic gene in two Chinese pedigrees with disseminated superficial actinic porokeratosis", 
+            "title": "Exome sequencing identifies SLC17A9 pathogenic gene in two chinese pedigrees with disseminated superficial actinic porokeratosis", 
             "authors": [
                 {
                     "group-type": "author", 
@@ -825,7 +824,7 @@
             "source": "Trends in Cell Biology", 
             "doi": "10.1016/j.tcb.2013.11.004", 
             "year": "2014", 
-            "title": "Broken nuclei\u2014lamins, nuclear mechanics, and disease", 
+            "title": "Broken nuclei \u2013 lamins, nuclear mechanics, and disease", 
             "authors": [
                 {
                     "group-type": "author", 
@@ -840,30 +839,442 @@
             ]
         }, 
         "bib28": {
-            "source": "Annual Review of Biomedical Engineering", 
-            "doi": "10.1146/annurev-bioeng-071910-124736", 
-            "year": "2011", 
-            "title": "Nuclear mechanics in disease", 
+            "source": "Archives of Dermatological Research", 
+            "doi": "10.1007/s00403-014-1465-7", 
+            "year": "2014", 
+            "title": "Splicing mutation in MVK is a cause of porokeratosis of mibelli", 
             "authors": [
                 {
                     "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Zwerger"
+                    "given-names": "K", 
+                    "surname": "Zeng"
                 }, 
                 {
                     "group-type": "author", 
-                    "given-names": "CY", 
-                    "surname": "Ho"
+                    "given-names": "Q-G", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Duan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-H", 
+                    "surname": "Liang"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng.2409", 
+            "year": "2012", 
+            "title": "Exome sequencing identifies MVK mutations in disseminated superficial actinic porokeratosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S-Q", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-Q", 
+                    "surname": "Ren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S-C", 
+                    "surname": "Wei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L-D", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-Y", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z-M", 
+                    "surname": "Hu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z-Y", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B-R", 
+                    "surname": "Guo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H-Y", 
+                    "surname": "Tang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-F", 
+                    "surname": "Tang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-T", 
+                    "surname": "Ding"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-B", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B-Y", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-F", 
+                    "surname": "Yuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-S", 
+                    "surname": "Hou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W-W", 
+                    "surname": "Ha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W-J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-J", 
+                    "surname": "Zhai"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "J", 
-                    "surname": "Lammerding"
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F-F", 
+                    "surname": "Qian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F-S", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-B", 
+                    "surname": "Zuo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-D", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-J", 
+                    "surname": "Sheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-P", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Liang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F-L", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P-G", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S-X", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Fan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S-K", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G-Q", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-C", 
+                    "surname": "Hu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T-T", 
+                    "surname": "He"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-R", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H-M", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z-Y", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H-F", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Hu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S-X", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-W", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-J", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W-D", 
+                    "surname": "Du"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Xia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X-J", 
+                    "surname": "Zhang"
                 }
             ]
         }, 
         "bib20": {
-            "source": "Biochimica et Biophysica Acta", 
+            "source": "Journal of the European Academy of Dermatology and Venereology", 
+            "doi": "10.1111/j.1468-3083.2011.04275.x", 
+            "year": "2012", 
+            "title": "Porokeratosis: present concepts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Sertznig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "von Felbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Megahed"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "The Journal of Dermatology", 
+            "doi": "10.1111/j.1346-8138.2003.tb00374.x", 
+            "year": "2003", 
+            "title": "Solar facial porokeratosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Sharquie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Al-Baghdady"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.145600", 
+            "year": "2000", 
+            "title": "Biosynthesis of isoprenoids via mevalonate in archaea: the lost pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Smit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mushegian"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Biochimica Et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids", 
             "doi": "10.1016/j.bbalip.2013.03.003", 
             "year": "2013", 
             "title": "Regulation of mevalonate metabolism in cancer and immune cells", 
@@ -885,7 +1296,7 @@
                 }
             ]
         }, 
-        "bib21": {
+        "bib24": {
             "source": "The American Journal of Surgical Pathology", 
             "doi": "10.1097/PAS.0b013e31806910c7", 
             "year": "2007", 
@@ -908,7 +1319,7 @@
                 }
             ]
         }, 
-        "bib22": {
+        "bib25": {
             "source": "Nucleic Acids Research", 
             "doi": "10.1093/nar/gkq603", 
             "year": "2010", 
@@ -931,7 +1342,7 @@
                 }
             ]
         }, 
-        "bib23": {
+        "bib26": {
             "source": "Cancer Biology & Therapy", 
             "doi": "10.4161/15384047.2014.987555", 
             "year": "2015", 
@@ -989,10 +1400,10 @@
                 }
             ]
         }, 
-        "bib24": {
+        "bib27": {
             "source": "EMBO Reports", 
             "doi": "10.1038/embor.2011.206", 
-            "year": "2011", 
+            "year": "2012", 
             "title": "A model for mitotic inheritance of histone lysine methylation", 
             "authors": [
                 {
@@ -1017,455 +1428,29 @@
                 }
             ]
         }, 
-        "bib25": {
-            "source": "Archives of Dermatological Research", 
-            "doi": "10.1007/s00403-014-1465-7", 
+        "bib11": {
+            "source": "Journal of Dermatological Science", 
+            "doi": "10.1016/j.jdermsci.2014.03.006", 
             "year": "2014", 
-            "title": "Splicing mutation in MVK is a cause of porokeratosis of Mibelli", 
+            "title": "Updating and correcting the description of MVK mutations identified in chinese patients with disseminated superficial actinic porokeratosis", 
             "authors": [
                 {
                     "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Zeng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "QG", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
+                    "given-names": "C", 
                     "surname": "Li"
                 }, 
                 {
                     "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Duan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YH", 
-                    "surname": "Liang"
-                }
-            ]
-        }, 
-        "bib26": {
-            "source": "Nature Genetics", 
-            "doi": "10.1038/ng.2409", 
-            "year": "2012", 
-            "title": "Exome sequencing identifies MVK mutations in disseminated superficial actinic porokeratosis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "SQ", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "T", 
-                    "surname": "Jiang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YQ", 
-                    "surname": "Ren"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SC", 
-                    "surname": "Wei"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LD", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Cheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XY", 
-                    "surname": "Yin"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ZM", 
-                    "surname": "Hu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ZY", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Liu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BR", 
-                    "surname": "Guo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HY", 
-                    "surname": "Tang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XF", 
-                    "surname": "Tang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YT", 
-                    "surname": "Ding"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JB", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "BY", 
-                    "surname": "Wu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XF", 
-                    "surname": "Yuan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JS", 
-                    "surname": "Hou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WW", 
-                    "surname": "Ha"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WJ", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YJ", 
-                    "surname": "Zhai"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FF", 
-                    "surname": "Qian"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FS", 
-                    "surname": "Zhou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "G", 
-                    "surname": "Chen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XB", 
-                    "surname": "Zuo"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XD", 
-                    "surname": "Zheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YJ", 
-                    "surname": "Sheng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JP", 
-                    "surname": "Gao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "B", 
-                    "surname": "Liang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zhu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "FL", 
-                    "surname": "Xiao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "PG", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Cui"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "H", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SX", 
-                    "surname": "Liu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Gao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Fan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SK", 
-                    "surname": "Shen"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Zeng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "GQ", 
-                    "surname": "Sun"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "Y", 
-                    "surname": "Xu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JC", 
-                    "surname": "Hu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TT", 
-                    "surname": "He"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YR", 
-                    "surname": "Li"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HM", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ZY", 
-                    "surname": "Yu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HF", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Hu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "SX", 
-                    "surname": "Zhao"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "YW", 
-                    "surname": "Zhou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "JJ", 
-                    "surname": "Liu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "WD", 
-                    "surname": "Du"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "K", 
-                    "surname": "Xia"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Yang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "XJ", 
+                    "given-names": "Z", 
                     "surname": "Zhang"
                 }
             ]
         }, 
-        "bib27": {
-            "source": "Journal of Cutaneous Pathology", 
-            "doi": "10.1111/j.1600-0560.2008.01026.x", 
-            "year": "2008", 
-            "title": "Gene expression profiling of porokeratosis", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "ZH", 
-                    "surname": "Zhang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ZM", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ME", 
-                    "surname": "Crosby"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "HF", 
-                    "surname": "Wang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "LH", 
-                    "surname": "Xiang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Luan"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "CY", 
-                    "surname": "Gu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "J", 
-                    "surname": "Zhou"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ZM", 
-                    "surname": "Niu"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "X", 
-                    "surname": "Fang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "W", 
-                    "surname": "Huang"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "ZZ", 
-                    "surname": "Zheng"
-                }
-            ]
-        }, 
-        "bib9a": {
-            "source": "Bioinformatics", 
+        "bib10": {
+            "source": "Bioinformatics (Oxford, England)", 
             "doi": "10.1093/bioinformatics/btp698", 
             "year": "2010", 
-            "title": "Fast and accurate long-read alignment with Burrows-Wheeler transform", 
+            "title": "Fast and accurate long-read alignment with burrows-wheeler transform", 
             "authors": [
                 {
                     "group-type": "author", 
@@ -1479,7 +1464,20 @@
                 }
             ]
         }, 
-        "bib9c": {
+        "bib13": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nm0411-405", 
+            "year": "2011", 
+            "title": "Mutations to the rescue", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "May"
+                }
+            ]
+        }, 
+        "bib12": {
             "source": "Human Genetics", 
             "doi": "10.1007/s00439-010-0929-x", 
             "year": "2011", 
@@ -1537,25 +1535,25 @@
                 }
             ]
         }, 
-        "bib9b": {
-            "source": "Journal of Dermatological Science", 
-            "doi": "10.1016/j.jdermsci.2014.03.006", 
-            "year": "2014", 
-            "title": "Updating and correcting the description of MVK mutations identified in Chinese patients with disseminated superficial actinic porokeratosis", 
+        "bib15": {
+            "source": "Cellular and Molecular Life Sciences : CMLS", 
+            "doi": "10.1007/PL00000814", 
+            "year": "2001", 
+            "title": "The structure and function of nuclear lamins: implications for disease", 
             "authors": [
                 {
                     "group-type": "author", 
-                    "given-names": "C", 
-                    "surname": "Li"
+                    "given-names": "RD", 
+                    "surname": "Moir"
                 }, 
                 {
                     "group-type": "author", 
-                    "given-names": "Z", 
-                    "surname": "Zhang"
+                    "given-names": "TP", 
+                    "surname": "Spann"
                 }
             ]
         }, 
-        "bib11": {
+        "bib14": {
             "source": "Genome Research", 
             "doi": "10.1101/gr.107524.110", 
             "year": "2010", 
@@ -1618,78 +1616,7 @@
                 }
             ]
         }, 
-        "bib10": {
-            "source": "Nature Methods", 
-            "doi": "10.1038/nm0411-405", 
-            "year": "2011", 
-            "title": "Mutations to the rescue", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "May"
-                }
-            ]
-        }, 
-        "bib13": {
-            "source": "Nucleic Acids Research", 
-            "doi": "10.1093/nar/gkg509", 
-            "year": "2003", 
-            "title": "SIFT: predicting amino acid changes that affect protein function", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "PC", 
-                    "surname": "Ng"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "S", 
-                    "surname": "Henikoff"
-                }
-            ]
-        }, 
-        "bib12": {
-            "source": "Cellular and Molecular Life Sciences", 
-            "doi": "10.1007/PL00000814", 
-            "year": "2001", 
-            "title": "The structure and function of nuclear lamins: implications for disease", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "RD", 
-                    "surname": "Moir"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "TP", 
-                    "surname": "Spann"
-                }
-            ]
-        }, 
-        "bib15": {
-            "source": "Acta Dermato-Venereologica", 
-            "year": "1997", 
-            "title": "Porokeratosis of Mibelli. Overview and review of the literature", 
-            "authors": [
-                {
-                    "group-type": "author", 
-                    "given-names": "JM", 
-                    "surname": "Schamroth"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Zlotogorski"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "L", 
-                    "surname": "Gilead"
-                }
-            ]
-        }, 
-        "bib14": {
+        "bib17": {
             "source": "Nucleic Acids Research", 
             "doi": "10.1093/nar/25.14.2745", 
             "year": "1997", 
@@ -1712,30 +1639,25 @@
                 }
             ]
         }, 
-        "bib17": {
-            "source": "Journal of the European Academy of Dermatology and Venereology", 
-            "doi": "10.1111/j.1468-3083.2011.04275.x", 
-            "year": "2012", 
-            "title": "Porokeratosis: present concepts", 
+        "bib16": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkg509", 
+            "year": "2003", 
+            "title": "SIFT: predicting amino acid changes that affect protein function", 
             "authors": [
                 {
                     "group-type": "author", 
-                    "given-names": "P", 
-                    "surname": "Sertznig"
+                    "given-names": "PC", 
+                    "surname": "Ng"
                 }, 
                 {
                     "group-type": "author", 
-                    "given-names": "V", 
-                    "surname": "von Felbert"
-                }, 
-                {
-                    "group-type": "author", 
-                    "given-names": "M", 
-                    "surname": "Megahed"
+                    "given-names": "S", 
+                    "surname": "Henikoff"
                 }
             ]
         }, 
-        "bib16": {
+        "bib19": {
             "source": "Nature Methods", 
             "doi": "10.1038/nmeth0810-575", 
             "year": "2010", 
@@ -1749,7 +1671,7 @@
                 {
                     "group-type": "author", 
                     "given-names": "C", 
-                    "surname": "Rodelsperger"
+                    "surname": "R\u00f6delsperger"
                 }, 
                 {
                     "group-type": "author", 
@@ -1763,39 +1685,116 @@
                 }
             ]
         }, 
-        "bib19": {
-            "source": "Genome Research", 
-            "doi": "10.1101/gr.145600", 
-            "year": "2000", 
-            "title": "Biosynthesis of isoprenoids via mevalonate in Archaea: the lost pathway", 
+        "bib18": {
+            "source": "Acta Dermato-Venereologica", 
+            "year": "1997", 
+            "title": "Porokeratosis of mibelli. overview and review of the literature", 
             "authors": [
                 {
                     "group-type": "author", 
-                    "given-names": "A", 
-                    "surname": "Smit"
+                    "given-names": "JM", 
+                    "surname": "Schamroth"
                 }, 
                 {
                     "group-type": "author", 
                     "given-names": "A", 
-                    "surname": "Mushegian"
+                    "surname": "Zlotogorski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Gilead"
                 }
             ]
         }, 
-        "bib18": {
-            "source": "The Journal of Dermatology", 
-            "doi": "10.1111/j.1346-8138.2003.tb00374.x", 
-            "year": "2003", 
-            "title": "Solar facial porokeratosis", 
+        "bib31": {
+            "source": "Annual Review of Biomedical Engineering", 
+            "doi": "10.1146/annurev-bioeng-071910-124736", 
+            "year": "2011", 
+            "title": "Nuclear mechanics in disease", 
             "authors": [
                 {
                     "group-type": "author", 
-                    "given-names": "KE", 
-                    "surname": "Sharquie"
+                    "given-names": "M", 
+                    "surname": "Zwerger"
                 }, 
                 {
                     "group-type": "author", 
-                    "given-names": "BA", 
-                    "surname": "Al-Baghdady"
+                    "given-names": "CY", 
+                    "surname": "Ho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lammerding"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Journal of Cutaneous Pathology", 
+            "doi": "10.1111/j.1600-0560.2008.01026.x", 
+            "year": "2008", 
+            "title": "Gene expression profiling of porokeratosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z-H", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z-M", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Crosby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H-F", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L-H", 
+                    "surname": "Xiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Luan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C-Y", 
+                    "surname": "Gu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z-M", 
+                    "surname": "Niu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Fang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z-Z", 
+                    "surname": "Zheng"
                 }
             ]
         }
@@ -1895,6 +1894,14 @@
                 "institution": "Shanghai Medical College of Fudan University", 
                 "country": "China"
             }, 
+            "aff13": {
+                "country": "United States", 
+                "institution": "University of Texas Southwestern Medical Center"
+            }, 
+            "aff12": {
+                "country": "United States", 
+                "institution": "University of Texas Southwestern Medical Center"
+            }, 
             "aff11": {
                 "country": "China", 
                 "institution": "Genesky Diagnostics Inc, BioBay, SIP", 
@@ -1905,35 +1912,35 @@
             "equal-contrib": "These authors contributed equally to this work"
         }, 
         "contribution": {
-            "con18": "JX, Acquisition of data", 
-            "con19": "ZZ, Acquisition of data", 
-            "con12": "XB, Acquisition of data", 
-            "con13": "CG, Acquisition of data", 
-            "con10": "XM, Acquisition of data", 
-            "con11": "NS, Acquisition of data", 
-            "con16": "LC, Acquisition of data", 
-            "con17": "LX, Acquisition of data", 
-            "con14": "ZZ, Acquisition of data", 
-            "con15": "QH, Acquisition of data", 
-            "con1": "ZZ, Conception and design, Collection of patients, Acquisition of data, Analysis and interpretation of data, Drafting and revising the article", 
-            "con2": "CL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con3": "ZJ, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
-            "con4": "FW, Acquisition of data", 
-            "con5": "JL, Acquisition of data", 
-            "con6": "WL, Acquisition of data", 
-            "con7": "SZ, Acquisition of data", 
-            "con8": "JG, Acquisition of data", 
-            "con9": "MF, Acquisition of data", 
-            "con25": "HP, Acquisition of data, Analysis and interpretation of data", 
-            "con24": "WH, Acquisition of data, Analysis and interpretation of data", 
-            "con23": "YL, Acquisition of data, Analysis and interpretation of data", 
-            "con22": "LW, Acquisition of data, Analysis and interpretation of data", 
-            "con21": "FY, Acquisition of data, Analysis and interpretation of data", 
-            "con20": "RM, Acquisition of data, Analysis and interpretation of data"
+            "con18": "JX, JX, Acquisition of data", 
+            "con19": "ZZ, ZZ, Acquisition of data", 
+            "con12": "XB, XB, Acquisition of data", 
+            "con13": "CG, CG, Acquisition of data", 
+            "con10": "XM, XM, Acquisition of data", 
+            "con11": "NS, NS, Acquisition of data", 
+            "con16": "LC, LC, Acquisition of data", 
+            "con17": "LX, LX, Acquisition of data", 
+            "con14": "ZZ, ZZ, Acquisition of data", 
+            "con15": "QH, QH, Acquisition of data", 
+            "con1": "ZZ, ZZ, Conception and design, Collection of patients, Acquisition of data, Analysis and interpretation of data, Drafting and revising the article", 
+            "con2": "CL, CL, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "ZJ, ZJ, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "FW, FW, Acquisition of data", 
+            "con5": "JL, JL, Acquisition of data", 
+            "con6": "WL, WL, Acquisition of data", 
+            "con7": "SZ, SZ, Acquisition of data", 
+            "con8": "JG, JG, Acquisition of data", 
+            "con9": "MF, MF, Acquisition of data", 
+            "con25": "HP, HP, Acquisition of data, Analysis and interpretation of data", 
+            "con24": "WH, WH, Acquisition of data, Analysis and interpretation of data", 
+            "con23": "YL, YL, Acquisition of data, Analysis and interpretation of data", 
+            "con22": "LW, LW, Acquisition of data, Analysis and interpretation of data", 
+            "con21": "FY, FY, Acquisition of data, Analysis and interpretation of data", 
+            "con20": "RM, RM, Acquisition of data, Analysis and interpretation of data"
         }, 
         "email": {
-            "cor1": "zhengwenj@geneskies.com", 
-            "cor2": "verzhang@foxmail.com"
+            "cor1": "verzhang@foxmail.com", 
+            "cor2": "zhengwenj@geneskies.com"
         }
     }, 
     "path": "content/4/e06322v1", 
