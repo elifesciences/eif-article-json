@@ -1,0 +1,4350 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Laura", 
+            "surname": "Yelin-Bekerman", 
+            "id": "author-34199", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Idan", 
+            "surname": "Elbaz", 
+            "id": "author-34194", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Alex", 
+            "surname": "Diber", 
+            "id": "author-34299", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Dvir", 
+            "surname": "Dahary", 
+            "id": "author-34300", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Liron", 
+            "surname": "Gibbs-Bar", 
+            "id": "author-34301", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Shahar", 
+            "surname": "Alon", 
+            "id": "author-18422", 
+            "references": {
+                "affiliation": [
+                    "aff5"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Tali", 
+            "surname": "Lerer-Goldshtein", 
+            "id": "author-34198", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con7"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Appelbaum", 
+            "corresp": true, 
+            "given-names": "Lior", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con8"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-4", 
+                    "par-3", 
+                    "par-2", 
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-33808"
+        }, 
+        {
+            "surname": "Elmquist", 
+            "given-names": "Joel K", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "University of Texas Southwestern Medical Center"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2015-10-01T00:00:00Z", 
+    "title": "Hypocretin neuron-specific transcriptome profiling identifies the sleep modulator Kcnh4a", 
+    "citations": {
+        "bib48": {
+            "source": "Development (Cambridge, England)", 
+            "doi": "10.1242/dev.117424", 
+            "year": "2015", 
+            "title": "Evolutionarily conserved regulation of hypocretin neuron specification by Lhx9", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FT", 
+                    "surname": "Merkle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Gandhi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Gagnon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IG", 
+                    "surname": "Woods"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CN", 
+                    "surname": "Chiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Shimogori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Schier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Prober"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M105308200", 
+            "year": "2001", 
+            "title": "Identification and characterization of novel mammalian neuropeptide FF-like peptides that attenuate morphine-induced antinociception", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XM", 
+                    "surname": "Guan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Martin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TP", 
+                    "surname": "Mcdonald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Clements"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Jacobson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bomford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Figueroa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mallee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Evans"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Gould"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CP", 
+                    "surname": "Austin"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "The Journal of Comparative Neurology", 
+            "doi": "10.1002/cne.23716", 
+            "year": "2015", 
+            "title": "Hypothalamic leptin-neurotensin-hypocretin neuronal networks in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Levitas-Djerbi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Yelin-Bekerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lerer-Goldshtein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(00)81965-0", 
+            "year": "1999", 
+            "title": "The sleep disorder canine narcolepsy is caused by a mutation in the hypocretin (orexin) receptor 2 gene", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Faraco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kadotani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Rogers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Qiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "de Jong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nishino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.086827.108", 
+            "year": "2009", 
+            "title": "Evolution of gene function and regulatory control after whole-genome duplication: comparative analyses in vertebrates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Kassahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VT", 
+                    "surname": "Dang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Wilkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Perkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Ragan"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "b.Nature", 
+            "doi": "10.1038/19328", 
+            "year": "1999", 
+            "title": "Direct control of the forkhead transcription factor AFX by protein kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kops"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ND", 
+                    "surname": "de Ruiter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "de Vries-Smits"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Powell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Bos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Burgering"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Molecular Reproduction and Development", 
+            "doi": "10.1002/mrd.20490", 
+            "year": "2006", 
+            "title": "Characterization of the mRNA expression of StAR and steroidogenic enzymes in zebrafish ovarian follicles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Ings"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "van der Kraak"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4908-03.2004", 
+            "year": "2004", 
+            "title": "The Orexin/Hypocretin system in zebrafish is connected to the aminergic and cholinergic systems", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kaslin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Nystedt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ostergard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Peitsaro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Panula"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Journal of Neurophysiology", 
+            "doi": "10.1152/jn.00927.2005", 
+            "year": "2006", 
+            "title": "Prefrontal cortex-projecting glutamatergic thalamic paraventricular nucleus-excited by hypocretin: a feedforward circuit that may enhance cognitive arousal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ghosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "van den Pol"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.2501", 
+            "year": "2013", 
+            "title": "Efficient genome editing in zebrafish using a CRISPR-cas system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WY", 
+                    "surname": "Hwang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reyon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Maeder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SQ", 
+                    "surname": "Tsai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Sander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RT", 
+                    "surname": "Peterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-RJ", 
+                    "surname": "Yeh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Joung"
+                }
+            ]
+        }, 
+        "bib79": {
+            "source": "Lancet (London, England)", 
+            "doi": "10.1016/S0140-6736(05)74704-8", 
+            "year": "2000", 
+            "title": "Increased body-mass index in patients with narcolepsy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Schuld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hebebrand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Geller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Pollm\u00e4cher"
+                }
+            ]
+        }, 
+        "bib78": {
+            "source": "Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.0706-12.2012", 
+            "year": "2012", 
+            "title": "Optogenetic probing of fast glutamatergic transmission from Hypocretin/Orexin to histamine neurons in situ", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Schone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZFH", 
+                    "surname": "Cao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Apergis-Schoute"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Adamantidis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Burdakov"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Neuroscience", 
+            "doi": "10.1016/j.neuroscience.2004.03.023", 
+            "year": "2004", 
+            "title": "Enlarged ventricles, astrogliosis and neurodegeneration in heat shock factor 1 null mouse brain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Santos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Saraiva"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Neuropsychopharmacology", 
+            "doi": "10.1016/S0893-133X(01)00318-9", 
+            "year": "2001", 
+            "title": "Hypothalamic regulation of sleep", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Salin-Pascual"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gerashchenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Greco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Blanco-Centurion"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Shiromani"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "Nature Reviews. Neuroscience", 
+            "doi": "10.1038/nrn2092", 
+            "year": "2007", 
+            "title": "The neural circuit of orexin (hypocretin): maintaining sleep and wakefulness", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Trends in Pharmacological Sciences", 
+            "doi": "10.1016/j.tips.2011.03.007", 
+            "year": "2011", 
+            "title": "Connectomics of orexin-producing neurons: interface of systems of emotion, energy homeostasis and arousal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mieda"
+                }
+            ]
+        }, 
+        "bib77": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.564110", 
+            "year": "2010", 
+            "title": "The mammalian clock component PERIOD2 coordinates circadian output by interaction with nuclear receptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Schmutz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J\u00fcrgen A", 
+                    "surname": "Ripperger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "St\u00e9phanie", 
+                    "surname": "Baeriswyl-Aebischer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Albrecht"
+                }
+            ]
+        }, 
+        "bib76": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2008.73", 
+            "year": "2008", 
+            "title": "Analyzing real-time PCR data by the comparative C(T) method", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Schmittgen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Livak"
+                }
+            ]
+        }, 
+        "bib75": {
+            "source": "Progress in Brain Research", 
+            "doi": "10.1016/S0079-6123(06)53014-6", 
+            "year": "2006", 
+            "title": "Staying awake for dinner: hypothalamic integration of sleep, feeding, and circadian rhythms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Saper"
+                }
+            ]
+        }, 
+        "bib74": {
+            "source": "Nature", 
+            "doi": "10.1038/nature04284", 
+            "year": "2005", 
+            "title": "Hypothalamic regulation of sleep and circadian rhythms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Saper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Scammell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lu"
+                }
+            ]
+        }, 
+        "bib99": {
+            "source": "Peptides", 
+            "doi": "10.1016/j.peptides.2011.05.010", 
+            "year": "2011", 
+            "title": "Stimulatory effect of intracerebroventricular administration of orexin a on food intake in the zebrafish, danio rerio", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Yokobori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kojima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Azuma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Kang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Maejima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Uchiyama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Matsuda"
+                }
+            ]
+        }, 
+        "bib98": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI35115", 
+            "year": "2008", 
+            "title": "Hypocretin/orexin and nociceptin/orphanin FQ coordinately regulate analgesia in a mouse model of stress-induced analgesia", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Wisor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Crowder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lewinter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TV", 
+                    "surname": "Khroyan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yamanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Diano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Horvath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Toll"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TS", 
+                    "surname": "Kilduff"
+                }
+            ]
+        }, 
+        "bib91": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2012.016", 
+            "year": "2012", 
+            "title": "Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and cufflinks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Roberts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Goff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Pertea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Kelley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Pimentel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Salzberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Rinn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }
+            ]
+        }, 
+        "bib90": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2014.04.018", 
+            "year": "2014", 
+            "title": "Descending control of swim posture by a midbrain nucleus in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Thiele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Donovan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Baier"
+                }
+            ]
+        }, 
+        "bib93": {
+            "source": "Frontiers in Behavioral Neuroscience", 
+            "doi": "10.3389/fnbeh.2013.00028", 
+            "year": "2013", 
+            "title": "Role of orexin in modulating arousal, feeding, and motivation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tsujino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }
+            ]
+        }, 
+        "bib92": {
+            "source": "Nature Biotechnology", 
+            "doi": "10.1038/nbt.1621", 
+            "year": "2010", 
+            "title": "Transcript assembly and quantification by RNA-seq reveals unannotated transcripts and isoform switching during cell differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Trapnell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Pertea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mortazavi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Kwan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "van Baren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Salzberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Wold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Pachter"
+                }
+            ]
+        }, 
+        "bib95": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2013.09.028", 
+            "year": "2013", 
+            "title": "An AP2 transcription factor is required for a sleep-active neuron to induce sleep-like quiescence in c.\u00a0elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Turek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Lewandrowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Bringmann"
+                }
+            ]
+        }, 
+        "bib94": {
+            "source": "PloS One", 
+            "doi": "10.1371/journal.pone.0022268", 
+            "year": "2011", 
+            "title": "HSF1 is essential for the resistance of zebrafish eye and brain tissues to hypoxia/reperfusion injury", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NR", 
+                    "surname": "Tucker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Middleton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "QP", 
+                    "surname": "Le"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Shelden"
+                }
+            ]
+        }, 
+        "bib97": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1110415108", 
+            "year": "2011", 
+            "title": "Insights regarding guanine nucleotide exchange from the structure of a DENN-domain protein complexed with its rab GTPase substrate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Bradley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Cai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "K\u00fcmmel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "de La Cruz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Barr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Reinisch"
+                }
+            ]
+        }, 
+        "bib96": {
+            "source": "Annual Review of Physiology", 
+            "doi": "10.1146/annurev-physiol-021909-135919", 
+            "year": "2010", 
+            "title": "Suprachiasmatic nucleus: cell autonomy and network properties", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DK", 
+                    "surname": "Welsh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Takahashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Kay"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Physiological Reviews", 
+            "year": "2000", 
+            "title": "The voltage sensor in voltage-dependent ion channels", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Bezanilla"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkt1359", 
+            "year": "2014", 
+            "title": "The light-induced transcriptome of the zebrafish pineal gland reveals complex regulation of the circadian clockwork by light", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Ben-Moshe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Alon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mracek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Faigenbloom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tovin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Vatine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Eisenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Foulkes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Gothilf"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06310", 
+            "year": "2007", 
+            "title": "Neural substrates of awakening probed with optogenetic control of hypocretin neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Adamantidis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Aravanis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Deisseroth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "de Lecea"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Brain Research", 
+            "doi": "10.1016/j.brainres.2007.06.103", 
+            "year": "2007", 
+            "title": "Comparative expression of p2x receptors and ecto-nucleoside triphosphate diphosphohydrolase 3 in hypocretin and sensory neurons in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Skariah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mourrain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.121715.111", 
+            "year": "2011", 
+            "title": "Barcoding bias in high-throughput multiplex sequencing of miRNA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Alon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Vigneault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Eminaga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Christodoulou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Seidman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Church"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Eisenberg"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.906637106", 
+            "year": "2009", 
+            "title": "Sleep-wake regulation and hypocretin-melatonin interaction in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GX", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Maro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Mori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tovin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Marin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yokogawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kawakami"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Gothilf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mourrain"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2010.09.006", 
+            "year": "2010", 
+            "title": "Circadian and homeostatic regulation of structural synaptic plasticity in hypocretin neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yokogawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Skariah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mourrain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Neuroscience", 
+            "doi": "10.1016/j.neuroscience.2005.08.086", 
+            "year": "2006", 
+            "title": "Immunolocalization of ecto-nucleoside triphosphate diphosphohydrolase 3 in rat brain: implications for modulation of multiple homeostatic systems including feeding and sleep-wake behaviors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Belcher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Zsarnovszky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Crawford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hemani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Spurling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Kirley"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Nature Reviews. Endocrinology", 
+            "doi": "10.1038/nrendo.2013.136", 
+            "year": "2013", 
+            "title": "The endocrinology of food intake", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DP", 
+                    "surname": "Begg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Woods"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2010-11-3-r25", 
+            "year": "2010", 
+            "title": "A scaling normalization method for differential expression analysis of RNA-seq data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Robinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Oshlack"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Best Practice & Research. Clinical Endocrinology & Metabolism", 
+            "doi": "10.1016/j.beem.2010.08.002", 
+            "year": "2010", 
+            "title": "Sleep and metabolism: role of hypothalamic neuronal circuitry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rolls"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schaich Borg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "de Lecea"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2015.01.027", 
+            "year": "2015", 
+            "title": "Spontaneous neuronal network dynamics reveal circuit's functional adaptations for behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Sebasti\u00e1n A", 
+                    "surname": "Romano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Pietri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Ver\u00f3nica", 
+                    "surname": "P\u00e9rez-Schuster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jouary"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Haudrechy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Germ\u00e1n", 
+                    "surname": "Sumbre"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Neuroscience", 
+            "doi": "10.1016/j.neuroscience.2007.12.046", 
+            "year": "2009", 
+            "title": "Functional modulation of AMPA receptors by transmembrane AMPA receptor regulatory proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Sager"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Tapken"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hollmann"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.4332-06.2006", 
+            "year": "2006", 
+            "title": "Hypocretin/Orexin overexpression induces an insomnia-like phenotype in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Prober"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rihel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Onah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R-J", 
+                    "surname": "Sung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Schier"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Circulation. Cardiovascular Genetics", 
+            "doi": "10.1161/CIRCGENETICS.108.839506", 
+            "year": "2009", 
+            "title": "Common coding variants of the HNF1A gene are associated with multiple cardiovascular risk phenotypes in community-based samples of younger and older european-american adults: the coronary artery risk development in young adults study and the cardiovascular health study", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Reiner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Gross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Carlson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Bielinski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Lange"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fornage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Jenny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Walston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Tracy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OD", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Jacobs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Nickerson"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Journal of Neurochemistry", 
+            "doi": "10.1046/j.1471-4159.2002.01141.x", 
+            "year": "2002", 
+            "title": "Selective expression of narp, a secreted neuronal pentraxin, in orexin neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Reti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Reddy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PF", 
+                    "surname": "Worley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Baraban"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Science (New York, N.Y.)", 
+            "doi": "10.1126/science.1183090", 
+            "year": "2010", 
+            "title": "Zebrafish behavioral profiling links drugs to biological targets and rest/wake regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rihel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Prober"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Arvanites"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Zimmerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Jang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Haggarty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Kokel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LL", 
+                    "surname": "Rubin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RT", 
+                    "surname": "Peterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Schier"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "Seminars in Cell Biology", 
+            "doi": "10.1006/scel.1993.1045", 
+            "year": "1993", 
+            "title": "Structural diversity of eukaryotic protein tyrosine phosphatases: functional and evolutionary implications", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Saito"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Cell", 
+            "year": "1998", 
+            "title": "Orexins and orexin receptors: a family of hypothalamic neuropeptides and g protein-coupled receptors that regulate feeding behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Amemiya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ishii"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Matsuzaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Chemelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GP", 
+                    "surname": "Kozlowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wilson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Arch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Buckingham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Haynes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Carr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Annan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Mcnulty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WS", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Terrett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Elshourbagy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Bergsma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yanagisawa"
+                }
+            ]
+        }, 
+        "bib88": {
+            "source": "Biochemical and Biophysical Research Communications", 
+            "doi": "10.1016/j.bbrc.2010.11.001", 
+            "year": "2010", 
+            "title": "Transcriptional regulation of the hypocretin/orexin gene by NR6A1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Tanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kodama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nonaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Toyoda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Arai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fukazawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Honda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Honda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib89": {
+            "source": "Acta Biochimica Et Biophysica Sinica", 
+            "doi": "10.1111/j.1745-7270.2007.00283.x", 
+            "year": "2007", 
+            "title": "Validation of zebrafish (danio rerio) reference genes for quantitative real-time RT-PCR normalization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Dodd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Mcnabb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Love"
+                }
+            ]
+        }, 
+        "bib82": {
+            "source": "J Clin Sleep Med JCSM Off Publ Am Acad Sleep Med", 
+            "year": "2005", 
+            "title": "History of the development of sleep medicine in the united states", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Shepard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Buysse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Chesson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Dement"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Goldberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Guilleminault"
+                }
+            ]
+        }, 
+        "bib83": {
+            "source": "Zebrafish", 
+            "doi": "10.1089/zeb.2011.0708", 
+            "year": "2011", 
+            "title": "Effects of modafinil on sleep-wake cycles in larval zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Benjam\u00edn", 
+                    "surname": "Sigurgeirsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Thorsteinsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Hr\u00f6nn", 
+                    "surname": "Arnard\u00f3ttir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Ingibj\u00f6rg Thorn", 
+                    "surname": "J\u00f3hannesd\u00f3ttir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Karlsson"
+                }
+            ]
+        }, 
+        "bib80": {
+            "source": "Molecules and Cells", 
+            "doi": "10.1007/s10059-009-0048-5", 
+            "year": "2009", 
+            "title": "Cloning and characterization of muscarinic receptor genes from the nile tilapia (oreochromis niloticus)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Seo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M-S", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Ahn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NY", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HH", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Chung"
+                }
+            ]
+        }, 
+        "bib81": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2014.06.032", 
+            "year": "2014", 
+            "title": "Neural control and modulation of swimming speed in the larval zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Severi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Portugues"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Jo\u00e3o C", 
+                    "surname": "Marques"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "O'Malley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Orger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Engert"
+                }
+            ]
+        }, 
+        "bib86": {
+            "source": "Molecular Endocrinology (Baltimore, Md.)", 
+            "doi": "10.1210/me.2004-0532", 
+            "year": "2005", 
+            "title": "Multiple signaling pathways regulating steroidogenesis and steroidogenic acute regulatory protein expression: more complicated than we thought", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Stocco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Manna"
+                }
+            ]
+        }, 
+        "bib87": {
+            "source": "Nature", 
+            "doi": "10.1038/nature07620", 
+            "year": "2008", 
+            "title": "Sensing voltage across lipid membranes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Swartz"
+                }
+            ]
+        }, 
+        "bib84": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08589", 
+            "year": "2009", 
+            "title": "Regulation of adaptive behaviour during fasting by hypothalamic Foxa2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Silva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "von Meyenn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Howell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Thorens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wolfrum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Stoffel"
+                }
+            ]
+        }, 
+        "bib85": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2013.02.018", 
+            "year": "2013", 
+            "title": "Hypothalamic survival circuits: blueprints for purposive behaviors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Sternson"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Frontiers in Behavioral Neuroscience", 
+            "doi": "10.3389/fnbeh.2013.00059", 
+            "year": "2013", 
+            "title": "The hypocretins and the reward function: what have we learned so far?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Boutrel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Steiner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Halfon"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Neurology", 
+            "doi": "10.1212/01.wnl.0000175219.01544.c8", 
+            "year": "2005", 
+            "title": "Narp immunostaining of human hypocretin (orexin) neurons: loss in narcolepsy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Blouin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Thannickal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PF", 
+                    "surname": "Worley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Baraban"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Reti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Siegel"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Endocrinology", 
+            "doi": "10.1210/en.2007-1402", 
+            "year": "2008", 
+            "title": "Steroid hormones control circadian Elovl3 expression in mouse liver", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Brolinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "St\u00e9phane", 
+                    "surname": "Fourcade"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jakobsson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Pujol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jacobsson"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Brain Research", 
+            "doi": "10.1016/S0006-8993(99)01977-0", 
+            "year": "1999", 
+            "title": "Hypothalamic cocaine- and amphetamine-regulated transcript (cART) neurons: histochemical relationship to thyrotropin-releasing hormone, melanin-concentrating hormone, orexin/hypocretin and neuropeptide y", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Broberger"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn.2682", 
+            "year": "2010", 
+            "title": "Tuning arousal with optogenetic modulation of locus coeruleus neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Carter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Yizhar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chikahisa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Nguyen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Adamantidis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nishino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Deisseroth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "de Lecea"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.2630-12.2012", 
+            "year": "2012", 
+            "title": "Narcolepsy: neural mechanisms of sleepiness and cataplexy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Burgess"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Scammell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "STE", 
+                    "surname": "Narcolepsy"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Cell", 
+            "year": "1999", 
+            "title": "Narcolepsy in orexin knockout mice: molecular genetics of sleep regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Chemelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Willie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Sinton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Elmquist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Scammell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xiong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Kisanuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Fitch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nakazato"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Hammer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Saper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yanagisawa"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.05.036", 
+            "year": "2009", 
+            "title": "Identification of a physiologically relevant endogenous ligand for PPARalpha in liver", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MV", 
+                    "surname": "Chakravarthy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IJ", 
+                    "surname": "Lodhi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RRV", 
+                    "surname": "Malapaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Turk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Semenkovich"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Nature Reviews. Neuroscience", 
+            "doi": "10.1038/nrn727", 
+            "year": "2002", 
+            "title": "Potassium channel structures", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Choe"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Biochemical and Biophysical Research Communications", 
+            "doi": "10.1016/j.bbrc.2013.09.127", 
+            "year": "2013", 
+            "title": "Identification of the proteins required for fatty acid desaturation in zebrafish (danio rerio)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-S", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W-I", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T-L", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS-F", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C-Y", 
+                    "surname": "Chang"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "PloS One", 
+            "doi": "10.1371/journal.pone.0004254", 
+            "year": "2009", 
+            "title": "IGFBP3 colocalizes with and regulates hypocretin (orexin)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Honda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KS", 
+                    "surname": "Eriksson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Tanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Salehi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Hesla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Maehlen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Gaus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yanagisawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Taheri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Tsuchiya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Honda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Neuroscience", 
+            "doi": "10.1016/j.neuroscience.2010.06.003", 
+            "year": "2010", 
+            "title": "Immunohistochemical evidence for synaptic release of glutamate from orexin terminals in the locus coeruleus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Henny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Brischoux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Mainville"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Stroh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BE", 
+                    "surname": "Jones"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Nature Reviews. Molecular Cell Biology", 
+            "doi": "10.1038/nrm1946", 
+            "year": "2006", 
+            "title": "Non-coding-RNA regulators of RNA polymerase II transcription", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Goodrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Kugel"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Nature", 
+            "doi": "10.1038/nature01921", 
+            "year": "2003", 
+            "title": "Oleylethanolamide regulates feeding and body weight through activation of the nuclear receptor PPAR-alpha", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gaetani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Oveisi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lo Verme"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Serrano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rodr\u00edguez de Fonseca"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rosengarth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Luecke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "di Giacomo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Tarzia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Piomelli"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "The Journal of Comparative Neurology", 
+            "doi": "10.1002/cne.21013", 
+            "year": "2006", 
+            "title": "P2X2R purinergic receptor subunit mRNA and protein are expressed by all hypothalamic hypocretin/orexin neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Florenzano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Viscomi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Mercaldo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Longone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bernardi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bagni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Molinari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Carrive"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Current Protein & Peptide Science", 
+            "year": "2005", 
+            "title": "Secretoneurin: a new player in angiogenesis and chemotaxis linking nerves, blood vessels and the immune system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Fischer-Colbrie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kirchmair"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "K\u00e4hler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Wiedermann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Saria"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M605811200", 
+            "year": "2006", 
+            "title": "Regulation of hypocretin (orexin) expression in embryonic zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Faraco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Marin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Gaus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mourrain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.1284-12.2012", 
+            "year": "2012", 
+            "title": "Genetic ablation of hypocretin neurons alters behavioral state transitions in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Elbaz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Yelin-Bekerman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nicenboim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Vatine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Frontiers in Neural Circuits", 
+            "doi": "10.3389/fncir.2013.00009", 
+            "year": "2013", 
+            "title": "Circadian clocks, rhythmic synaptic plasticity and the sleep-wake cycle in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Elbaz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Foulkes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Gothilf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "BMC Biology", 
+            "doi": "10.1186/1741-7007-5-42", 
+            "year": "2007", 
+            "title": "Sleep in Kcna2 knockout mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Douglas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Vyazovskiy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Southard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S-Y", 
+                    "surname": "Chiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Messing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Tononi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cirelli"
+                }
+            ]
+        }, 
+        "bib102": {
+            "source": "Brain Research", 
+            "doi": "10.1016/S0006-8993(01)02444-1", 
+            "year": "2001", 
+            "title": "Melatonin promotes sleep-like state in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IV", 
+                    "surname": "Zhdanova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OU", 
+                    "surname": "Leclair"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NP", 
+                    "surname": "Danilova"
+                }
+            ]
+        }, 
+        "bib103": {
+            "source": "Reviews in the Neurosciences", 
+            "doi": "10.1515/RNS.2011.005", 
+            "year": "2011", 
+            "title": "Sleep and its regulation in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IV", 
+                    "surname": "Zhdanova"
+                }
+            ]
+        }, 
+        "bib100": {
+            "source": "PLoS Biology", 
+            "doi": "10.1371/journal.pbio.0050277", 
+            "year": "2007", 
+            "title": "Characterization of sleep in zebrafish and insomnia in hypocretin receptor mutants", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yokogawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Marin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Faraco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "P\u00e9zeron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Appelbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Fr\u00e9d\u00e9ric", 
+                    "surname": "Rosa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mourrain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib101": {
+            "source": "DNA Sequence - the Journal of Sequencing and Mapping", 
+            "doi": "10.1080/10425170310001608407", 
+            "year": "2003", 
+            "title": "Cloning and characterization of human synaptotagmin 10 gene", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Jin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Qian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ying"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Zhao\u2020"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Mao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Jin"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Nature Reviews. Drug Discovery", 
+            "doi": "10.1038/nrd3739", 
+            "year": "2012", 
+            "title": "Limitations in anti-obesity drug development: the critical role of hunger-promoting neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MO", 
+                    "surname": "Dietrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Horvath"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Trends in Neurosciences", 
+            "doi": "10.1016/j.tins.2012.12.005", 
+            "year": "2013", 
+            "title": "Hypothalamic control of energy balance: insights into the role of synaptic plasticity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MO", 
+                    "surname": "Dietrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Horvath"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Nature", 
+            "doi": "10.1038/nature03486", 
+            "year": "2005", 
+            "title": "Reduced sleep in drosophila shaker mutants", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cirelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bushey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Huber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kreber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Ganetzky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Tononi"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "BMC Genomics", 
+            "doi": "10.1186/1471-2164-11-37", 
+            "year": "2010", 
+            "title": "A manual collection of syt, esyt, Rph3a, Rph3al, Doc2, and Dblc2 genes from 46 metazoan genomes--an open access resource for neuroscience and evolutionary biology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Craxton"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Neurology", 
+            "doi": "10.1212/01.wnl.0000168173.71940.ab", 
+            "year": "2005", 
+            "title": "Concomitant loss of dynorphin, NARP, and orexin in narcolepsy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Crocker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Espa\u00f1a"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Papadopoulou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Saper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Faraco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakurai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Honda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Scammell"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "The Journal of Clinical Investigation", 
+            "doi": "10.1172/JCI41366", 
+            "year": "2010", 
+            "title": "Elevated tribbles homolog 2-specific antibody levels in narcolepsy patients", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Cvetkovic-Lopes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "St\u00e9phane", 
+                    "surname": "Dorsaz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "St\u00e9phanie", 
+                    "surname": "Maret"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Pradervand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Dauvilliers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lecendreux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G-J", 
+                    "surname": "Lammers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CEHM", 
+                    "surname": "Donjacour"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "du Pasquier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Pfister"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Petit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "M\u00fchlethaler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tafti"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.207654.112", 
+            "year": "2013", 
+            "title": "Translational profiling of hypocretin neurons identifies candidate molecules for sleep regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Dalal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Roh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Maloney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Akuffo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wamsley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "de Guzman Strong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Gray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Holtzman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Heintz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Dougherty"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.95.1.322", 
+            "year": "1998", 
+            "title": "The hypocretins: hypothalamus-specific peptides with neuroexcitatory activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "de Lecea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TS", 
+                    "surname": "Kilduff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Peyron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Foye"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Danielson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Fukuhara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Battenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VT", 
+                    "surname": "Gautvik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FS", 
+                    "surname": "Bartlett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WN", 
+                    "surname": "Frankel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AN", 
+                    "surname": "van den Pol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FE", 
+                    "surname": "Bloom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Gautvik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Sutcliffe"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Journal of Neuroendocrinology", 
+            "doi": "10.1111/j.1365-2826.2012.02361.x", 
+            "year": "2012", 
+            "title": "Role of nociceptin/orphanin FQ and NOP receptors in the response to acute and repeated restraint stress in rats", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Delaney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Dawe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hogan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hunjan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Roper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hazell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Lolait"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Fulford"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkn180", 
+            "year": "2008", 
+            "title": "Phylogeny.fr: robust phylogenetic analysis for the non-specialist", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Dereeper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Guignon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Blanc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Audic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Buffet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Chevenet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-F", 
+                    "surname": "Dufayard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Guindon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Lefort"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lescot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-M", 
+                    "surname": "Claverie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Gascuel"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M708144200", 
+            "year": "2008", 
+            "title": "Structure of the mature ectodomain of the human receptor-type protein-tyrosine phosphatase IA-2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Mar\u00eda E", 
+                    "surname": "Primo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Sebasti\u00e1n", 
+                    "surname": "Klinke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Sica"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Goldbaum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jakoncic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Poskus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Erm\u00e1cora"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "The Journal of Clinical Endocrinology and Metabolism", 
+            "doi": "10.1210/jc.2006-1927", 
+            "year": "2007", 
+            "title": "PAX4 mutations in thais with maturity onset diabetes of the young", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Plengvidhya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kooptiwut"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Songtawee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Doi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Furuta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nishi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Nanjo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Tantibhedhyangkul"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Boonyasrisawat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Pa-Thai", 
+                    "surname": "Yenchitsomanus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Doria"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Banchuin"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "J Neurosci Off J Soc Neurosci", 
+            "year": "2000", 
+            "title": "Netrin-G1: a novel glycosyl phosphatidylinositol-linked mammalian netrin that is functionally divergent from classical netrins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nakashiba"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ikeda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nishimura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Tashiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Honjo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Culotti"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Frontiers in Systems Neuroscience", 
+            "doi": "10.3389/fnsys.2014.00135", 
+            "year": "2014", 
+            "title": "Retino-hypothalamic regulation of light-induced murine sleep", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Muindi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Zeitzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Heller"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Nature Medicine", 
+            "doi": "10.1038/79690", 
+            "year": "2000", 
+            "title": "A mutation in a case of early onset narcolepsy and a generalized absence of hypocretin peptides in human narcoleptic brains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Peyron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Faraco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Rogers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Ripley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Overeem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Charnay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nevsimalova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Aldrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reynolds"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Albin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hungs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pedrazzoli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Padigaru"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kucherlapati"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Fan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Maki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Lammers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bouras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Kucherlapati"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nishino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "BioTechniques", 
+            "year": "2013", 
+            "title": "Visiting \u201cnoncodarnia.\u201d", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Perkel"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "L\u00e4kartidningen", 
+            "year": "1998", 
+            "title": "[orexins--new hypothalamic peptides that stimulate appetite]", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Meister"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Hakansson"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Current Opinion in Neurobiology", 
+            "doi": "10.1016/j.conb.2013.04.013", 
+            "year": "2013", 
+            "title": "The autoimmune basis of narcolepsy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mahlios"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "de La Herr\u00e1n-Arita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn944", 
+            "year": "2002", 
+            "title": "Sleeping with the hypothalamus: emerging therapeutic targets for sleep disorders", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mignot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Taheri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nishino"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Nature Reviews. Genetics", 
+            "doi": "10.1038/nrg2521", 
+            "year": "2009", 
+            "title": "Long non-coding RNAs: insights into functions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Mercer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Dinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Mattick"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Comprehensive gene profiling of the hypothalamic hypocretin neurons, high resolution imaging and behavioral assays have revealed the molecular signature of these versatile neurons and identified a potassium channel that is required for nighttime sleep.", 
+    "related-articles": [
+        {
+            "href": "10.7554/eLife.12093", 
+            "type": "commentary"
+        }
+    ], 
+    "elocation-id": "e08638", 
+    "publish": true, 
+    "article-version-id": "08638.1", 
+    "volume": 4, 
+    "keywords": {
+        "author-keywords": [
+            "hypocretin", 
+            "orexin", 
+            "sleep", 
+            "transcriptome", 
+            "kcnh4a"
+        ], 
+        "research-organism": [
+            "Zebrafish"
+        ]
+    }, 
+    "doi": "10.7554/eLife.08638", 
+    "version": 1, 
+    "referenced": {
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/501100003977", 
+                "award-id": "366/11", 
+                "institution": "Israel Science Foundation (ISF)", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "award-id": "FP7-PEOPLE-2010-RG274333", 
+                "institution": "Marie Curie Action-International reintegration"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/501100003977", 
+                "award-id": "Legacy Heritage Biomedical Program, 398/11, 992/14", 
+                "institution": "Israel Science Foundation (ISF)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100001742", 
+                "award-id": "2011335", 
+                "institution": "United States-Israel Binational Science Foundation (BSF)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}
+        }, 
+        "affiliation": {
+            "aff6": {
+                "country": "United States", 
+                "institution": "University of Texas Southwestern Medical Center"
+            }, 
+            "aff5": {
+                "dept": "Media Lab", 
+                "city": "Cambridge", 
+                "institution": "Massachusetts Institute of Technology", 
+                "country": "United states"
+            }, 
+            "aff4": {
+                "country": "Israel", 
+                "institution": "The Weizmann Institute of Science", 
+                "city": "Rehovot"
+            }, 
+            "aff3": {
+                "country": "Israel", 
+                "institution": "Toldot Genetics Ltd.", 
+                "city": "Hod Hasharon"
+            }, 
+            "aff2": {
+                "dept": "The Leslie and Susan Gonda Multidisciplinary Brain Research Center", 
+                "city": "Ramat-Gan", 
+                "institution": "Bar-Ilan University", 
+                "country": "Israel"
+            }, 
+            "aff1": {
+                "dept": "The Mina and Everard Goodman Faculty of Life Sciences", 
+                "city": "Ramat-Gan", 
+                "institution": "Bar-Ilan University", 
+                "country": "Israel"
+            }
+        }, 
+        "contribution": {
+            "con1": "LYB, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "IE, Acquisition of data, Analysis and interpretation of data", 
+            "con3": "AD, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "DD, Acquisition of data, Analysis and interpretation of data", 
+            "con5": "LGB, Acquisition of data, Contributed unpublished essential data or reagents", 
+            "con6": "SA, Analysis and interpretation of data, Drafting or revising the article", 
+            "con7": "TLG, Acquisition of data, Analysis and interpretation of data", 
+            "con8": "LA, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "lior.appelbaum@biu.ac.il"
+        }
+    }, 
+    "path": "content/4/e08638v1", 
+    "fragments": [
+        {
+            "path": "content/4/e08638v1/abstract", 
+            "doi": "10.7554/eLife.08638.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e08638v1/abstract2", 
+            "doi": "10.7554/eLife.08638.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e08638v1/figure1", 
+            "doi": "10.7554/eLife.08638.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e08638v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/4/e08638v1/figure2/supp-material1", 
+                    "doi": "10.7554/eLife.08638.005", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 2\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08638.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e08638v1/figure3", 
+            "doi": "10.7554/eLife.08638.006", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e08638v1/figure4", 
+            "doi": "10.7554/eLife.08638.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e08638v1/figure5", 
+            "fragments": [
+                {
+                    "path": "content/4/e08638v1/figure5/supp-material1", 
+                    "doi": "10.7554/eLife.08638.009", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 5\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08638.008", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e08638v1/figure6", 
+            "fragments": [
+                {
+                    "path": "content/4/e08638v1/figure6/figure-supp1", 
+                    "doi": "10.7554/eLife.08638.011", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08638.010", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e08638v1/figure7", 
+            "fragments": [
+                {
+                    "path": "content/4/e08638v1/figure7/figure-supp1", 
+                    "doi": "10.7554/eLife.08638.013", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08638.012", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }
+    ], 
+    "article-id": "08638", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

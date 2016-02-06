@@ -1,0 +1,2960 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Carmen", 
+            "surname": "Andrikou", 
+            "id": "author-30496", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "present-address": [
+                    "pa1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Chih-Yu", 
+            "surname": "Pai", 
+            "id": "author-30497", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Su", 
+            "corresp": true, 
+            "given-names": "Yi-Hsien", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3", 
+                    "par-4", 
+                    "par-5"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-30498"
+        }, 
+        {
+            "surname": "Arnone", 
+            "corresp": true, 
+            "given-names": "Maria Ina", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-30163"
+        }, 
+        {
+            "surname": "Buckingham", 
+            "affiliations": [
+                {
+                    "country": "France", 
+                    "institution": "Institut Pasteur"
+                }
+            ], 
+            "given-names": "Margaret", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1055"
+        }
+    ], 
+    "pub-date": "2015-07-28T00:00:00Z", 
+    "title": "Logics and properties of a genetic regulatory program that drives embryonic muscle development in an echinoderm", 
+    "citations": {
+        "bib48": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2008.187", 
+            "year": "2008", 
+            "title": "A protocol for unraveling gene regulatory networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Materna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Oliveri"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Gene Expression Patterns", 
+            "doi": "10.1016/j.gep.2010.04.002", 
+            "year": "2010", 
+            "title": "High accuracy, high-resolution prevalence measurement for the majority of locally expressed regulatory genes in early sea urchin development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Materna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Development", 
+            "year": "2002", 
+            "title": "FGFR4 signaling is a necessary step in limb muscle differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Marics"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Padilla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Guillemot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Scaal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Marcelle"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2012.01.017", 
+            "year": "2012", 
+            "title": "A comprehensive analysis of Delta signaling in pre-gastrular sea urchin embryos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Materna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Development", 
+            "year": "2001", 
+            "title": "The forkhead transcription factor Foxf1 is required for differentiation of extra-embryonic and lateral plate mesoderm", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mahlapuu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ormestad"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Enerback"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Carlsson"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Development", 
+            "year": "1997", 
+            "title": "Coordinate actions of BMPs, Wnts, Shh and noggin mediate patterning of the dorsal somite", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Marcelle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Stark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bronner-Fraser"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "PLOS Biology", 
+            "doi": "10.1371/journal.pbio.1001402", 
+            "year": "2012", 
+            "title": "Opposing nodal and BMP signals regulate left-right asymmetry in the sea urchin larva", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YJ", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YH", 
+                    "surname": "Su"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.097378.109", 
+            "year": "2011", 
+            "title": "Gene regulatory networks and the role of robustness and stochasticity in the control of gene expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LT", 
+                    "surname": "Macneil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Walhout"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2007.05.005", 
+            "year": "2007", 
+            "title": "Exclusive developmental functions of gatae cis-regulatory modules in the <italic>Strongylocentrorus purpuratus</italic> embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PY", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Nam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2008.03.026", 
+            "year": "2008", 
+            "title": "Different isoforms of the <italic>C. elegans</italic> FGF receptor are required for attraction and repulsion of the migrating sex myoblasts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TW", 
+                    "surname": "Lo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Branda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IE", 
+                    "surname": "Sasson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Goodman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Stern"
+                }
+            ]
+        }, 
+        "bib79": {
+            "source": "Molecular Reproduction and Development", 
+            "doi": "10.1002/mrd.22073", 
+            "year": "2012", 
+            "title": "The forkhead transcription factor FoxY regulates Nanos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Wessel"
+                }
+            ]
+        }, 
+        "bib78": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2013.06.019", 
+            "year": "2013", 
+            "title": "An ancient role for Gata-1/2/3 and Scl transcription factor homologs in the development of immunocytes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Solek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Oliveri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Loza-Coll"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Schrankel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EC", 
+                    "surname": "Ho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Rast"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Hepatology", 
+            "doi": "10.1002/hep.26679", 
+            "year": "2014", 
+            "title": "Fibroblast growth factor signaling in liver carcinogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Sandhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Baichoo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LR", 
+                    "surname": "Roberts"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Development", 
+            "year": "1996", 
+            "title": "A fate map of the vegetal plate of the sea urchin (<italic>Lytechinus variegatus</italic>) mesenchyme blastula", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Ruffins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Ettensohn"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "Development", 
+            "doi": "10.1242/dev.014282", 
+            "year": "2008", 
+            "title": "FGF signals guide migration of mesenchymal cells, control skeletal morphogenesis [corrected] and regulate gastrulation during sea urchin development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Rottinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Saudemont"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Duboc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Besnardeau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "McClay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lepage"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2006.08.012", 
+            "year": "2006", 
+            "title": "Identification and developmental expression of the ets gene family in the sea urchin (<italic>Strongylocentrotus purpuratus</italic>)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rizzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fernandez-Serra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Squarzoni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Archimandritis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Arnone"
+                }
+            ]
+        }, 
+        "bib77": {
+            "source": "Genomics", 
+            "doi": "10.1016/j.ygeno.2009.08.002", 
+            "year": "2010", 
+            "title": "Evolutionary genomics of the Fox genes: origin of gene families and the ancestry of gene clusters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Shimeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Degnan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GN", 
+                    "surname": "Luke"
+                }
+            ]
+        }, 
+        "bib76": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2010.01.015", 
+            "year": "2010", 
+            "title": "Clustered Fox genes in lophotrochozoans and the evolution of the bilaterian Fox gene cluster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Shimeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Boyle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Brunet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GN", 
+                    "surname": "Luke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EC", 
+                    "surname": "Seaver"
+                }
+            ]
+        }, 
+        "bib75": {
+            "source": "Development", 
+            "year": "1999", 
+            "title": "LvNotch signaling mediates secondary mesenchyme specification in the sea urchin embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Sherwood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "McClay"
+                }
+            ]
+        }, 
+        "bib74": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2005.03.032", 
+            "year": "2005", 
+            "title": "Evolution of striated muscle: jellyfish and the origin of triploblasty", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Seipel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Schmid"
+                }
+            ]
+        }, 
+        "bib91": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08531", 
+            "year": "2009", 
+            "title": "Combinatorial binding predicts spatio-temporal cis-regulatory activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Zinzen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Girardot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gagneur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Braun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Furlong"
+                }
+            ]
+        }, 
+        "bib90": {
+            "source": "Cellular and Molecular Life Sciences", 
+            "doi": "10.1007/s00018-011-0629-2", 
+            "year": "2011", 
+            "title": "The myogenic transcriptional network", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Yokoyama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Asahara"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.10.23.2993", 
+            "year": "1996", 
+            "title": "Heartless, a <italic>Drosophila</italic> FGF receptor homolog, is essential for cell migration and establishment of several mesodermal lineages", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Beiman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BZ", 
+                    "surname": "Shilo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Volk"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Development", 
+            "doi": "10.1242/dev.010140", 
+            "year": "2007", 
+            "title": "FoxF is essential for FGF-induced migration of heart progenitor cells in the ascidian Ciona intestinalis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Beh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Shi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Davidson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Christiaen"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2009.05.538", 
+            "year": "2009", 
+            "title": "A conserved Six-Eya cassette acts downstream of Wnt signaling to direct non-myogenic versus myogenic fates in the <italic>C. elegans</italic> postembryonic mesoderm", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NM", 
+                    "surname": "Amin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Lim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Shi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Liu"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Zoologischer Anzeiger", 
+            "doi": "10.1016/j.jcz.2015.03.005", 
+            "year": "2015", 
+            "title": "Too many ways to make a muscle: evolution of GRNs governing myogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Andrikou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Arnone"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Development", 
+            "doi": "10.1242/dev.048496", 
+            "year": "2010", 
+            "title": "The FoxF/FoxC factor LET-381 directly regulates both cell fate specification and cell differentiation in <italic>C. elegans</italic> mesoderm development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NM", 
+                    "surname": "Amin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Shi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Liu"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Development", 
+            "doi": "10.1242/dev.105775", 
+            "year": "2014", 
+            "title": "A dynamic regulatory network explains ParaHox gene control of gut patterning in the sea urchin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Annunziata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Arnone"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "EvoDevo", 
+            "doi": "10.1186/2041-9139-4-33", 
+            "year": "2013", 
+            "title": "Myogenesis in the sea urchin embryo: the molecular fingerprint of the myoblast precursors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Andrikou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Iovene"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rizzo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Oliveri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Arnone"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "The American Naturalist", 
+            "doi": "10.1086/303292", 
+            "year": "1999", 
+            "title": "A search for the origins of animals and fungi: comparing and combining molecular data", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Baldauf"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Developmental Biology", 
+            "doi": "10.1006/dbio.2001.0162", 
+            "year": "2001", 
+            "title": "Loss-of-function mutations reveal that the Drosophila nautilus gene is not essential for embryonic myogenesis or viability", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Balagopalan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Keller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Abmayr"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10100", 
+            "year": "2011", 
+            "title": "A gene regulatory network controlling the embryonic specification of endoderm", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IS", 
+                    "surname": "Peter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2007-8-5-r85", 
+            "year": "2007", 
+            "title": "A global view of gene expression in lithium and zinc treated sea urchin embryos: new components of gene regulatory networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Poustka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "K\u00fchn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Groth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Weise"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Yaguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Burke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Herwig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lehrach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Panopoulou"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2006.05.037", 
+            "year": "2006", 
+            "title": "cis-regulatory processing of Notch signaling input to the sea urchin glial cells missing gene during mesoderm specification", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ransick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2012.02.003", 
+            "year": "2012", 
+            "title": "Cis-regulatory logic driving glial cells missing: self-sustaining circuitry in later embryogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ransick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2013.11.020", 
+            "year": "2014", 
+            "title": "FGF signaling is required for brain left-right asymmetry and brain midline formation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Neugebauer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Yost"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Developmental Dynamics", 
+            "doi": "10.1002/dvdy.22282", 
+            "year": "2010", 
+            "title": "Dissecting the role of Fgf signaling during gastrulation and left-right axis formation in mouse embryos using chemical inhibitors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Oki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kitajima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Meno"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Current Opinion in Genetics & Development", 
+            "doi": "10.1016/j.gde.2004.06.004", 
+            "year": "2004", 
+            "title": "Gene regulatory network controlling embryonic specification in the sea urchin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Oliveri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.8.1.1", 
+            "year": "1994", 
+            "title": "bHLH factors in muscle development: dead lines and commitments, what to leave in and what to leave out", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EN", 
+                    "surname": "Olson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WH", 
+                    "surname": "Klein"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "Developmental Biology", 
+            "doi": "10.1006/dbio.2002.0607", 
+            "year": "2002", 
+            "title": "New early zygotic regulators expressed in endomesoderm of sea urchin embryos discovered by differential array hybridization", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ransick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Rast"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Minokawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Calestani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Developmental Biology", 
+            "doi": "10.1006/dbio.2000.9941", 
+            "year": "2000", 
+            "title": "Recovery of developmentally defined gene sets from high-density cDNA macroarrays", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Rast"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Amore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Calestani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Livi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ransick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib88": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2004.03.034", 
+            "year": "2004", 
+            "title": "The forkhead genes, Foxc1 and Foxc2, regulate paraxials versus intermediate mesoderm cell fate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wilm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "James"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TM", 
+                    "surname": "Schultheiss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Hogan"
+                }
+            ]
+        }, 
+        "bib89": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2008.04.003", 
+            "year": "2008", 
+            "title": "Twist is an essential regulator of the skeletogenic gene regulatory network in the sea urchin embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YP", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "McClay"
+                }
+            ]
+        }, 
+        "bib82": {
+            "source": "Development Genes and Evolution", 
+            "doi": "10.1007/s00427-007-0160-5", 
+            "year": "2007", 
+            "title": "FGF9/16/20 and Wnt-5alpha signals are involved in specification of secondary muscle fate in embryos of the ascidian, Halocynthia roretzi", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tokuoka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Kumano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Nishida"
+                }
+            ]
+        }, 
+        "bib83": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2006.09.031", 
+            "year": "2006", 
+            "title": "Sea urchin Forkhead gene family: phylogeny and embryonic expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Tu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Oliveri"
+                }
+            ]
+        }, 
+        "bib80": {
+            "source": "Nature", 
+            "doi": "10.1038/nature11180", 
+            "year": "2012", 
+            "title": "Independent evolution of striated muscles in cnidarians and bilaterians", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Steinmetz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Kraus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Larroux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JU", 
+                    "surname": "Hammel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Amon-Hassenzahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Houliston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Kraus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Larroux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JU", 
+                    "surname": "Hammel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Amon-Hassenzahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Houliston"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "W\u00f6rheide"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Nickel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Degnan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Technau"
+                }
+            ]
+        }, 
+        "bib81": {
+            "source": "Development", 
+            "year": "2002", 
+            "title": "LvDelta is a mesoderm-inducing signal in the sea urchin embryo and can endow blastomeres with organizer-like properties", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Sweet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gehring"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Ettensohn"
+                }
+            ]
+        }, 
+        "bib86": {
+            "source": "The International Journal of Biochemistry & Cell Biology", 
+            "doi": "10.1016/j.biocel.2011.08.005", 
+            "year": "2011", 
+            "title": "Notch signaling and Notch signaling modifiers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Wang"
+                }
+            ]
+        }, 
+        "bib87": {
+            "source": "Molecular Biology and Evolution", 
+            "doi": "10.1093/molbev/mst176", 
+            "year": "2014", 
+            "title": "Hedgehog signaling requires motile cilia in the sea urchin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Warner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "McCarthy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Morris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "McClay"
+                }
+            ]
+        }, 
+        "bib84": {
+            "source": "Cell cycle", 
+            "doi": "10.4161/cc.6.12.4372", 
+            "year": "2007", 
+            "title": "Notch function in myogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Vasyutina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Lenhard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Birchmeier"
+                }
+            ]
+        }, 
+        "bib85": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2009.04.018", 
+            "year": "2009", 
+            "title": "Hedgehog signaling patterns mesoderm in the sea urchin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Walton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Warner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "Hertzler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "McClay"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Cold Spring Harbor Perspectives in Biology", 
+            "doi": "10.1101/cshperspect.a008342", 
+            "year": "2012", 
+            "title": "Building muscle: molecular regulation of myogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Bentzinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YX", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Rudnicki"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Science's STKE", 
+            "doi": "10.1126/stke.3612006pe47", 
+            "year": "2006", 
+            "title": "Deciphering the underlying mechanism of specification and differentiation: the sea urchin gene regulatory network", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ben-Tabou de-Leon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Molecular Biology and Evolution", 
+            "doi": "10.1093/molbev/mst222", 
+            "year": "2014", 
+            "title": "FGF signaling emerged concomitantly with the origin of Eumetazoans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Bertrand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Iwema"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Escriva"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1014235108", 
+            "year": "2011", 
+            "title": "Amphioxus FGF signaling predicts the acquisition of vertebrate morphological traits", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Bertrand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Camasses"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Somorjai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Belgacem"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Chabrol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Escande"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Pontarotti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Escriva"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Development", 
+            "year": "1998", 
+            "title": "EGL-17(FGF) expression coordinates the attraction of the migrating sex myoblasts with vulval induction in <italic>C. elegans</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Burdine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Branda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Stern"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg2369", 
+            "year": "2008", 
+            "title": "The genetics of vertebrate myogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Bryson-Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Currie"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Zoomorphology", 
+            "doi": "10.1007/BF00312050", 
+            "year": "1981", 
+            "title": "Structure of the digestive tract of the pluteus larva of dendraster excentricus echinodermata, echinoida", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Burke"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Cell and Tissue Research", 
+            "doi": "10.1007/BF00214384", 
+            "year": "1988", 
+            "title": "Development of the esophageal muscles in embryos of the sea urchin <italic>Strongylocentrotus purpuratus</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Burke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Alvarez"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Current Opinion in Cell Biology", 
+            "doi": "10.1016/j.ceb.2009.10.001", 
+            "year": "2009", 
+            "title": "Conservation and divergence in developmental networks: a view from <italic>Drosophila myogenesis</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ciglar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EE", 
+                    "surname": "Furlong"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Journal of Experimental Zoology Part B, Molecular and Developmental Evolution", 
+            "doi": "10.1002/jez.b.21150", 
+            "year": "2008", 
+            "title": "Insights from diploblasts; the evolution of mesoderm and muscle", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Burton"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2006.08.048", 
+            "year": "2006", 
+            "title": "RTK and TGF-beta signaling pathways genes in the sea urchin genome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lapraz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "R\u00f6ttinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Duboc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Range"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Duloquin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Walton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bradham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Loza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hibino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Wilson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Poustka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "McClay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Angerer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Gache"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lepage"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "International Journal of Obesity", 
+            "doi": "10.1038/ijo.2014.45", 
+            "year": "2014", 
+            "title": "Levels of circulating selenoprotein P, fibroblast growth factor (FGF) 21 and FGF23 in relation to the metabolic syndrome in young children", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Ko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Mantzoros"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2006.07.035", 
+            "year": "2006", 
+            "title": "Germ line determinants are not localized early in sea urchin development, but do accumulate in the small micromere lineage", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CE", 
+                    "surname": "Juliano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Voronina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Stack"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Aldrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Cameron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Wessel"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Journal of Biochemistry", 
+            "doi": "10.1093/jb/mvq121", 
+            "year": "2011", 
+            "title": "Fibroblast growth factors: from molecular evolution to roles in development, metabolism and disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Itoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Ornitz"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2006.08.033", 
+            "year": "2006", 
+            "title": "Gene families encoding transcription factors expressed in early development of <italic>Strongylocentrotus purpuratus</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Howard-Ashby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Materna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Cameron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Development Genes and Evolution", 
+            "doi": "10.1007/s00427-005-0051-6", 
+            "year": "2006", 
+            "title": "Ion flow regulates left-right asymmetry in sea urchin development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hibino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ishii"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Levin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nishino"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Development, Growth & Differentiation", 
+            "doi": "10.1111/j.1440-169X.2006.00892.x", 
+            "year": "2006", 
+            "title": "Phylogenetic correspondence of the body axes in bilaterians is revealed by the right-sided expression of Pitx genes in echinoderm larvae", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hibino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nishino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Amemiya"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg2523", 
+            "year": "2009", 
+            "title": "The evolution of Fox genes and their role in development and disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hannenhalli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Kaestner"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Development", 
+            "doi": "10.1242/dev.01958", 
+            "year": "2005", 
+            "title": "Fgf8 drives myogenic progression of a novel lateral fast muscle fibre population in zebrafish", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Groves"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Hammond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Hughes"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Development", 
+            "doi": "10.1242/dev.083790", 
+            "year": "2013", 
+            "title": "FGF signaling induces mesoderm in the hemichordate <italic>Saccoglossus kowalevskii</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Green"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "Norris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Terasaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Lowe"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "EvoDevo", 
+            "doi": "10.1186/2041-9139-5-17", 
+            "year": "2014", 
+            "title": "The Fox/Forkhead transcription factor family of the hemichordate <italic>Saccoglossus kowalevskii</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Fritzenwanker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gerhart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Freeman", 
+                    "suffix": "Jr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Lowe"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2013.08.012", 
+            "year": "2013", 
+            "title": "In vivo T-box transcription factor profiling reveals joint regulation of embryonic neuromesodermal bipotency", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GE", 
+                    "surname": "Gentsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ND", 
+                    "surname": "Owens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Martin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Piccinelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Faial"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Trotter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Gilchrist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Smith"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Science", 
+            "doi": "10.1126/science.1069883", 
+            "year": "2002", 
+            "title": "A genomic regulatory network for development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Rast"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Oliveri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ransick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Calestani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Yuh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Minokawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Amore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Hinman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Arenas-Mena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Otim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Livi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PY", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Revilla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Rust"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZJ", 
+                    "surname": "Pan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Schilstra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Clarke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Arnone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Rowen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Cameron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "McClay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Hood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Bolouri"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Current Opinion in Genetics & Development", 
+            "doi": "10.1016/j.gde.2009.10.007", 
+            "year": "2009", 
+            "title": "Network design principles from the sea urchin embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09645", 
+            "year": "2010", 
+            "title": "Emerging properties of animal gene regulatory networks", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2009.05.544", 
+            "year": "2009", 
+            "title": "The timing of emergence of muscle progenitors is controlled by an FGF/ERK/SNAIL1 pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Delfini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "De La Celle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gros"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Serralbo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Marics"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Seux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Scaal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Marcelle"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Development", 
+            "doi": "10.1242/dev.037689", 
+            "year": "2010", 
+            "title": "FGF signalling: diverse roles during early vertebrate embryogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dorey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Amaya"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Development", 
+            "doi": "10.1242/dev.042531", 
+            "year": "2010", 
+            "title": "Nodal and BMP2/4 pattern the mesoderm and endoderm during development of the sea urchin embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Duboc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lapraz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Saudemont"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bessodes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Mekpoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Haillot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Quirin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lepage"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.273.29.18623", 
+            "year": "1998", 
+            "title": "Identification of a novel inhibitor of mitogen-activated protein kinase kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MF", 
+                    "surname": "Favata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KY", 
+                    "surname": "Horiuchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Manos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Daulerio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Stradley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WS", 
+                    "surname": "Feeser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Van Dyk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Pitts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Earl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Hobbs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Copeland"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RL", 
+                    "surname": "Magolda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Scherle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Trzaskos"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2003.12.029", 
+            "year": "2004", 
+            "title": "Role of the ERK-mediated signaling pathway in mesenchyme formation and differentiation in the sea urchin embryo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fernandez-Serra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Consales"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Livigni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Arnone"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1007417108", 
+            "year": "2011", 
+            "title": "FGF4 and FGF8 comprise the wavefront activity that controls somitogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Naiche"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Holder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lewandoski"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "International Journal of Molecular Sciences", 
+            "doi": "10.3390/ijms14035920", 
+            "year": "2013", 
+            "title": "Functions and mechanisms of fibroblast growth factor (FGF) signalling in <italic>Drosophila melanogaster</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Muha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Muller"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Gene Expression Patterns", 
+            "doi": "10.1016/j.modgep.2004.01.009", 
+            "year": "2004", 
+            "title": "Expression patterns of four different regulatory genes that function during sea urchin development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Minokawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Rast"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Arenas-Mena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Franco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.271.33.20119", 
+            "year": "1996", 
+            "title": "SpFGFR, a new member of the fibroblast growth factor receptor family, is developmentally regulated during early sea urchin development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "McCoon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Angerer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Angerer"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.93.18.9366", 
+            "year": "1996", 
+            "title": "Combinatorial control of muscle development by basic helix-loop-helix and MADS-box transcription factors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Molkentin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EN", 
+                    "surname": "Olson"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Science", 
+            "doi": "10.1126/science.276.5314.955", 
+            "year": "1997", 
+            "title": "Structures of the tyrosine kinase domain of fibroblast growth factor receptor in complex with inhibitors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mohammadi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "McMahon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Tang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hirth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BK", 
+                    "surname": "Yeh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Hubbard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schlessinger"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Development", 
+            "doi": "10.1242/dev.091157", 
+            "year": "2013", 
+            "title": "Notch and Nodal control forkhead factor expression in the specification of multipotent progenitors in sea urchin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Materna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SZ", 
+                    "surname": "Swartz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Smith"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Developmental Biology", 
+            "doi": "10.1016/j.ydbio.2012.11.033", 
+            "year": "2013", 
+            "title": "Diversification of oral and aboral mesodermal regulatory states in pregastrular sea urchin embryos", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Materna"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ransick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Davidson"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2006.03.088", 
+            "year": "2006", 
+            "title": "An ancient Fox gene cluster in bilaterian animals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Mazet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Amemiya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Shimeld"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "A gene regulatory network model provides a simplified explanation of the molecular interactions that orchestrate muscle development in the sea urchin embryo.", 
+    "elocation-id": "e07343", 
+    "publish": true, 
+    "article-version-id": "07343.1", 
+    "volume": 4, 
+    "keywords": {
+        "author-keywords": [
+            "gene regulatory network", 
+            "myogenesis", 
+            "sea urchin", 
+            "FGF", 
+            "Forkhead", 
+            "specification"
+        ], 
+        "research-organism": [
+            "other"
+        ]
+    }, 
+    "doi": "10.7554/eLife.07343", 
+    "version": 1, 
+    "referenced": {
+        "present-address": {
+            "pa1": "Sars International Centre for Marine Molecular Biology, University of Bergen, Bergen, Norway"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/501100004663", 
+                "award-id": "103-2627-B-001-001", 
+                "institution": "Ministry of Science and Technology, Taiwan (MOST)", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/501100004663", 
+                "award-id": "103-2311-B-001-020-MY3", 
+                "institution": "Ministry of Science and Technology, Taiwan (MOST)", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/501100004663", 
+                "award-id": "101-2923-B-001-004-MY2", 
+                "institution": "Ministry of Science and Technology, Taiwan (MOST)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "award-id": "project MODO", 
+                "institution": "POR Campania FSE 2007-2013, Italy"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000780", 
+                "award-id": "Marie Curie ITN project 215781", 
+                "institution": "European Commission (EC)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Institute of Cellular and Organismic Biology", 
+                "city": "Taipei", 
+                "institution": "Academia Sinica", 
+                "country": "Taiwan"
+            }, 
+            "aff1": {
+                "dept": "Biology and Evolution of Marine Organisms", 
+                "city": "Napoli", 
+                "institution": "Stazione Zoologica Anton Dohrn", 
+                "country": "Italy"
+            }
+        }, 
+        "contribution": {
+            "con1": "CA, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "C-YP, Acquisition of data", 
+            "con3": "Y-HS, Analysis and interpretation of data, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con4": "MIA, MIA, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "yhsu@gate.sinica.edu.tw", 
+            "cor2": "miarnone@szn.it"
+        }
+    }, 
+    "path": "content/4/e07343v1", 
+    "fragments": [
+        {
+            "path": "content/4/e07343v1/abstract", 
+            "doi": "10.7554/eLife.07343.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e07343v1/abstract2", 
+            "doi": "10.7554/eLife.07343.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e07343v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/4/e07343v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.07343.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure1/figure-supp2", 
+                    "doi": "10.7554/eLife.07343.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure1/figure-supp3", 
+                    "doi": "10.7554/eLife.07343.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure1/figure-supp4", 
+                    "doi": "10.7554/eLife.07343.007", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 4."
+                }
+            ], 
+            "doi": "10.7554/eLife.07343.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e07343v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/4/e07343v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.07343.009", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure2/figure-supp2", 
+                    "doi": "10.7554/eLife.07343.010", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure2/figure-supp3", 
+                    "doi": "10.7554/eLife.07343.011", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.07343.008", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e07343v1/figure3", 
+            "doi": "10.7554/eLife.07343.012", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e07343v1/figure4", 
+            "fragments": [
+                {
+                    "path": "content/4/e07343v1/figure4/figure-supp1", 
+                    "doi": "10.7554/eLife.07343.014", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure4/figure-supp2", 
+                    "doi": "10.7554/eLife.07343.015", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure4/figure-supp3", 
+                    "doi": "10.7554/eLife.07343.016", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure4/figure-supp4", 
+                    "doi": "10.7554/eLife.07343.017", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 4."
+                }
+            ], 
+            "doi": "10.7554/eLife.07343.013", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e07343v1/figure5", 
+            "doi": "10.7554/eLife.07343.018", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e07343v1/figure6", 
+            "fragments": [
+                {
+                    "path": "content/4/e07343v1/figure6/supp-material1", 
+                    "doi": "10.7554/eLife.07343.020", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 6\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure6/supp-material2", 
+                    "doi": "10.7554/eLife.07343.021", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 6\u2014source data 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.07343.019", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e07343v1/figure7", 
+            "fragments": [
+                {
+                    "path": "content/4/e07343v1/figure7/supp-material1", 
+                    "doi": "10.7554/eLife.07343.023", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 7\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e07343v1/figure7/figure-supp1", 
+                    "doi": "10.7554/eLife.07343.024", 
+                    "type": "fig", 
+                    "title": "Figure 7\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.07343.022", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e07343v1/supp-material1", 
+            "doi": "10.7554/eLife.07343.025", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e07343v1/decision", 
+            "doi": "10.7554/eLife.07343.026", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Buckingham", 
+                    "given-names": "Margaret", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "France", 
+                            "institution": "Institut Pasteur"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e07343v1/response", 
+            "doi": "10.7554/eLife.07343.027", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "07343", 
+    "categories": {
+        "heading": [
+            "Developmental biology and stem cells", 
+            "Genomics and evolutionary biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

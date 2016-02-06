@@ -1,0 +1,958 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Sinan", 
+            "surname": "Can", 
+            "id": "author-13903", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Mark A", 
+            "surname": "Dewitt", 
+            "id": "author-13904", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Yildiz", 
+            "corresp": true, 
+            "given-names": "Ahmet", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-3258"
+        }, 
+        {
+            "surname": "Hyman", 
+            "given-names": "Anthony A", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "Germany", 
+                    "institution": "Max Planck Institute of Molecular Cell Biology and Genetics"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-07-28T00:00:00Z", 
+    "title": "Bidirectional helical motility of cytoplasmic dynein around microtubules", 
+    "citations": {
+        "bib11": {
+            "source": "Nature", 
+            "doi": "10.1038/361269a0", 
+            "year": "1993", 
+            "title": "Right-handed rotation of an actin filament in an in vitro motile system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nishizaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yagi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Tanaka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ishiwata"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.104.049759", 
+            "year": "2005", 
+            "title": "Biased binding of single molecules and continuous movement of multiple molecules of truncated single-headed kinesin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kamei"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kakuta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Higuchi"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2205", 
+            "year": "2012", 
+            "title": "Dynein achieves processive motion using both stochastic and coordinated stepping", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Qiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ND", 
+                    "surname": "Derr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Goodman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Villa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Shih"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Reck-Peterson"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nature Nanotechnology", 
+            "doi": "10.1038/nnano.2008.216", 
+            "year": "2008", 
+            "title": "Quantum-dot-assisted characterization of microtubule rotations during cargo transport", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Nitzsche"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Ruhnow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Diez"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2006.05.046", 
+            "year": "2006", 
+            "title": "Single-molecule analysis of dynein processivity and stepping behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Reck-Peterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Carter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gennerich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.121.5.1083", 
+            "year": "1993", 
+            "title": "Kinesin follows the microtubule's protofilament axis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Meyhofer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Milligan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Howard"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.200108057", 
+            "year": "2002", 
+            "title": "Tau blocks traffic of organelles, neurofilaments, and APP vesicles in neurons and enhances oxidative stress", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Stamer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Vogel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Thies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Mandelkow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Mandelkow"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Nature reviews. Molecular cell biology", 
+            "doi": "10.1038/nrm3667", 
+            "year": "2013", 
+            "title": "Functions and mechanics of dynein motor proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Roberts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Knight"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sutoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Burgess"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Nature Chemical Biology", 
+            "doi": "10.1038/nchembio740", 
+            "year": "2005", 
+            "title": "A torque component in the kinesin-1 power stroke", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yajima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Cross"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(88)80038-2", 
+            "year": "1988", 
+            "title": "Rotation and translocation of microtubules in vitro induced by dyneins from Tetrahymena cilia", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YY", 
+                    "surname": "Toyoshima"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "The Journal of Cell Biology", 
+            "doi": "10.1083/jcb.128.1.117", 
+            "year": "1995", 
+            "title": "Structural changes accompanying GTP hydrolysis in microtubules: information from a slowly hydrolyzable analogue guanylyl-(alpha,beta)-methylene-diphosphonate", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hyman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Chretien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Arnal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RH", 
+                    "surname": "Wade"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M501636200", 
+            "year": "2005", 
+            "title": "The affinity of the dynein microtubule-binding domain is modulated by the conformation of its coiled-coil stalk", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IR", 
+                    "surname": "Gibbons"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Garbarino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CE", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Reck-Peterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Carter"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1491", 
+            "year": "2008", 
+            "title": "A torque component present in mitotic kinesin Eg5 revealed by three-dimensional tracking", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yajima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Mizutani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nishizaka"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2008.07.018", 
+            "year": "2008", 
+            "title": "Intramolecular strain coordinates kinesin stepping behavior along microtubules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tomishige"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gennerich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.107.117689", 
+            "year": "2008", 
+            "title": "An oxygen scavenging system for improvement of dye stability in single-molecule fluorescence experiments", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CE", 
+                    "surname": "Aitken"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Marshall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Puglisi"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2012.04.005", 
+            "year": "2012", 
+            "title": "Torque generation of kinesin motors is governed by the stability of the neck domain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Brunnbauer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Dombi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TH", 
+                    "surname": "Ho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schliwa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rief"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Okten"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1016/j.bpj.2012.05.024", 
+            "year": "2012", 
+            "title": "The highly processive kinesin-8, Kip3, switches microtubule protofilaments with a bias toward the left", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Bormuth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Nitzsche"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Ruhnow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mitra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Storch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Rammner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Howard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Diez"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Science", 
+            "doi": "10.1126/science.1215804", 
+            "year": "2012", 
+            "title": "Cytoplasmic dynein moves through uncoordinated stepping of the AAA+ ring domains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "DeWitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AY", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Combs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yildiz"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Science", 
+            "doi": "10.1126/science.1164424", 
+            "year": "2008", 
+            "title": "Structure and functional role of dynein's microtubule-binding domain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Carter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Garbarino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Wilson-Kubalek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WE", 
+                    "surname": "Shipley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Milligan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Vale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IR", 
+                    "surname": "Gibbons"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Proceedings of the National Academy of Sciences of the USA", 
+            "doi": "10.1073/pnas.1201390110", 
+            "year": "2013", 
+            "title": "Measuring collective transport by defined numbers of processive and nonprocessive kinesin motors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Furuta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Furuta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YY", 
+                    "surname": "Toyoshima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Amino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Oiwa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kojima"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Science", 
+            "doi": "10.1126/science.1152993", 
+            "year": "2008", 
+            "title": "Differential regulation of dynein and kinesin motor proteins by tau", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Dixit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Ross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YE", 
+                    "surname": "Goldman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Holzbaur"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Unlike other cytoskeletal motors that produce torque in a specific direction, cytoplasmic dynein generates torque in either direction, resulting in bidirectional helical motility along microtubules.", 
+    "elocation-id": "e03205", 
+    "publish": true, 
+    "article-version-id": "03205.1", 
+    "volume": 3, 
+    "keywords": {
+        "author-keywords": [
+            "single molecule biophysics", 
+            "molecular motors", 
+            "dynein", 
+            "optical trap", 
+            "intracellular cargo transport"
+        ], 
+        "research-organism": [
+            "<italic>S. cerevisiae</italic>"
+        ]
+    }, 
+    "doi": "10.7554/eLife.03205", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff2": {
+                "dept": "Biophysics Graduate Group", 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Physics", 
+                "city": "Berkeley", 
+                "institution": "University of California, Berkeley", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "SC, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "MAD, Conception and design, Analysis and interpretation of data", 
+            "con3": "AY, Conception and design, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000861", 
+                "award-id": "1006579", 
+                "institution": "Burroughs Wellcome Fund", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000001", 
+                "award-id": "MCB-1055017", 
+                "institution": "National Science Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM094522", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "email": {
+            "cor1": "yildiz@berkeley.edu"
+        }
+    }, 
+    "path": "content/3/e03205v1", 
+    "fragments": [
+        {
+            "path": "content/3/e03205v1/abstract", 
+            "doi": "10.7554/eLife.03205.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e03205v1/abstract2", 
+            "doi": "10.7554/eLife.03205.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e03205v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/3/e03205v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.03205.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.03205.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e03205v1/media1", 
+            "doi": "10.7554/eLife.03205.005", 
+            "type": "media", 
+            "title": "Video 1."
+        }, 
+        {
+            "path": "content/3/e03205v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/3/e03205v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.03205.007", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e03205v1/figure2/figure-supp2", 
+                    "doi": "10.7554/eLife.03205.008", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/3/e03205v1/figure2/figure-supp3", 
+                    "doi": "10.7554/eLife.03205.009", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/3/e03205v1/figure2/figure-supp4", 
+                    "doi": "10.7554/eLife.03205.010", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 4."
+                }, 
+                {
+                    "path": "content/3/e03205v1/figure2/figure-supp5", 
+                    "doi": "10.7554/eLife.03205.011", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 5."
+                }
+            ], 
+            "doi": "10.7554/eLife.03205.006", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e03205v1/media2", 
+            "doi": "10.7554/eLife.03205.012", 
+            "type": "media", 
+            "title": "Video 2."
+        }, 
+        {
+            "path": "content/3/e03205v1/media3", 
+            "doi": "10.7554/eLife.03205.013", 
+            "type": "media", 
+            "title": "Video 3."
+        }, 
+        {
+            "path": "content/3/e03205v1/media4", 
+            "doi": "10.7554/eLife.03205.014", 
+            "type": "media", 
+            "title": "Video 4."
+        }, 
+        {
+            "path": "content/3/e03205v1/figure3", 
+            "doi": "10.7554/eLife.03205.015", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e03205v1/figure4", 
+            "doi": "10.7554/eLife.03205.016", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e03205v1/media5", 
+            "doi": "10.7554/eLife.03205.017", 
+            "type": "media", 
+            "title": "Video 5."
+        }, 
+        {
+            "path": "content/3/e03205v1/figure5", 
+            "doi": "10.7554/eLife.03205.018", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e03205v1/supp-material1", 
+            "doi": "10.7554/eLife.03205.019", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/3/e03205v1/decision", 
+            "doi": "10.7554/eLife.03205.020", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Hyman", 
+                    "given-names": "Anthony A", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Germany", 
+                            "institution": "Max Planck Institute of Molecular Cell Biology and Genetics"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e03205v1/response", 
+            "doi": "10.7554/eLife.03205.021", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "03205", 
+    "categories": {
+        "heading": [
+            "Biophysics and structural biology", 
+            "Cell biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

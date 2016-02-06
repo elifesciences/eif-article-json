@@ -1,0 +1,824 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "William N", 
+            "surname": "Grimes", 
+            "id": "author-16085", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Graves", 
+            "given-names": "Logan R", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ]
+            }, 
+            "equal-contrib": true, 
+            "type": "author", 
+            "id": "author-32314"
+        }, 
+        {
+            "surname": "Summers", 
+            "given-names": "Mathew T", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ]
+            }, 
+            "equal-contrib": true, 
+            "type": "author", 
+            "id": "author-32315"
+        }, 
+        {
+            "surname": "Rieke", 
+            "corresp": true, 
+            "given-names": "Fred", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-3406"
+        }, 
+        {
+            "surname": "Calabrese", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Emory University"
+                }
+            ], 
+            "given-names": "Ronald L", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1056"
+        }
+    ], 
+    "pub-date": "2015-06-22T00:00:00Z", 
+    "title": "A simple retinal mechanism contributes to perceptual interactions between rod- and cone-mediated responses in primates", 
+    "citations": {
+        "bib9": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06150", 
+            "year": "2007", 
+            "title": "Light adaptation in cone vision involves switching between receptor and post-receptor sites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Dunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Lankheet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.92.23.10658", 
+            "year": "1995", 
+            "title": "An alternative pathway for signal flow from rod photoreceptors to ganglion cells in mammalian retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "DeVries"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.1987.sp016691", 
+            "year": "1987", 
+            "title": "Spectral sensitivity of cones of the monkey <italic>Macaca fascicularis</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Nunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Schnapf"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Spatial Vision", 
+            "doi": "10.1163/156856897X00357", 
+            "year": "1997", 
+            "title": "The psychophysics toolbox", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Brainard"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.1984.sp015518", 
+            "year": "1984", 
+            "title": "The photocurrent, noise and spectral sensitivity of rods of the monkey <italic>Macaca fascicularis</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Baylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Nunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Schnapf"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "The new visual neurosciences", 
+            "year": "2014", 
+            "title": "The interaction of rod and cone signals: pathways and psychophysics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Buck"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "LM", 
+                    "surname": "Chalupa"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "JS", 
+                    "surname": "Werner"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "The visual neurosciences", 
+            "year": "2004", 
+            "title": "Rod-cone interactions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Buck"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "LM", 
+                    "surname": "Chalupa"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "JS", 
+                    "surname": "Werner"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Network", 
+            "doi": "10.1080/713663221", 
+            "year": "2001", 
+            "title": "A simple white noise analysis of neuronal light responses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Chichilnisky"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Journal of Vision", 
+            "doi": "10.1167/10.11.4", 
+            "year": "2010", 
+            "title": "Combination of rod and cone inputs in parasol ganglion cells of the magnocellular pathway", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Cao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BB", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Sun"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Science", 
+            "doi": "10.1126/science.7754386", 
+            "year": "1995", 
+            "title": "Photovoltage of rods and cones in the macaque retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Schneeweis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Schnapf"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn.2199", 
+            "year": "2008", 
+            "title": "Origin of correlated activity between parasol retinal ganglion cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PK", 
+                    "surname": "Trong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "The Journal of Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.1564-08.2008", 
+            "year": "2008", 
+            "title": "Rod and cone contributions to horizontal cell light responses in the mouse retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Trumpler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dedek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Schubert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LP", 
+                    "surname": "de Sevilla Muller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Seeliger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Humphries"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Biel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Weiler"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "The Journal of Neuroscience", 
+            "year": "2001", 
+            "title": "Microcircuits for night vision in mouse retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Tsukamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Morigiwa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ueda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Sterling"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.00467", 
+            "year": "2013", 
+            "title": "Controlling gain one photon at a time", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Schwartz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn.2353", 
+            "year": "2009", 
+            "title": "High-sensitivity rod photoreceptor input to the blue-yellow color opponent pathway in macaque retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Field"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Greschner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Gauthier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rangel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shlens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Marshak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Litke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Chichilnisky"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.1977.sp011903", 
+            "year": "1977", 
+            "title": "Convergence of rod and cone signals in the cat's retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Enroth-Cugell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Hertz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Lennie"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2014.02.037", 
+            "year": "2014", 
+            "title": "The synaptic and circuit mechanisms underlying a change in spatial encoding in the retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WN", 
+                    "surname": "Grimes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Schwartz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "The Journal of Physiology", 
+            "doi": "10.1113/jphysiol.1966.sp007928", 
+            "year": "1966", 
+            "title": "Rod and cone interaction in dark-adapted monkey ganglion cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Gouras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Link"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Journal of Neurocytology", 
+            "doi": "10.1007/BF01261502", 
+            "year": "1977", 
+            "title": "The organization of the outer plexiform layer in the retina of the cat: electron microscopic observations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kolb"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2013.10.054", 
+            "year": "2014", 
+            "title": "Adaptation to background light enables contrast coding at rod bipolar cell synapses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Ke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YV", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Borghuis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Cembrowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Riecke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WL", 
+                    "surname": "Kath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Demb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Singer"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2006.09.014", 
+            "year": "2006", 
+            "title": "Network variability limits stimulus-evoked spike timing precision in retinal ganglion cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Murphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Journal of Neurocytology", 
+            "doi": "10.1007/BF01236124", 
+            "year": "1979", 
+            "title": "The inner plexiform layer in the retina of the cat: electron microscopic observations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kolb"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Spikes: exploring the neural code", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ], 
+            "year": "1997"
+        }, 
+        "bib18": {
+            "source": "Spatial Vision", 
+            "doi": "10.1163/156856897X00366", 
+            "year": "1997", 
+            "title": "The VideoToolbox software for visual psychophysics: transforming numbers into movies", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "Pelli"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "A combination of physiological and perceptual experiments show that the responses of rod photoreceptors inhibit those of cones more than vice versa, and reveal both the site of the retinal interaction and the underlying mechanism.", 
+    "elocation-id": "e08033", 
+    "publish": true, 
+    "article-version-id": "08033.1", 
+    "volume": 4, 
+    "keywords": {
+        "author-keywords": [
+            "parallel processing", 
+            "neural computation", 
+            "primate", 
+            "mesopic vision"
+        ], 
+        "research-organism": [
+            "human", 
+            "other"
+        ]
+    }, 
+    "doi": "10.7554/eLife.08033", 
+    "version": 1, 
+    "referenced": {
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "5R90DA033461", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "EY11850", 
+                "institution": "National Institutes of Health (NIH)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute (HHMI)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Physiology and Biophysics", 
+                "city": "Seattle", 
+                "institution": "Howard Hughes Medical Institute, University of Washington", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {
+            "equal-contrib": "These authors contributed equally to this work"
+        }, 
+        "contribution": {
+            "con1": "WNG, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "LRG, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "MTS, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "FR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "rieke@u.washington.edu"
+        }
+    }, 
+    "path": "content/4/e08033v1", 
+    "fragments": [
+        {
+            "path": "content/4/e08033v1/abstract", 
+            "doi": "10.7554/eLife.08033.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e08033v1/abstract2", 
+            "doi": "10.7554/eLife.08033.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e08033v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/4/e08033v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.08033.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e08033v1/figure1/figure-supp2", 
+                    "doi": "10.7554/eLife.08033.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e08033v1/figure1/figure-supp3", 
+                    "doi": "10.7554/eLife.08033.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.08033.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e08033v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/4/e08033v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.08033.008", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08033.007", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e08033v1/figure3", 
+            "fragments": [
+                {
+                    "path": "content/4/e08033v1/figure3/figure-supp1", 
+                    "doi": "10.7554/eLife.08033.010", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.08033.009", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e08033v1/figure4", 
+            "doi": "10.7554/eLife.08033.011", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e08033v1/decision", 
+            "doi": "10.7554/eLife.08033.012", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Calabrese", 
+                    "given-names": "Ronald L", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Emory University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e08033v1/response", 
+            "doi": "10.7554/eLife.08033.013", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "08033", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Short report"
+        ]
+    }
+}

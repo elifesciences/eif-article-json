@@ -1,0 +1,3783 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Eric D", 
+            "surname": "Hoopfer", 
+            "id": "author-41406", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Yonil", 
+            "surname": "Jung", 
+            "id": "author-47299", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Hidehiko K", 
+            "surname": "Inagaki", 
+            "id": "author-41951", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Gerald M", 
+            "surname": "Rubin", 
+            "id": "author-10190", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "surname": "Anderson", 
+            "corresp": true, 
+            "given-names": "David J", 
+            "references": {
+                "affiliation": [
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3", 
+                    "par-4", 
+                    "par-5"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-18547"
+        }, 
+        {
+            "surname": "Ramaswami", 
+            "given-names": "Mani", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "Ireland", 
+                    "institution": "Trinity College Dublin"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2015-12-29T00:00:00Z", 
+    "title": "P1 interneurons promote a persistent internal state that enhances inter-male aggression in <italic>Drosophila</italic>", 
+    "citations": {
+        "bib48": {
+            "source": "Nature Methods", 
+            "year": "2014", 
+            "title": "Independent optical excitation of distinct neural populations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NC", 
+                    "surname": "Klapoetke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Murata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Pulver"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Birdsey-Benson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YK", 
+                    "surname": "Cho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TK", 
+                    "surname": "Morimoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Chuong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Carpenter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Tian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Yan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BY", 
+                    "surname": "Chow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Surek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Melkonian"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Jayaraman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Constantine-Paton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GK-S", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Boyden"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2010.12.017", 
+            "year": "2011", 
+            "title": "Female contact activates male-specific interneurons that trigger stereotypic courtship behavior in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kohatsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koganezawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yamamoto"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Cold Spring Harbor Symposia on Quantitative Biology", 
+            "doi": "10.1101/sqb.2014.79.024984", 
+            "year": "2014", 
+            "title": "Internal states and behavioral decision-making: toward an integration of emotion and cognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kennedy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Asahina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hoopfer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Inagaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Remedios"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2008.06.007", 
+            "year": "2008", 
+            "title": "Fruitless and doublesex coordinate to generate male-specific neurons that can initiate courtship", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kimura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hachiya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koganezawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tazawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yamamoto"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2281", 
+            "year": "2013", 
+            "title": "JAABA: interactive machine learning for automatic annotation of animal behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kabra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Robie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rivera-Alba"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Branson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Branson"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.11188", 
+            "year": "2015", 
+            "title": "Excitation and inhibition onto central courtship neurons biases <italic>Drosophila</italic> mate choice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BR", 
+                    "surname": "Kallman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Scott"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Behavior Genetics", 
+            "year": "1978", 
+            "title": "Influence of beta-alanine on mating and territorialism in drosophila melanogaster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Jacobs"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Cell Reports", 
+            "doi": "10.1016/j.celrep.2012.09.011", 
+            "year": "2012", 
+            "title": "A GAL4-driver line resource for drosophila neurobiology", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jenett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Rubin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TT", 
+                    "surname": "Ngo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Shepherd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Murphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Dionne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Pfeiffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cavallaro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Jeter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Iyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fetter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Hausenfluck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Peng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ET", 
+                    "surname": "Trautman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Svirskas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Myers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZR", 
+                    "surname": "Iwinski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Aso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "DePasquale"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Enos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hulamm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Lam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HH", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Laverty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Long"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Qu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Murphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Rokicki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Safford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shaw"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Simpson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sowell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Tae"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CT", 
+                    "surname": "Zugates"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2011.12.022", 
+            "year": "2012", 
+            "title": "Visualizing neuromodulation in vivo: TANGO-mapping of dopamine signaling reveals appetite control of sugar sensing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HK", 
+                    "surname": "Inagaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ben-Tabou de-Leon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Jagadish"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Ishimoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Barnea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kitamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Axel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2765", 
+            "year": "2014", 
+            "title": "Optogenetic control of drosophila using a red-shifted channelrhodopsin reveals experience-dependent influences on courtship", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HK", 
+                    "surname": "Inagaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Hoopfer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Mishra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RY", 
+                    "surname": "Tsien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib79": {
+            "source": "Neuroscience and Biobehavioral Reviews", 
+            "year": "1999", 
+            "title": "Neuropharmacology of brain-stimulation-evoked aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Siegel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Roeling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Gregg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Kruk"
+                }
+            ]
+        }, 
+        "bib78": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.02951", 
+            "year": "2014", 
+            "title": "A suppression hierarchy among competing motor programs drives sequential grooming in <italic>drosophila</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Seeds"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ravbar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Chung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hampel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Midgley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Mensh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Simpson"
+                }
+            ]
+        }, 
+        "bib73": {
+            "source": "Genetics", 
+            "doi": "10.1534/genetics.110.119917", 
+            "year": "2010", 
+            "title": "Refinement of tools for targeted gene expression in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Pfeiffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TT", 
+                    "surname": "Ngo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Hibbard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Murphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jenett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Truman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Rubin"
+                }
+            ]
+        }, 
+        "bib72": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0803697105", 
+            "year": "2008", 
+            "title": "Tools for neuroanatomy and neurogenetics in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Pfeiffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Jenett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Hammonds"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TT", 
+                    "surname": "Ngo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Misra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Murphy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Scully"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Carlson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Wan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Laverty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Mungall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Svirskas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Kadonaga"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CQ", 
+                    "surname": "Doe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Eisen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Celniker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Rubin"
+                }
+            ]
+        }, 
+        "bib71": {
+            "source": "PloS One", 
+            "doi": "10.1371/journal.pone.0021144", 
+            "year": "2011", 
+            "title": "Turning males on: activation of male courtship behavior in drosophila melanogaster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Pan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Robinett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Baker"
+                }
+            ]
+        }, 
+        "bib70": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1207107109", 
+            "year": "2012", 
+            "title": "Joint control of drosophila male courtship behavior by motion cues and activation of male-specific P1 neurons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Pan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Meissner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Baker"
+                }
+            ]
+        }, 
+        "bib77": {
+            "source": "The European Journal of Neuroscience", 
+            "doi": "10.1111/ejn.12131", 
+            "year": "2013", 
+            "title": "Differential effects of site-specific knockdown of estrogen receptor \u03b1 in the medial amygdala, medial pre-optic area, and ventromedial nucleus of the hypothalamus on sexual and aggressive behavior of male mice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Tsuda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Musatov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ogawa"
+                }
+            ]
+        }, 
+        "bib76": {
+            "source": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience", 
+            "year": "2002", 
+            "title": "Functional dissection of neuroanatomical loci regulating ethanol sensitivity in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Rodan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Kiger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Heberlein"
+                }
+            ]
+        }, 
+        "bib75": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2014.09.024", 
+            "year": "2014", 
+            "title": "Interneuronal mechanism for tinbergen\u2019s hierarchical model of behavioral choice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Pirger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Crossley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "L\u00e1szl\u00f3"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Naskar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Kemenes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "O\u2019Shea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Benjamin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Kemenes"
+                }
+            ]
+        }, 
+        "bib74": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1204520109", 
+            "year": "2012", 
+            "title": "Using translational enhancers to increase transgene expression in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Pfeiffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Truman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Rubin"
+                }
+            ]
+        }, 
+        "bib99": {
+            "source": "Nature Reviews. Neuroscience", 
+            "doi": "10.1038/nrn3567", 
+            "year": "2013", 
+            "title": "Genes and circuits of courtship behaviour in drosophila males", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yamamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koganezawa"
+                }
+            ]
+        }, 
+        "bib98": {
+            "source": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience", 
+            "year": "2002", 
+            "title": "High-resolution analysis of ethanol-induced locomotor stimulation in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FW", 
+                    "surname": "Wolf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Rodan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LT", 
+                    "surname": "Tsai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Heberlein"
+                }
+            ]
+        }, 
+        "bib91": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2011.01.011", 
+            "year": "2011", 
+            "title": "Neuronal control of drosophila courtship song", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "von Philipsborn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Masser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Bidaye"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib90": {
+            "source": "European Journal of Pharmacology", 
+            "doi": "10.1016/j.ejphar.2005.09.041", 
+            "year": "2005", 
+            "title": "Do similar neural systems subserve aggressive and sexual behaviour in male rats? insights from c-fos and pharmacological studies", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Veening"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Coolen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "de Jong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HW", 
+                    "surname": "Joosten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "de Boer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Koolhaas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Olivier"
+                }
+            ]
+        }, 
+        "bib93": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08678", 
+            "year": "2010", 
+            "title": "Identification of an aggression-promoting pheromone and its receptor neurons in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib92": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn1809", 
+            "year": "2006", 
+            "title": "Fruitless regulates aggression and dominance in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Vrontou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Nilsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Demir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib95": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn.2800", 
+            "year": "2011", 
+            "title": "Hierarchical chemosensory regulation of male-male social interactions in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Han"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mehren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hiroi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Billeter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Miyamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Amrein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib94": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0801327105", 
+            "year": "2008", 
+            "title": "A common genetic target for environmental and heritable influences on aggressiveness in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Dankert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Perona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib97": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2008.09.034", 
+            "year": "2008", 
+            "title": "Decision making in recurrent neuronal circuits", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "XJ", 
+                    "surname": "Wang"
+                }
+            ]
+        }, 
+        "bib96": {
+            "source": "Trends in Neurosciences", 
+            "doi": "10.1016/S0166-2236(00)01868-3", 
+            "year": "2001", 
+            "title": "Synaptic reverberation underlying mnemonic persistent activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X-J", 
+                    "surname": "Wang"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08495", 
+            "year": "2009", 
+            "title": "Specialized cells tag sexual and species identity in drosophila melanogaster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Billeter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Atallah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Krupp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Millar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Levine"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.2973", 
+            "year": "2014", 
+            "title": "FlyMAD: rapid thermogenetic control of neuronal activity in freely walking drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DE", 
+                    "surname": "Bath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Stowers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "H\u00f6rmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Poehlmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Straw"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2014.09.051", 
+            "year": "2014", 
+            "title": "Single serotonergic neurons that modulate aggression in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OV", 
+                    "surname": "Alekseyenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YB", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Fernandez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "B\u00fclow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Pankratz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Biological Psychiatry", 
+            "doi": "10.1016/j.biopsych.2011.11.012", 
+            "year": "2012", 
+            "title": "Optogenetics, sex, and violence in the brain: implications for psychiatry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1303446110", 
+            "year": "2013", 
+            "title": "Single dopaminergic neurons that modulate aggression in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OV", 
+                    "surname": "Alekseyenko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YB", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.11.045", 
+            "year": "2014", 
+            "title": "Tachykinin-expressing neurons control male-specific aggressive arousal in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Asahina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Watanabe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Duistermars"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Hoopfer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Gonz\u00e1lez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Eyj\u00f3lfsd\u00f3ttir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Perona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "PLoS Genetics", 
+            "doi": "10.1371/journal.pgen.1004356", 
+            "year": "2014", 
+            "title": "Octopamine neuromodulation regulates Gr32a-linked aggression and courtship pathways in drosophila males", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Andrews"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Fern\u00e1ndez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GP", 
+                    "surname": "Leary"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Leung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Kavanaugh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Certel"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience", 
+            "year": "2001", 
+            "title": "Altered electrical properties in drosophila neurons developing without synaptic transmission", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Baines"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Uhler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Thompson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ST", 
+                    "surname": "Sweeney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bate"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "The Journal of Experimental Biology", 
+            "doi": "10.1038/nn.3581", 
+            "year": "2002", 
+            "title": "Drosophila as a new model organism for the neurobiology of aggression?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Baier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wittek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Brembs"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Current Opinion in Behavioral Sciences", 
+            "doi": "10.1016/j.cobeha.2015.02.007", 
+            "year": "2015", 
+            "title": "Escalated aggression in animal models: shedding new light on mesocorticolimbic circuits", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Miczek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Takahashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Gobrogge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LS", 
+                    "surname": "Hwa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "de Almeida"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Fly", 
+            "year": "2009", 
+            "title": "Feminizing cholinergic neurons in a male drosophila nervous system enhances aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mundiyanapurath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YB", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Leung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Annals of the New York Academy of Sciences", 
+            "doi": "10.1111/j.1749-6632.1999.tb09271.x", 
+            "year": "1999", 
+            "title": "The medial extended amygdala in male reproductive behavior. a node in the mammalian social behavior network", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Newman"
+                }
+            ]
+        }, 
+        "bib67": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0404693101", 
+            "year": "2004", 
+            "title": "Gender-selective patterns of aggressive behavior in drosophila melanogaster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Nilsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YB", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Huber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "On Aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Lorenz"
+                }
+            ], 
+            "year": "1966"
+        }, 
+        "bib61": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2006.08.028", 
+            "year": "2006", 
+            "title": "Refined spatial manipulation of neuronal function by combinatorial restriction of transgene expression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Luan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NC", 
+                    "surname": "Peabody"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Vinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BH", 
+                    "surname": "White"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Current Opinion in Neurobiology", 
+            "doi": "10.1016/j.conb.2004.10.017", 
+            "year": "2004", 
+            "title": "Persistent neural activity: prevalence and mechanisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Major"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Tank"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience", 
+            "doi": "10.1523/JNEUROSCI.3500-07.2007", 
+            "year": "2007", 
+            "title": "Neurobiology of escalated aggression and violence", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Miczek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "de Almeida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EF", 
+                    "surname": "Rissman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "de Boer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Raine"
+                }
+            ]
+        }, 
+        "bib68": {
+            "source": "The Journal of Experimental Biology", 
+            "doi": "10.1242/jeb.098749", 
+            "year": "2014", 
+            "title": "Multiplexed modulation of behavioral choice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Palmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MN", 
+                    "surname": "Barnett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Copado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Gardezy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Kristan"
+                }
+            ]
+        }, 
+        "bib69": {
+            "source": "Current Opinion in Neurobiology", 
+            "doi": "10.1016/j.conb.2011.05.003", 
+            "year": "2011", 
+            "title": "Contextual modulation of behavioral choice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Palmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Kristan"
+                }
+            ]
+        }, 
+        "bib88": {
+            "source": "The Study of Instinct", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tinbergen"
+                }
+            ], 
+            "year": "1951"
+        }, 
+        "bib89": {
+            "source": "Behavioural Processes", 
+            "doi": "10.1016/S0376-6357(03)00131-1", 
+            "year": "2003", 
+            "title": "Arousal in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "van Swinderen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Andretic"
+                }
+            ]
+        }, 
+        "bib82": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2005.04.026", 
+            "year": "2005", 
+            "title": "Neural circuitry that governs drosophila male courtship behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Stockinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Kvitsiani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rotkopf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Tiri\u00e1n"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib83": {
+            "source": "Brain Research", 
+            "doi": "10.1016/S0006-8993(00)02905-X", 
+            "year": "2000", 
+            "title": "Cerebral hemisphere regulation of motivated behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Swanson"
+                }
+            ]
+        }, 
+        "bib80": {
+            "source": "Advances in Genetics", 
+            "doi": "10.1016/S0065-2660(09)65003-3", 
+            "year": "2009", 
+            "title": "Mapping and manipulating neural circuits in the fly brain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Simpson"
+                }
+            ]
+        }, 
+        "bib81": {
+            "source": "J Comp Ethol", 
+            "year": "1979", 
+            "title": "Inter-male aggression in drosophila melanogaster - laboratory study", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Skrzipek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Kroner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Hager"
+                }
+            ]
+        }, 
+        "bib86": {
+            "source": "The Journal of Comparative Neurology", 
+            "doi": "10.1002/cne.21022", 
+            "year": "2006", 
+            "title": "Differential potencies of effector genes in adult drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Thum"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Knapek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rister"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dierichs-Schmitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Heisenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tanimoto"
+                }
+            ]
+        }, 
+        "bib87": {
+            "source": "Symposia of the Society for Experimental Biology", 
+            "year": "1950", 
+            "title": "The hierarchical organization of nervous mechanisms underlying instinctive behaviour", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tinbergen"
+                }
+            ]
+        }, 
+        "bib84": {
+            "source": "The Journal of Comparative Neurology", 
+            "doi": "10.1002/cne.20733", 
+            "year": "2005", 
+            "title": "Anatomy of the soul as reflected in the cerebral hemispheres: neural circuits underlying voluntary control of basic motivated behaviors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Swanson"
+                }
+            ]
+        }, 
+        "bib85": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1218246109", 
+            "year": "2012", 
+            "title": "A neuropeptide circuit that coordinates sperm transfer and copulation duration in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Tayler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Pacheco"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Hergarden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Murthy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Frontiers in Behavioral Neuroscience", 
+            "year": "2012", 
+            "title": "High-throughput behavioral screen from data collection to analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Branson"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.1328", 
+            "year": "2009", 
+            "title": "High-throughput ethomics in large groups of drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Branson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Robie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bender"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Perona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MH", 
+                    "surname": "Dickinson"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "PloS One", 
+            "doi": "10.1371/journal.pone.0013248", 
+            "year": "2010", 
+            "title": "Octopamine neuromodulatory effects on a social behavior decision-making network in drosophila males", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Certel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Leung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CY", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Perez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Chiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2010.07.045", 
+            "year": "2010", 
+            "title": "Sexual dimorphism in the fly brain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Cachero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Ostrovsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Jefferis"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0709803104", 
+            "year": "2007", 
+            "title": "Specific subgroups of FruM neurons control sexually dimorphic patterns of aggression in drosophila melanogaster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YB", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0700328104", 
+            "year": "2007", 
+            "title": "Modulation of drosophila male behavioral choice", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Certel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Savella"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Schlegel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Protein & Cell", 
+            "doi": "10.1007/s13238-013-2103-4", 
+            "year": "2013", 
+            "title": "Structural insight into enhanced calcium indicator GCaMP3 and GCaMPJ to promote further improvement", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Ye"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Miao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RG", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Ji"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.082102599", 
+            "year": "2002", 
+            "title": "Fighting fruit flies: a model system for the study of aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AY", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NM", 
+                    "surname": "Bowens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Huber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.1310", 
+            "year": "2009", 
+            "title": "Automated monitoring and analysis of social behavior in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Dankert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Hoopfer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Perona"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2015.07.025", 
+            "year": "2015", 
+            "title": "Multimodal chemosensory circuits controlling male courtship in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Clowney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Iguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Bussell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Scheer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Ruta"
+                }
+            ]
+        }, 
+        "bib39": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2007.12.052", 
+            "year": "2008", 
+            "title": "Octopamine in male aggression of drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Hoyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Eckart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Herrel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Zars"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Fischer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Hardie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Heisenberg"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2014.07.049", 
+            "year": "2014", 
+            "title": "Antagonistic control of social versus repetitive self-grooming behaviors by separable amygdala neuronal subsets", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Animal Behaviour", 
+            "doi": "10.1016/S0003-3472(87)80117-3", 
+            "year": "1987", 
+            "title": "A laboratory study of male territoriality in the sibling species drosophila melanogaster and d. simulans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hoffmann"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Animal Behaviour", 
+            "doi": "10.1016/S0003-3472(05)80533-0", 
+            "year": "1990", 
+            "title": "Territoriality in drosophila melanogaster as a conditional strategy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Hoffmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Cacoyianni"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Physiologie", 
+            "year": "1928", 
+            "title": "Stammganglien-reizversuche. berichte der gesamten", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Hess"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Helv Physiol Acta", 
+            "year": "1943", 
+            "title": "Das subkortikale zentrum der affecktiven abwehr-reaktion", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Hess"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Br\u00fcgger"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1200778109", 
+            "year": "2012", 
+            "title": "Allatostatin-a neurons inhibit feeding behavior in adult drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Hergarden"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Tayler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Nature", 
+            "doi": "10.1038/nature07001", 
+            "year": "2008", 
+            "title": "An internal thermal sensor controlling temperature preference in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FN", 
+                    "surname": "Hamada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rosenzweig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SR", 
+                    "surname": "Pulver"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ghezzi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Jegla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Garrity"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2010.02.037", 
+            "year": "2010", 
+            "title": "Molecular and cellular approaches for diversifying and extending optogenetics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Gradinaru"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ramakrishnan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Mattis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Prakash"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Diester"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Goshen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Thompson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Deisseroth"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.08.001", 
+            "year": "2013", 
+            "title": "Serotonin and the neuropeptide PDF initiate and extend opposing behavioral states in c. elegans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Flavell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Pokala"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EZ", 
+                    "surname": "Macosko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Albrecht"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Larsch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CI", 
+                    "surname": "Bargmann"
+                }
+            ]
+        }, 
+        "bib102": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2014.03.029", 
+            "year": "2014", 
+            "title": "Representing sex in the brain, one module at a time", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NM", 
+                    "surname": "Shah"
+                }
+            ]
+        }, 
+        "bib103": {
+            "source": "Current Biology : CB", 
+            "doi": "10.1016/j.cub.2010.08.025", 
+            "year": "2010", 
+            "title": "Cellular organization of the neural circuit that drives drosophila courtship behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MI", 
+                    "surname": "Kanai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Demir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Jefferis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib100": {
+            "source": "Journal of Comparative Physiology A", 
+            "doi": "10.1007/s00359-014-0891-5", 
+            "year": "2014", 
+            "title": "Neuroethology of male courtship in drosophila: from the gene to behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yamamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sato"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Koganezawa"
+                }
+            ]
+        }, 
+        "bib101": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.04.017", 
+            "year": "2013", 
+            "title": "Sexually dimorphic neurons in the ventromedial hypothalamus govern mating in both sexes and aggression in males", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CF", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Chiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Gray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Prabhakaran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Alvarado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Juntti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EK", 
+                    "surname": "Unger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Wells"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NM", 
+                    "surname": "Shah"
+                }
+            ]
+        }, 
+        "bib106": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1113877108", 
+            "year": "2011", 
+            "title": "Complex genetic architecture of drosophila aggressive behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zwarts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Magwire"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Carbone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Versteven"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Herteleer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RR", 
+                    "surname": "Anholt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Callaerts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TF", 
+                    "surname": "Mackay"
+                }
+            ]
+        }, 
+        "bib107": {
+            "source": "Fly", 
+            "doi": "10.4161/fly.19249", 
+            "year": "2012", 
+            "title": "Genetics and neurobiology of aggression in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Zwarts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Versteven"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Callaerts"
+                }
+            ]
+        }, 
+        "bib104": {
+            "source": "Nature Publishing Group", 
+            "year": "2014", 
+            "title": "Female contact modulates male aggression via a sexually dimorphic GABAergic circuit in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Yuan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C-H", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LY", 
+                    "surname": "Jan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y-N", 
+                    "surname": "Jan"
+                }
+            ]
+        }, 
+        "bib105": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn.2164", 
+            "year": "2008", 
+            "title": "A subset of octopaminergic neurons are important for drosophila aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Rao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Rao"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Neuropsychiatry, Neuropsychology, and Behavioral Neurology", 
+            "year": "2001", 
+            "title": "Toward an understanding of violence: neurobehavioral aspects of unwarranted physical aggression: aspen neurobehavioral conference consensus statement", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Filley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BH", 
+                    "surname": "Price"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Nell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Antoinette"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Morgan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Bresnahan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Pincus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Gelbort"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Weissberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Kelly"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Psychopharmacology", 
+            "doi": "10.1007/s00213-002-1211-2", 
+            "year": "2002", 
+            "title": "Aggressive behavior as a reinforcer in mice: activation by allopregnanolone", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EW", 
+                    "surname": "Fish"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "De Bold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Miczek"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Physiology & Behavior", 
+            "doi": "10.1016/j.physbeh.2015.04.040", 
+            "year": "2015", 
+            "title": "The neurobiology of offensive aggression: revealing a modular view", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "de Boer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Olivier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Veening"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Koolhaas"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Science", 
+            "doi": "10.1126/science.1159276", 
+            "year": "2008", 
+            "title": "Wired for sex: the neurobiology of drosophila mating decisions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Dickson"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng1864", 
+            "year": "2006", 
+            "title": "Molecular analysis of flies selected for aggressive behavior", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Dierick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Greenspan"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng2029", 
+            "year": "2007", 
+            "title": "Serotonin and neuropeptide f have opposite modulatory effects on fly aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Dierick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Greenspan"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Nature", 
+            "doi": "10.1038/254511a0", 
+            "year": "1975", 
+            "title": "Aggression and mating success in drosophila melanogaster", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Dow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FVON", 
+                    "surname": "SCHILCHER"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Frontiers in Systems Neuroscience", 
+            "doi": "10.3389/fnsys.2014.00168", 
+            "year": "2014", 
+            "title": "Recent advances in understanding the role of the hypothalamic circuit during aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Falkner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lin"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "PLoS Biology", 
+            "doi": "10.1371/journal.pbio.1000541", 
+            "year": "2010", 
+            "title": "Pheromonal and behavioral cues trigger male-to-female aggression in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Fern\u00e1ndez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YB", 
+                    "surname": "Chan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Yew"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Billeter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Dreisewerd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Levine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Journal of Comparative Physiology A", 
+            "doi": "10.1007/s00359-013-0851-5", 
+            "year": "2013", 
+            "title": "Aggression and courtship in drosophila: pheromonal communication and sex recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Fern\u00e1ndez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Nature Neuroscience", 
+            "doi": "10.1038/nn.3502", 
+            "year": "2013", 
+            "title": "ReaChR: a red-shifted variant of channelrhodopsin enables deep transcranial optogenetic excitation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "Knutsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Muller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Kleinfeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RY", 
+                    "surname": "Tsien"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09736", 
+            "year": "2011", 
+            "title": "Functional identification of an aggression locus in the mouse hypothalamus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Boyle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Dollar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Lein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Perona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Journal of Neurobiology", 
+            "doi": "10.1002/1097-4695(20000615)43:4<404::AID-NEU8>3.0.CO;2-D", 
+            "year": "2000", 
+            "title": "Spatial, temporal, and sexually dimorphic expression patterns of the fruitless gene in the drosophila central nervous system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Foss"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "Goodwin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Carlo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Hall"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Neuroscience of Aggression", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Kruk"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "A", 
+                    "surname": "Meyer-Lindenberg"
+                }, 
+                {
+                    "group-type": "editor", 
+                    "given-names": "K. A", 
+                    "surname": "Miczek"
+                }
+            ], 
+            "doi": "10.1007/7854_2014_313", 
+            "year": "2014"
+        }, 
+        "bib57": {
+            "source": "PloS One", 
+            "doi": "10.1371/journal.pone.0105626", 
+            "year": "2014", 
+            "title": "How food controls aggression in drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Lim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Eyj\u00f3lfsd\u00f3ttir"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Shin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Perona"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Nature", 
+            "doi": "10.1038/nature13169", 
+            "year": "2014", 
+            "title": "Scalable control of mounting and attack by Esr1+ neurons in the ventromedial hypothalamus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Remedios"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Anthony"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Madisen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zeng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Anderson"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2013.11.025", 
+            "year": "2013", 
+            "title": "A bidirectional circuit switch reroutes pheromone signals in male and female brains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kohl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Ostrovsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Frechter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GS", 
+                    "surname": "Jefferis"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms7457", 
+            "year": "2015", 
+            "title": "Visually induced initiation of drosophila innate courtship-like following pursuit is mediated by central excitatory state", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kohatsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yamamoto"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Current Biology : CB", 
+            "doi": "10.1016/j.cub.2008.07.081", 
+            "year": "2008", 
+            "title": "Neuronal decision-making circuits", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Kristan"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Current Opinion in Neurobiology", 
+            "doi": "10.1016/j.conb.2003.10.003", 
+            "year": "2003", 
+            "title": "Aggression in invertebrates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Kravitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Huber"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "A sexually dimorphic circuit node controls a persistent, internal state that promotes fighting and mating in <italic>Drosophila</italic>, revealing parallels with mammalian systems suggestive of a conserved circuit \"motif\" controlling social behaviors.", 
+    "elocation-id": "e11346", 
+    "publish": true, 
+    "article-version-id": "11346.1", 
+    "volume": 4, 
+    "keywords": {
+        "author-keywords": [
+            "aggression", 
+            "courtship", 
+            "internal state", 
+            "persistence", 
+            "fruitless", 
+            "social behavior"
+        ], 
+        "research-organism": [
+            "<i>D. melanogaster</i>"
+        ]
+    }, 
+    "doi": "10.7554/eLife.11346", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff5": {
+                "country": "Ireland", 
+                "institution": "Trinity College Dublin"
+            }, 
+            "aff4": {
+                "country": "Ireland", 
+                "institution": "Trinity College Dublin"
+            }, 
+            "aff3": {
+                "country": "United States", 
+                "institution": "Howard Hughes Medical Institute, California Institute of Technology", 
+                "city": "Pasadena"
+            }, 
+            "aff2": {
+                "dept": "Division of Biology and Biological Engineering", 
+                "city": "Pasadena", 
+                "institution": "California Institute of Technology", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "country": "United States", 
+                "institution": "Janelia Research Campus, Howard Hughes Medical Institute", 
+                "city": "Ashburn"
+            }
+        }, 
+        "contribution": {
+            "con1": "EDH, Conducted all experiments except for the functional imaging, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "YJ, Conducted the functional imaging experiment, Acquisition of data, Analysis and interpretation of data", 
+            "con3": "HKI, Generated the ReaChR transgenic flies and established the optogenetic behavior system, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con4": "GMR, Contributed to the design of genetic intersection strategies, Conception and design, Contributed unpublished essential data or reagents", 
+            "con5": "DJA, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/100000936", 
+                "institution": "Gordon and Betty Moore Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "DA031389", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/501100003485", 
+                "institution": "Heiwa Nakajima Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "Ruth L. Kirschstein National Research Service Award (NRSA)", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "email": {
+            "cor1": "wuwei@caltech.edu"
+        }
+    }, 
+    "path": "content/4/e11346v1", 
+    "fragments": [
+        {
+            "path": "content/4/e11346v1/abstract", 
+            "doi": "10.7554/eLife.11346.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e11346v1/abstract2", 
+            "doi": "10.7554/eLife.11346.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e11346v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/4/e11346v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.11346.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e11346v1/figure1/figure-supp2", 
+                    "doi": "10.7554/eLife.11346.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e11346v1/figure1/figure-supp3", 
+                    "doi": "10.7554/eLife.11346.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.11346.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e11346v1/media1", 
+            "doi": "10.7554/eLife.11346.007", 
+            "type": "media", 
+            "title": "Video 1."
+        }, 
+        {
+            "path": "content/4/e11346v1/media2", 
+            "doi": "10.7554/eLife.11346.008", 
+            "type": "media", 
+            "title": "Video 2."
+        }, 
+        {
+            "path": "content/4/e11346v1/media3", 
+            "doi": "10.7554/eLife.11346.009", 
+            "type": "media", 
+            "title": "Video 3."
+        }, 
+        {
+            "path": "content/4/e11346v1/figure2", 
+            "doi": "10.7554/eLife.11346.010", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e11346v1/figure3", 
+            "fragments": [
+                {
+                    "path": "content/4/e11346v1/figure3/figure-supp1", 
+                    "doi": "10.7554/eLife.11346.012", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e11346v1/figure3/figure-supp2", 
+                    "doi": "10.7554/eLife.11346.013", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e11346v1/figure3/figure-supp3", 
+                    "doi": "10.7554/eLife.11346.014", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.11346.011", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e11346v1/figure4", 
+            "fragments": [
+                {
+                    "path": "content/4/e11346v1/figure4/figure-supp1", 
+                    "doi": "10.7554/eLife.11346.016", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.11346.015", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e11346v1/media4", 
+            "doi": "10.7554/eLife.11346.017", 
+            "type": "media", 
+            "title": "Video 4."
+        }, 
+        {
+            "path": "content/4/e11346v1/media5", 
+            "doi": "10.7554/eLife.11346.018", 
+            "type": "media", 
+            "title": "Video 5."
+        }, 
+        {
+            "path": "content/4/e11346v1/figure5", 
+            "fragments": [
+                {
+                    "path": "content/4/e11346v1/figure5/figure-supp1", 
+                    "doi": "10.7554/eLife.11346.020", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.11346.019", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e11346v1/figure6", 
+            "doi": "10.7554/eLife.11346.021", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e11346v1/supp-material1", 
+            "doi": "10.7554/eLife.11346.022", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e11346v1/supp-material2", 
+            "doi": "10.7554/eLife.11346.023", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 2."
+        }, 
+        {
+            "path": "content/4/e11346v1/supp-material3", 
+            "doi": "10.7554/eLife.11346.024", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 3."
+        }, 
+        {
+            "path": "content/4/e11346v1/decision", 
+            "doi": "10.7554/eLife.11346.025", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Ramaswami", 
+                    "given-names": "Mani", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Ireland", 
+                            "institution": "Trinity College Dublin"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e11346v1/response", 
+            "doi": "10.7554/eLife.11346.026", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "11346", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

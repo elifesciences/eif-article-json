@@ -1,0 +1,616 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Xiao-Dong", 
+            "surname": "Li", 
+            "id": "author-1802", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "surname": "Chen", 
+            "corresp": true, 
+            "given-names": "Zhijian J", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-1057"
+        }, 
+        {
+            "surname": "Taniguchi", 
+            "given-names": "Tadatsugu", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "Japan", 
+                    "institution": "University of Tokyo"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2012-10-30T00:00:00Z", 
+    "title": "Sequence specific detection of bacterial 23S ribosomal RNA by TLR13", 
+    "citations": {
+        "bib11": {
+            "source": "Immunol Rev", 
+            "year": "2011", 
+            "title": "The PYHIN protein family as mediators of host defenses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Schattgen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Fitzgerald"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Proc Natl Acad Sci U S A", 
+            "year": "2005", 
+            "title": "The evolution of vertebrate Toll-like receptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Roach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Glusman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Rowen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kaur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Purcell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KD", 
+                    "surname": "Smith"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Cell", 
+            "year": "2010", 
+            "title": "Pattern recognition receptors and inflammation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Takeuchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Akira"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nat Immunol", 
+            "year": "2006", 
+            "title": "The Unc93b1 mutation 3d disrupts exogenous antigen presentation and signaling via Toll-like receptors 3, 7 and 9", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Tabeta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hoebe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Janssen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Du"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Georgel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Crozat"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Immunol Rev", 
+            "year": "2009", 
+            "title": "RNA recognition and signal transduction by RIG-I-like receptors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yoneyama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fujita"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Science", 
+            "year": "2005", 
+            "title": "TLR11 activation of dendritic cells by a protozoan profilin-like protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Yarovinsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Andersen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GL", 
+                    "surname": "Bannenberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CN", 
+                    "surname": "Serhan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Hayden"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "J Biol Chem", 
+            "year": "2011", 
+            "title": "UNC93B1 is essential for TLR11 activation and IL-12-dependent host resistance to <italic>Toxoplasma gondii</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Pifer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Benson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Sturge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Yarovinsky"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Science", 
+            "year": "2012", 
+            "title": "TLR13 recognizes bacterial 23S rRNA devoid of erythromycin resistance-forming modification", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Oldenburg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kr\u00fcger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ferstl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kaufmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Nees"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sigmund"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Med Hypotheses", 
+            "year": "2007", 
+            "title": "Human TLR11 gene is repressed due to its probable interaction with profilin expressed in human", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Balenga"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "J Cell Biol", 
+            "year": "2007", 
+            "title": "The interaction between the ER membrane protein UNC93B and TLR3, 7, and 9 is crucial for TLR signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Brinkmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Spooner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hoebe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Beutler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "Ploegh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YM", 
+                    "surname": "Kim"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Science", 
+            "year": "2000", 
+            "title": "The complete atomic structure of the large ribosomal subunit at 2.4 A resolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Ban"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Nissen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hansen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Moore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Steitz"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Proc Natl Acad Sci U S A", 
+            "year": "2011", 
+            "title": "Mitochondrial antiviral signaling protein (MAVS) monitors commensal bacteria and induces an immune response that prevents experimental colitis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "XD", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YH", 
+                    "surname": "Chiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Ismail"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Behrendt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wight-Carter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LV", 
+                    "surname": "Hooper"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Science", 
+            "year": "2000", 
+            "title": "Structural biology. The ribosome is a ribozyme", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Cech"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Science", 
+            "year": "2000", 
+            "title": "The structural basis of ribosome activity in peptide bond synthesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Nissen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hansen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Ban"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Moore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Steitz"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "ACS Chem Biol", 
+            "year": "2012", 
+            "title": "The chemistry of peptidyltransferase center-targeted antibiotics: enzymatic resistance and approaches to countering resistance", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KP", 
+                    "surname": "McCusker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "Fujimori"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "A pattern recognition receptor called toll-like receptor 13 detects pathogens in a manner that is different to that seen in other pathogen sensors.", 
+    "elocation-id": "e00102", 
+    "publish": true, 
+    "article-version-id": "00102.1", 
+    "volume": 1, 
+    "keywords": {
+        "author-keywords": [
+            "Innate Immunity", 
+            "Toll-like receptor", 
+            "bacteria", 
+            "Ribosomal RNA"
+        ], 
+        "research-organism": [
+            "E. coli", 
+            "Mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.00102", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff2": {
+                "country": "United States", 
+                "institution": "Howard Hughes Medical Institute, UT Southwestern Medical School", 
+                "city": "Dallas"
+            }, 
+            "aff1": {
+                "dept": "Department of Molecular Biology", 
+                "city": "Dallas", 
+                "institution": "UT Southwestern Medical School", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "X-DL: Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "ZJC: Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "funding": {
+            "par-2": {
+                "award-id": "R01 AI093967", 
+                "institution": "National Institutes of Health"
+            }, 
+            "par-1": {
+                "award-id": "800635", 
+                "institution": "Howard Hughes Medical Institute"
+            }
+        }, 
+        "email": {
+            "cor1": "zhijian.chen@utsouthwestern.edu"
+        }
+    }, 
+    "path": "content/1/e00102v1", 
+    "fragments": [
+        {
+            "path": "content/1/e00102v1/abstract", 
+            "doi": "10.7554/eLife.00102.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/1/e00102v1/abstract2", 
+            "doi": "10.7554/eLife.00102.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/1/e00102v1/figure1", 
+            "doi": "10.7554/eLife.00102.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/1/e00102v1/figure2", 
+            "doi": "10.7554/eLife.00102.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/1/e00102v1/figure3", 
+            "doi": "10.7554/eLife.00102.005", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/1/e00102v1/figure4", 
+            "doi": "10.7554/eLife.00102.006", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/1/e00102v1/figure5", 
+            "doi": "10.7554/eLife.00102.007", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/1/e00102v1/figure6", 
+            "doi": "10.7554/eLife.00102.008", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/1/e00102v1/supp-material1", 
+            "doi": "10.7554/eLife.00102.009", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/1/e00102v1/decision", 
+            "doi": "10.7554/eLife.00102.010", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Taniguchi", 
+                    "given-names": "Tadatsugu", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "Japan", 
+                            "institution": "University of Tokyo"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/1/e00102v1/response", 
+            "doi": "10.7554/eLife.00102.011", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "00102", 
+    "categories": {
+        "heading": [
+            "Cell biology", 
+            "Immunology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

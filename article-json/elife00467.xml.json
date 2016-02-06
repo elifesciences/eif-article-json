@@ -1,0 +1,895 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Gregory W", 
+            "surname": "Schwartz", 
+            "id": "author-3480", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "surname": "Rieke", 
+            "corresp": true, 
+            "given-names": "Fred", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-3406"
+        }, 
+        {
+            "surname": "Calabrese", 
+            "given-names": "Ronald L", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Emory University"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2013-05-14T00:00:00Z", 
+    "title": "Controlling gain one photon at a time", 
+    "citations": {
+        "bib9": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(00)80477-8", 
+            "year": "1998", 
+            "title": "Efficient discrimination of temporal patterns by motion-sensitive neurons in primate visual cortex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GT", 
+                    "surname": "Buracas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Zador"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "DeWeese"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Albright"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Vision Res", 
+            "doi": "10.1016/S0042-6989(97)00400-8", 
+            "year": "1998", 
+            "title": "Evidence for a noise gain control mechanism in human vision", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LG", 
+                    "surname": "Brown"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Rudd"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.2927", 
+            "year": "2011", 
+            "title": "Cone photoreceptor contributions to noise and correlations in the retinal output", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ala-Laurila"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Greschner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Chichilnisky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "J Physiol", 
+            "year": "1957", 
+            "title": "Increment thresholds at low intensities considered as signal/noise discriminations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HB", 
+                    "surname": "Barlow"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "J Opt Soc Am", 
+            "doi": "10.1364/JOSA.46.000634", 
+            "year": "1956", 
+            "title": "Retinal noise and absolute threshold", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HB", 
+                    "surname": "Barlow"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "J Physiol", 
+            "year": "1969", 
+            "title": "Three factors limiting the reliable detection of light by retinal ganglion cells of the cat", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HB", 
+                    "surname": "Barlow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Levick"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Cold Spring Harb Symp Quant Biol", 
+            "doi": "10.1101/SQB.1965.030.01.052", 
+            "year": "1965", 
+            "title": "Optic nerve impulses and Weber\u2019s law", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HB", 
+                    "surname": "Barlow"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Prog Retin Eye Res", 
+            "doi": "10.1016/S1350-9462(00)00031-8", 
+            "year": "2001", 
+            "title": "Rod vision: pathways and processing in the mammalian retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Bloomfield"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RF", 
+                    "surname": "Dacheux"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Vision Res", 
+            "doi": "10.1016/0042-6989(71)90033-2", 
+            "year": "1971", 
+            "title": "Responses to single quanta of light in retinal ganglion cells of the cat", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HB", 
+                    "surname": "Barlow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Levick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Yoon"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Acta Ophthalmol", 
+            "year": "1935", 
+            "title": "Topography of the layer of rods and cones in the human retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Osterberg"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.85.12.4534", 
+            "year": "1988", 
+            "title": "Background light and the contrast gain of primate P and M retinal ganglion cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Purpura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kaplan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Shapley"
+                }
+            ]
+        }, 
+        "bib20": {
+            "comment": "Leipzig, Germany: Breitkopf and Hartel", 
+            "source": "Elemente dur psychophysik", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GT", 
+                    "surname": "Fechner"
+                }
+            ], 
+            "year": "1860"
+        }, 
+        "bib21": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.2353", 
+            "year": "2009", 
+            "title": "High-sensitivity rod photoreceptor input to the blue-yellow color opponent pathway in macaque retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Field"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Greschner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Gauthier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rangel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shlens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sher"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Annu Rev Physiol", 
+            "doi": "10.1146/annurev.physiol.67.031103.151256", 
+            "year": "2005", 
+            "title": "Retinal processing near absolute threshold: from behavior to mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GD", 
+                    "surname": "Field"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Sampath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Vision Res", 
+            "doi": "10.1016/j.visres.2005.06.038", 
+            "year": "2006", 
+            "title": "Local luminance and contrast in natural images", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Frazor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WS", 
+                    "surname": "Geisler"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "J Opt Soc Am A", 
+            "doi": "10.1364/JOSAA.13.000601", 
+            "year": "1996", 
+            "title": "Effects of background light on the human dark-adapted electroretinogram and psychophysical threshold", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Frishman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Reddy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Robson"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "J Physiol", 
+            "year": "1982", 
+            "title": "X and Y cells in the lateral geniculate nucleus of macaque monkeys", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kaplan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Shapley"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "J Neurophysiol", 
+            "year": "1983", 
+            "title": "Correlated firing of cat retinal ganglion cells. II. Responses of X- and Y-cells to single quantal events", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DN", 
+                    "surname": "Mastronarde"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.2945", 
+            "year": "2011", 
+            "title": "Ribbon synapses compute temporal contrast and encode luminance in retinal rod bipolar cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Oesch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Diamond"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "J Physiol", 
+            "doi": "10.1113/jphysiol.2008.156638", 
+            "year": "2008", 
+            "title": "Functional circuitry of visual adaptation in the retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Demb"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Physica", 
+            "doi": "10.1016/S0031-8914(43)90575-0", 
+            "year": "1943", 
+            "title": "The quantum character of light and its bearing upon threshold of vision, the differential sensitivity and visual acuity of the eye", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "de Vries"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Vision Res", 
+            "doi": "10.1016/0042-6989(92)90028-H", 
+            "year": "1992", 
+            "title": "Noise and the absolute thresholds of cone and rod vision", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Donner"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Neural Comput", 
+            "doi": "10.1162/neco.2008.20.1.91", 
+            "year": "2008", 
+            "title": "Bayesian spiking neurons I: inference", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Deneve"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "J Neurosci", 
+            "doi": "10.1523/JNEUROSCI.5148-05.2006", 
+            "year": "2006", 
+            "title": "Controlling the gain of rod-mediated signals in the Mammalian retina", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Dunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Doan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Sampath"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "J Gen Physiol", 
+            "doi": "10.1085/jgp.95.4.733", 
+            "year": "1990", 
+            "title": "Weber and noise adaptation in the retina of the toad Bufo marinus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Donner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Copenhagen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Reuter"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Curr Opin Neurobiol", 
+            "doi": "10.1016/j.conb.2006.06.013", 
+            "year": "2006", 
+            "title": "The impact of photoreceptor noise on retinal gain controls", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Dunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Nature", 
+            "doi": "10.1038/nature06150", 
+            "year": "2007", 
+            "title": "Light adaptation in cone vision involves switching between receptor and post-receptor sites", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Dunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Lankheet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "J Physiol", 
+            "year": "1973", 
+            "title": "Flux, not retinal illumination, is what cat retinal ganglion cells really care about", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Enroth-Cugell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Shapley"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2008.01.031", 
+            "year": "2008", 
+            "title": "Single-photon absorptions evoke synaptic depression in the retina to extend the operational range of rod vision", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Dunn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2009.01.019", 
+            "year": "2009", 
+            "title": "Timescales of inference in visual adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fairhall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.2199", 
+            "year": "2008", 
+            "title": "Origin of correlated activity between parasol retinal ganglion cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PK", 
+                    "surname": "Trong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Vis Neurosci", 
+            "doi": "10.1017/S0952523800175017", 
+            "year": "2000", 
+            "title": "Noise and light adaptation in rods of the macaque monkey", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Schneeweis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Schnapf"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Proc R Soc Lond B Biol Sci", 
+            "doi": "10.1098/rspb.1965.0024", 
+            "year": "1965", 
+            "title": "Visual adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Rushton"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "J Opt Soc Am", 
+            "doi": "10.1364/JOSA.38.000196", 
+            "year": "1948", 
+            "title": "The sensitivity performance of the human eye on an absolute scale", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rose"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2009.11.028", 
+            "year": "2009", 
+            "title": "The challenges natural images pose for visual adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rieke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Rudd"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Single absorbed photons trigger adaptational mechanisms that help the retina maintain sensitivity across a wide range of background illumination.", 
+    "elocation-id": "e00467", 
+    "publish": true, 
+    "article-version-id": "00467.1", 
+    "volume": 2, 
+    "keywords": {
+        "author-keywords": [
+            "macaque", 
+            "adaptation", 
+            "retinal signal processing", 
+            "neural computation"
+        ], 
+        "research-organism": [
+            "Other"
+        ]
+    }, 
+    "doi": "10.7554/eLife.00467", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff2": {
+                "country": "United States", 
+                "institution": "Howard Hughes Medical Institute, University of Washington", 
+                "city": "Seattle"
+            }, 
+            "aff1": {
+                "dept": "Department of Physiology and Biophysics", 
+                "city": "Seattle", 
+                "institution": "University of Washington", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "GWS, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "FR, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "institution": "Helen Hay Whitney Foundation"
+            }, 
+            "par-2": {
+                "institution": "Howard Hughes Medical Institute"
+            }, 
+            "par-1": {
+                "award-id": "EY11850", 
+                "institution": "National Institutes of Health"
+            }
+        }, 
+        "email": {
+            "cor1": "rieke@u.washington.edu"
+        }
+    }, 
+    "path": "content/2/e00467v1", 
+    "fragments": [
+        {
+            "path": "content/2/e00467v1/abstract", 
+            "doi": "10.7554/eLife.00467.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/2/e00467v1/abstract2", 
+            "doi": "10.7554/eLife.00467.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/2/e00467v1/figure1", 
+            "doi": "10.7554/eLife.00467.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure2", 
+            "doi": "10.7554/eLife.00467.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure3", 
+            "doi": "10.7554/eLife.00467.005", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure4", 
+            "doi": "10.7554/eLife.00467.006", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure5", 
+            "fragments": [
+                {
+                    "path": "content/2/e00467v1/figure5/figure-supp1", 
+                    "doi": "10.7554/eLife.00467.008", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.00467.007", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure6", 
+            "doi": "10.7554/eLife.00467.009", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure7", 
+            "doi": "10.7554/eLife.00467.010", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure8", 
+            "doi": "10.7554/eLife.00467.011", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure9", 
+            "doi": "10.7554/eLife.00467.012", 
+            "type": "fig", 
+            "title": "Figure 9."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure10", 
+            "doi": "10.7554/eLife.00467.013", 
+            "type": "fig", 
+            "title": "Figure 10."
+        }, 
+        {
+            "path": "content/2/e00467v1/figure11", 
+            "doi": "10.7554/eLife.00467.014", 
+            "type": "fig", 
+            "title": "Figure 11."
+        }, 
+        {
+            "path": "content/2/e00467v1/decision", 
+            "doi": "10.7554/eLife.00467.015", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Calabrese", 
+                    "given-names": "Ronald L", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Emory University"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/2/e00467v1/response", 
+            "doi": "10.7554/eLife.00467.016", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "00467", 
+    "categories": {
+        "heading": [
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

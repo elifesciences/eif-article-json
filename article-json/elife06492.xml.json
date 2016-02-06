@@ -1,0 +1,1881 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Miriam", 
+            "surname": "Kaltenbach", 
+            "id": "author-27775", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Colin J", 
+            "surname": "Jackson", 
+            "id": "author-27776", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Eleanor C", 
+            "surname": "Campbell", 
+            "id": "author-27777", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Florian", 
+            "surname": "Hollfelder", 
+            "id": "author-13545", 
+            "references": {
+                "affiliation": [
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3", 
+                    "par-4", 
+                    "par-5"
+                ]
+            }
+        }, 
+        {
+            "surname": "Tokuriki", 
+            "corresp": true, 
+            "given-names": "Nobuhiko", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-23954"
+        }, 
+        {
+            "surname": "Laub", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Massachusetts Institute of Technology"
+                }
+            ], 
+            "given-names": "Michael", 
+            "role": "Reviewing editor", 
+            "type": "editor", 
+            "id": "author-1127"
+        }
+    ], 
+    "pub-date": "2015-08-14T00:00:00Z", 
+    "title": "Reverse evolution leads to genotypic incompatibility despite functional and active site convergence", 
+    "citations": {
+        "bib39": {
+            "source": "Annual Review of Genetics", 
+            "doi": "10.1146/annurev-genet-110410-132514", 
+            "year": "2011", 
+            "title": "The genetics of hybrid incompatibilities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Maheshwari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Barbash"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.0906192106", 
+            "year": "2010", 
+            "title": "Colloquium papers: adaptive landscapes and protein evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carneiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Hartl"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Genetics", 
+            "year": "1997", 
+            "title": "Exceptional convergent evolution in a virus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Bull"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Badgett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Wichman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Huelsenbeck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Hillis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gulati"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IJ", 
+                    "surname": "Molineux"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Acta Crystallographica Section D: Biological Crystallography", 
+            "doi": "10.1107/S0907444909052925", 
+            "year": "2010", 
+            "title": "PHENIX: a comprehensive Python-based system for macromolecular structure solution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Adams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Afonine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bunkoczi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IW", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Echols"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Hung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kapral"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Grosse-Kunstleve"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "McCoy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Moriarty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Oeffner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Read"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Terwilliger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "Zwart"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng1482", 
+            "year": "2005", 
+            "title": "The \u2018evolvability\u2019 of promiscuous protein functions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Aharoni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Gaidukov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Khersonsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "QG", 
+                    "surname": "Mc"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Roodveldt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Acta Crystallographica Section D: Biological Crystallography", 
+            "doi": "10.1107/S0907444912001308", 
+            "year": "2012", 
+            "title": "Towards automated crystallographic structure refinement with phenix.refine", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PV", 
+                    "surname": "Afonine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Grosse-Kunstleve"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Echols"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Moriarty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Mustyakimov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Terwilliger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Urzhumtsev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PH", 
+                    "surname": "Zwart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Adams"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Journal of Structural Biology", 
+            "doi": "10.1016/S1047-8477(03)00039-X", 
+            "year": "2003", 
+            "title": "Seeds to crystals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Bergfors"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Genetics", 
+            "doi": "10.1534/genetics.112.140178", 
+            "year": "2012", 
+            "title": "Weak selection and protein evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Akashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Osada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ohta"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08249", 
+            "year": "2009", 
+            "title": "An epistatic ratchet constrains the direction of glucocorticoid receptor evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Bridgham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Ortlund"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Thornton"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Nature", 
+            "doi": "10.1038/nature11510", 
+            "year": "2012", 
+            "title": "Epistasis as the primary factor in molecular evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Breen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kemena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PK", 
+                    "surname": "Vlasov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Notredame"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Kondrashov"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Science", 
+            "doi": "10.1126/science.1203801", 
+            "year": "2011", 
+            "title": "Negative epistasis between beneficial mutations in an evolving bacterial population", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AI", 
+                    "surname": "Khan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Dinh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Schneider"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TF", 
+                    "surname": "Cooper"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Molecular Biology and Evolution", 
+            "doi": "10.1093/molbev/msu271", 
+            "year": "2014", 
+            "title": "Differential effects of a mutation on the normal and promiscuous activities of orthologs: implications for natural and directed evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Khanal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Yu McLoughlin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Kershner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SD", 
+                    "surname": "Copley"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Genetics", 
+            "doi": "10.1534/genetics.110.123083", 
+            "year": "2010", 
+            "title": "Diminishing returns from beneficial mutations and pervasive epistasis shape the fitness landscape for rifampicin resistance in Pseudomonas aeruginosa", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "MacLean"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Perron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gardner"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Wonderful life: burgess shale and the nature of history", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Gould"
+                }
+            ], 
+            "year": "2007"
+        }, 
+        "bib21": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg3540", 
+            "year": "2013", 
+            "title": "Evolutionary biochemistry: revealing the historical and physical causes of protein properties", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Harms"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Thornton"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Nature", 
+            "doi": "10.1038/nature13410", 
+            "year": "2014", 
+            "title": "Historical contingency and its biophysical basis in glucocorticoid receptor evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Harms"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Thornton"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi960663m", 
+            "year": "1996", 
+            "title": "Metal-substrate interactions facilitate the catalytic activity of the bacterial phosphotriesterase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SB", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Raushel"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Acta Crystallographica Section D: Biological Crystallography", 
+            "doi": "10.1107/S0907444909047337", 
+            "year": "2010", 
+            "title": "Xds", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Kabsch"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Journal of Experimental Zoology B: Molecular and Developmental Evolution", 
+            "doi": "10.1002/jez.b.22562", 
+            "year": "2014", 
+            "title": "Dynamics and constraints of enzyme evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kaltenbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tokuriki"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Science", 
+            "doi": "10.1126/science.1218231", 
+            "year": "2012", 
+            "title": "Linking crystallographic model and data quality", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Karplus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Diederichs"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Trends in Ecology & Evolution", 
+            "doi": "10.1016/j.tree.2012.06.001", 
+            "year": "2012", 
+            "title": "Experimental evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Kawecki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Ebert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Hollis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Olivieri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Whitlock"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.02535", 
+            "year": "2014", 
+            "title": "High-resolution mapping reveals hundreds of genetic incompatibilities in hybridizing fish species", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schumer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Powell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Dresner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GG", 
+                    "surname": "Rosenthal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Andolfatto"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Chembiochem", 
+            "doi": "10.1002/cbic.201500295", 
+            "year": "2015", 
+            "title": "Handicap-recover evolution leads to a chemically versatile, nucleophile-permissive protease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Shafee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Gatti-Lafranconi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Minter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Hollfelder"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi051021e", 
+            "year": "2005", 
+            "title": "Shared promiscuous activities and evolutionary features in various members of the amidohydrolase superfamily", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Roodveldt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "PLOS Genetics", 
+            "doi": "10.1371/journal.pgen.1001321", 
+            "year": "2011", 
+            "title": "Initial mutations direct alternative pathways of protein evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Salverda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dellus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Gorter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Debets"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "van der Oost"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RF", 
+                    "surname": "Hoekstra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "de Visser"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Nature", 
+            "doi": "10.1038/nature05451", 
+            "year": "2007", 
+            "title": "Empirical fitness landscapes reveal accessible evolutionary paths", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FJ", 
+                    "surname": "Poelwijk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Kiviet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Weinreich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Tans"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm2805", 
+            "year": "2009", 
+            "title": "Exploring protein fitness landscapes by directed evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Romero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FH", 
+                    "surname": "Arnold"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Genetics", 
+            "year": "1995", 
+            "title": "The population genetics of speciation: the evolution of hybrid incompatibilities", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Orr"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth1207-991", 
+            "year": "2007", 
+            "title": "Protein engineers turned evolutionists", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Peisajovich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib40": {
+            "comment": "discussion E2\u2013E3", 
+            "doi": "10.1038/nature12219", 
+            "title": "The role of epistasis in protein evolution", 
+            "year": "2013", 
+            "source": "Nature", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "McCandlish"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Rajon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Shah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ding"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Plotkin"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Trends in Biotechnology", 
+            "doi": "10.1016/j.tibtech.2005.03.005", 
+            "year": "2005", 
+            "title": "Improving enzyme properties: when are closer mutations better?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Morley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Kazlauskas"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Science", 
+            "doi": "10.1126/science.1203799", 
+            "year": "2011", 
+            "title": "Diminishing returns epistasis among beneficial mutations decelerates adaptation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "HH", 
+                    "surname": "Chou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HC", 
+                    "surname": "Chiu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Delaney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Segre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marx"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Acta Crystallographica Section D: Biological Crystallography", 
+            "doi": "10.1107/S0907444909042073", 
+            "year": "2010", 
+            "title": "MolProbity: all-atom structure validation for macromolecular crystallography", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VB", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Arendall", 
+                    "suffix": "III"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Headd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Keedy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Immormino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Kapral"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Murray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Richardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Richardson"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Trends in Ecology & Evolution", 
+            "doi": "10.1016/j.tree.2008.06.013", 
+            "year": "2008", 
+            "title": "Reversing opinions on Dollo's Law", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Collin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Miglietta"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Biological Journal of the Linnean Society", 
+            "doi": "10.1111/j.1095-8312.1985.tb01555.x", 
+            "year": "1985", 
+            "title": "Evolution in reverse: clean air and the peppered moth", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Clarke"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Genetics", 
+            "year": "2000", 
+            "title": "Evolutionary reversals during viral adaptation to alternating hosts", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WD", 
+                    "surname": "Crill"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HA", 
+                    "surname": "Wichman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Bull"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12678", 
+            "year": "2013", 
+            "title": "Genetic incompatibilities are widespread within species", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RB", 
+                    "surname": "Corbett-Detig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Clark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Hartl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Ayroles"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Proceedings of the Royal Society B: Biological Sciences", 
+            "doi": "10.1098/rspb.2011.1537", 
+            "year": "2011", 
+            "title": "The causes of epistasis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "de Visser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TF", 
+                    "surname": "Cooper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SF", 
+                    "surname": "Elena"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Acta Crystallographica. Section D, Biological Crystallography", 
+            "doi": "10.1107/S0907444998012645", 
+            "year": "1999", 
+            "title": "Remarks about protein structure precision", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Cruickshank"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Acta Crystallographica Section D: Biological Crystallography", 
+            "doi": "10.1107/S0907444913000061", 
+            "year": "2013", 
+            "title": "How good are my data and what is the resolution?", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Evans"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GN", 
+                    "surname": "Murshudov"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1220670110", 
+            "year": "2013", 
+            "title": "Experimental interrogation of the path dependence and stochasticity of protein evolution using phage-assisted continuous evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BC", 
+                    "surname": "Dickinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Leconte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Allen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Esvelt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Liu"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Evolution; International Journal of Organic Evolution", 
+            "doi": "10.2307/2409029", 
+            "year": "1988", 
+            "title": "Experimental studies of pleiotropy and epistasis in <italic>Escherichia coli</italic>. II. Compensation for maladaptive effects associated with resistance to T4 virus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RE", 
+                    "surname": "Lenski"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "PLOS Genetics", 
+            "doi": "10.1371/journal.pgen.1002056", 
+            "year": "2011", 
+            "title": "Reciprocal sign epistasis between frequently experimentally evolved adaptive mutations causes a rugged fitness landscape", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Kvitek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Sherlock"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.232565499", 
+            "year": "2002", 
+            "title": "Dobzhansky-Muller incompatibilities in protein evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Kondrashov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sunyaev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Kondrashov"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2008.04.027", 
+            "year": "2008", 
+            "title": "Reverse evolution of armor plates in the threespine stickleback", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kitano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DI", 
+                    "surname": "Bolnick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Beauchamp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Mazur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nakano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Peichel"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev-biochem-030409-143718", 
+            "year": "2010", 
+            "title": "Enzyme promiscuity: a mechanistic and evolutionary perspective", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Khersonsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi047440d", 
+            "year": "2005", 
+            "title": "Structure-reactivity studies of serum paraoxonase PON1 suggest that its native activity is lactonase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Khersonsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "PLOS Genetics", 
+            "doi": "10.1371/journal.pgen.1001162", 
+            "year": "2010", 
+            "title": "Pervasive cryptic epistasis in molecular evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Lunzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GB", 
+                    "surname": "Golding"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Dean"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2013.06.028", 
+            "year": "2013", 
+            "title": "GroEL/ES buffering and compensatory mutations promote protein evolution by stabilizing folding intermediates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Wyganowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kaltenbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tokuriki"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Frontiers in Genetics", 
+            "doi": "10.3389/fgene.2012.00246", 
+            "year": "2012", 
+            "title": "Replaying the tape of life: quantification of the predictability of evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Lobkovsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EV", 
+                    "surname": "Koonin"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08009", 
+            "year": "2009", 
+            "title": "Chaperonin overexpression promotes genetic variation and enzyme evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tokuriki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms2246", 
+            "year": "2012", 
+            "title": "Diminishing returns and tradeoffs constrain the laboratory optimization of an enzyme", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tokuriki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Jackson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Afriat-Jurnou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Wyganowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Tang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Annual Review of Ecology, Evolution, and Systematics", 
+            "doi": "10.1146/annurev.es.26.110195.003125", 
+            "year": "1995", 
+            "title": "Multiple fitness peaks and epistasis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Whitlock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PC", 
+                    "surname": "Phillips"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FB", 
+                    "surname": "Moore"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Tonsor"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "PLOS Genetics", 
+            "doi": "10.1371/journal.pgen.1003665", 
+            "year": "2013", 
+            "title": "Mechanisms of protein sequence divergence and incompatibility", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Wellner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Raitses Gurevich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Tawfik"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Science", 
+            "doi": "10.1126/science.99.2571.267", 
+            "year": "1944", 
+            "title": "The Law of diminishing returns", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Stebbins"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "The FEBS Journal", 
+            "doi": "10.1111/febs.12354", 
+            "year": "2013", 
+            "title": "Modulating protein stability\u2014directed evolution strategies for improved protein function", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Socha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Tokuriki"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Evolution; International Journal of Organic Evolution", 
+            "doi": "10.1554/0014-3820(2001)055[0653:PRE]2.0.CO;2", 
+            "year": "2001", 
+            "title": "Perspective: reverse evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Teotonio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Rose"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "Nature", 
+            "doi": "10.1038/35044070", 
+            "year": "2000", 
+            "title": "Variation in the reversibility of evolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Teotonio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Rose"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "Enzyme evolution is reversible on a structural and functional (phenotypic) level, but through a different mutational pathway that leads to genotypic incompatibility with the ancestor.", 
+    "elocation-id": "e06492", 
+    "publish": true, 
+    "article-version-id": "06492.1", 
+    "volume": 4, 
+    "keywords": {
+        "author-keywords": [
+            "enzyme evolution", 
+            "laboratory evolution", 
+            "mutational epistasis", 
+            "evolutionary reversibility", 
+            "sequence incompatibility", 
+            "sequence-structure-function relationship"
+        ], 
+        "research-organism": [
+            "<italic>E. coli</italic>"
+        ]
+    }, 
+    "doi": "10.7554/eLife.06492", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff3": {
+                "dept": "Research School of Chemistry", 
+                "city": "Canberra", 
+                "institution": "Australian National University", 
+                "country": "Australia"
+            }, 
+            "aff2": {
+                "dept": "Department of Biochemistry", 
+                "city": "Cambridge", 
+                "institution": "University of Cambridge", 
+                "country": "United Kingdom"
+            }, 
+            "aff1": {
+                "dept": "Michael Smith Laboratories", 
+                "city": "Vancouver", 
+                "institution": "University of British Columbia", 
+                "country": "Canada"
+            }
+        }, 
+        "contribution": {
+            "con1": "MK, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "NT, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "CJJ, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "ECC, Acquisition of data, Analysis and interpretation of data", 
+            "con5": "FH, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-5": {
+                "id": "http://dx.doi.org/10.13039/501100000781", 
+                "award-id": "208813", 
+                "institution": "European Research Council (ERC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/501100000268", 
+                "award-id": "BB/I004327/1", 
+                "institution": "Biotechnology and Biological Sciences Research Council (BBSRC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/501100000780", 
+                "award-id": "MRTN-CT-2005-019475", 
+                "institution": "European Commission (EC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/501100000923", 
+                "award-id": "FT140101059", 
+                "institution": "Australian Research Council (ARC)", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000038", 
+                "award-id": "Discovery Grants RGPIN 418262-12", 
+                "institution": "Natural Sciences and Engineering Research Council of Canada (Conseil de Recherches en Sciences Naturelles et en G\u00e9nie du Canada)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "email": {
+            "cor1": "tokuriki@msl.ubc.ca"
+        }
+    }, 
+    "path": "content/4/e06492v1", 
+    "fragments": [
+        {
+            "path": "content/4/e06492v1/abstract", 
+            "doi": "10.7554/eLife.06492.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e06492v1/abstract2", 
+            "doi": "10.7554/eLife.06492.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e06492v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/4/e06492v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.06492.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.06492.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e06492v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/4/e06492v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.06492.006", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/4/e06492v1/figure2/figure-supp2", 
+                    "doi": "10.7554/eLife.06492.007", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/4/e06492v1/figure2/figure-supp3", 
+                    "doi": "10.7554/eLife.06492.008", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/4/e06492v1/figure2/figure-supp4", 
+                    "doi": "10.7554/eLife.06492.009", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 4."
+                }
+            ], 
+            "doi": "10.7554/eLife.06492.005", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e06492v1/figure3", 
+            "doi": "10.7554/eLife.06492.010", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e06492v1/figure4", 
+            "fragments": [
+                {
+                    "path": "content/4/e06492v1/figure4/supp-material1", 
+                    "doi": "10.7554/eLife.06492.012", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 4\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.06492.011", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e06492v1/figure5", 
+            "doi": "10.7554/eLife.06492.013", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e06492v1/figure6", 
+            "fragments": [
+                {
+                    "path": "content/4/e06492v1/figure6/supp-material1", 
+                    "doi": "10.7554/eLife.06492.015", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 6\u2014source data 1."
+                }, 
+                {
+                    "path": "content/4/e06492v1/figure6/supp-material2", 
+                    "doi": "10.7554/eLife.06492.016", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 6\u2014source data 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.06492.014", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e06492v1/figure7", 
+            "fragments": [
+                {
+                    "path": "content/4/e06492v1/figure7/supp-material1", 
+                    "doi": "10.7554/eLife.06492.018", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 7\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.06492.017", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e06492v1/supp-material1", 
+            "doi": "10.7554/eLife.06492.019", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/4/e06492v1/supp-material2", 
+            "doi": "10.7554/eLife.06492.020", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 2."
+        }, 
+        {
+            "path": "content/4/e06492v1/supp-material3", 
+            "doi": "10.7554/eLife.06492.021", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 3."
+        }, 
+        {
+            "path": "content/4/e06492v1/decision", 
+            "doi": "10.7554/eLife.06492.022", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Laub", 
+                    "given-names": "Michael", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Massachusetts Institute of Technology"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e06492v1/response", 
+            "doi": "10.7554/eLife.06492.023", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "06492", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Genomics and evolutionary biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

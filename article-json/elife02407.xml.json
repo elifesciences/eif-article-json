@@ -1,0 +1,3275 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "surname": "Jonkers", 
+            "corresp": true, 
+            "given-names": "Iris", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "equal-contrib": true, 
+            "type": "author", 
+            "id": "author-10836"
+        }, 
+        {
+            "surname": "Kwak", 
+            "given-names": "Hojoong", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff2"
+                ], 
+                "equal-contrib": [
+                    "equal-contrib"
+                ], 
+                "contribution": [
+                    "con2"
+                ]
+            }, 
+            "equal-contrib": true, 
+            "type": "author", 
+            "id": "author-10967"
+        }, 
+        {
+            "surname": "Lis", 
+            "corresp": true, 
+            "given-names": "John T", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "related-object": [
+                    "dataro1"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-4911"
+        }, 
+        {
+            "surname": "Struhl", 
+            "given-names": "Kevin", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Harvard Medical School"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-04-29T00:00:00Z", 
+    "title": "Genome-wide dynamics of Pol II elongation and its interplay with promoter proximal pausing, chromatin, and exons", 
+    "citations": {
+        "bib39": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.2005511", 
+            "year": "2011", 
+            "title": "Regulating RNA polymerase pausing and transcription elongation in embryonic stem cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IM", 
+                    "surname": "Min"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Waterfall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Core"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Munroe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schimenti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2012.03.006", 
+            "year": "2012", 
+            "title": "mRNA decapping factors and the exonuclease Xrn2 function in widespread premature termination of RNA polymerase II transcription", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Brannan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Erickson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Glover-Cutter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Fong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Kiemele"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Hansen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lykke-Andersen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Bentley"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Molecular and Cellular Biology", 
+            "year": "1996", 
+            "title": "Three functional classes of transcriptional activation domain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Blau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "McCracken"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "O\u2019Hare"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Greenblatt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bentley"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg3293", 
+            "year": "2012", 
+            "title": "Promoter-proximal pausing of RNA polymerase II: emerging roles in metazoans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Adelman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2143", 
+            "year": "2011", 
+            "title": "Total RNA sequencing reveals nascent transcription and widespread co-transcriptional splicing in the human brain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ameur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Zaghlool"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Halvardson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Wetterbom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Gyllensten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Cavelier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Feuk"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2010.11.005", 
+            "year": "2010", 
+            "title": "Splicing-dependent RNA polymerase pausing in yeast", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Alexander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Innocente"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Barrass"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Beggs"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb1109-1123", 
+            "year": "2009", 
+            "title": "Tracking rates of transcription and splicing in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Ardehali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Cell reports", 
+            "doi": "10.1016/j.celrep.2012.03.013", 
+            "year": "2012", 
+            "title": "Differential GC content between exons and introns establishes distinct strategies of splice-site recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Amit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Donyo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hollander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Goren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gelfman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Lev-Maor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Burstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schwartz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Postolsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Pupko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Ast"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2012.10.009", 
+            "year": "2012", 
+            "title": "Nucleosomal elements that control the topography of the barrier to transcription", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Bintu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ishibashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Dangkulwanich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YY", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lubkowska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kashlev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1968210", 
+            "year": "2010", 
+            "title": "CDK12 is a transcription elongation-associated CTD kinase, the metazoan ortholog of yeast Ctk1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Bartkowiak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HP", 
+                    "surname": "Phatnani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "Fuda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Cooper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Price"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Adelman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Greenleaf"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "RNA", 
+            "year": "2003", 
+            "title": "Perturbation of transcription elongation influences the fidelity of internal exon inclusion in <italic>Saccharomyces cerevisiae</italic>", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Howe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Kane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ares"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1924", 
+            "year": "2010", 
+            "title": "Reciprocal intronic and exonic histone modification regions in humans", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Huff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Plocik"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Guthrie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Yamamoto"
+                }
+            ]
+        }, 
+        "bib66": {
+            "source": "Cell", 
+            "year": "1999", 
+            "title": "NELF, a multisubunit complex containing RD, cooperates with DSIF to repress RNA polymerase II elongation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "YY", 
+                    "surname": "Yamaguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Takagi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Wada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Yano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Furuya"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sugimoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hasegawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Handa"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Cell Research", 
+            "doi": "10.1038/cr.2013.110", 
+            "year": "2013", 
+            "title": "Intragenic DNA methylation modulates alternative splicing by recruiting MeCP2 to promote exon recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Maunakea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Chepelev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Zhao"
+                }
+            ]
+        }, 
+        "bib60": {
+            "source": "Developmental Cell", 
+            "doi": "10.1016/j.devcel.2008.02.002", 
+            "year": "2008", 
+            "title": "Intron delays and transcriptional timing during development", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IA", 
+                    "surname": "Swinburne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Silver"
+                }
+            ]
+        }, 
+        "bib61": {
+            "source": "Science", 
+            "year": "1992", 
+            "title": "Mechanisms of transcriptional timing in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Thummel"
+                }
+            ]
+        }, 
+        "bib62": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.134445.111", 
+            "year": "2012", 
+            "title": "Deep sequencing of subcellular RNA fractions shows splicing to be predominantly co-transcriptional in the human genome but inefficient for lncRNAs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tilgner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DG", 
+                    "surname": "Knowles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chakrabortty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Djebali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Curado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Snyder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Gingeras"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Guig\u00f3"
+                }
+            ]
+        }, 
+        "bib63": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1658", 
+            "year": "2009", 
+            "title": "Nucleosome positioning as a determinant of exon recognition", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tilgner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Nikolaou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Althammer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sammeth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Beato"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Valc\u00e1rcel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Guig\u00f3"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1120422109", 
+            "year": "2012", 
+            "title": "BRD4 is an atypical kinase that phosphorylates Serine2 of the RNA Polymerase II carboxy-terminal domain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BN", 
+                    "surname": "Devaiah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Lewis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Cherman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Hewitt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BK", 
+                    "surname": "Albrecht"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PG", 
+                    "surname": "Robey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Ozato"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Sims", 
+                    "suffix": "III"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Singer"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Nature", 
+            "doi": "10.1038/nature11233", 
+            "year": "2012", 
+            "title": "Landscape of transcription in human cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Djebali"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Merkel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Dobin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Lassmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mortazavi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tanzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Lagarde"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Schlesinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Xue"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GK", 
+                    "surname": "Marinov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Khatun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zaleski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rozowsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "R\u00f6der"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kokocinski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RF", 
+                    "surname": "Abdelhamid"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Alioto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Antoshechkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Baer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Bar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Batut"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Bell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Bell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chakrabortty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Chrast"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Curado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Derrien"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Drenkow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dumais"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Dumais"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Duttagupta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Falconnet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Fastuca"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Fejes-Toth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ferreira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Foissac"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Fullwood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gonzalez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gordon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gunawardena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Howald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Jha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kapranov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "King"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kingswood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OJ", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Park"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Persaud"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Preall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ribeca"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Risk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Robyr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sammeth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Schaffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LH", 
+                    "surname": "See"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Shahab"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Skancke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Suzuki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Takahashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Tilgner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Trout"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Walters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Wrobel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Ruan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Hayashizaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Harrow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gerstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hubbard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Reymond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Antonarakis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hannon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Giddings"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ruan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wold"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Carninci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Guig\u00f3"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Gingeras"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.138776.112", 
+            "year": "2012", 
+            "title": "CpG islands and GC content dictate nucleosome depletion in a transcription-independent manner at mammalian promoters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Fenouil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cauchy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Koch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Descostes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JZ", 
+                    "surname": "Cabeza"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Innocenti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ferrier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Spicuglia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gut"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Gut"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Andrau"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1106630108", 
+            "year": "2011", 
+            "title": "Antisense RNA polymerase II divergent transcripts are P-TEFb dependent and substrates for the RNA exosome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Flynn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Almada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Zamudio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sharp"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.1643208", 
+            "year": "2008", 
+            "title": "NELF-mediated stalling of Pol II can enhance gene expression by blocking promoter-proximal nucleosome assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Gilchrist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nechaev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Ghosh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Collins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Gilmour"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Adelman"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2012.10.014", 
+            "year": "2012", 
+            "title": "Kinetic competition between RNA polymerase II and Sen1-dependent transcription termination", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DZ", 
+                    "surname": "Hazelbaker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Marquardt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wlotzka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Buratowski"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2013.10.001", 
+            "year": "2013", 
+            "title": "Stable pausing by RNA polymerase II provides an opportunity to target and integrate regulatory signals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Henriques"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Gilchrist"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nechaev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bern"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Muse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Burkholder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Fargo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Adelman"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Science", 
+            "doi": "10.1126/science.1172926", 
+            "year": "2009", 
+            "title": "Nucleosomal fluctuations govern the transcription dynamics of RNA polymerase II", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Hodges"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Bintu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lubkowska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kashlev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bustamante"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.04.020", 
+            "year": "2009", 
+            "title": "A unifying model for the selective regulation of inducible transcription by CpG islands and nucleosome remodeling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VR", 
+                    "surname": "Ramirez-Carrozzi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Braas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Bhatt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Cheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Hong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Doty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Black"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hoffmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ST", 
+                    "surname": "Smale"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2009.06.009", 
+            "year": "2009", 
+            "title": "Stability, flexibility, and dynamic interactions of colliding RNA polymerase II elongation complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Saeki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JQ", 
+                    "surname": "Svejstrup"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2006.06.014", 
+            "year": "2006", 
+            "title": "Controlling the elongation Phase of transcription with p-TEFb", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BM", 
+                    "surname": "Peterlin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Price"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2010.03.030", 
+            "year": "2010", 
+            "title": "c-Myc regulates transcriptional pause release", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Rahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CY", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Seila"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Flynn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "McCuine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CB", 
+                    "surname": "Burge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sharp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Young"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10953", 
+            "year": "2012", 
+            "title": "Chromatin-modifying enzymes as modulators of reprogramming", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TT", 
+                    "surname": "Onder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cherry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AU", 
+                    "surname": "Sinha"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Zhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Bernt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cahan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BO", 
+                    "surname": "Mancarci"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Unternaehrer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Gupta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ES", 
+                    "surname": "Lander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SA", 
+                    "surname": "Armstrong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GQ", 
+                    "surname": "Daley"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Cell", 
+            "year": "1998", 
+            "title": "FACT, a factor that facilitates transcript elongation through nucleosomes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Orphanides"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "LeRoy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Chang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Luse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Reinberg"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Science", 
+            "doi": "10.1126/science.1181421", 
+            "year": "2010", 
+            "title": "Global analysis of short RNAs reveals widespread promoter-proximal stalling and arrest of Pol II in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Nechaev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Fargo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "dos Santos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Gao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Adelman"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.01859-07", 
+            "year": "2008", 
+            "title": "P-TEFb is critical for the maturation of RNA polymerase II into productive elongation in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Ni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Saunders"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "Fuda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Suarez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WW", 
+                    "surname": "Webb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2007.12.036", 
+            "year": "2008", 
+            "title": "X inactivation counting and choice is a stochastic process: evidence for involvement of an X-linked activator", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Monkhorst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Jonkers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Rentmeester"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Grosveld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gribnau"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb1253", 
+            "year": "2007", 
+            "title": "The poly(A)-dependent transcriptional pause is mediated by CPSF acting on the body of the polymerase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Narsinh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HG", 
+                    "surname": "Martinson"
+                }
+            ]
+        }, 
+        "bib64": {
+            "source": "Nature Chemical Biology", 
+            "doi": "10.1038/nchembio.522", 
+            "year": "2011", 
+            "title": "XPB, a subunit of TFIIH, is a target of the natural product triptolide", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DV", 
+                    "surname": "Titov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Gilman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "QL", 
+                    "surname": "He"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Bhat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WK", 
+                    "surname": "Low"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Dang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Smeaton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Demain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Miller"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Kugel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Goodrich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JO", 
+                    "surname": "Liu"
+                }
+            ]
+        }, 
+        "bib65": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12535", 
+            "year": "2013", 
+            "title": "Genomic organization of human transcription initiation complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Venters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BF", 
+                    "surname": "Pugh"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "PLOS Biology", 
+            "doi": "10.1371/journal.pbio.1000573", 
+            "year": "2011", 
+            "title": "The in vivo kinetics of RNA polymerase II elongation during co-transcriptional splicing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Brody"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Neufeld"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bieberstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SZ", 
+                    "surname": "Causse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "B\u00f6hnlein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Neugebauer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Darzacq"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shav-Tal"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Genome Biology", 
+            "doi": "10.1186/gb-2005-6-8-r64", 
+            "year": "2005", 
+            "title": "Genomic mapping of RNA polymerase II reveals sites of co-transcriptional regulation in human cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Brodsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CA", 
+                    "surname": "Meyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IA", 
+                    "surname": "Swinburne"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Keenan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XS", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Fox"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Silver"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M102306200", 
+            "year": "2001", 
+            "title": "Flavopiridol inactivates P-TEFb and blocks most RNA polymerase II transcription in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Chao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Price"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Genes & Development", 
+            "doi": "10.1101/gad.231886.113", 
+            "year": "2014", 
+            "title": "Kinetics of promoter Pol II on Hsp70 reveal stable pausing and key insights into its regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MS", 
+                    "surname": "Buckley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kwak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WR", 
+                    "surname": "Zipfel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Science", 
+            "doi": "10.1126/science.1162228", 
+            "year": "2008", 
+            "title": "Nascent RNA sequencing reveals widespread pausing and divergent initiation at human promoters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Core"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Waterfall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09147", 
+            "year": "2010", 
+            "title": "Relationship between nucleosome positioning and DNA methylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Chodavarapu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Feng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YV", 
+                    "surname": "Bernatavichute"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PY", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Stroud"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Hetzel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Kuo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Cokus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Casero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bernal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Huijser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AT", 
+                    "surname": "Clark"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Kr\u00e4mer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Merchant"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Jacobsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Pellegrini"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2012.101", 
+            "year": "2012", 
+            "title": "Co-transcriptional degradation of aberrant pre-mRNA by Xrn2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Davidson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Kerr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "West"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2013.02.015", 
+            "year": "2013", 
+            "title": "Signaling pathways differentially affect RNA polymerase II initiation, pausing, and elongation rate in cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Danko"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Hah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Luo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Martins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Core"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Siepel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WL", 
+                    "surname": "Kraus"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "RNA", 
+            "doi": "10.1261/rna.1993510", 
+            "year": "2010", 
+            "title": "First come, first served revisited: factors affecting the same alternative splicing event have different effects on the relative rates of intron removal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "de la Mata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lafaille"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Kornblihtt"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Molecular Cell", 
+            "year": "2003", 
+            "title": "A slow RNA polymerase II affects alternative splicing in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "de la Mata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CR", 
+                    "surname": "Alonso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kadener"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Fededa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Blaustein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Pelisch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Cramer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Bentley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Kornblihtt"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Genes & Development", 
+            "year": "2000", 
+            "title": "P-TEFb kinase recruitment and function at heat shock loci", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Mason"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Peng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Price"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Werner"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2013.111", 
+            "year": "2013", 
+            "title": "Distinct mechanisms of transcriptional pausing orchestrated by GAGA factor and M1BP, a novel transcription factor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Gilmour"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.02224-07", 
+            "year": "2008", 
+            "title": "NELF and GAGA factor are linked to promoter-proximal pausing at Many genes in Drosophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hechmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Eisen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MD", 
+                    "surname": "Biggin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Venters"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BF", 
+                    "surname": "Pugh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Gilmour"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Science", 
+            "doi": "10.1126/science.1229386", 
+            "year": "2013", 
+            "title": "Precise maps of RNA polymerase reveal how promoters direct initiation and pausing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kwak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "Fuda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Core"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Nature Genetics", 
+            "doi": "10.1038/ng.322", 
+            "year": "2009", 
+            "title": "Differential chromatin marking of introns and expressed exons by H3K36me3", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Kolasinska-Zwierz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Down"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Latorre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XS", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ahringer"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1109475108", 
+            "year": "2011", 
+            "title": "Pre-mRNA splicing is a determinant of histone H3K36 methylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Fong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Erickson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Bentley"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2005.02.017", 
+            "year": "2005", 
+            "title": "Distinction and relationship between elongation rate and processivity of RNA polymerase II in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Mason"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Struhl"
+                }
+            ]
+        }, 
+        "bib59": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10716", 
+            "year": "2011", 
+            "title": "DNA-binding factors shape the mouse methylome at distal regulatory regions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MB", 
+                    "surname": "Stadler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Murr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Burger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ivanek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lienert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sch\u00f6ler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wirbelauer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EJ", 
+                    "surname": "Oakeley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Gaidatzis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VK", 
+                    "surname": "Tiwari"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Sch\u00fcbeler"
+                }
+            ]
+        }, 
+        "bib58": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1666", 
+            "year": "2009", 
+            "title": "Rates of in situ transcription and splicing in large human genes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Singh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Padgett"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Journal of Biological Chemistry", 
+            "year": "1996", 
+            "title": "Control of RNA polymerase II elongation potential by a novel carboxyl-terminal domain kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NF", 
+                    "surname": "Marshall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Peng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Xie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DH", 
+                    "surname": "Price"
+                }
+            ]
+        }, 
+        "bib55": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10442", 
+            "year": "2011", 
+            "title": "CTCF-promoted RNA polymerase II pausing links DNA methylation to splicing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kavak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gregory"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Imashimizu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Shutinoski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kashlev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Oberdoerffer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Sandberg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Oberdoerffer"
+                }
+            ]
+        }, 
+        "bib54": {
+            "source": "Cell Cycle", 
+            "year": "2009", 
+            "title": "Divergent transcription: a new feature of active promoters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Seila"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Core"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JT", 
+                    "surname": "Lis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sharp"
+                }
+            ]
+        }, 
+        "bib57": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1221904110", 
+            "year": "2013", 
+            "title": "Divergent transcription of long noncoding RNA/mRNA gene pairs in embryonic stem cells", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AA", 
+                    "surname": "Sigova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AC", 
+                    "surname": "Mullen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Molinie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gupta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Orlando"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MG", 
+                    "surname": "Guenther"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Almada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Sharp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CC", 
+                    "surname": "Giallourakis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Young"
+                }
+            ]
+        }, 
+        "bib56": {
+            "source": "Biochimica et Biophysica Acta", 
+            "doi": "10.1016/j.bbagrm.2012.01.014", 
+            "year": "2012", 
+            "title": "Co-transcriptional regulation of alternative pre-mRNA splicing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Shukla"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Oberdoerffer"
+                }
+            ]
+        }, 
+        "bib51": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0810666106", 
+            "year": "2009", 
+            "title": "Neuronal cell depolarization induces intragenic chromatin modifications affecting NCAM alternative splicing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IE", 
+                    "surname": "Schor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Rascovan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Pelisch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "All\u00f3"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Kornblihtt"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Nature Structural & Molecular Biology", 
+            "year": "2011", 
+            "title": "Histone H3 lysine 9 trimethylation and HP1\u03b3 favor inclusion of alternative exons", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Saint-Andr\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Batsch\u00e9"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rachez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Muchardt"
+                }
+            ]
+        }, 
+        "bib53": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1659", 
+            "year": "2009", 
+            "title": "Chromatin organization marks exon-intron structure", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schwartz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Meshorer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Ast"
+                }
+            ]
+        }, 
+        "bib52": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2013.167", 
+            "year": "2013", 
+            "title": "Intragenic epigenetic changes modulate NCAM alternative splicing in neuronal differentiation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "IE", 
+                    "surname": "Schor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fiszbein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Petrillo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AR", 
+                    "surname": "Kornblihtt"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The elongation rate of RNA Polymerase II varies greatly between and along genes, as this enzyme accelerates from stable pausing to rapid elongation within genes, and is influenced by CG-content, exons and chromatin.", 
+    "elocation-id": "e02407", 
+    "publish": true, 
+    "article-version-id": "02407.1", 
+    "volume": 3, 
+    "keywords": {
+        "author-keywords": [
+            "pausing", 
+            "P-TEFb", 
+            "GRO-seq", 
+            "elongation rate", 
+            "RNA polymerase II"
+        ], 
+        "research-organism": [
+            "mouse"
+        ]
+    }, 
+    "doi": "10.7554/eLife.02407", 
+    "version": 1, 
+    "referenced": {
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/100000011", 
+                "institution": "Howard Hughes Medical Institute", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/100005237", 
+                "institution": "Helen Hay Whitney Foundation", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "GM25232", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro15": {}, 
+            "dataro18": {}, 
+            "dataro19": {}, 
+            "dataro16": {}, 
+            "dataro17": {}, 
+            "dataro14": {}, 
+            "dataro20": {}, 
+            "dataro12": {}, 
+            "dataro13": {}, 
+            "dataro10": {}, 
+            "dataro11": {}, 
+            "dataro4": {}, 
+            "dataro5": {}, 
+            "dataro6": {}, 
+            "dataro7": {}, 
+            "dataro1": {}, 
+            "dataro2": {}, 
+            "dataro3": {}, 
+            "dataro8": {}, 
+            "dataro21": {}, 
+            "dataro9": {}
+        }, 
+        "affiliation": {
+            "aff2": {
+                "dept": "Howard Hughes Medical Institute", 
+                "city": "Ann Harbor", 
+                "institution": "University of Michigan", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Molecular Biology and Genetics", 
+                "city": "Ithaca", 
+                "institution": "Cornell University", 
+                "country": "United States"
+            }
+        }, 
+        "equal-contrib": {
+            "equal-contrib": "These authors contributed equally to this work"
+        }, 
+        "contribution": {
+            "con1": "IJ, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "HK, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "JTL, Conception and design, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "ihj3@cornell.edu", 
+            "cor2": "johnlis@cornell.edu"
+        }
+    }, 
+    "path": "content/3/e02407v1", 
+    "fragments": [
+        {
+            "path": "content/3/e02407v1/abstract", 
+            "doi": "10.7554/eLife.02407.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e02407v1/abstract2", 
+            "doi": "10.7554/eLife.02407.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e02407v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/3/e02407v1/figure1/supp-material1", 
+                    "doi": "10.7554/eLife.02407.006", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 1\u2014source data 1."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure1/supp-material2", 
+                    "doi": "10.7554/eLife.02407.007", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 1\u2014source data 2."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure1/supp-material3", 
+                    "doi": "10.7554/eLife.02407.008", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 1\u2014source data 3."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.02407.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure1/figure-supp2", 
+                    "doi": "10.7554/eLife.02407.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.02407.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e02407v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/3/e02407v1/figure2/supp-material1", 
+                    "doi": "10.7554/eLife.02407.011", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 2\u2014source data 1."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.02407.010", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02407.009", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e02407v1/figure3", 
+            "fragments": [
+                {
+                    "path": "content/3/e02407v1/figure3/supp-material1", 
+                    "doi": "10.7554/eLife.02407.013", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 3\u2014source data 1."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure3/figure-supp1", 
+                    "doi": "10.7554/eLife.02407.014", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure3/figure-supp2", 
+                    "doi": "10.7554/eLife.02407.015", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure3/figure-supp3", 
+                    "doi": "10.7554/eLife.02407.016", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.02407.012", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e02407v1/figure4", 
+            "fragments": [
+                {
+                    "path": "content/3/e02407v1/figure4/figure-supp1", 
+                    "doi": "10.7554/eLife.02407.018", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02407.017", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e02407v1/figure5", 
+            "fragments": [
+                {
+                    "path": "content/3/e02407v1/figure5/supp-material1", 
+                    "doi": "10.7554/eLife.02407.019", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 5\u2014source data 1."
+                }, 
+                {
+                    "path": "content/3/e02407v1/figure5/figure-supp1", 
+                    "doi": "10.7554/eLife.02407.021", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02407.020", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e02407v1/figure6", 
+            "fragments": [
+                {
+                    "path": "content/3/e02407v1/figure6/figure-supp1", 
+                    "doi": "10.7554/eLife.02407.023", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.02407.022", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/3/e02407v1/decision", 
+            "doi": "10.7554/eLife.02407.024", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Struhl", 
+                    "given-names": "Kevin", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Harvard Medical School"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e02407v1/response", 
+            "doi": "10.7554/eLife.02407.025", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "02407", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Genomics and evolutionary biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

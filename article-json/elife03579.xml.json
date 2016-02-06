@@ -1,0 +1,1812 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "David", 
+            "surname": "W\u00f6hlert", 
+            "id": "author-14989", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf2"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-3", 
+                    "par-4"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2", 
+                    "dataro3"
+                ]
+            }
+        }, 
+        {
+            "surname": "K\u00fchlbrandt", 
+            "corresp": true, 
+            "given-names": "Werner", 
+            "references": {
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-2", 
+                    "par-3", 
+                    "par-4"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2", 
+                    "dataro3"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-1125"
+        }, 
+        {
+            "surname": "Yildiz", 
+            "corresp": true, 
+            "given-names": "\u00d6zkan", 
+            "references": {
+                "competing-interest": [
+                    "conf2"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "related-object": [
+                    "dataro1", 
+                    "dataro2", 
+                    "dataro3"
+                ], 
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-9141"
+        }, 
+        {
+            "surname": "Aldrich", 
+            "given-names": "Richard", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "The University of Texas at Austin"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-11-26T00:00:00Z", 
+    "title": "Structure and substrate ion binding in the sodium/proton antiporter PaNhaP", 
+    "citations": {
+        "bib39": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M111.336446", 
+            "year": "2012", 
+            "title": "A model-structure of a periplasm-facing state of the NhaA antiporter suggests the molecular underpinnings of pH-induced conformational changes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Schushan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Haliloglu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LR", 
+                    "surname": "Forrest"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Padan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Ben-Tal"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Advanced Inorganic Chemistry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FA", 
+                    "surname": "Cotton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Wilkinson"
+                }
+            ], 
+            "year": "1988"
+        }, 
+        "bib8": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "year": "1994", 
+            "title": "The CCP4 suite: programs for protein crystallography", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "collab": "Collaborative Computational Project 4"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Journal of Synchrotron Radiation", 
+            "doi": "10.1107/S0909049503024130", 
+            "year": "2004", 
+            "title": "Recent developments in the PHENIX software for automated crystallographic structure determination", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PD", 
+                    "surname": "Adams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Gopal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Grosse-Kunstleve"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LW", 
+                    "surname": "Hung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TR", 
+                    "surname": "Ioerger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "McCoy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NW", 
+                    "surname": "Moriarty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RK", 
+                    "surname": "Pai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Read"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TD", 
+                    "surname": "Romo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Sacchettini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NK", 
+                    "surname": "Sauter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LC", 
+                    "surname": "Storoni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Terwilliger"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature", 
+            "doi": "10.1038/nature05455", 
+            "year": "2007", 
+            "title": "Coupling substrate and ion binding to extracellular gate of a sodium-dependent aspartate transporter", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Boudker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RM", 
+                    "surname": "Ryan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Yernool"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Shimamoto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Gouaux"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.181342398", 
+            "year": "2001", 
+            "title": "Electrostatics of nanosystems: application to microtubules and the ribosome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Baker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Sept"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Joseph"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Holst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "McCammon"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "American Journal of Physiology Cell Physiology", 
+            "doi": "10.1152/ajpcell.00360.2004", 
+            "year": "2005", 
+            "title": "Evolutionary origins of eukaryotic sodium/proton exchangers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CL", 
+                    "surname": "Brett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Donowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Rao"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Methods in Molecular Biology", 
+            "year": "1996", 
+            "title": "Site-directed mutagenesis using double-stranded plasmid DNA templates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Braman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Papworth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Greener"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Molecular Microbiology", 
+            "doi": "10.1046/j.1365-2958.2003.03381.x", 
+            "year": "2003", 
+            "title": "An integrated analysis of the genome of the hyperthermophilic archaeon Pyrococcus abyssi", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GN", 
+                    "surname": "Cohen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Barbe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Flament"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Galperin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Heilig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Lecompte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Poch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Prieur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Querellou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ripp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JC", 
+                    "surname": "Thierry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Van der Oost"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Weissenbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zivanovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Forterre"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "2014", 
+            "title": "Keeping it simple - transport mechanism and pH regulation in Na+/H+ exchangers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Calinescu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Paulino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Kuhlbrandt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Fendler"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444904026460", 
+            "year": "2004", 
+            "title": "Secondary-structure matching (SSM), a new tool for fast protein structure alignment in three dimensions", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Krissinel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Henrick"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12484", 
+            "year": "2013", 
+            "title": "A two-domain elevator mechanism for sodium/proton antiport", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Kang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "von Ballmoos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Newstead"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Uzdavinys"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DL", 
+                    "surname": "Dotson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Iwata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Beckstein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Cameron"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Drew"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "PLOS Biology", 
+            "doi": "10.1371/journal.pbio.1001596", 
+            "year": "2013", 
+            "title": "A new type of na(+)-driven ATP synthase membrane rotor with a two-carboxylate ion-coupling motif", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schulz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Iglesias-Cans"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Krah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Leone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Matthies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Cook"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Faraldo-Gomez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Meier"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "FEBS Letters", 
+            "doi": "10.1016/S0014-5793(03)00332-6", 
+            "year": "2003", 
+            "title": "Conserved arginine and aspartate residues are critical for function of MjNhaP1, a Na+/H+ antiporter of M. jannaschii", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hellmer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Teubner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zeilinger"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M109.047134", 
+            "year": "2010", 
+            "title": "Transmembrane segment II of NhaA Na+/H+ antiporter lines the cation passage, and Asp65 is critical for pH activation of the antiporter", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Herz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Olkhova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Kozachkov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Padan"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "BMC Structural Biology", 
+            "year": "2008", 
+            "title": "HOLLOW: generating accurate representations of channel and interior surfaces in molecular structures", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BK", 
+                    "surname": "Ho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Gruswitz"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Nature", 
+            "doi": "10.1038/nature03692", 
+            "year": "2005", 
+            "title": "Structure of a Na+/H+ antiporter and insights into mechanism of action and regulation by pH", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Hunte"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Screpanti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Venturi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Padan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Michel"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Journal of Applied Crystallography", 
+            "doi": "10.1107/S0021889893005588", 
+            "year": "1993", 
+            "title": "Automatic processing of rotation diffraction data from crystals of initially unknown symmetry and cell constants", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Kabsch"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1309071110", 
+            "year": "2013", 
+            "title": "Arginine oscillation explains Na+ independence in the substrate/product antiporter CaiT", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Kalayil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schulze"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Kuhlbrandt"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Circulation Research", 
+            "doi": "10.1161/01.RES.85.9.777", 
+            "year": "1999", 
+            "title": "The myocardial Na(+)-H(+) exchange: structure, regulation, and its role in heart disease", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Karmazyn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XT", 
+                    "surname": "Gan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "Humphreys"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yoshida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kusumoto"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Science", 
+            "doi": "10.1126/science.1218231", 
+            "year": "2012", 
+            "title": "Linking crystallographic model and data quality", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Karplus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Diederichs"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/18.13.3558", 
+            "year": "1999", 
+            "title": "Projection structure of NhaA, a secondary transporter from <italic>Escherichia coli</italic>, at 4.0 A resolution", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Williams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "U", 
+                    "surname": "Geldmacher-Kaufer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Padan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Schuldiner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "K\u00fchlbrandt"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Nature", 
+            "doi": "10.1038/nature03978", 
+            "year": "2005", 
+            "title": "Crystal structure of a bacterial homologue of Na+/Cl\u2013dependent neurotransmitter transporters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Yamashita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Singh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kawate"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Jin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Gouaux"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/sj.emboj.7600727", 
+            "year": "2005", 
+            "title": "pH-induced structural change in a sodium/proton antiporter from Methanococcus jannaschii", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KR", 
+                    "surname": "Vinothkumar"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Smits"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "K\u00fchlbrandt"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Nature", 
+            "doi": "10.1038/47534", 
+            "year": "2000", 
+            "title": "Three-dimensional structure of the ion-coupled transport protein NhaA", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Williams"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Biochemistry", 
+            "doi": "10.1021/bi8017174", 
+            "year": "2008", 
+            "title": "Thallium ions can replace both sodium and potassium ions in the glutamate transporter excitatory amino acid carrier 1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Tao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gameiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Grewer"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.92.19.8916", 
+            "year": "1995", 
+            "title": "Crystallographic evidence for the action of potassium, thallium, and lithium ions on fructose-1,6-bisphosphatase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Villeret"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Fromm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WN", 
+                    "surname": "Lipscomb"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "PLOS ONE", 
+            "year": "2009", 
+            "title": "Simplified, enhanced protein purification using an inducible, autoprocessing enzyme tag", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Shen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Lupardus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Morell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EL", 
+                    "surname": "Ponder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Sadaghiani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KC", 
+                    "surname": "Garcia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bogyo"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Protein Expression and Purification", 
+            "doi": "10.1016/j.pep.2005.01.016", 
+            "year": "2005", 
+            "title": "Protein production by auto-induction in high density shaking cultures", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FW", 
+                    "surname": "Studier"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Acta Crystallographica Section A", 
+            "doi": "10.1107/S0567739476001551", 
+            "year": "1976", 
+            "title": "Revised effective ionic-radii and systematic studies of interatomic distances in halides and chalcogenides", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Shannon"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "year": "2010", 
+            "title": "Experimental phasing with SHELXC/D/E: combining chain tracing with density modification", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GM", 
+                    "surname": "Sheldrick"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Abstracts of Papers of the American Chemical Society", 
+            "year": "2005", 
+            "title": "PyMOL: A communications tool for computational models", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WL", 
+                    "surname": "DeLano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Lam"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444906022116", 
+            "year": "2006", 
+            "title": "The Buccaneer software for automated model building. 1. Tracing protein chains", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cowtan"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "FEBS Letters", 
+            "doi": "10.1016/0014-5793(93)80869-V", 
+            "year": "1993", 
+            "title": "Mechanism of Na+/H+ exchange by <italic>Escherichia coli</italic> NhaA in reconstituted proteoliposomes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Dibrov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Taglicht"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2011.08.046", 
+            "year": "2011", 
+            "title": "Helix VIII of NhaA Na(+)/H(+) antiporter participates in the periplasmic cation passage and pH regulation of the antiporter", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Diab"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Rimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Tzubery"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Padan"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444904019158", 
+            "year": "2004", 
+            "title": "Coot: model-building tools for molecular graphics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Emsley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cowtan"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkm276", 
+            "year": "2007", 
+            "title": "PDB2PQR: expanding and upgrading automated preparation of biomolecular structures for molecular simulations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TJ", 
+                    "surname": "Dolinsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Czodrowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Nielsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JH", 
+                    "surname": "Jensen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Klebe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NA", 
+                    "surname": "Baker"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of General Physiology", 
+            "year": "2008", 
+            "title": "Steady-state function of the ubiquitous mammalian Na/H exchanger (NHE1) in relation to dimer coupling models with 2Na/2H stoichiometry", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fuster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OW", 
+                    "surname": "Moe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DW", 
+                    "surname": "Hilgemann"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "The Journal of Biological Chemistry", 
+            "year": "1994", 
+            "title": "Evidence that Na+/H+ exchanger isoforms NHE1 and NHE3 exist as stable dimers in membranes with a high degree of specificity for homodimers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Fafournoux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Noel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Pouyssegur"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444902003712", 
+            "year": "2002", 
+            "title": "Metal-ligand geometry relevant to proteins and in proteins: sodium and potassium", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Harding"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2010.321", 
+            "year": "2011", 
+            "title": "Structure of the archaeal Na+/H+ antiporter NhaP1 and functional role of transmembrane helix 1", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Goswami"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Paulino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hizlan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Vonck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Yildiz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Kuhlbrandt"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.01412", 
+            "year": "2014", 
+            "title": "pH- and sodium-induced changes in a sodium/proton antiporter", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Paulino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "K\u00fchlbrandt"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444910052224", 
+            "year": "2011", 
+            "title": "Recent advances in the CRANK software suite for experimental phasing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "NS", 
+                    "surname": "Pannu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WJ", 
+                    "surname": "Waterreus"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Skubak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Sikharulidze"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Abrahams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RA", 
+                    "surname": "de Graaff"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2009.05.082", 
+            "year": "2009", 
+            "title": "Complete ion-coordination structure in the rotor ring of Na+-dependent F-ATP synthases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Meier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Krah"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Bond"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Pogoryelov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Diederichs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Faraldo-Gomez"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M114.567255", 
+            "year": "2014", 
+            "title": "Intact functional Fourteen-subunit Respiratory membrane-bound [NiFe]-Hydrogenase Complex of the hyperthermophilic archaeon pyrococcus furiosus", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PM", 
+                    "surname": "McTernan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Chandrayan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Vaccaro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Lancaster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Yang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Fu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GL", 
+                    "surname": "Hura"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Tainer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MW", 
+                    "surname": "Adams"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444906045975", 
+            "year": "2007", 
+            "title": "Solving structures of protein complexes by molecular replacement with Phaser", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "McCoy"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444910046573", 
+            "year": "2011", 
+            "title": "Multi-crystal anomalous diffraction for low-resolution macromolecular phasing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WA", 
+                    "surname": "Hendrickson"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "The Journal of General Physiology", 
+            "doi": "10.1085/jgp.201010577", 
+            "year": "2011", 
+            "title": "Ion selectivity in channels and transporters", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Roux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Berneche"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Egwolf"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Lev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Noskov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CN", 
+                    "surname": "Rowley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Yu"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Nature", 
+            "doi": "10.1038/nature12533", 
+            "year": "2013", 
+            "title": "X-ray structure of dopamine transporter elucidates antidepressant mechanism", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Penmatsa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Gouaux"
+                }
+            ]
+        }, 
+        "bib50": {
+            "source": "Methods Enzymol", 
+            "year": "1997", 
+            "title": "Combining constraints for electron-density modification", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KY", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Cowtan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Main"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The X-ray structure of the PaNhaP provides a unique view of substrate-ion binding and release in electroneutral sodium/proton antiporters.", 
+    "related-articles": [
+        {
+            "href": "10.7554/eLife.03583", 
+            "type": "article-reference"
+        }
+    ], 
+    "elocation-id": "e03579", 
+    "publish": true, 
+    "article-version-id": "03579.1", 
+    "volume": 3, 
+    "keywords": {
+        "author-keywords": [
+            "Pyrococcus abyssi", 
+            "membrane transport", 
+            "sodium/proton antiport", 
+            "x-ray crystallography", 
+            "transport mechanism"
+        ], 
+        "research-organism": [
+            "other"
+        ]
+    }, 
+    "doi": "10.7554/eLife.03579", 
+    "version": 1, 
+    "referenced": {
+        "competing-interest": {
+            "conf2": "The other authors declare that no competing interests exist.", 
+            "conf1": "WK: Reviewing editor, <italic>eLife</italic>."
+        }, 
+        "funding": {
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/501100001659", 
+                "award-id": "Transport and communication across biological membranes SFP807", 
+                "institution": "Deutsche Forschungsgemeinschaft", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/501100004189", 
+                "award-id": "International Max Planck Research School, Frankfurt", 
+                "institution": "Max-Planck-Gesellschaft (Max Planck Society)", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/501100001659", 
+                "award-id": "Cluster of Excellence, Macromolecular Complexes", 
+                "institution": "Deutsche Forschungsgemeinschaft", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100004189", 
+                "institution": "Max-Planck-Gesellschaft (Max Planck Society)", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro1": {}, 
+            "dataro2": {}, 
+            "dataro3": {}
+        }, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Structural Biology", 
+                "city": "Frankfurt am Main", 
+                "institution": "Max Planck Institute of Biophysics", 
+                "country": "Germany"
+            }
+        }, 
+        "contribution": {
+            "con1": "DW, Purified and crystallized the protein, Performed the functional analyses", 
+            "con2": "WK, Conception and design, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "\u00d6Y, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "werner.kuehlbrandt@biophys.mpg.de", 
+            "cor2": "Oezkan.Yildiz@biophys.mpg.de"
+        }
+    }, 
+    "path": "content/3/e03579v1", 
+    "fragments": [
+        {
+            "path": "content/3/e03579v1/abstract", 
+            "doi": "10.7554/eLife.03579.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e03579v1/abstract2", 
+            "doi": "10.7554/eLife.03579.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/3/e03579v1/table1", 
+            "doi": "10.7554/eLife.03579.003", 
+            "type": "table-wrap", 
+            "title": "Table 1."
+        }, 
+        {
+            "path": "content/3/e03579v1/table2", 
+            "doi": "10.7554/eLife.03579.004", 
+            "type": "table-wrap", 
+            "title": "Table 2."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/3/e03579v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.03579.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e03579v1/figure1/figure-supp2", 
+                    "doi": "10.7554/eLife.03579.007", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/3/e03579v1/figure1/figure-supp3", 
+                    "doi": "10.7554/eLife.03579.008", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.03579.005", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e03579v1/media1", 
+            "doi": "10.7554/eLife.03579.009", 
+            "type": "media", 
+            "title": "Video 1."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/3/e03579v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.03579.011", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.03579.010", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure3", 
+            "doi": "10.7554/eLife.03579.012", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure4", 
+            "doi": "10.7554/eLife.03579.013", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure5", 
+            "fragments": [
+                {
+                    "path": "content/3/e03579v1/figure5/figure-supp1", 
+                    "doi": "10.7554/eLife.03579.015", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e03579v1/figure5/figure-supp2", 
+                    "doi": "10.7554/eLife.03579.016", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.03579.014", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e03579v1/media2", 
+            "doi": "10.7554/eLife.03579.017", 
+            "type": "media", 
+            "title": "Video 2."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure6", 
+            "fragments": [
+                {
+                    "path": "content/3/e03579v1/figure6/figure-supp1", 
+                    "doi": "10.7554/eLife.03579.019", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/3/e03579v1/figure6/figure-supp2", 
+                    "doi": "10.7554/eLife.03579.020", 
+                    "type": "fig", 
+                    "title": "Figure 6\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.03579.018", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure7", 
+            "doi": "10.7554/eLife.03579.021", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure8", 
+            "fragments": [
+                {
+                    "path": "content/3/e03579v1/figure8/figure-supp1", 
+                    "doi": "10.7554/eLife.03579.023", 
+                    "type": "fig", 
+                    "title": "Figure 8\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.03579.022", 
+            "type": "fig", 
+            "title": "Figure 8."
+        }, 
+        {
+            "path": "content/3/e03579v1/figure9", 
+            "doi": "10.7554/eLife.03579.024", 
+            "type": "fig", 
+            "title": "Figure 9."
+        }, 
+        {
+            "path": "content/3/e03579v1/decision", 
+            "doi": "10.7554/eLife.03579.025", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Aldrich", 
+                    "given-names": "Richard", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "The University of Texas at Austin"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e03579v1/response", 
+            "doi": "10.7554/eLife.03579.026", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "03579", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

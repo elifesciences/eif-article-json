@@ -1,0 +1,2765 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "surname": "Kiel", 
+            "corresp": true, 
+            "given-names": "Christina", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-45347"
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Hannah", 
+            "surname": "Benisty", 
+            "id": "author-45680", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "surname": "Llor\u00e9ns-Rico", 
+            "given-names": "Veronica", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2", 
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }, 
+            "orcid": "http://orcid.org/0000-0002-0860-5990", 
+            "type": "author", 
+            "id": "author-45681"
+        }, 
+        {
+            "surname": "Serrano", 
+            "corresp": true, 
+            "given-names": "Luis", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2", 
+                    "aff3", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor2"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-45682"
+        }, 
+        {
+            "surname": "Shan", 
+            "given-names": "Yibing", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "DE Shaw Research"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2016-01-08T00:00:00Z", 
+    "title": "The yin\u2013yang of kinase activation and unfolding explains the peculiarity of Val600 in the activation segment of BRAF", 
+    "citations": {
+        "bib39": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gki387", 
+            "year": "2005", 
+            "title": "The FoldX web server: an online force field", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schymkowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Borg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Stricher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Nys"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rousseau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2012.12.018", 
+            "year": "2013", 
+            "title": "Effects of raf dimerization and its inhibition on normal and disease-associated raf signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Freeman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Ritt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DK", 
+                    "surname": "Morrison"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/nature00766", 
+            "year": "2002", 
+            "title": "Mutations of the BRAF gene in human cancer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Davies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GR", 
+                    "surname": "Bignell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cox"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Stephens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Edkins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Clegg"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Teague"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Woffendin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Garnett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Bottomley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Davis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Dicks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ewing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Floyd"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Gray"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hawes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hughes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Kosmidou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Menzies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Mould"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Parker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Stevens"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Watt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hooper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wilson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Jayatilake"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Gusterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Cooper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Shipley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Hargrave"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Pritchard-Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Maitland"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Chenevix-Trench"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Riggins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DD", 
+                    "surname": "Bigner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Palmieri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Cossu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Flanagan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nicholson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JWC", 
+                    "surname": "Ho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SY", 
+                    "surname": "Leung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ST", 
+                    "surname": "Yuen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Weber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HF", 
+                    "surname": "Seigler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TL", 
+                    "surname": "Darrow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Paterson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Marais"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marshall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wooster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Stratton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Futreal"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Nucleic Acids Research", 
+            "doi": "10.1093/nar/gkq683", 
+            "year": "2010", 
+            "title": "Using protein design algorithms to understand the molecular basis of disease caused by protein-DNA interactions: the Pax6 example", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Alibes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Nadra"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "De Masi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Bulyk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Stricher"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09454", 
+            "year": "2010", 
+            "title": "Clinical efficacy of a RAF inhibitor needs broad target blockade in BRAF-mutant melanoma", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bollag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Hirth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Tsai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PN", 
+                    "surname": "Ibrahim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Cho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Spevak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Habets"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Burton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Tsang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "West"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Powell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Shellooe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Marimuthu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Nguyen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KYJ", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Artis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schlessinger"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Su"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Higgins"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Iyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "D\u2019Andrea"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Koehler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Stumm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PS", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Grippo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Puzanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KB", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ribas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GA", 
+                    "surname": "McArthur"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Sosman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Chapman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Flaherty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Nathanson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Nolop"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Journal of Translational Medicine", 
+            "doi": "10.1186/1479-5876-10-85", 
+            "year": "2012", 
+            "title": "The role of BRAF V600 mutation in melanoma", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Ascierto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Kirkwood"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-J", 
+                    "surname": "Grob"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Simeone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Grimaldi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Maio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Palmieri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Testori"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Marincola"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Mozzillo"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Oncogene", 
+            "doi": "10.1038/sj.onc.1209640", 
+            "year": "2006", 
+            "title": "Functional analysis of the regulatory requirements of b-raf and the b-RafV600E oncoprotein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Brummer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Martin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Herzog"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Misawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Daly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Reth"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Machine Learning", 
+            "doi": "10.1023/A:1010933404324", 
+            "year": "2001", 
+            "title": "Random forests", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Breiman"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Clinical Genetics", 
+            "doi": "10.1111/j.1399-0004.2010.01495.x", 
+            "year": "2011", 
+            "title": "Germline mutation in BRAF codon 600 is compatible with human development: de novo p.V600G mutation identified in a patient with CFC syndrome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Champion"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Bunag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Estep"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CH", 
+                    "surname": "Bolt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Rogers"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Rauen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Everman"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Molecular Cancer Therapeutics", 
+            "doi": "10.1158/1535-7163.MCT-10-0799", 
+            "year": "2011", 
+            "title": "BRAFV600E: implications for carcinogenesis and molecular therapy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Cantwell-Dorris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "O'Leary"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OM", 
+                    "surname": "Sheils"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Journal of Medicinal Chemistry", 
+            "doi": "10.1021/jm300016v", 
+            "year": "2012", 
+            "title": "Potent and selective aminopyrimidine-based b-raf inhibitors with favorable physicochemical and pharmacokinetic properties", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mathieu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SN", 
+                    "surname": "Gradl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Wen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Aliagas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gunzner-Toste"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Pulk"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Zhao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Alicke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JW", 
+                    "surname": "Boggs"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Buckmelter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EF", 
+                    "surname": "Choo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Dinkel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Gloor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Gould"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Hansen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hastings"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hatzivassiliou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Laird"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Moreno"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Voegtli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wenglowsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Grina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rudolph"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "The American Journal of Human Genetics", 
+            "doi": "10.1086/521879", 
+            "year": "2007", 
+            "title": "Predicted effects of missense mutations on native-state stability account for phenotypic outcome in phenylketonuria, a paradigm of misfolding diseases", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Pey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Stricher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Martinez"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "PLoS Computational Biology", 
+            "doi": "10.1371/journal.pcbi.0010049", 
+            "year": "2005", 
+            "title": "Structural evolution of the protein kinase\u2013like superfamily", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ED", 
+                    "surname": "Scheeff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Bourne"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btm336", 
+            "year": "2007", 
+            "title": "Prediction of ras-effector interactions using position energy matrices", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kiel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Science Signaling", 
+            "doi": "10.1126/scisignal.2000397", 
+            "year": "2009", 
+            "title": "Cell type-specific importance of ras-c-raf complex association rate constants for MAPK signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kiel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Molecular Systems Biology", 
+            "doi": "10.1002/msb.20145092", 
+            "year": "2014", 
+            "title": "Structure-energy-based predictions and network modelling of RASopathy and cancer missense mutations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kiel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Current Biology", 
+            "doi": "10.1016/j.cub.2012.11.031", 
+            "year": "2013", 
+            "title": "Rare codons regulate KRas oncogenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Lampson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NLK", 
+                    "surname": "Pershing"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Prinz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Lacsina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WF", 
+                    "surname": "Marzluff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Nicchitta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "MacAlpine"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Counter"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm3979", 
+            "year": "2015", 
+            "title": "Regulation of RAF protein kinases in ERK signalling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lavoie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Therrien"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Nature Reviews Genetics", 
+            "doi": "10.1038/nrg3404", 
+            "year": "2013", 
+            "title": "Genotype to phenotype: lessons from model organisms for human genetics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Lehner"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Frontiers in Molecular Biosciences", 
+            "doi": "10.3389/fmolb.2015.00047", 
+            "year": "2015", 
+            "title": "Anatomy of protein disorder, flexibility and disease-related mutations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H-C", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Chung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Fornili"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Fraternali"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Journal of the American Chemical Society", 
+            "doi": "10.1021/jacs.5b01421", 
+            "year": "2015", 
+            "title": "The effect of a widespread cancer-causing mutation on the inactive to active dynamics of the b-raf kinase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Marino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Sutto"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FL", 
+                    "surname": "Gervasio"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1093/emboj/19.20.5429", 
+            "year": "2000", 
+            "title": "Activation of b-raf kinase requires phosphorylation of the conserved residues Thr598 and Ser601", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BH", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KL", 
+                    "surname": "Guan"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "Acta Crystallographica Section D Biological Crystallography", 
+            "doi": "10.1107/S0907444993000423", 
+            "year": "1993", 
+            "title": "2.2 \u00e5 refined crystal structure of the catalytic subunit of cAMP-dependent protein kinase complexed with MnATP and a peptide inhibitor", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Trafny"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DR", 
+                    "surname": "Knighton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Xuong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Ten Eyck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Sowadski"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Nature Reviews Molecular Cell Biology", 
+            "doi": "10.1038/nrm1498", 
+            "year": "2004", 
+            "title": "The RAF proteins take centre stage", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Wellbrock"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Karasarides"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Marais"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "ACS Medicinal Chemistry Letters", 
+            "doi": "10.1021/ml200025q", 
+            "year": "2011", 
+            "title": "Pyrazolopyridine inhibitors of b-raf(V600E). part 1: the development of selective, orally bioavailable, and efficacious inhibitors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Wenglowsky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Ren"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Ahrendt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Laird"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Aliagas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Alicke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AJ", 
+                    "surname": "Buckmelter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EF", 
+                    "surname": "Choo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Dinkel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Feng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SL", 
+                    "surname": "Gloor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Gould"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Gross"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gunzner-Toste"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Hansen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hatzivassiliou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Malesky"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Mathieu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Newhouse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "NJ", 
+                    "surname": "Raddatz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Ran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Rana"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Randolph"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Risom"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Rudolph"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Savage"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LT", 
+                    "surname": "Selby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Shrag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Song"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HL", 
+                    "surname": "Sturgis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WC", 
+                    "surname": "Voegtli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Wen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BS", 
+                    "surname": "Willis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Woessner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W-I", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WB", 
+                    "surname": "Young"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Grina"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/btr254", 
+            "year": "2011", 
+            "title": "A graphical interface for the FoldX forcefield", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Van Durme"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Delgado"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Stricher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Schymkowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Rousseau"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Cell", 
+            "doi": "10.1016/S0092-8674(04)00215-6", 
+            "year": "2004", 
+            "title": "Mechanism of activation of the RAF-ERK signaling pathway by oncogenic mutations of b-RAF", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PTC", 
+                    "surname": "Wan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Garnett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Roe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lee"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Niculescu-Duvaz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VM", 
+                    "surname": "Good"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CG", 
+                    "surname": "Project"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Jones"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Marshall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Springer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Barford"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Marais"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Trends in Biochemical Sciences", 
+            "doi": "10.1016/j.tibs.2010.09.006", 
+            "year": "2011", 
+            "title": "Protein kinases: evolution of dynamic regulatory proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Kornev"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.2924", 
+            "year": "2015", 
+            "title": "Crystal structure of a BRAF kinase domain monomer explains basis for allosteric regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Thevakumaran"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lavoie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Critton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Tebben"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Marinier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Sicheri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Therrien"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "PROTEOMICS", 
+            "doi": "10.1002/pmic.200700038", 
+            "year": "2007", 
+            "title": "A novel tandem affinity purification strategy for the efficient isolation and characterisation of native protein complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Gloeckner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Boldt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Schumacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Roepman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ueffing"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccr.2004.09.022", 
+            "year": "2004", 
+            "title": "Guilty as charged", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Garnett"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Marais"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/S0022-2836(02)00442-4", 
+            "year": "2002", 
+            "title": "Predicting changes in the stability of proteins and protein complexes: a study of more than 1000 mutations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Guerois"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Nielsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0609973103", 
+            "year": "2006", 
+            "title": "V600E b-raf requires the Hsp90 chaperone for stability and is degraded in response to Hsp90 inhibitors", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "OM", 
+                    "surname": "Grbovic"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "Basso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sawai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Ye"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Friedlander"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Solit"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Rosen"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.12.040", 
+            "year": "2010", 
+            "title": "Kinase-dead BRAF and oncogenic RAS cooperate to drive tumor progression through CRAF", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Heidorn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Milagre"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Whittaker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Nourry"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Niculescu-Duvas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Dhomen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hussain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JS", 
+                    "surname": "Reis-Filho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CJ", 
+                    "surname": "Springer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Pritchard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Marais"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Cancer Cell", 
+            "doi": "10.1016/j.ccr.2014.07.007", 
+            "year": "2014", 
+            "title": "Structure of the BRAF-MEK complex reveals a kinase activity independent role for BRAF in MAPK signaling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JR", 
+                    "surname": "Haling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Sudhamsu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Yen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sideris"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Sandoval"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Phung"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Bravo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Giannetti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Peck"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Masselot"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Morales"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BJ", 
+                    "surname": "Brandhuber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SG", 
+                    "surname": "Hymowitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Malek"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Nature Reviews Cancer", 
+            "doi": "10.1038/nrc3760", 
+            "year": "2014", 
+            "title": "Targeting RAF kinases for cancer therapy: BRAF-mutated melanoma and beyond", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Holderfield"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MM", 
+                    "surname": "Deuker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "McCormick"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "McMahon"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.01265-06", 
+            "year": "2007", 
+            "title": "Differential regulation of b-raf isoforms by phosphorylation and autoinhibitory mechanisms", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Hmitou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Druillennec"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Valluet"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Peyssonnaux"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Eychene"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Chemical Reviews", 
+            "doi": "10.1021/cr000225s", 
+            "year": "2001", 
+            "title": "Structural basis for control by phosphorylation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LN", 
+                    "surname": "Johnson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RJ", 
+                    "surname": "Lewis"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Molecular and Cellular Biology", 
+            "doi": "10.1128/MCB.00943-14", 
+            "year": "2015", 
+            "title": "Kinase regulation by hydrophobic spine assembly in cancer", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LG", 
+                    "surname": "Ahuja"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HS", 
+                    "surname": "Meharena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Kannan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Kornev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SS", 
+                    "surname": "Taylor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Shaw"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Biochemical and Biophysical Research Communications", 
+            "doi": "10.1016/j.bbrc.2010.07.092", 
+            "year": "2010", 
+            "title": "RAF protein-serine/threonine kinases: structure and regulation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Roskoski"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Annual Review of Genomics and Human Genetics", 
+            "doi": "10.1146/annurev-genom-091212-153523", 
+            "year": "2013", 
+            "title": "The RASopathies", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Rauen"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2010.11.003", 
+            "year": "2011", 
+            "title": "Analysis of disease-linked rhodopsin mutations based on structure, function, and protein stability calculations", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EP", 
+                    "surname": "Rakoczy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Kiel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "McKeone"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Stricher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Serrano"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "R Foundation for Statistical Computing, Vienna, Austria", 
+            "year": "2008", 
+            "title": "R: a language and environment for statistical computing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "surname": "R Development Core Team"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Nature", 
+            "doi": "10.1038/nature08902", 
+            "year": "2010", 
+            "title": "RAF inhibitors transactivate RAF dimers and ERK signalling in cells with wild-type BRAF", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PI", 
+                    "surname": "Poulikakos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Bollag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Shokat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Rosen"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Nature", 
+            "doi": "10.1038/nature10662", 
+            "year": "2011", 
+            "title": "RAF inhibitor resistance is mediated by dimerization of aberrantly spliced BRAF(V600E)", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PI", 
+                    "surname": "Poulikakos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Persaud"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Janakiraman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Kong"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Ng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Moriceau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Shi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Atefi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Titz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Gabay"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Salton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KB", 
+                    "surname": "Dahlman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tadi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Wargo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KT", 
+                    "surname": "Flaherty"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Kelley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Misteli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Chapman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Sosman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TG", 
+                    "surname": "Graeber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Ribas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RS", 
+                    "surname": "Lo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Rosen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Solit"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Human Mutation", 
+            "doi": "10.1002/humu.20955", 
+            "year": "2009", 
+            "title": "Germline <italic>BRAF</italic> mutations in noonan, LEOPARD, and cardiofaciocutaneous syndromes: molecular diversity and associated phenotypic spectrum", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sarkozy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Carta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Moretti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Zampino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Digilio"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Pantaleoni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AP", 
+                    "surname": "Scioletti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Esposito"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Cordeddu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Lepri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Petrangeli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Dentici"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GMS", 
+                    "surname": "Mancini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Selicorni"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Rossi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Mazzanti"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Marino"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GB", 
+                    "surname": "Ferrero"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MC", 
+                    "surname": "Silengo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Memo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Stanzial"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Faravelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Stuppia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Puxeddu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "Gelb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Dallapiccola"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Tartaglia"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "The EMBO Journal", 
+            "doi": "10.1038/emboj.2012.100", 
+            "year": "2012", 
+            "title": "Distinct requirement for an intact dimer interface in wild-type, V600E and kinase-dead b-raf signalling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "R\u00f6ring"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Herr"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Fiala"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Heilmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Braun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AE", 
+                    "surname": "Eisenhardt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Halbach"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Capper"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "von Deimling"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WW", 
+                    "surname": "Schamel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DN", 
+                    "surname": "Saunders"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Brummer"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The V600E mutation in BRAF is a cancer hot spot because it opens the activation segment through destabilization of autoinhibitory interactions, but it does not significantly impair folding of the inactive or active kinase domain.", 
+    "elocation-id": "e12814", 
+    "publish": true, 
+    "article-version-id": "12814.1", 
+    "volume": 5, 
+    "keywords": {
+        "author-keywords": [
+            "structure-energy calculations", 
+            "genotype-phenotype association", 
+            "passenger and driver mutations"
+        ], 
+        "research-organism": [
+            "Human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.12814", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff6": {
+                "country": "United States", 
+                "institution": "DE Shaw Research"
+            }, 
+            "aff5": {
+                "country": "United States", 
+                "institution": "DE Shaw Research"
+            }, 
+            "aff4": {
+                "country": "Spain", 
+                "institution": "Instituci\u00f3 Catalana de Recerca i Estudis Avan\u00e7ats", 
+                "city": "Barcelona"
+            }, 
+            "aff3": {
+                "country": "Spain", 
+                "institution": "Barcelona Institute of Science and Technology", 
+                "city": "Barcelona"
+            }, 
+            "aff2": {
+                "country": "Spain", 
+                "institution": "Universitat Pompeu Fabra", 
+                "city": "Barcelona"
+            }, 
+            "aff1": {
+                "dept": "EMBL/CRG Systems Biology Research Unit", 
+                "city": "Barcelona", 
+                "institution": "Centre for Genomic Regulation", 
+                "country": "Spain"
+            }
+        }, 
+        "contribution": {
+            "con1": "CK, Designed the study and wrote the paper, Performed the bioinformatics analyses and energy calculations of BRAF mutants, Carried out the experiments and analyzed the data, Approved the final version to be published, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "HB, Carried out the experiments and analyzed the data, Revised critically the article, Approved the final version to be published, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con3": "VLR, Implemented the random forest analysis and interpreted the data, Revised critically the article, Approved the final version to be published, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con4": "LS, Designed the study and wrote the paper, Performed the bioinformatics analyses and energy calculations of BRAF mutants, Approved the final version to be published, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000780", 
+                "award-id": "PRIMES FP7-HEALTH-F4-2011-278568", 
+                "institution": "European Commission", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "email": {
+            "cor1": "christina.kiel@crg.eu", 
+            "cor2": "luis.serrano@crg.eu"
+        }
+    }, 
+    "path": "content/5/e12814v1", 
+    "fragments": [
+        {
+            "path": "content/5/e12814v1/abstract", 
+            "doi": "10.7554/eLife.12814.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/5/e12814v1/abstract2", 
+            "doi": "10.7554/eLife.12814.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/5/e12814v1/figure1", 
+            "fragments": [
+                {
+                    "path": "content/5/e12814v1/figure1/figure-supp1", 
+                    "doi": "10.7554/eLife.12814.004", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure1/figure-supp2", 
+                    "doi": "10.7554/eLife.12814.005", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure1/figure-supp3", 
+                    "doi": "10.7554/eLife.12814.006", 
+                    "type": "fig", 
+                    "title": "Figure 1\u2014figure supplement 3."
+                }
+            ], 
+            "doi": "10.7554/eLife.12814.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/5/e12814v1/figure2", 
+            "doi": "10.7554/eLife.12814.007", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/5/e12814v1/figure3", 
+            "fragments": [
+                {
+                    "path": "content/5/e12814v1/figure3/figure-supp1", 
+                    "doi": "10.7554/eLife.12814.009", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure3/figure-supp2", 
+                    "doi": "10.7554/eLife.12814.010", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure3/figure-supp3", 
+                    "doi": "10.7554/eLife.12814.011", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure3/figure-supp4", 
+                    "doi": "10.7554/eLife.12814.012", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 4."
+                }
+            ], 
+            "doi": "10.7554/eLife.12814.008", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/5/e12814v1/figure4", 
+            "fragments": [
+                {
+                    "path": "content/5/e12814v1/figure4/figure-supp1", 
+                    "doi": "10.7554/eLife.12814.014", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure4/figure-supp2", 
+                    "doi": "10.7554/eLife.12814.015", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 2."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure4/figure-supp3", 
+                    "doi": "10.7554/eLife.12814.016", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 3."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure4/figure-supp4", 
+                    "doi": "10.7554/eLife.12814.017", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 4."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure4/figure-supp5", 
+                    "doi": "10.7554/eLife.12814.018", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 5."
+                }, 
+                {
+                    "path": "content/5/e12814v1/figure4/figure-supp6", 
+                    "doi": "10.7554/eLife.12814.019", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 6."
+                }
+            ], 
+            "doi": "10.7554/eLife.12814.013", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/5/e12814v1/figure5", 
+            "fragments": [
+                {
+                    "path": "content/5/e12814v1/figure5/figure-supp1", 
+                    "doi": "10.7554/eLife.12814.021", 
+                    "type": "fig", 
+                    "title": "Figure 5\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.12814.020", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/5/e12814v1/figure6", 
+            "doi": "10.7554/eLife.12814.022", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/5/e12814v1/supp-material1", 
+            "doi": "10.7554/eLife.12814.023", 
+            "type": "supplementary-material", 
+            "title": "Supplementary file 1."
+        }, 
+        {
+            "path": "content/5/e12814v1/decision", 
+            "doi": "10.7554/eLife.12814.024", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Shan", 
+                    "given-names": "Yibing", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "DE Shaw Research"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/5/e12814v1/response", 
+            "doi": "10.7554/eLife.12814.025", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "12814", 
+    "categories": {
+        "heading": [
+            "Biophysics and structural biology", 
+            "Computational and systems biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

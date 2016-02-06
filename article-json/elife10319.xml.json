@@ -1,0 +1,2115 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Markus A", 
+            "surname": "Jobst", 
+            "id": "author-39844", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Lukas F", 
+            "surname": "Milles", 
+            "id": "author-39845", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Constantin", 
+            "surname": "Schoeler", 
+            "id": "author-39846", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Wolfgang", 
+            "surname": "Ott", 
+            "id": "author-39847", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Daniel B", 
+            "surname": "Fried", 
+            "id": "author-39848", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Edward A", 
+            "surname": "Bayer", 
+            "id": "author-39849", 
+            "references": {
+                "affiliation": [
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con6"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Hermann E", 
+            "surname": "Gaub", 
+            "id": "author-39850", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con7"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1", 
+                    "par-3"
+                ]
+            }
+        }, 
+        {
+            "surname": "Nash", 
+            "corresp": true, 
+            "given-names": "Michael A", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con8"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-3", 
+                    "par-4"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-38732"
+        }, 
+        {
+            "surname": "Ha", 
+            "given-names": "Taekjip", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "Johns Hopkins University School of Medicine"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2015-10-31T00:00:00Z", 
+    "title": "Resolving dual binding conformations of cellulosome cohesin-dockerin complexes using single-molecule force spectroscopy", 
+    "citations": {
+        "bib39": {
+            "source": "Nature Communications", 
+            "doi": "10.1038/ncomms6635", 
+            "year": "2014", 
+            "title": "Ultrastable cellulosome-adhesion complex tightens under load", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Schoeler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Malinowska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Bernardi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Milles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Jobst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Durner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Ott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Fried"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Schulten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Nash"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0807551105", 
+            "year": "2008", 
+            "title": "The photoreversible fluorescent protein iLOV outperforms GFP as a reporter of plant virus infection", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chapman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Faulkner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Kaiserli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Garcia-Mata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EI", 
+                    "surname": "Savenkov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AG", 
+                    "surname": "Roberts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Oparka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Christie"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0611173104", 
+            "year": "2007", 
+            "title": "Evidence for a dual binding mode of dockerin modules to cohesins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Carvalho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FMV", 
+                    "surname": "Dias"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nagy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JAM", 
+                    "surname": "Prates"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Proctor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Davies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LMA", 
+                    "surname": "Ferreira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Romao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CMGA", 
+                    "surname": "Fontes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Gilbert"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "Annual Review of Microbiology", 
+            "doi": "10.1146/annurev.micro.57.030502.091022", 
+            "year": "2004", 
+            "title": "The cellulosomes: multienzyme machines for degradation of plant cell wall polysaccharides", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Belaich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shoham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2009.08.066", 
+            "year": "2009", 
+            "title": "Ligand binding mechanics of maltose binding protein", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Bertz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Rief"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Bioinformatics", 
+            "doi": "10.1093/bioinformatics/16.2.135", 
+            "year": "2000", 
+            "title": "TeXshade: shading and labeling of multiple sequence alignments using LaTeX2e", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Beitz"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "FEMS Microbiology Reviews", 
+            "doi": "10.1111/j.1574-6976.1994.tb00033.x", 
+            "year": "1994", 
+            "title": "The biological degradation of cellulose", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "B\u00e9guin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J-P", 
+                    "surname": "Aubert"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M112.407700", 
+            "year": "2012", 
+            "title": "Novel clostridium thermocellum type i cohesin-dockerin complexes reveal a single binding mode", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Br\u00e1s"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VD", 
+                    "surname": "Alves"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Carvalho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Najmudin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Prates"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Ferreira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DN", 
+                    "surname": "Bolam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Rom\u00e3o"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Fontes"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1936124100", 
+            "year": "2003", 
+            "title": "Cellulosome assembly revealed by the crystal structure of the cohesin-dockerin complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Carvalho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FMV", 
+                    "surname": "Dias"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JAM", 
+                    "surname": "Prates"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Nagy"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Davies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LMA", 
+                    "surname": "Ferreira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Romao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CMGA", 
+                    "surname": "Fontes"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.96.20.11288", 
+            "year": "1999", 
+            "title": "Atomic force microscopy captures length phenotypes in single proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carrion-Vazquez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PE", 
+                    "surname": "Marszalek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Oberhauser"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Fernandez"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Nature Nanotechnology", 
+            "doi": "10.1038/nnano.2008.333", 
+            "year": "2009", 
+            "title": "Optically monitoring the mechanical assembly of single molecules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Kufer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Strackharn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Stahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gumpp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Puchner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Accounts of Chemical Research", 
+            "doi": "10.1021/ar100057a", 
+            "year": "2010", 
+            "title": "Protein mechanics: from single molecules to functional biomaterials", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Cao"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M113.466672", 
+            "year": "2013", 
+            "title": "Atypical cohesin-dockerin complex responsible for cell surface attachment of cellulosomal components: binding fidelity, promiscuity, and structural buttresses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "O", 
+                    "surname": "Salama-Alber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Jobby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chitayat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "White"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Shimon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Frolow"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Physical Chemistry Chemical Physics", 
+            "doi": "10.1039/c3cp52142g", 
+            "year": "2013", 
+            "title": "Towards design principles for determining the mechanical stability of proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Hoffmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Tych"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ML", 
+                    "surname": "Hughes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "Brockwell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Dougan"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Journal of Molecular Graphics", 
+            "doi": "10.1016/0263-7855(96)00018-5", 
+            "year": "1996", 
+            "title": "VMD: visual molecular dynamics", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Humphrey"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Dalke"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Schulten"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Computing in Science & Engineering", 
+            "doi": "10.1109/MCSE.2007.55", 
+            "year": "2007", 
+            "title": "Matplotlib: A 2D Graphics Environment", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Hunter"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "Review of Scientific Instruments", 
+            "doi": "10.1063/1.1143970", 
+            "year": "1993", 
+            "title": "Calibration of atomic-force microscope tips", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JL", 
+                    "surname": "Hutter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Bechhoefer"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Journal of Visualized Experiments", 
+            "doi": "10.3791/50950", 
+            "year": "2013", 
+            "title": "Investigating receptor-ligand systems of the cellulosome with AFM-based single-molecule force spectroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Jobst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Schoeler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Malinowska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Nash"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Journal of Molecular Recognition", 
+            "doi": "10.1002/jmr.926", 
+            "year": "2009", 
+            "title": "Engineering a reversible, high-affinity system for efficient protein purification based on the cohesin-dockerin interaction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Karpol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Kantorovich"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Demishtein"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Barak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Morag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Nature Protocols", 
+            "doi": "10.1038/nprot.2009.2", 
+            "year": "2009", 
+            "title": "Protein structure prediction on the Web: a case study using the Phyre server", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Kelley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "Sternberg"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Science", 
+            "doi": "10.1126/science.1151424", 
+            "year": "2008", 
+            "title": "Single-molecule cut-and-paste surface assembly", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SK", 
+                    "surname": "Kufer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Puchner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gumpp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Liedl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }
+            ]
+        }, 
+        "bib48": {
+            "source": "Annual Review of Biophysics", 
+            "doi": "10.1146/annurev-biophys-051013-022754", 
+            "year": "2014", 
+            "title": "Reconstructing folding energy landscapes by single-molecule force spectroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MT", 
+                    "surname": "Woodside"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Block"
+                }
+            ]
+        }, 
+        "bib49": {
+            "source": "Computing in Science & Engineering", 
+            "doi": "10.1109/MCSE.2011.37", 
+            "year": "2011", 
+            "title": "The NumPy array: A Structure for Efficient Numerical Computation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "Ste\u0301fan", 
+                    "surname": "van der Walt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SC", 
+                    "surname": "Colbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Gae\u0308l", 
+                    "surname": "Varoquaux"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.0813093106", 
+            "year": "2009", 
+            "title": "On the remarkable mechanostability of scaffoldins and the mechanical clamp motif", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Valbuena"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Oroz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Hervas"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AM", 
+                    "surname": "Vera"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rodriguez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Menendez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JI", 
+                    "surname": "Sulkowska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Cieplak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Carrion-Vazquez"
+                }
+            ]
+        }, 
+        "bib47": {
+            "source": "BioTechniques", 
+            "year": "1999", 
+            "title": "Two-stage PCR protocol allowing introduction of multiple mutations, deletions and insertions using QuikChange site-directed mutagenesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Wang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Malcolm"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Proceedings of the National Academy of Sciences of the United States of America", 
+            "doi": "10.1073/pnas.1211929109", 
+            "year": "2012", 
+            "title": "Single-molecule dissection of the high-affinity cohesin-dockerin complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Stahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Nash"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DB", 
+                    "surname": "Fried"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Slutzki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Barak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Protein Expression and Purification", 
+            "doi": "10.1016/j.pep.2005.01.016", 
+            "year": "2005", 
+            "title": "Protein production by auto-induction in high density shaking cultures", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "FW", 
+                    "surname": "Studier"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "FEBS Open Bio", 
+            "doi": "10.1016/j.fob.2013.09.006", 
+            "year": "2013", 
+            "title": "Intramolecular clasp of the cellulosomal ruminococcus flavefaciens ScaA dockerin module confers structural stability", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Slutzki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Jobby"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Chitayat"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Karpol"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Dassa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Barak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Barak"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Current Opinion in Structural Biology", 
+            "doi": "10.1016/j.sbi.2013.09.002", 
+            "year": "2013", 
+            "title": "Insights into cellulosome assembly and dynamics: from dissection to reconstruction of the supramolecular enzyme complex", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Nano Letters", 
+            "doi": "10.1021/acs.nanolett.5b02727", 
+            "year": "2015", 
+            "title": "Mapping mechanical force propagation through biomolecular complexes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Schoeler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RC", 
+                    "surname": "Bernardi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KH", 
+                    "surname": "Malinowska"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Durner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Ott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Schulten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Nash"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Applied Microbiology and Biotechnology", 
+            "doi": "10.1007/s002530100710", 
+            "year": "2001", 
+            "title": "The cellulosome and cellulose degradation by anaerobic bacteria", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "WH", 
+                    "surname": "Schwarz"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Nanotechnology", 
+            "doi": "10.1088/0957-4484/17/9/010", 
+            "year": "2006", 
+            "title": "Practical implementation of dynamic methods for measuring atomic force microscope cantilever spring constants", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Cook"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Lang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KM", 
+                    "surname": "Chynoweth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Wigton"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Simmonds"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TE", 
+                    "surname": "Sch\u00e4ffer"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Journal of Structural Biology", 
+            "doi": "10.1016/j.jsb.2014.09.006", 
+            "year": "2014", 
+            "title": "Revisiting the NMR solution structure of the Cel48S type-I dockerin module from clostridium thermocellum reveals a cohesin-primed conformation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Xiao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Feng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Cui"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M112.343897", 
+            "year": "2012", 
+            "title": "Scaffoldin conformation and dynamics revealed by a ternary complex from the clostridium thermocellum cellulosome", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Currie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JJ", 
+                    "surname": "Adams"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Faucher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Jia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SP", 
+                    "surname": "Smith"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Genome Research", 
+            "doi": "10.1101/gr.849004", 
+            "year": "2004", 
+            "title": "WebLogo: a sequence logo generator", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "GE", 
+                    "surname": "Crooks"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Hon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Chandonia"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Brenner"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Nature Structural Biology", 
+            "doi": "10.1038/78929", 
+            "year": "2000", 
+            "title": "Observing single biomolecules at work with the atomic force microscope", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Engel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "M\u00fcller"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Microbiology and Molecular Biology Reviews", 
+            "doi": "10.1128/MMBR.69.1.124-154.2005", 
+            "year": "2005", 
+            "title": "Cellulase, clostridia, and ethanol", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Demain"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Newcomb"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JHD", 
+                    "surname": "Wu"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Review of Scientific Instruments", 
+            "doi": "10.1063/1.3148224", 
+            "year": "2009", 
+            "title": "Ultrastable combined atomic force and total internal fluorescence microscope", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Gumpp"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SW", 
+                    "surname": "Stahl"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Strackharn"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Puchner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Annual Review of Biochemistry", 
+            "doi": "10.1146/annurev-biochem-091208-085603", 
+            "year": "2010", 
+            "title": "Cellulosomes: highly efficient nanomachines designed to deconstruct plant cell wall complex carbohydrates", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Fontes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Gilbert"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Journal of Chemical Theory and Computation", 
+            "doi": "10.1021/ct900140w", 
+            "year": "2009", 
+            "title": "Coarse-grained MD simulations and protein\u2212protein interactions: the cohesin\u2212dockerin system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Hall"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MSP", 
+                    "surname": "Sansom"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Proteomics", 
+            "doi": "10.1002/pmic.200700486", 
+            "year": "2008", 
+            "title": "Cohesin-dockerin microarray: diverse specificities between two complementary families of interacting protein modules", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Haimovitz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Barak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Morag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Voronov-Goldman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shoham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Biophysical Journal", 
+            "doi": "10.1529/biophysj.108.129999", 
+            "year": "2008", 
+            "title": "Comparing proteins by their unfolding pattern", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Puchner"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Franzen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Gautel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "The Biochemical Journal", 
+            "doi": "10.1042/BJ20091152", 
+            "year": "2009", 
+            "title": "Functional insights into the role of novel type I cohesin and dockerin domains from clostridium thermocellum", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Pinheiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Gilbert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sakka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sakka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VO", 
+                    "surname": "Fernandes"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Prates"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VD", 
+                    "surname": "Alves"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DN", 
+                    "surname": "Bolam"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LM", 
+                    "surname": "Ferreira"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Fontes"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M801533200", 
+            "year": "2008", 
+            "title": "The clostridium cellulolyticum dockerin displays a dual binding mode for its cohesin partner", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BA", 
+                    "surname": "Pinheiro"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Proctor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Martinez-Fleites"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Prates"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VA", 
+                    "surname": "Money"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GJ", 
+                    "surname": "Davies"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Fontesm"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HP", 
+                    "surname": "Fierobe"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HJ", 
+                    "surname": "Gilbert"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "Proteins", 
+            "year": "1997", 
+            "title": "Species-specificity of the cohesin-dockerin interaction between clostridium thermocellum and clostridium cellulolyticum: prediction of specificity determinants of the dockerin domain", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Pag\u00e8s"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "B\u00e9la\u00efch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "B\u00e9la\u00efch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Morag"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Lamed"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Shoham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EA", 
+                    "surname": "Bayer"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth.3099", 
+            "year": "2014", 
+            "title": "From genes to protein mechanics on a chip", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Otten"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Ott"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Jobst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Milles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Verdorfer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Pippig"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Nash"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HE", 
+                    "surname": "Gaub"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LF", 
+                    "surname": "Milles"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Verdorfer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Pippig"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Nature Methods", 
+            "doi": "10.1038/nmeth1062", 
+            "year": "2007", 
+            "title": "Bright monomeric red fluorescent protein with an extended fluorescence lifetime", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Merzlyak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Goedhart"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Shcherbo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Bulina"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AS", 
+                    "surname": "Shcheglov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AF", 
+                    "surname": "Fradkov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Gaintzeva"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Lukyanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Lukyanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TW", 
+                    "surname": "Gadella"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DM", 
+                    "surname": "Chudakov"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "FEMS Microbiology Letters", 
+            "doi": "10.1111/j.1574-6968.2010.02146.x", 
+            "year": "2011", 
+            "title": "Analysis of cohesin-dockerin interactions using mutant dockerin proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sakka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Sugihara"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Jindou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Sakka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Inagaki"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Sakka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Kimura"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "BMC Bioinformatics", 
+            "doi": "10.1186/1471-2105-7-382", 
+            "year": "2006", 
+            "title": "MultiSeq: unifying sequence and structure data for evolutionary analysis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Roberts"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Eargle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Wright"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Luthey-Schulten"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "A single-molecule approach is able to discriminate the redundant binding conformations of cellulosomal dockerin based on differences in their mechanical properties.", 
+    "elocation-id": "e10319", 
+    "publish": true, 
+    "article-version-id": "10319.1", 
+    "volume": 4, 
+    "keywords": {
+        "author-keywords": [
+            "single-molecule force spectroscopy", 
+            "atomic force microscopy", 
+            "molecular recognition", 
+            "<italic>Clostridium thermocellum</italic>"
+        ], 
+        "research-organism": [
+            "Other"
+        ]
+    }, 
+    "doi": "10.7554/eLife.10319", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff6": {
+                "country": "United States", 
+                "institution": "Johns Hopkins University School of Medicine"
+            }, 
+            "aff5": {
+                "country": "United States", 
+                "institution": "Johns Hopkins University School of Medicine"
+            }, 
+            "aff4": {
+                "dept": "Department of Biological Chemistry", 
+                "city": "Rehovot", 
+                "institution": "The Weizmann Institute of Science", 
+                "country": "Israel"
+            }, 
+            "aff3": {
+                "country": "United States", 
+                "institution": "Kean University", 
+                "city": "New Jersey"
+            }, 
+            "aff2": {
+                "dept": "Center for Nanoscience", 
+                "city": "Munich", 
+                "institution": "Ludwig-Maximilians-University", 
+                "country": "Germany"
+            }, 
+            "aff1": {
+                "dept": "Lehrstuhl f\u00fcr Angewandte Physik", 
+                "city": "Munich", 
+                "institution": "Ludwig-Maximilians-University", 
+                "country": "Germany"
+            }
+        }, 
+        "contribution": {
+            "con1": "MAJ, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting and revising the article, Contributed reagents", 
+            "con2": "LFM, Conception and design, Analysis and interpretation of data, Drafting and revising the article, Contributed unpublished essential data or reagents", 
+            "con3": "CS, Acquisition of data, Analysis and interpretation of data, Drafting and revising the article", 
+            "con4": "WO, Acquisition of data, Contributed reagents, Drafting and revising the article", 
+            "con5": "DBF, Conception and design, Contributed reagents, Drafting and revising the article", 
+            "con6": "EAB, Conception and design, Contributed reagents, Drafting and revising the article", 
+            "con7": "HEG, Conception and design, Analysis and interpretation of data, Drafting and revising the article", 
+            "con8": "MAN, Conception and design, Analysis and interpretation of data, Drafting and revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-4": {
+                "id": "http://dx.doi.org/10.13039/501100001710", 
+                "award-id": "Branco Weiss Fellowship", 
+                "institution": "Society in Science", 
+                "id-type": "FundRef"
+            }, 
+            "par-3": {
+                "id": "http://dx.doi.org/10.13039/501100001736", 
+                "award-id": "G-147-207.4-2012", 
+                "institution": "German-Israeli Foundation for Scientific Research and Development", 
+                "id-type": "FundRef"
+            }, 
+            "par-2": {
+                "id": "http://dx.doi.org/10.13039/501100000780", 
+                "award-id": "NMP4- SL-2013-604530", 
+                "institution": "European Commission", 
+                "id-type": "FundRef"
+            }, 
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/501100000781", 
+                "award-id": "294438", 
+                "institution": "European Research Council", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "email": {
+            "cor1": "michael.nash@lmu.de"
+        }
+    }, 
+    "path": "content/4/e10319v1", 
+    "fragments": [
+        {
+            "path": "content/4/e10319v1/abstract", 
+            "doi": "10.7554/eLife.10319.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/4/e10319v1/abstract2", 
+            "doi": "10.7554/eLife.10319.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/4/e10319v1/figure1", 
+            "doi": "10.7554/eLife.10319.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/4/e10319v1/figure2", 
+            "doi": "10.7554/eLife.10319.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/4/e10319v1/figure3", 
+            "fragments": [
+                {
+                    "path": "content/4/e10319v1/figure3/figure-supp1", 
+                    "doi": "10.7554/eLife.10319.006", 
+                    "type": "fig", 
+                    "title": "Figure 3\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.10319.005", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/4/e10319v1/figure4", 
+            "fragments": [
+                {
+                    "path": "content/4/e10319v1/figure4/supp-material1", 
+                    "doi": "10.7554/eLife.10319.008", 
+                    "type": "supplementary-material", 
+                    "title": "Figure 4\u2014source data 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.10319.007", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/4/e10319v1/figure5", 
+            "doi": "10.7554/eLife.10319.009", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/4/e10319v1/figure6", 
+            "doi": "10.7554/eLife.10319.010", 
+            "type": "fig", 
+            "title": "Figure 6."
+        }, 
+        {
+            "path": "content/4/e10319v1/figure7", 
+            "doi": "10.7554/eLife.10319.011", 
+            "type": "fig", 
+            "title": "Figure 7."
+        }, 
+        {
+            "path": "content/4/e10319v1/decision", 
+            "doi": "10.7554/eLife.10319.012", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Ha", 
+                    "given-names": "Taekjip", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "Johns Hopkins University School of Medicine"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/4/e10319v1/response", 
+            "doi": "10.7554/eLife.10319.013", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "10319", 
+    "categories": {
+        "heading": [
+            "Biochemistry", 
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}

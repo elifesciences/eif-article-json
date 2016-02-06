@@ -1,0 +1,944 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "surname": "Egelman", 
+            "corresp": true, 
+            "given-names": "Edward H", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-14573"
+        }, 
+        {
+            "surname": "Sundquist", 
+            "given-names": "Wesley I", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "University of Utah"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2014-12-08T00:00:00Z", 
+    "title": "Ambiguities in helical reconstruction", 
+    "citations": {
+        "bib9": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1110109108", 
+            "year": "2011", 
+            "title": "Remodeling of actin filaments by ADF/cofilin proteins", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VE", 
+                    "surname": "Galkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Orlova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Kudryashov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Solodukhin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Reisler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GF", 
+                    "surname": "Schroder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "Nature", 
+            "doi": "10.1038/nature09372", 
+            "year": "2010", 
+            "title": "Direct visualization of secondary structures of F-actin by electron cryomicroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fujii"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AH", 
+                    "surname": "Iwane"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yanagida"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Namba"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.00461", 
+            "year": "2013", 
+            "title": "Ribosome structures to near-atomic resolution from thirty thousand cryo-EM particles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "XC", 
+                    "surname": "Bai"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "IS", 
+                    "surname": "Fernandez"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "McMullan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Scheres"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Journal of Structural Biology", 
+            "doi": "10.1016/j.jsb.2013.11.003", 
+            "year": "2014", 
+            "title": "SPRING - an image processing package for single-particle based helical reconstruction from electron cryomicrographs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Desfosses"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Ciuffa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Gutsche"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Sachse"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nature", 
+            "doi": "10.1038/217130a0", 
+            "year": "1968", 
+            "title": "Reconstruction of three-dimensional structures from electron micrographs", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "DJ", 
+                    "surname": "DeRosier"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Klug"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Methods in Enzymology", 
+            "doi": "10.1016/S0076-6879(10)82006-3", 
+            "year": "2010", 
+            "title": "Reconstruction of helical filaments and tubes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "Ultramicroscopy", 
+            "doi": "10.1016/S0304-3991(00)00062-0", 
+            "year": "2000", 
+            "title": "A robust algorithm for the reconstruction of helical filaments using single-particle methods", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "Journal of Structural Biology", 
+            "doi": "10.1006/jsbi.1996.0030", 
+            "year": "1996", 
+            "title": "SPIDER and WEB: processing and visualization of images in 3D electron microscopy and related fields", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Frank"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Radermacher"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Penczek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Zhu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Ladjadj"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Leith"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "Journal of Structural Biology", 
+            "doi": "10.1016/j.jsb.2006.05.015", 
+            "year": "2007", 
+            "title": "The iterative helical real space reconstruction method: Surmounting the problems posed by real polymers", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Journal of Bacteriology", 
+            "doi": "10.1128/JB.00224-10", 
+            "year": "2010", 
+            "title": "Structural study of the Serratia entomophila antifeeding prophage: three-dimensional structure of the helical sheath", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rybakova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Hurst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Mitra"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "Journal of Structural Biology", 
+            "doi": "10.1016/j.jsb.2006.05.009", 
+            "year": "2007", 
+            "title": "EMAN2: an extensible image processing suite for electron microscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Tang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Peng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Baldwin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DS", 
+                    "surname": "Mann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "W", 
+                    "surname": "Jiang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Rees"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Ludtke"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "Molecular Cell", 
+            "doi": "10.1016/j.molcel.2014.06.010", 
+            "year": "2014", 
+            "title": "Molecular Imprinting as a signal-activation mechanism of the Viral RNA Sensor RIG-i", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Peisley"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Tetrault"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Li"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Magor"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Walz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PA", 
+                    "surname": "Penczek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Hur"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "eLife", 
+            "doi": "10.7554/eLife.01489", 
+            "year": "2014", 
+            "title": "Structural basis for the prion-like MAVS filaments in antiviral innate immunity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "He"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Zheng"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LJ", 
+                    "surname": "Huang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Hou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Z", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MJ", 
+                    "surname": "de la Cruz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Borkowski"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Zhang"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZJ", 
+                    "surname": "Chen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "QX", 
+                    "surname": "Jiang"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2010.06.049", 
+            "year": "2010", 
+            "title": "Helical filaments of human Dmc1 protein on single-stranded DNA: a cautionary tale", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2012.05.031", 
+            "year": "2012", 
+            "title": "Filaments from <italic>Ignicoccus hospitalis</italic> show diversity of packing in proteins containing n-Terminal type IV pilin helices", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Yu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Goforth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Meyer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Rachel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Wirth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GF", 
+                    "surname": "Schroder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Proceedings of the National Academy of Sciences of USA", 
+            "doi": "10.1073/pnas.1018104108", 
+            "year": "2011", 
+            "title": "Hydrogen-bonding networks and RNA bases revealed by cryo electron microscopy suggest a triggering mechanism for calcium switches", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Ge"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ZH", 
+                    "surname": "Zhou"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "Nature Structural & Molecular Biology", 
+            "doi": "10.1038/nsmb.1930", 
+            "year": "2010", 
+            "title": "Structural polymorphism in F-actin", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "VE", 
+                    "surname": "Galkin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Orlova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GF", 
+                    "surname": "Schr\u00eeder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib13": {
+            "title": "Comment on: structural basis for the prion-like MAVS filaments in antiviral innate immunity", 
+            "year": "2014", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "QX", 
+                    "surname": "Jiang"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M113.456145", 
+            "year": "2013", 
+            "title": "Three-dimensional structure of the toxin-delivery particle antifeeding prophage of Serratia entomophila", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JB", 
+                    "surname": "Heymann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Bartho"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Rybakova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "HP", 
+                    "surname": "Venugopal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DC", 
+                    "surname": "Winkler"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Hurst"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Mitra"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "Journal of Structural Biology", 
+            "doi": "10.1016/S1047-8477(03)00069-8", 
+            "year": "2003", 
+            "title": "Accurate determination of local defocus and specimen tilt in electron microscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JA", 
+                    "surname": "Mindell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Grigorieff"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2014.02.008", 
+            "year": "2014", 
+            "title": "Unified Polymerization mechanism for the assembly of ASC-Dependent Inflammasomes", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VG", 
+                    "surname": "Magupalli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Ruan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Q", 
+                    "surname": "Yin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MK", 
+                    "surname": "Atianand"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Vos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GF", 
+                    "surname": "Schroder"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Fitzgerald"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EH", 
+                    "surname": "Egelman"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "The Journal of Biological Chemistry", 
+            "doi": "10.1074/jbc.M112.417030", 
+            "year": "2013", 
+            "title": "The bacterial actin MamK: in vitro assembly behavior and filament architecture", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Ozyamak"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Kollman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Agard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Komeili"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "PLOS ONE", 
+            "doi": "10.1371/journal.pone.0008586", 
+            "year": "2010", 
+            "title": "Structure of the hDmc1-ssDNA filament reveals the principles of its architecture", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AL", 
+                    "surname": "Okorokov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YL", 
+                    "surname": "Chaban"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DV", 
+                    "surname": "Bugreev"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Hodgkinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AV", 
+                    "surname": "Mazin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EV", 
+                    "surname": "Orlova"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "Journal of Molecular Biology", 
+            "doi": "10.1016/j.jmb.2003.07.013", 
+            "year": "2003", 
+            "title": "Optimal determination of particle Orientation, absolute hand, and contrast Loss in single-particle electron cryomicroscopy", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PB", 
+                    "surname": "Rosenthal"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "R", 
+                    "surname": "Henderson"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "Journal of Bacteriology", 
+            "doi": "10.1128/JB.00676-09", 
+            "year": "2009", 
+            "title": "The structure and assembly dynamics of plasmid actin AlfA imply a novel mechanism of DNA segregation", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JK", 
+                    "surname": "Polka"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JM", 
+                    "surname": "Kollman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DA", 
+                    "surname": "Agard"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Mullins"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "While electron microscopic helical reconstruction is a powerful technique in structural biology, mistakes can be made in determining the helical symmetry, leading to structures that are artifactual.", 
+    "related-articles": [
+        {
+            "href": "10.7554/eLife.01489", 
+            "type": "commentary"
+        }
+    ], 
+    "elocation-id": "e04969", 
+    "publish": true, 
+    "article-version-id": "04969.1", 
+    "volume": 3, 
+    "keywords": {
+        "author-keywords": [
+            "cryo-EM", 
+            "helical symmetry", 
+            "three-dimensional reconstruction"
+        ], 
+        "research-organism": [
+            "human"
+        ]
+    }, 
+    "doi": "10.7554/eLife.04969", 
+    "version": 1, 
+    "referenced": {
+        "competing-interest": {
+            "conf1": "The author declares that no competing interests exist."
+        }, 
+        "funding": {
+            "par-1": {
+                "id": "http://dx.doi.org/10.13039/100000002", 
+                "award-id": "R01 EB001567", 
+                "institution": "National Institutes of Health", 
+                "id-type": "FundRef"
+            }
+        }, 
+        "related-object": {
+            "dataro4": {}, 
+            "dataro5": {}, 
+            "dataro1": {}, 
+            "dataro2": {}, 
+            "dataro3": {}
+        }, 
+        "affiliation": {
+            "aff1": {
+                "dept": "Department of Biochemistry and Molecular Genetics", 
+                "city": "Charlottesville", 
+                "institution": "University of Virginia", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "EHE, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "email": {
+            "cor1": "egelman@virginia.edu"
+        }
+    }, 
+    "path": "content/3/e04969v1", 
+    "fragments": [
+        {
+            "path": "content/3/e04969v1/abstract", 
+            "doi": "10.7554/eLife.04969.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/3/e04969v1/figure1", 
+            "doi": "10.7554/eLife.04969.002", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/3/e04969v1/figure2", 
+            "doi": "10.7554/eLife.04969.003", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/3/e04969v1/figure3", 
+            "doi": "10.7554/eLife.04969.004", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/3/e04969v1/figure4", 
+            "doi": "10.7554/eLife.04969.005", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/3/e04969v1/figure5", 
+            "doi": "10.7554/eLife.04969.006", 
+            "type": "fig", 
+            "title": "Figure 5."
+        }, 
+        {
+            "path": "content/3/e04969v1/decision", 
+            "doi": "10.7554/eLife.04969.007", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Sundquist", 
+                    "given-names": "Wesley I", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "University of Utah"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/3/e04969v1/response", 
+            "doi": "10.7554/eLife.04969.008", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "04969", 
+    "categories": {
+        "heading": [
+            "Biophysics and structural biology"
+        ], 
+        "display-channel": [
+            "Short report"
+        ]
+    }
+}

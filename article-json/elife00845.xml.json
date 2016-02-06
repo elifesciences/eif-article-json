@@ -1,0 +1,1483 @@
+{
+    "status": "VOR", 
+    "article-type": "research-article", 
+    "contributors": [
+        {
+            "type": "author", 
+            "given-names": "Moritz", 
+            "surname": "Armbruster", 
+            "id": "author-5090", 
+            "references": {
+                "affiliation": [
+                    "aff1", 
+                    "aff2"
+                ], 
+                "contribution": [
+                    "con1"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Mirko", 
+            "surname": "Messa", 
+            "id": "author-5091", 
+            "references": {
+                "affiliation": [
+                    "aff3", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con2"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Shawn M", 
+            "surname": "Ferguson", 
+            "id": "author-5092", 
+            "references": {
+                "affiliation": [
+                    "aff3"
+                ], 
+                "contribution": [
+                    "con4"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ]
+            }
+        }, 
+        {
+            "type": "author", 
+            "given-names": "Pietro", 
+            "surname": "De Camilli", 
+            "id": "author-1827", 
+            "references": {
+                "affiliation": [
+                    "aff3", 
+                    "aff4"
+                ], 
+                "contribution": [
+                    "con3"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-2", 
+                    "par-3", 
+                    "par-4"
+                ]
+            }
+        }, 
+        {
+            "surname": "Ryan", 
+            "corresp": true, 
+            "given-names": "Timothy A", 
+            "references": {
+                "affiliation": [
+                    "aff1"
+                ], 
+                "contribution": [
+                    "con5"
+                ], 
+                "competing-interest": [
+                    "conf1"
+                ], 
+                "funding": [
+                    "par-1"
+                ], 
+                "email": [
+                    "cor1"
+                ]
+            }, 
+            "type": "author", 
+            "id": "author-2151"
+        }, 
+        {
+            "surname": "Davis", 
+            "given-names": "Graeme", 
+            "role": "Reviewing editor", 
+            "affiliations": [
+                {
+                    "country": "United States", 
+                    "institution": "University of California, San Francisco"
+                }
+            ], 
+            "type": "editor"
+        }
+    ], 
+    "pub-date": "2013-07-30T00:00:00Z", 
+    "title": "Dynamin phosphorylation controls optimization of endocytosis for brief action potential bursts", 
+    "citations": {
+        "bib39": {
+            "source": "J Cell Biol", 
+            "doi": "10.1083/jcb.200308110", 
+            "year": "2003", 
+            "title": "Cophosphorylation of amphiphysin I and dynamin I by Cdk5 regulates clathrin-mediated endocytosis of synaptic vesicles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Tomizawa"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sunada"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YF", 
+                    "surname": "Lu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "Y", 
+                    "surname": "Oda"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Kinuta"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ohshima"
+                }
+            ]
+        }, 
+        "bib9": {
+            "source": "Biochim Biophys Acta", 
+            "doi": "10.1016/j.bbamcr.2010.12.018", 
+            "year": "2011", 
+            "title": "Phosphorylation of dynamin II at serine-764 is associated with cytokinesis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Chircop"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Perera"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Mariana"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Lau"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MP", 
+                    "surname": "Ma"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Gilbert"
+                }
+            ]
+        }, 
+        "bib8": {
+            "source": "J Cell Biol", 
+            "year": "1979", 
+            "title": "Freeze-fracture studies of frog neuromuscular junctions during intense release of neurotransmitter. I. Effects of black widow spider venom and Ca2+-free solutions on the structure of the active zone", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Ceccarelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "F", 
+                    "surname": "Grohovaz"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WP", 
+                    "surname": "Hurlbut"
+                }
+            ]
+        }, 
+        "bib1": {
+            "source": "J Neurochem", 
+            "doi": "10.1111/j.1471-4159.2007.04574.x", 
+            "year": "2007", 
+            "title": "Syndapin I and endophilin I bind overlapping proline-rich regions of dynamin I: role in synaptic vesicle endocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Anggono"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }
+            ]
+        }, 
+        "bib3": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.2828", 
+            "year": "2011", 
+            "title": "Synaptic vesicle retrieval time is a cell-wide rather than individual-synapse property", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Armbruster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib2": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn1695", 
+            "year": "2006", 
+            "title": "Syndapin I is the phosphorylation-regulated dynamin I partner in synaptic vesicle endocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Anggono"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KJ", 
+                    "surname": "Smillie"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Graham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VA", 
+                    "surname": "Valova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MA", 
+                    "surname": "Cousin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }
+            ]
+        }, 
+        "bib5": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0707574105", 
+            "year": "2007", 
+            "title": "Single-vesicle imaging reveals that synaptic vesicle exocytosis and endocytosis are coupled by a single stochastic mode", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Balaji"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib4": {
+            "source": "J Neurosci", 
+            "doi": "10.1523/JNEUROSCI.4425-05.2006", 
+            "year": "2006", 
+            "title": "The kinetics of synaptic vesicle reacidification at hippocampal nerve terminals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PP", 
+                    "surname": "Atluri"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib7": {
+            "source": "J Cell Biol", 
+            "year": "1980", 
+            "title": "Ca2+-dependent recycling of synaptic vesicles at the frog neuromuscular junction", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Ceccarelli"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WP", 
+                    "surname": "Hurlbut"
+                }
+            ]
+        }, 
+        "bib6": {
+            "source": "J Neurosci", 
+            "doi": "10.1523/JNEUROSCI.1082-08.2008", 
+            "year": "2008", 
+            "title": "Calcium control of endocytic capacity at a CNS synapse", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Balaji"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Armbruster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib28": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2006.02.021", 
+            "year": "2006", 
+            "title": "Discrete residues in the c(2)b domain of synaptotagmin I independently specify endocytic rate and synaptic vesicle size", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Poskanzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RD", 
+                    "surname": "Fetter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Davis"
+                }
+            ]
+        }, 
+        "bib29": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2011.04.031", 
+            "year": "2011", 
+            "title": "Overlapping role of dynamin isoforms in synaptic vesicle endocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Raimondi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Ferguson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "X", 
+                    "surname": "Lou"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Armbruster"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Paradise"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Giovedi"
+                }
+            ]
+        }, 
+        "bib38": {
+            "source": "Nat Cell Biol", 
+            "doi": "10.1038/ncb1020", 
+            "year": "2003", 
+            "title": "Cdk5 is essential for synaptic vesicle endocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "Tan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VA", 
+                    "surname": "Valova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CS", 
+                    "surname": "Malladi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Graham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LA", 
+                    "surname": "Berven"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "OJ", 
+                    "surname": "Jupp"
+                }
+            ]
+        }, 
+        "bib20": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2010.08.003", 
+            "year": "2010", 
+            "title": "CDK5 serves as a major control point in neurotransmitter release", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib21": {
+            "source": "J Neurosci", 
+            "doi": "10.1523/JNEUROSCI.4288-12.2013", 
+            "year": "2013", 
+            "title": "Balance of calcineurin Aalpha and CDK5 activities sets release probability at nerve terminals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib22": {
+            "source": "EMBO J", 
+            "doi": "10.1038/emboj.2011.339", 
+            "year": "2011", 
+            "title": "Proper synaptic vesicle formation and neuronal network activity critically rely on syndapin I", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "Koch"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Spiwoks-Becker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Sabanov"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Sinning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Dugladze"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Stellmacher"
+                }
+            ]
+        }, 
+        "bib23": {
+            "source": "J Biol Chem", 
+            "doi": "10.1074/jbc.M112.398883", 
+            "year": "2012", 
+            "title": "Glycosylation is dispensable for sorting of synaptotagmin 1 but is critical for targeting of SV2 and synaptophysin to recycling synaptic vesicles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Kwon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Chapman"
+                }
+            ]
+        }, 
+        "bib24": {
+            "source": "Mol Cell Proteomics", 
+            "doi": "10.1074/mcp.M300105-MCP200", 
+            "year": "2004", 
+            "title": "Improved detection of hydrophilic phosphopeptides using graphite powder microcolumns and mass spectrometry: evidence for in vivo doubly phosphorylated dynamin I and dynamin III", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Larsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Graham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "Roepstorff"
+                }
+            ]
+        }, 
+        "bib25": {
+            "source": "J Biol Chem", 
+            "year": "1994", 
+            "title": "Dynamin I is a Ca(2+)-sensitive phospholipid-binding protein with very high affinity for protein kinase C", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Powell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "S\u00fcdhof"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }
+            ]
+        }, 
+        "bib26": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.0406968101", 
+            "year": "2004", 
+            "title": "Kinetic efficiency of endocytosis at mammalian CNS synapses requires synaptotagmin I", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Nicholson-Tomishima"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib27": {
+            "source": "Nature", 
+            "doi": "10.1038/nature02184", 
+            "year": "2003", 
+            "title": "Synaptotagmin I is necessary for compensatory synaptic vesicle endocytosis in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "KE", 
+                    "surname": "Poskanzer"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KW", 
+                    "surname": "Marek"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ST", 
+                    "surname": "Sweeney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GW", 
+                    "surname": "Davis"
+                }
+            ]
+        }, 
+        "bib46": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.3013", 
+            "year": "2011", 
+            "title": "Uncoupling the roles of synaptotagmin I during endo- and exocytosis of synaptic vesicles", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Yao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SE", 
+                    "surname": "Kwon"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JD", 
+                    "surname": "Gaffaney"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "FM", 
+                    "surname": "Dunning"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "ER", 
+                    "surname": "Chapman"
+                }
+            ]
+        }, 
+        "bib44": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.1100608109", 
+            "year": "2012", 
+            "title": "Activity-dependent modulation of endocytosis by calmodulin at a large central synapse", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Yao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Sakaba"
+                }
+            ]
+        }, 
+        "bib45": {
+            "source": "Cell", 
+            "doi": "10.1016/j.cell.2009.06.033", 
+            "year": "2009", 
+            "title": "A synaptic vesicle-associated Ca2+ channel promotes endocytosis and couples exocytosis to endocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "CK", 
+                    "surname": "Yao"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "YQ", 
+                    "surname": "Lin"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CV", 
+                    "surname": "Ly"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Ohyama"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "CM", 
+                    "surname": "Haueter"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "VY", 
+                    "surname": "Moiseenkova-Bell"
+                }
+            ]
+        }, 
+        "bib42": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.2355", 
+            "year": "2009", 
+            "title": "Ca(2+) and calmodulin initiate all forms of endocytosis during depolarization at a nerve terminal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "XS", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BD", 
+                    "surname": "McNeil"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Xu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Fan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Xue"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "E", 
+                    "surname": "Melicoff"
+                }
+            ]
+        }, 
+        "bib43": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/nn.2576", 
+            "year": "2010", 
+            "title": "Developmental shift to a mechanism of synaptic vesicle endocytosis requiring nanodomain Ca2+", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Yamashita"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Eguchi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Saitoh"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "von Gersdorff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Takahashi"
+                }
+            ]
+        }, 
+        "bib40": {
+            "source": "Nature", 
+            "doi": "10.1038/370652a0", 
+            "year": "1994", 
+            "title": "Inhibition of endocytosis by elevated internal calcium in a synaptic terminal", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "von Gersdorff"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Matthews"
+                }
+            ]
+        }, 
+        "bib41": {
+            "source": "Curr Biol", 
+            "doi": "10.1016/j.cub.2012.05.048", 
+            "year": "2012", 
+            "title": "Stonin 2 is a major adaptor protein for clathrin-mediated synaptic vesicle retrieval", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "AK", 
+                    "surname": "Willox"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Royle"
+                }
+            ]
+        }, 
+        "bib11": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.1112688108", 
+            "year": "2011", 
+            "title": "A small pool of vesicles maintains synaptic activity in vivo", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Denker"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "I", 
+                    "surname": "Bethani"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "K", 
+                    "surname": "Kr\u00f6hnert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "K\u00f6rber"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "H", 
+                    "surname": "Horstmann"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BG", 
+                    "surname": "Wilhelm"
+                }
+            ]
+        }, 
+        "bib10": {
+            "source": "J Neurosci", 
+            "year": "2003", 
+            "title": "Two modes of vesicle recycling in the rat calyx of Held", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "RP", 
+                    "surname": "de Lange"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "AD", 
+                    "surname": "de Roos"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JG", 
+                    "surname": "Borst"
+                }
+            ]
+        }, 
+        "bib13": {
+            "source": "Science", 
+            "doi": "10.1126/science.1140621", 
+            "year": "2007", 
+            "title": "A selective activity-dependent requirement for dynamin 1 in synaptic vesicle endocytosis", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Ferguson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "G", 
+                    "surname": "Brasnjo"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "Hayashi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "M", 
+                    "surname": "W\u00f6lfel"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "C", 
+                    "surname": "Collesi"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Giovedi"
+                }
+            ]
+        }, 
+        "bib12": {
+            "source": "Nat Rev Mol Cell Biol", 
+            "doi": "10.1038/nrm3266", 
+            "year": "2012", 
+            "title": "Dynamin, a membrane-remodelling GTPase", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SM", 
+                    "surname": "Ferguson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "P", 
+                    "surname": "De Camilli"
+                }
+            ]
+        }, 
+        "bib15": {
+            "source": "J Biol Chem", 
+            "doi": "10.1074/jbc.M609713200", 
+            "year": "2007", 
+            "title": "The in vivo phosphorylation sites of rat brain dynamin I", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "ME", 
+                    "surname": "Graham"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "V", 
+                    "surname": "Anggono"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Bache"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "MR", 
+                    "surname": "Larsen"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "GE", 
+                    "surname": "Craft"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }
+            ]
+        }, 
+        "bib14": {
+            "source": "Neuron", 
+            "doi": "10.1016/S0896-6273(04)00113-8", 
+            "year": "2004", 
+            "title": "The kinetics of synaptic vesicle pool depletion at CNS synaptic terminals", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "T", 
+                    "surname": "Fernandez-Alfonso"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib17": {
+            "source": "Proc Natl Acad Sci USA", 
+            "doi": "10.1073/pnas.171442798", 
+            "year": "2001", 
+            "title": "Visualizing recycling synaptic vesicles in hippocampal neurons by FM 1-43 photoconversion", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "N", 
+                    "surname": "Harata"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Smith"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "J", 
+                    "surname": "Buchanan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "RW", 
+                    "surname": "Tsien"
+                }
+            ]
+        }, 
+        "bib16": {
+            "source": "Neuron", 
+            "doi": "10.1016/j.neuron.2006.08.029", 
+            "year": "2006", 
+            "title": "Clathrin-mediated endocytosis is the dominant mechanism of vesicle retrieval at hippocampal synapses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Granseth"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "B", 
+                    "surname": "Odermatt"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "SJ", 
+                    "surname": "Royle"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "L", 
+                    "surname": "Lagnado"
+                }
+            ]
+        }, 
+        "bib19": {
+            "source": "J Neurosci", 
+            "doi": "10.1523/JNEUROSCI.5639-08.2009", 
+            "year": "2009", 
+            "title": "Synaptic vesicle recycling at CNS snapses without AP-2", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "SH", 
+                    "surname": "Kim"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib18": {
+            "source": "J Appl Physiol", 
+            "year": "1970", 
+            "title": "Temperature effects on duration and amplitude of distal median nerve action potential", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "A", 
+                    "surname": "Hlavova"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "DI", 
+                    "surname": "Abramson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Rickert"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JF", 
+                    "surname": "Talso"
+                }
+            ]
+        }, 
+        "bib35": {
+            "source": "Nat Neurosci", 
+            "doi": "10.1038/83949", 
+            "year": "2001", 
+            "title": "Calcium accelerates endocytosis of vSNAREs at hippocampal synapses", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sankaranarayanan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib34": {
+            "source": "Nat Cell Biol", 
+            "doi": "10.1038/35008615", 
+            "year": "2000", 
+            "title": "Real-time measurements of vesicle-SNARE recycling in synapses of the central nervous system", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sankaranarayanan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib33": {
+            "source": "Biophys J", 
+            "doi": "10.1016/S0006-3495(98)77867-1", 
+            "year": "1998", 
+            "title": "Optical measurement of presynaptic calcium currents", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "BL", 
+                    "surname": "Sabatini"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "WG", 
+                    "surname": "Regehr"
+                }
+            ]
+        }, 
+        "bib32": {
+            "source": "J Neurosci", 
+            "year": "1999", 
+            "title": "Inhibitors of myosin light chain kinase block synaptic vesicle pool mobilization during action potential firing", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }, 
+        "bib31": {
+            "source": "Trends Neurosci", 
+            "doi": "10.1016/0166-2236(94)90179-1", 
+            "year": "1994", 
+            "title": "Phosphorylation of dynamin I and synaptic-vesicle recycling", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JP", 
+                    "surname": "Liu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "KA", 
+                    "surname": "Powell"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "EM", 
+                    "surname": "Fykse"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TC", 
+                    "surname": "S\u00fcdhof"
+                }
+            ]
+        }, 
+        "bib30": {
+            "source": "Neurosci Lett", 
+            "doi": "10.1016/0304-3940(83)90133-7", 
+            "year": "1983", 
+            "title": "Depolarization-dependent protein phosphorylation in rat cortical synaptosomes: the effects of calcium, strontium and barium", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "PJ", 
+                    "surname": "Robinson"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "PR", 
+                    "surname": "Dunkley"
+                }
+            ]
+        }, 
+        "bib37": {
+            "source": "Nature", 
+            "doi": "10.1038/417555a", 
+            "year": "2002", 
+            "title": "Single and multiple vesicle fusion induce different rates of endocytosis at a central synapse", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "JY", 
+                    "surname": "Sun"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "XS", 
+                    "surname": "Wu"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "LG", 
+                    "surname": "Wu"
+                }
+            ]
+        }, 
+        "bib36": {
+            "source": "Biophys J", 
+            "doi": "10.1016/S0006-3495(00)76468-X", 
+            "year": "2000", 
+            "title": "The use of pHluorins for optical measurements of presynaptic activity", 
+            "authors": [
+                {
+                    "group-type": "author", 
+                    "given-names": "S", 
+                    "surname": "Sankaranarayanan"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "D", 
+                    "surname": "De Angelis"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "JE", 
+                    "surname": "Rothman"
+                }, 
+                {
+                    "group-type": "author", 
+                    "given-names": "TA", 
+                    "surname": "Ryan"
+                }
+            ]
+        }
+    }, 
+    "impact-statement": "The recycling of transmitter vesicles at synapses shows calcium-dependent regulation that depends on the phosphorylation status of an enzyme called dynamin.", 
+    "related-articles": [
+        {
+            "href": "10.7554/eLife.01234", 
+            "type": "commentary"
+        }
+    ], 
+    "elocation-id": "e00845", 
+    "publish": true, 
+    "article-version-id": "00845.1", 
+    "volume": 2, 
+    "keywords": {
+        "author-keywords": [
+            "endocytosis", 
+            "synaptic vesicle", 
+            "dynamin", 
+            "phosphorylation"
+        ], 
+        "research-organism": [
+            "Mouse", 
+            "Rat"
+        ]
+    }, 
+    "doi": "10.7554/eLife.00845", 
+    "version": 1, 
+    "referenced": {
+        "affiliation": {
+            "aff4": {
+                "dept": "Kavli Institute for Neuroscience", 
+                "city": "New Haven", 
+                "institution": "Howard Hughes Medical Institute, Yale University School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff3": {
+                "dept": "Department of Cell Biology, Program in Neurodegeneration and Repair", 
+                "city": "New Haven", 
+                "institution": "Yale University School of Medicine", 
+                "country": "United States"
+            }, 
+            "aff2": {
+                "dept": "The David Rockefeller Graduate Program", 
+                "city": "New York", 
+                "institution": "Rockefeller University", 
+                "country": "United States"
+            }, 
+            "aff1": {
+                "dept": "Department of Biochemistry", 
+                "city": "New York", 
+                "institution": "Weill Cornell Medical College", 
+                "country": "United States"
+            }
+        }, 
+        "contribution": {
+            "con1": "MA, Conception and design, Acquisition of data, Analysis and interpretation of data, Drafting or revising the article", 
+            "con2": "MM, Conception and design, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con3": "PDC, Conception and design, Drafting or revising the article, Contributed unpublished essential data or reagents", 
+            "con4": "SMF, Conception and design, Contributed unpublished essential data or reagents", 
+            "con5": "TAR, Conception and design, Analysis and interpretation of data, Drafting or revising the article"
+        }, 
+        "competing-interest": {
+            "conf1": "The authors declare that no competing interests exist."
+        }, 
+        "funding": {
+            "par-4": {
+                "award-id": "DA018343", 
+                "institution": "National Institutes of Health"
+            }, 
+            "par-3": {
+                "award-id": "NS036251", 
+                "institution": "National Institute for Neurological Disorders and Stroke"
+            }, 
+            "par-2": {
+                "institution": "Howard Hughes Medical Institute"
+            }, 
+            "par-1": {
+                "award-id": "NS036942", 
+                "institution": "National Institute for Neurological Disorders and Stroke"
+            }
+        }, 
+        "email": {
+            "cor1": "taryan@med.cornell.edu"
+        }
+    }, 
+    "path": "content/2/e00845v1", 
+    "fragments": [
+        {
+            "path": "content/2/e00845v1/abstract", 
+            "doi": "10.7554/eLife.00845.001", 
+            "type": "abstract"
+        }, 
+        {
+            "path": "content/2/e00845v1/abstract2", 
+            "doi": "10.7554/eLife.00845.002", 
+            "type": "abstract", 
+            "title": "eLife digest"
+        }, 
+        {
+            "path": "content/2/e00845v1/figure1", 
+            "doi": "10.7554/eLife.00845.003", 
+            "type": "fig", 
+            "title": "Figure 1."
+        }, 
+        {
+            "path": "content/2/e00845v1/figure2", 
+            "fragments": [
+                {
+                    "path": "content/2/e00845v1/figure2/figure-supp1", 
+                    "doi": "10.7554/eLife.00845.005", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 1."
+                }, 
+                {
+                    "path": "content/2/e00845v1/figure2/figure-supp2", 
+                    "doi": "10.7554/eLife.00845.006", 
+                    "type": "fig", 
+                    "title": "Figure 2\u2014figure supplement 2."
+                }
+            ], 
+            "doi": "10.7554/eLife.00845.004", 
+            "type": "fig", 
+            "title": "Figure 2."
+        }, 
+        {
+            "path": "content/2/e00845v1/figure3", 
+            "doi": "10.7554/eLife.00845.007", 
+            "type": "fig", 
+            "title": "Figure 3."
+        }, 
+        {
+            "path": "content/2/e00845v1/figure4", 
+            "fragments": [
+                {
+                    "path": "content/2/e00845v1/figure4/figure-supp1", 
+                    "doi": "10.7554/eLife.00845.009", 
+                    "type": "fig", 
+                    "title": "Figure 4\u2014figure supplement 1."
+                }
+            ], 
+            "doi": "10.7554/eLife.00845.008", 
+            "type": "fig", 
+            "title": "Figure 4."
+        }, 
+        {
+            "path": "content/2/e00845v1/decision", 
+            "doi": "10.7554/eLife.00845.010", 
+            "type": "sub-article", 
+            "contributors": [
+                {
+                    "surname": "Davis", 
+                    "given-names": "Graeme", 
+                    "role": "Reviewing editor", 
+                    "affiliations": [
+                        {
+                            "country": "United States", 
+                            "institution": "University of California, San Francisco"
+                        }
+                    ], 
+                    "type": "editor"
+                }
+            ], 
+            "title": "Decision letter"
+        }, 
+        {
+            "path": "content/2/e00845v1/response", 
+            "doi": "10.7554/eLife.00845.011", 
+            "type": "sub-article", 
+            "title": "Author response"
+        }
+    ], 
+    "article-id": "00845", 
+    "categories": {
+        "heading": [
+            "Cell biology", 
+            "Neuroscience"
+        ], 
+        "display-channel": [
+            "Research article"
+        ]
+    }
+}
