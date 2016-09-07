@@ -6,5 +6,7 @@ elifeProcess {
     sh './generate-json.sh'
 
     stage 'Commit and push'
-    sh './auto-commit.sh'
+    elifeGitAutoCommit "Regenerated dist/", "dist/"
+    def commit = elifeGitRevision()
+    elifeGitMoveToBranch commit, 'master'
 }
