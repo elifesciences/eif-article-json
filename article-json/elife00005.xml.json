@@ -1701,15 +1701,17 @@
         }, 
         {
             "path": "content/1/e00005v1/media2", 
+            "fragments": [
+                {
+                    "path": "content/1/e00005v1/media2/supp-material1", 
+                    "doi": "10.7554/eLife.00005.017", 
+                    "type": "supplementary-material", 
+                    "title": "Movie 2\u2014source code 1."
+                }
+            ], 
             "doi": "10.7554/eLife.00005.016", 
             "type": "media", 
             "title": "Movie 2."
-        }, 
-        {
-            "path": "content/1/e00005v1/supp-material1", 
-            "doi": "10.7554/eLife.00005.017", 
-            "type": "supplementary-material", 
-            "title": "Movie 2\u2014source code 1."
         }, 
         {
             "path": "content/1/e00005v1/figure12", 
@@ -1724,7 +1726,7 @@
             "title": "Figure 13."
         }, 
         {
-            "path": "content/1/e00005v1/supp-material2", 
+            "path": "content/1/e00005v1/supp-material1", 
             "doi": "10.7554/eLife.00005.020", 
             "type": "supplementary-material", 
             "title": "Supplementary file 1."
