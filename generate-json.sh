@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # installs the jat-scraper, the elife-article XML and runs the jats-scraper 
 # over the article XML into the article-json directory.
@@ -16,7 +17,7 @@ install_jats_scraper() {
     source venv/bin/activate
     
     # install deps
-    `which pip2` install -r requirements.txt > /dev/null
+    `which pip2` install -r requirements.txt
     pip install jmespath # not part of jats-scraper but needed for this script
     
     # retreat back to parent
