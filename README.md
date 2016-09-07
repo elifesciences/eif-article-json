@@ -3,9 +3,9 @@
 This repository contains the derived JSON data from the XML in the
 [elife-articles](https://github.com/elifesciences/elife-articles).
 
-This repository is _automatically updated_ whenever the description
+This repository is _automatically updated_ nightly with the latest description
 used by the [jats-scraper](https://github.com/elifesciences/jats-scraper)
-is changed or when new articles are added to the `elife-articles` 
+and with the new articles are added to the `elife-articles` 
 repository.
 
 ## usage
